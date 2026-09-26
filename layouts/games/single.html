@@ -22,8 +22,8 @@
           {{ .Params.category }} {{ .Params.gender }}
         </span>
         <span class="text-slate-600">·</span>
-        <span class="text-xs text-slate-300 font-medium">
-          📅 {{ .Date.Format "02 de Enero de 2006" }}
+        <span class="text-xs text-slate-300 font-medium capitalize">
+          📅 {{ .Date | time.Format ":date_long" }}
         </span>
         {{ with .Params.time }}
         <span class="text-xs text-slate-400 font-medium">🕒 {{ . }}</span>

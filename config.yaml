@@ -1,5 +1,6 @@
 baseURL: "https://example.com/"
-languageCode: "es"
+languageCode: "es-es"
+defaultContentLanguage: "es"
 title: "CB Colmenar Viejo - Club de Baloncesto"
 theme: "my-basketball-theme"
 
