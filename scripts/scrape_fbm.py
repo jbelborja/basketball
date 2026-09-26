@@ -224,7 +224,7 @@ def parse_fbm_data(html):
                                         "slug": t_slug,
                                         "category": category,
                                         "gender": gender,
-                                        "logo": "/images/teams/colmenar.jpg",
+                                        "logo": "/images/teams/cbcolmenar.png",
                                         "coach": "Entrenador CB Colmenar",
                                         "venue": "Pabellón Juan Antonio Samaranch",
                                         "established": 1985,
@@ -338,11 +338,11 @@ def parse_fbm_data(html):
                             "status": status,
                             "home": home,
                             "home_slug": home_slug,
-                            "home_logo": "/images/teams/colmenar.jpg" if "colmenar" in home.lower() else "/images/teams/rival.jpg",
+                            "home_logo": "/images/teams/cbcolmenar.png" if "colmenar" in home.lower() else "/images/teams/rival.jpg",
                             "home_score": home_score,
                             "away": away,
                             "away_slug": away_slug,
-                            "away_logo": "/images/teams/colmenar.jpg" if "colmenar" in away.lower() else "/images/teams/rival.jpg",
+                            "away_logo": "/images/teams/cbcolmenar.png" if "colmenar" in away.lower() else "/images/teams/rival.jpg",
                             "away_score": away_score,
                             "quarters": {"home": [18, 20, 19, 21], "away": [15, 18, 22, 19]} if status == "Finalizado" else None,
                             "venue": raw_venue,
@@ -364,7 +364,7 @@ def parse_fbm_data(html):
                                         "slug": c_slug,
                                         "category": category,
                                         "gender": gender,
-                                        "logo": "/images/teams/colmenar.jpg",
+                                        "logo": "/images/teams/cbcolmenar.png",
                                         "coach": "Entrenador CB Colmenar",
                                         "venue": "Pabellón Juan Antonio Samaranch",
                                         "established": 1985,
@@ -463,7 +463,7 @@ name: {json.dumps(team['name'])}
 slug: {json.dumps(team['slug'])}
 category: {json.dumps(team['category'])}
 gender: {json.dumps(team['gender'])}
-logo: {json.dumps(team.get('logo', '/images/teams/colmenar.jpg'))}
+logo: {json.dumps(team.get('logo', '/images/teams/cbcolmenar.png'))}
 coach: {json.dumps(team.get('coach', 'Entrenador CB Colmenar'))}
 venue: {json.dumps(team.get('venue', 'Pabellón Juan Antonio Samaranch'))}
 established: {team.get('established', 1985)}

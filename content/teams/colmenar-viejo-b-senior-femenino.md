@@ -4,7 +4,7 @@ name: "COLMENAR VIEJO B"
 slug: "colmenar-viejo-b-senior-femenino"
 category: "Senior"
 gender: "femenino"
-logo: "/images/teams/colmenar.jpg"
+logo: "images/teams/cbcolmenar.png"
 coach: "Entrenador CB Colmenar"
 venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1985

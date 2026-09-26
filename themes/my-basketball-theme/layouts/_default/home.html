@@ -54,7 +54,7 @@
           <div class="flex items-center justify-between gap-4 py-4">
             <!-- Home Team -->
             <div class="text-center flex-1">
-              <img src="{{ ($featuredGame.home_logo | default "/images/teams/colmenar.jpg") | relURL }}" alt="{{ $featuredGame.home }}" class="w-16 h-16 rounded-full object-cover mx-auto ring-2 ring-slate-700 mb-2 shadow"/>
+              <img src="{{ ($featuredGame.home_logo | default "images/teams/cbcolmenar.png") | relURL }}" alt="{{ $featuredGame.home }}" class="w-16 h-16 rounded-full object-cover mx-auto ring-2 ring-slate-700 mb-2 shadow"/>
               <p class="font-bold text-white text-xs line-clamp-2">{{ $featuredGame.home }}</p>
               <span class="text-[10px] text-slate-400">Local</span>
             </div>
@@ -67,7 +67,7 @@
 
             <!-- Away Team -->
             <div class="text-center flex-1">
-              <img src="{{ ($featuredGame.away_logo | default "/images/teams/rival.jpg") | relURL }}" alt="{{ $featuredGame.away }}" class="w-16 h-16 rounded-full object-cover mx-auto ring-2 ring-slate-700 mb-2 shadow"/>
+              <img src="{{ ($featuredGame.away_logo | default "images/teams/rival.jpg") | relURL }}" alt="{{ $featuredGame.away }}" class="w-16 h-16 rounded-full object-cover mx-auto ring-2 ring-slate-700 mb-2 shadow"/>
               <p class="font-bold text-white text-xs line-clamp-2">{{ $featuredGame.away }}</p>
               <span class="text-[10px] text-slate-400">Visitante</span>
             </div>
@@ -137,7 +137,7 @@
         <div class="flex items-center justify-between gap-4">
           <!-- Home -->
           <div class="flex items-center gap-3 flex-1">
-            <img src="{{ ($lastGame.home_logo | default "/images/teams/colmenar.jpg") | relURL }}" alt="{{ $lastGame.home }}" class="w-14 h-14 rounded-full object-cover ring-2 ring-orange-500 shadow"/>
+            <img src="{{ ($lastGame.home_logo | default "images/teams/cbcolmenar.png") | relURL }}" alt="{{ $lastGame.home }}" class="w-14 h-14 rounded-full object-cover ring-2 ring-orange-500 shadow"/>
             <div>
               <p class="font-sports text-lg sm:text-xl font-bold text-white leading-tight">{{ $lastGame.home }}</p>
               <span class="text-xs text-slate-400">Local</span>
@@ -161,7 +161,7 @@
               <p class="font-sports text-lg sm:text-xl font-bold text-white leading-tight">{{ $lastGame.away }}</p>
               <span class="text-xs text-slate-400">Visitante</span>
             </div>
-            <img src="{{ ($lastGame.away_logo | default "/images/teams/rival.jpg") | relURL }}" alt="{{ $lastGame.away }}" class="w-14 h-14 rounded-full object-cover ring-2 ring-slate-700 shadow"/>
+            <img src="{{ ($lastGame.away_logo | default "images/teams/rival.jpg") | relURL }}" alt="{{ $lastGame.away }}" class="w-14 h-14 rounded-full object-cover ring-2 ring-slate-700 shadow"/>
           </div>
         </div>
       </div>

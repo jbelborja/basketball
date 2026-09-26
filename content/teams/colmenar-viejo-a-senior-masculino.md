@@ -4,7 +4,7 @@ name: "COLMENAR VIEJO A"
 slug: "colmenar-viejo-a-senior-masculino"
 category: "Senior"
 gender: "masculino"
-logo: "/images/teams/colmenar.jpg"
+logo: "images/teams/cbcolmenar.png"
 coach: "Entrenador CB Colmenar"
 venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1985
