@@ -49,13 +49,23 @@
         
         <!-- Home Team (4 cols) -->
         <div class="md:col-span-4 flex flex-col items-center md:items-end text-center md:text-right group">
-          <a href="{{ (printf "teams/%s/" (.Params.team1_slug | default (.Params.team1 | urlize))) | relURL }}" class="flex flex-col items-center md:items-end">
+          {{ $team1_slug := .Params.team1_slug | default (.Params.team1 | urlize) }}
+          {{ $team1_page := .Site.GetPage (printf "teams/%s" $team1_slug) }}
+          {{ if $team1_page }}
+          <a href="{{ $team1_page.RelPermalink }}" class="flex flex-col items-center md:items-end">
+          {{ else }}
+          <div class="flex flex-col items-center md:items-end">
+          {{ end }}
             <div class="relative mb-3">
-              <img src="{{ (.Params.team1_logo | default "/images/teams/team1.jpg") | relURL }}" alt="{{ .Params.team1 }}" class="w-24 h-24 sm:w-28 sm:h-28 rounded-full object-cover ring-4 ring-slate-800 group-hover:ring-orange-500 transition-all duration-300 shadow-xl"/>
+              <img src="{{ (.Params.team1_logo | default "/images/teams/team1.jpg") | relURL }}" alt="{{ .Params.team1 }}" class="w-24 h-24 sm:w-28 sm:h-28 rounded-full object-cover ring-4 ring-slate-800 {{ if $team1_page }}group-hover:ring-orange-500{{ end }} transition-all duration-300 shadow-xl"/>
             </div>
-            <h2 class="font-sports text-2xl sm:text-3xl text-white font-bold group-hover:text-orange-400 transition">{{ .Params.team1 }}</h2>
+            <h2 class="font-sports text-2xl sm:text-3xl text-white font-bold {{ if $team1_page }}group-hover:text-orange-400{{ end }} transition">{{ .Params.team1 }}</h2>
             <span class="text-xs text-slate-400 uppercase font-bold tracking-wider mt-1">Equipo Local</span>
+          {{ if $team1_page }}
           </a>
+          {{ else }}
+          </div>
+          {{ end }}
         </div>
 
         <!-- Score / VS Display (3 cols) -->
@@ -81,13 +91,23 @@
 
         <!-- Away Team (4 cols) -->
         <div class="md:col-span-4 flex flex-col items-center md:items-start text-center md:text-left group">
-          <a href="{{ (printf "teams/%s/" (.Params.team2_slug | default (.Params.team2 | urlize))) | relURL }}" class="flex flex-col items-center md:items-start">
+          {{ $team2_slug := .Params.team2_slug | default (.Params.team2 | urlize) }}
+          {{ $team2_page := .Site.GetPage (printf "teams/%s" $team2_slug) }}
+          {{ if $team2_page }}
+          <a href="{{ $team2_page.RelPermalink }}" class="flex flex-col items-center md:items-start">
+          {{ else }}
+          <div class="flex flex-col items-center md:items-start">
+          {{ end }}
             <div class="relative mb-3">
-              <img src="{{ (.Params.team2_logo | default "/images/teams/team2.jpg") | relURL }}" alt="{{ .Params.team2 }}" class="w-24 h-24 sm:w-28 sm:h-28 rounded-full object-cover ring-4 ring-slate-800 group-hover:ring-orange-500 transition-all duration-300 shadow-xl"/>
+              <img src="{{ (.Params.team2_logo | default "/images/teams/team2.jpg") | relURL }}" alt="{{ .Params.team2 }}" class="w-24 h-24 sm:w-28 sm:h-28 rounded-full object-cover ring-4 ring-slate-800 {{ if $team2_page }}group-hover:ring-orange-500{{ end }} transition-all duration-300 shadow-xl"/>
             </div>
-            <h2 class="font-sports text-2xl sm:text-3xl text-white font-bold group-hover:text-orange-400 transition">{{ .Params.team2 }}</h2>
+            <h2 class="font-sports text-2xl sm:text-3xl text-white font-bold {{ if $team2_page }}group-hover:text-orange-400{{ end }} transition">{{ .Params.team2 }}</h2>
             <span class="text-xs text-slate-400 uppercase font-bold tracking-wider mt-1">Equipo Visitante</span>
+          {{ if $team2_page }}
           </a>
+          {{ else }}
+          </div>
+          {{ end }}
         </div>
 
       </div>
@@ -97,7 +117,7 @@
     <div class="relative z-10 bg-slate-950/80 px-6 py-3 border-t border-slate-800 flex flex-wrap items-center justify-between text-xs text-slate-400">
       <div class="flex items-center gap-2">
         <span class="text-orange-400 font-bold">📍 Pabellón:</span>
-        <span class="text-slate-200 font-medium">{{ .Params.venue }}</span>
+        <a href="{{ (printf "venues/%s/" .Params.venue_slug) | relURL }}" class="text-slate-200 font-medium hover:text-orange-400 hover:underline transition">{{ .Params.venue }}</a>
       </div>
       {{ with .Params.attendance }}
       <div class="flex items-center gap-2">

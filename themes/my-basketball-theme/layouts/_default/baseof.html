@@ -230,7 +230,7 @@
         if (selectedCat && selectedCat !== 'all') params.set('category', selectedCat);
         if (selectedGen && selectedGen !== 'all') params.set('gender', selectedGen);
 
-        const targetUrl = {{ "games/" | relURL | jsonify }} + (params.toString() ? ('?' + params.toString()) : '');
+        const targetUrl = "{{ "games/" | relURL }}" + (params.toString() ? ('?' + params.toString()) : '');
         document.querySelectorAll('.nav-calendar-link').forEach(a => {
           a.href = targetUrl;
         });

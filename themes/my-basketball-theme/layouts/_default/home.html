@@ -75,7 +75,7 @@
 
           <div class="bg-slate-950/60 rounded-xl p-3 mt-4 border border-slate-800/80 text-center">
             <p class="text-xs text-slate-300 font-medium flex items-center justify-center gap-1.5 truncate">
-              <span>📍</span> {{ $featuredGame.venue }}
+              <span>📍</span> <a href="{{ (printf "venues/%s/" $featuredGame.venue_slug) | relURL }}" class="hover:text-orange-400 transition">{{ $featuredGame.venue }}</a>
             </p>
           </div>
 
@@ -169,7 +169,7 @@
       <!-- Details Bar -->
       <div class="flex items-center justify-between bg-slate-800/50 rounded-xl p-4 border border-slate-700/60 text-xs">
         <div class="text-slate-300">
-          <span class="font-bold text-orange-400">📍 Pabellón:</span> {{ $lastGame.venue }}
+          <span class="font-bold text-orange-400">📍 Pabellón:</span> <a href="{{ (printf "venues/%s/" $lastGame.venue_slug) | relURL }}" class="hover:text-orange-400 hover:underline transition">{{ $lastGame.venue }}</a>
         </div>
         <a href="{{ (printf "games/%s/" $lastGame.slug) | relURL }}" class="font-bold text-orange-400 hover:text-orange-300 transition flex items-center gap-1">
           Ficha Completa <span>→</span>
@@ -363,9 +363,11 @@
           <span class="text-emerald-400 font-bold uppercase">Instalaciones</span>
           <time>Pabellón Principal</time>
         </div>
-        <h3 class="font-sports text-xl text-white font-bold hover:text-orange-400 transition cursor-pointer">
-          Pabellón Juan Antonio Samaranch
-        </h3>
+        <a href="{{ "venues/juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo/" | relURL }}">
+          <h3 class="font-sports text-xl text-white font-bold hover:text-orange-400 transition cursor-pointer">
+            Pabellón Juan Antonio Samaranch
+          </h3>
+        </a>
         <p class="text-sm text-slate-400 leading-relaxed">
           Sede oficial de nuestros partidos como local en Avda. Juan Pablo II, 13, Colmenar Viejo.
         </p>
