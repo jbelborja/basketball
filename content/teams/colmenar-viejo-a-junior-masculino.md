@@ -9,7 +9,7 @@ coach: "Entrenador CB Colmenar"
 venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1985
 record: "0V - 0D"
-league_position: 10
+league_position: 11
 weight: 6
 ---
 
