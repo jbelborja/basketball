@@ -1,0 +1,17 @@
+---
+title: "COLMENAR VIEJO"
+name: "COLMENAR VIEJO"
+slug: "colmenar-viejo-cadete-femenino"
+category: "Cadete"
+gender: "femenino"
+logo: "/images/teams/colmenar.jpg"
+coach: "Entrenador CB Colmenar"
+venue: "Pabell\u00f3n Juan Antonio Samaranch"
+established: 1985
+record: "0V - 0D"
+league_position: 1
+weight: 13
+---
+
+El **COLMENAR VIEJO** representa al CB Colmenar Viejo en la categoría Cadete (femenino).
+Entrenado por Entrenador CB Colmenar, disputa sus encuentros como local en Pabellón Juan Antonio Samaranch.

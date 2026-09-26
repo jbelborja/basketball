@@ -1,0 +1,225 @@
+{{ define "main" }}
+<div class="space-y-8 max-w-5xl mx-auto">
+
+  <!-- BREADCRUMB -->
+  <nav class="flex items-center gap-2 text-xs font-semibold text-slate-400">
+    <a href="/" class="hover:text-white transition">Inicio</a>
+    <span>/</span>
+    <a href="/games/" class="hover:text-white transition">Calendario</a>
+    <span>/</span>
+    <span class="text-orange-400">Detalle del Partido</span>
+  </nav>
+
+  <!-- MATCH HEADER / SCOREBOARD HERO -->
+  <div class="relative rounded-3xl overflow-hidden bg-gradient-to-b from-slate-900 to-slate-950 border border-slate-800 shadow-2xl">
+    <!-- Stadium Court Banner overlay -->
+    <div class="absolute inset-0 bg-[url('/images/games/game-banner.jpg')] bg-cover bg-center opacity-10 pointer-events-none"></div>
+
+    <!-- Match Metadata Bar -->
+    <div class="relative z-10 px-6 py-4 border-b border-slate-800 flex flex-wrap items-center justify-between gap-3 bg-slate-950/60">
+      <div class="flex items-center gap-2">
+        <span class="text-xs font-bold uppercase tracking-wider text-orange-400">
+          {{ .Params.category }} {{ .Params.gender }}
+        </span>
+        <span class="text-slate-600">·</span>
+        <span class="text-xs text-slate-300 font-medium">
+          📅 {{ .Date.Format "02 de Enero de 2006" }}
+        </span>
+        {{ with .Params.time }}
+        <span class="text-xs text-slate-400 font-medium">🕒 {{ . }}</span>
+        {{ end }}
+      </div>
+
+      <div>
+        {{ if eq .Params.status "Finalizado" }}
+        <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-bold bg-emerald-500/20 text-emerald-400 border border-emerald-500/30">
+          FINALIZADO
+        </span>
+        {{ else }}
+        <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-bold bg-blue-500/20 text-blue-400 border border-blue-500/30">
+          PRÓXIMO ENCUENTRO
+        </span>
+        {{ end }}
+      </div>
+    </div>
+
+    <!-- Teams and Big Score -->
+    <div class="relative z-10 p-6 sm:p-10">
+      <div class="grid grid-cols-1 md:grid-cols-11 gap-6 items-center">
+        
+        <!-- Home Team (4 cols) -->
+        <div class="md:col-span-4 flex flex-col items-center md:items-end text-center md:text-right group">
+          <a href="/teams/{{ .Params.team1_slug | default (.Params.team1 | urlize) }}/" class="flex flex-col items-center md:items-end">
+            <div class="relative mb-3">
+              <img src="{{ .Params.team1_logo | default "/images/teams/team1.jpg" }}" alt="{{ .Params.team1 }}" class="w-24 h-24 sm:w-28 sm:h-28 rounded-full object-cover ring-4 ring-slate-800 group-hover:ring-orange-500 transition-all duration-300 shadow-xl"/>
+            </div>
+            <h2 class="font-sports text-2xl sm:text-3xl text-white font-bold group-hover:text-orange-400 transition">{{ .Params.team1 }}</h2>
+            <span class="text-xs text-slate-400 uppercase font-bold tracking-wider mt-1">Equipo Local</span>
+          </a>
+        </div>
+
+        <!-- Score / VS Display (3 cols) -->
+        <div class="md:col-span-3 text-center py-4">
+          {{ if and .Params.team1_score .Params.team2_score }}
+          <div class="font-sports text-5xl sm:text-6xl font-bold text-white tracking-wider flex items-center justify-center gap-3">
+            <span class="{{ if gt .Params.team1_score .Params.team2_score }}text-orange-400{{ end }}">{{ .Params.team1_score }}</span>
+            <span class="text-slate-600 text-3xl font-normal">-</span>
+            <span class="{{ if gt .Params.team2_score .Params.team1_score }}text-orange-400{{ end }}">{{ .Params.team2_score }}</span>
+          </div>
+          <span class="inline-block mt-2 text-[11px] uppercase tracking-widest text-slate-400 font-bold bg-slate-900 px-3 py-1 rounded-full border border-slate-800">
+            Marcador Oficial
+          </span>
+          {{ else }}
+          <div class="font-sports text-5xl sm:text-6xl font-bold text-orange-400 tracking-wider">
+            VS
+          </div>
+          <span class="inline-block mt-2 text-xs uppercase tracking-wider text-slate-400 font-bold">
+            {{ with .Params.time }}Hora: {{ . }}{{ end }}
+          </span>
+          {{ end }}
+        </div>
+
+        <!-- Away Team (4 cols) -->
+        <div class="md:col-span-4 flex flex-col items-center md:items-start text-center md:text-left group">
+          <a href="/teams/{{ .Params.team2_slug | default (.Params.team2 | urlize) }}/" class="flex flex-col items-center md:items-start">
+            <div class="relative mb-3">
+              <img src="{{ .Params.team2_logo | default "/images/teams/team2.jpg" }}" alt="{{ .Params.team2 }}" class="w-24 h-24 sm:w-28 sm:h-28 rounded-full object-cover ring-4 ring-slate-800 group-hover:ring-orange-500 transition-all duration-300 shadow-xl"/>
+            </div>
+            <h2 class="font-sports text-2xl sm:text-3xl text-white font-bold group-hover:text-orange-400 transition">{{ .Params.team2 }}</h2>
+            <span class="text-xs text-slate-400 uppercase font-bold tracking-wider mt-1">Equipo Visitante</span>
+          </a>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Match Venue Footer Pill -->
+    <div class="relative z-10 bg-slate-950/80 px-6 py-3 border-t border-slate-800 flex flex-wrap items-center justify-between text-xs text-slate-400">
+      <div class="flex items-center gap-2">
+        <span class="text-orange-400 font-bold">📍 Pabellón:</span>
+        <span class="text-slate-200 font-medium">{{ .Params.venue }}</span>
+      </div>
+      {{ with .Params.attendance }}
+      <div class="flex items-center gap-2">
+        <span class="text-slate-500">Asistencia:</span>
+        <span class="text-slate-300 font-medium">{{ . }}</span>
+      </div>
+      {{ end }}
+    </div>
+
+  </div>
+
+  {{ if .Params.q1_home }}
+  <!-- QUARTER BY QUARTER BREAKDOWN -->
+  <div class="bg-slate-900 border border-slate-800 rounded-3xl p-6 sm:p-8 shadow-xl">
+    <div class="flex items-center justify-between border-b border-slate-800 pb-4 mb-6">
+      <h3 class="font-sports text-2xl text-white font-bold uppercase tracking-wider">Parciales por Cuarto</h3>
+      <span class="text-xs text-slate-400 font-medium">4 periodos de 10 min</span>
+    </div>
+
+    <div class="overflow-x-auto">
+      <table class="w-full text-center text-sm">
+        <thead>
+          <tr class="text-xs uppercase text-slate-400 border-b border-slate-800">
+            <th class="text-left py-3 font-semibold">Equipo</th>
+            <th class="py-3 font-semibold">1Q</th>
+            <th class="py-3 font-semibold">2Q</th>
+            <th class="py-3 font-semibold">3Q</th>
+            <th class="py-3 font-semibold">4Q</th>
+            <th class="py-3 font-bold text-white text-base">FINAL</th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-slate-800/80 font-medium">
+          <tr>
+            <td class="text-left py-4 font-bold text-white flex items-center gap-3">
+              <img src="{{ .Params.team1_logo }}" alt="{{ .Params.team1 }}" class="w-6 h-6 rounded-full object-cover"/>
+              {{ .Params.team1 }}
+            </td>
+            <td class="py-4 text-slate-300">{{ .Params.q1_home }}</td>
+            <td class="py-4 text-slate-300">{{ .Params.q2_home }}</td>
+            <td class="py-4 text-slate-300">{{ .Params.q3_home }}</td>
+            <td class="py-4 text-slate-300">{{ .Params.q4_home }}</td>
+            <td class="py-4 font-sports text-2xl font-bold text-orange-400">{{ .Params.team1_score }}</td>
+          </tr>
+          <tr>
+            <td class="text-left py-4 font-semibold text-slate-300 flex items-center gap-3">
+              <img src="{{ .Params.team2_logo }}" alt="{{ .Params.team2 }}" class="w-6 h-6 rounded-full object-cover"/>
+              {{ .Params.team2 }}
+            </td>
+            <td class="py-4 text-slate-400">{{ .Params.q1_away }}</td>
+            <td class="py-4 text-slate-400">{{ .Params.q2_away }}</td>
+            <td class="py-4 text-slate-400">{{ .Params.q3_away }}</td>
+            <td class="py-4 text-slate-400">{{ .Params.q4_away }}</td>
+            <td class="py-4 font-sports text-2xl font-bold text-slate-200">{{ .Params.team2_score }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  {{ end }}
+
+  {{ if .Params.mvp_name }}
+  <!-- MATCH LEADERS / DESTACADOS -->
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+    <!-- MVP Card -->
+    <div class="bg-gradient-to-br from-slate-900 to-slate-950 border border-amber-500/30 rounded-3xl p-6 shadow-xl relative overflow-hidden">
+      <div class="absolute top-0 right-0 w-24 h-24 bg-amber-500/10 rounded-full blur-xl pointer-events-none"></div>
+      <div class="flex items-center justify-between mb-4">
+        <span class="text-[11px] font-bold uppercase tracking-widest text-amber-400 bg-amber-500/10 px-2.5 py-1 rounded-full border border-amber-500/20">
+          ⭐ MVP DEL ENCUENTRO
+        </span>
+      </div>
+      <div class="flex items-center gap-4">
+        <img src="{{ .Params.mvp_photo }}" alt="{{ .Params.mvp_name }}" class="w-16 h-16 rounded-2xl object-cover ring-2 ring-amber-400 shadow-md"/>
+        <div>
+          <h4 class="font-sports text-xl text-white font-bold">{{ .Params.mvp_name }}</h4>
+          <p class="text-xs text-amber-400 font-bold mt-1">{{ .Params.mvp_stats }}</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Rebounds Leader -->
+    <div class="bg-slate-900 border border-slate-800 rounded-3xl p-6 shadow-xl">
+      <span class="text-[11px] font-bold uppercase tracking-widest text-slate-400">
+        LÍDER EN REBOTES
+      </span>
+      <div class="mt-3">
+        <p class="font-sports text-xl text-white font-bold">{{ .Params.leader_rebounds }}</p>
+        <p class="text-xs text-slate-400 mt-1">Dominio bajo los aros</p>
+      </div>
+    </div>
+
+    <!-- Assists Leader -->
+    <div class="bg-slate-900 border border-slate-800 rounded-3xl p-6 shadow-xl">
+      <span class="text-[11px] font-bold uppercase tracking-widest text-slate-400">
+        LÍDER EN ASISTENCIAS
+      </span>
+      <div class="mt-3">
+        <p class="font-sports text-xl text-white font-bold">{{ .Params.leader_assists }}</p>
+        <p class="text-xs text-slate-400 mt-1">Dirección y visión de juego</p>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+
+  <!-- MATCH RECAP (CRÓNICA) -->
+  <div class="bg-slate-900 border border-slate-800 rounded-3xl p-6 sm:p-10 shadow-xl space-y-6">
+    <div class="border-b border-slate-800 pb-4">
+      <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Resumen y Análisis</span>
+      <h3 class="font-sports text-3xl text-white font-bold uppercase tracking-tight">Crónica del Partido</h3>
+    </div>
+
+    <div class="prose prose-invert max-w-none text-slate-300 leading-relaxed space-y-4">
+      {{ .Content }}
+    </div>
+
+    {{ with .Params.referees }}
+    <div class="pt-6 border-t border-slate-800 flex items-center justify-between text-xs text-slate-400">
+      <span><strong>Árbitros:</strong> {{ . }}</span>
+      <a href="/games/" class="text-orange-400 hover:text-orange-300 font-semibold transition">← Volver al Calendario</a>
+    </div>
+    {{ end }}
+  </div>
+
+</div>
+{{ end }}

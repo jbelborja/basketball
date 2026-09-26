@@ -1,0 +1,378 @@
+{{ define "main" }}
+<div class="space-y-12">
+
+  <!-- HERO SECTION -->
+  <section class="relative rounded-3xl overflow-hidden bg-gradient-to-br from-slate-950 via-slate-900 to-blue-950 border border-slate-800 shadow-2xl p-6 sm:p-10 lg:p-14">
+    <!-- Background overlay graphics -->
+    <div class="absolute inset-0 bg-[radial-gradient(circle_at_30%_30%,rgba(249,115,22,0.15),transparent_60%)] pointer-events-none"></div>
+
+    <div class="relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
+      
+      <!-- Left Hero Text -->
+      <div class="lg:col-span-7 space-y-6">
+        <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-orange-500/10 border border-orange-500/30 text-orange-400 text-xs font-bold uppercase tracking-widest">
+          <span class="w-2 h-2 rounded-full bg-orange-500 animate-pulse"></span>
+          CB Colmenar Viejo · Temporada Oficial
+        </div>
+        
+        <h1 class="font-sports text-4xl sm:text-6xl lg:text-7xl font-bold uppercase tracking-tight text-white leading-none">
+          Pasión, Garra <br/><span class="text-transparent bg-clip-text bg-gradient-to-r from-orange-400 via-amber-400 to-yellow-400">y Victoria</span>
+        </h1>
+        
+        <p class="text-slate-300 text-base sm:text-lg max-w-xl font-normal leading-relaxed">
+          Bienvenido al portal oficial del CB Colmenar Viejo. Sigue a nuestros equipos senior y cantera, consulta las actas de cada partido, clasificaciones federadas y la actualidad de nuestro club.
+        </p>
+
+        <div class="flex flex-wrap gap-4 pt-2">
+          <a href="/games/" class="inline-flex items-center gap-2 bg-gradient-to-r from-orange-500 to-amber-500 hover:from-orange-600 hover:to-amber-600 text-white font-bold text-sm uppercase tracking-wider px-6 py-3.5 rounded-xl shadow-lg shadow-orange-500/30 transition transform hover:-translate-y-0.5">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
+            Ver Calendario
+          </a>
+          <a href="/classification/" class="inline-flex items-center gap-2 bg-slate-800/80 hover:bg-slate-700 text-slate-200 hover:text-white font-bold text-sm uppercase tracking-wider px-6 py-3.5 rounded-xl border border-slate-700 transition">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path></svg>
+            Clasificación
+          </a>
+        </div>
+      </div>
+
+      <!-- Right Featured Match Card (Dynamic) -->
+      <div class="lg:col-span-5">
+        {{ $upcomingGames := where .Site.Data.games "status" "Próximo" }}
+        {{ $featuredGame := index $upcomingGames 0 }}
+        {{ if not $featuredGame }}
+          {{ $featuredGame = index .Site.Data.games 0 }}
+        {{ end }}
+        {{ if $featuredGame }}
+        <div class="bg-slate-900/90 backdrop-blur-md rounded-2xl border border-slate-700/60 p-6 shadow-xl relative overflow-hidden">
+          <div class="flex items-center justify-between border-b border-slate-800 pb-3 mb-4">
+            <span class="text-xs font-bold text-orange-400 uppercase tracking-wider flex items-center gap-1.5">
+              <span class="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span> Próximo Encuentro
+            </span>
+            <span class="text-xs text-slate-400 font-medium">{{ $featuredGame.category }} {{ $featuredGame.gender }}</span>
+          </div>
+
+          <div class="flex items-center justify-between gap-4 py-4">
+            <!-- Home Team -->
+            <div class="text-center flex-1">
+              <img src="{{ $featuredGame.home_logo | default "/images/teams/colmenar.jpg" }}" alt="{{ $featuredGame.home }}" class="w-16 h-16 rounded-full object-cover mx-auto ring-2 ring-slate-700 mb-2 shadow"/>
+              <p class="font-bold text-white text-xs line-clamp-2">{{ $featuredGame.home }}</p>
+              <span class="text-[10px] text-slate-400">Local</span>
+            </div>
+
+            <!-- VS Badge -->
+            <div class="text-center px-2">
+              <span class="font-sports text-2xl font-bold text-orange-400 bg-orange-500/10 px-3 py-1 rounded-xl border border-orange-500/20">VS</span>
+              <p class="text-[10px] text-slate-400 font-semibold mt-2">{{ $featuredGame.date }} · {{ $featuredGame.time }}</p>
+            </div>
+
+            <!-- Away Team -->
+            <div class="text-center flex-1">
+              <img src="{{ $featuredGame.away_logo | default "/images/teams/rival.jpg" }}" alt="{{ $featuredGame.away }}" class="w-16 h-16 rounded-full object-cover mx-auto ring-2 ring-slate-700 mb-2 shadow"/>
+              <p class="font-bold text-white text-xs line-clamp-2">{{ $featuredGame.away }}</p>
+              <span class="text-[10px] text-slate-400">Visitante</span>
+            </div>
+          </div>
+
+          <div class="bg-slate-950/60 rounded-xl p-3 mt-4 border border-slate-800/80 text-center">
+            <p class="text-xs text-slate-300 font-medium flex items-center justify-center gap-1.5 truncate">
+              <span>📍</span> {{ $featuredGame.venue }}
+            </p>
+          </div>
+
+          <div class="mt-4">
+            <a href="/games/{{ $featuredGame.slug }}/" class="block text-center w-full bg-slate-800 hover:bg-slate-700 text-white font-bold text-xs uppercase tracking-wider py-2.5 rounded-xl transition">
+              Ficha del Partido →
+            </a>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+
+    </div>
+  </section>
+
+  <!-- QUICK STATS COUNTERS -->
+  <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+    <div class="bg-slate-900 border border-slate-800 rounded-2xl p-5 text-center hover:border-slate-700 transition">
+      <div class="text-3xl sm:text-4xl font-sports font-bold text-orange-400">{{ len .Site.Data.teams }}</div>
+      <div class="text-xs uppercase tracking-wider font-semibold text-slate-400 mt-1">Equipos Federados</div>
+    </div>
+    <div class="bg-slate-900 border border-slate-800 rounded-2xl p-5 text-center hover:border-slate-700 transition">
+      <div class="text-3xl sm:text-4xl font-sports font-bold text-blue-400">{{ len .Site.Data.players }}</div>
+      <div class="text-xs uppercase tracking-wider font-semibold text-slate-400 mt-1">Jugadores Cantera</div>
+    </div>
+    <div class="bg-slate-900 border border-slate-800 rounded-2xl p-5 text-center hover:border-slate-700 transition">
+      <div class="text-3xl sm:text-4xl font-sports font-bold text-emerald-400">{{ len .Site.Data.games }}</div>
+      <div class="text-xs uppercase tracking-wider font-semibold text-slate-400 mt-1">Partidos Programados</div>
+    </div>
+    <div class="bg-slate-900 border border-slate-800 rounded-2xl p-5 text-center hover:border-slate-700 transition">
+      <div class="text-3xl sm:text-4xl font-sports font-bold text-amber-400">{{ len .Site.Data.classification }}</div>
+      <div class="text-xs uppercase tracking-wider font-semibold text-slate-400 mt-1">Rivales en Tabla</div>
+    </div>
+  </div>
+
+  <!-- LATEST RESULT HIGHLIGHT & RECENT GAMES -->
+  <section class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+    
+    <!-- Left: Scoreboard of Last Game or Highlighted Game (7 cols) -->
+    <div class="lg:col-span-7 bg-slate-900 border border-slate-800 rounded-3xl p-6 sm:p-8 shadow-xl">
+      {{ $finishedGames := where .Site.Data.games "status" "Finalizado" }}
+      {{ $lastGame := index $finishedGames 0 }}
+      {{ if not $lastGame }}
+        {{ $lastGame = index .Site.Data.games 0 }}
+      {{ end }}
+
+      <div class="flex items-center justify-between border-b border-slate-800 pb-4 mb-6">
+        <div>
+          <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Competición FBM</span>
+          <h2 class="font-sports text-2xl text-white font-bold">{{ $lastGame.category }} {{ $lastGame.gender }}</h2>
+        </div>
+        <span class="inline-flex items-center px-2.5 py-1 rounded-full text-xs font-bold {{ if eq $lastGame.status "Finalizado" }}bg-emerald-500/20 text-emerald-400 border border-emerald-500/30{{ else }}bg-blue-500/20 text-blue-400 border border-blue-500/30{{ end }}">
+          {{ $lastGame.status }}
+        </span>
+      </div>
+
+      <!-- Scoreboard Display -->
+      <div class="bg-slate-950/70 rounded-2xl p-6 border border-slate-800/80 mb-6">
+        <div class="flex items-center justify-between gap-4">
+          <!-- Home -->
+          <div class="flex items-center gap-3 flex-1">
+            <img src="{{ $lastGame.home_logo | default "/images/teams/colmenar.jpg" }}" alt="{{ $lastGame.home }}" class="w-14 h-14 rounded-full object-cover ring-2 ring-orange-500 shadow"/>
+            <div>
+              <p class="font-sports text-lg sm:text-xl font-bold text-white leading-tight">{{ $lastGame.home }}</p>
+              <span class="text-xs text-slate-400">Local</span>
+            </div>
+          </div>
+          <!-- Score -->
+          <div class="text-center px-4">
+            {{ if and $lastGame.home_score $lastGame.away_score }}
+            <div class="font-sports text-3xl sm:text-4xl font-bold text-white tracking-wider">
+              {{ $lastGame.home_score }} <span class="text-slate-600">-</span> {{ $lastGame.away_score }}
+            </div>
+            <span class="text-[10px] uppercase font-bold tracking-wider text-slate-400">Puntaje Final</span>
+            {{ else }}
+            <div class="font-sports text-3xl font-bold text-orange-400">VS</div>
+            <span class="text-[10px] uppercase font-bold tracking-wider text-slate-400">{{ $lastGame.date }}</span>
+            {{ end }}
+          </div>
+          <!-- Away -->
+          <div class="flex items-center justify-end gap-3 flex-1 text-right">
+            <div>
+              <p class="font-sports text-lg sm:text-xl font-bold text-white leading-tight">{{ $lastGame.away }}</p>
+              <span class="text-xs text-slate-400">Visitante</span>
+            </div>
+            <img src="{{ $lastGame.away_logo | default "/images/teams/rival.jpg" }}" alt="{{ $lastGame.away }}" class="w-14 h-14 rounded-full object-cover ring-2 ring-slate-700 shadow"/>
+          </div>
+        </div>
+      </div>
+
+      <!-- Details Bar -->
+      <div class="flex items-center justify-between bg-slate-800/50 rounded-xl p-4 border border-slate-700/60 text-xs">
+        <div class="text-slate-300">
+          <span class="font-bold text-orange-400">📍 Pabellón:</span> {{ $lastGame.venue }}
+        </div>
+        <a href="/games/{{ $lastGame.slug }}/" class="font-bold text-orange-400 hover:text-orange-300 transition flex items-center gap-1">
+          Ficha Completa <span>→</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Right: Mini League Standings (5 cols) -->
+    <div class="lg:col-span-5 bg-slate-900 border border-slate-800 rounded-3xl p-6 sm:p-8 shadow-xl">
+      <div class="flex items-center justify-between border-b border-slate-800 pb-4 mb-6">
+        <div>
+          <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Federación Baloncesto Madrid</span>
+          <h2 class="font-sports text-2xl text-white font-bold">Clasificación</h2>
+        </div>
+        <a href="/classification/" class="text-xs font-bold text-slate-400 hover:text-white transition">
+          Ver Todo →
+        </a>
+      </div>
+
+      <div class="space-y-3">
+        {{ range first 5 .Site.Data.classification }}
+        <div class="flex items-center justify-between p-3 rounded-xl bg-slate-950/50 border border-slate-800 hover:border-slate-700 transition">
+          <div class="flex items-center gap-3">
+            <span class="w-6 h-6 rounded-full flex items-center justify-center text-xs font-sports font-bold 
+              {{ if eq .position 1 }}bg-amber-400/20 text-amber-400 border border-amber-400/30
+              {{ else if eq .position 2 }}bg-slate-400/20 text-slate-300 border border-slate-400/30
+              {{ else if eq .position 3 }}bg-amber-700/20 text-amber-600 border border-amber-700/30
+              {{ else }}text-slate-500{{ end }}">
+              {{ .position }}
+            </span>
+            <img src="{{ .logo }}" alt="{{ .team }}" class="w-8 h-8 rounded-full object-cover"/>
+            <div>
+              <a href="/classification/" class="text-xs font-bold text-white hover:text-orange-400 transition block truncate max-w-[140px]">{{ .team }}</a>
+              <p class="text-[10px] text-slate-400">{{ .category }} · {{ .v }}V - {{ .d }}D</p>
+            </div>
+          </div>
+          <div class="text-right">
+            <span class="font-sports text-base font-bold text-white">{{ .points }}</span>
+            <p class="text-[9px] text-slate-500 uppercase">PTS</p>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+
+      <div class="mt-6 pt-4 border-t border-slate-800 text-center">
+        <a href="/classification/" class="inline-flex items-center gap-2 text-xs font-bold text-orange-400 hover:text-orange-300 transition uppercase tracking-wider">
+          Consultar todas las categorías <span>→</span>
+        </a>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- TEAMS SHOWCASE -->
+  <section class="space-y-6">
+    <div class="flex flex-col sm:flex-row sm:items-end justify-between gap-2 border-b border-slate-800 pb-4">
+      <div>
+        <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Nuestras Secciones</span>
+        <h2 class="font-sports text-3xl sm:text-4xl text-white font-bold uppercase tracking-tight">Equipos del Club</h2>
+      </div>
+      <a href="/teams/" class="text-sm font-bold text-slate-400 hover:text-orange-400 transition">
+        Ver todos los equipos →
+      </a>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      {{ range first 6 .Site.Data.teams }}
+      <div class="group bg-slate-900 border border-slate-800 rounded-3xl overflow-hidden hover:border-slate-700 transition-all duration-300 shadow-lg hover:shadow-orange-500/5 hover:-translate-y-1">
+        <div class="relative bg-gradient-to-br from-slate-950 via-slate-900 to-slate-800 p-6 flex justify-center items-center overflow-hidden border-b border-slate-800/80">
+          <div class="absolute inset-0 bg-orange-500/5 group-hover:bg-orange-500/10 transition"></div>
+          <img src="{{ .logo }}" alt="{{ .name }}" class="h-24 w-24 rounded-full object-cover ring-4 ring-slate-800 group-hover:scale-110 group-hover:ring-orange-500/50 transition-all duration-300 shadow-xl"/>
+          <span class="absolute top-3 right-3 text-[10px] font-bold uppercase tracking-wider px-2.5 py-1 rounded-full bg-slate-800 text-orange-400 border border-slate-700">
+            {{ .category }}
+          </span>
+        </div>
+
+        <div class="p-6 space-y-4">
+          <div>
+            <h3 class="font-sports text-2xl text-white font-bold group-hover:text-orange-400 transition">{{ .name }}</h3>
+            <p class="text-xs text-slate-400 mt-1 capitalize">{{ .category }} · {{ .gender }}</p>
+          </div>
+
+          <div class="grid grid-cols-2 gap-2 text-center bg-slate-950/60 p-3 rounded-xl border border-slate-800/80">
+            <div>
+              <p class="text-[10px] text-slate-500 uppercase">Pabellón</p>
+              <p class="text-xs font-semibold text-slate-300 truncate">Samaranch</p>
+            </div>
+            <div>
+              <p class="text-[10px] text-slate-500 uppercase">Entrenador</p>
+              <p class="text-xs font-semibold text-slate-300 truncate">{{ .coach }}</p>
+            </div>
+          </div>
+
+          <a href="/teams/{{ .slug }}/" class="block text-center w-full bg-slate-800/80 hover:bg-orange-500 text-slate-200 hover:text-white font-bold text-xs uppercase tracking-wider py-2.5 rounded-xl transition duration-200">
+            Ver Ficha del Equipo
+          </a>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </section>
+
+  {{ if .Site.Data.players }}
+  <!-- FEATURED PLAYERS -->
+  <section class="space-y-6">
+    <div class="flex flex-col sm:flex-row sm:items-end justify-between gap-2 border-b border-slate-800 pb-4">
+      <div>
+        <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Cantera & Formación</span>
+        <h2 class="font-sports text-3xl sm:text-4xl text-white font-bold uppercase tracking-tight">Jugadores Destacados</h2>
+      </div>
+      <a href="/players/" class="text-sm font-bold text-slate-400 hover:text-orange-400 transition">
+        Ver plantilla completa →
+      </a>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+      {{ range first 4 .Site.Data.players }}
+      <div class="group bg-slate-900 border border-slate-800 rounded-3xl overflow-hidden hover:border-slate-700 transition-all duration-300 shadow-lg hover:-translate-y-1">
+        <!-- Player Photo Container -->
+        <div class="relative h-60 bg-slate-950 overflow-hidden">
+          <img src="{{ .photo }}" alt="{{ .name }}" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500"/>
+          <div class="absolute inset-0 bg-gradient-to-t from-slate-900 via-transparent to-transparent"></div>
+          
+          <!-- Jersey Number Floating Badge -->
+          <div class="absolute top-4 right-4 bg-orange-500 text-white font-sports text-xl font-bold w-10 h-10 rounded-xl flex items-center justify-center shadow-lg shadow-orange-500/40">
+            #{{ .number }}
+          </div>
+
+          <!-- Position Tag -->
+          <div class="absolute bottom-3 left-4">
+            <span class="px-2.5 py-1 rounded-lg text-[10px] font-bold bg-slate-900/90 text-slate-200 border border-slate-700 uppercase tracking-wider">
+              {{ .position }}
+            </span>
+          </div>
+        </div>
+
+        <div class="p-5 space-y-4">
+          <div>
+            <h3 class="font-sports text-xl text-white font-bold group-hover:text-orange-400 transition truncate">{{ .name }}</h3>
+            <p class="text-xs text-slate-400 truncate">{{ .team }}</p>
+          </div>
+
+          <a href="/players/{{ .slug }}/" class="block text-center w-full bg-slate-800 hover:bg-slate-700 text-white font-bold text-xs uppercase tracking-wider py-2 rounded-xl transition">
+            Ver Ficha
+          </a>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  <!-- CLUB ANNOUNCEMENTS -->
+  <section class="space-y-6">
+    <div class="border-b border-slate-800 pb-4">
+      <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Actualidad</span>
+      <h2 class="font-sports text-3xl sm:text-4xl text-white font-bold uppercase tracking-tight">Noticias e Información Oficial</h2>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <article class="bg-slate-900 border border-slate-800 rounded-3xl p-6 space-y-4 hover:border-slate-700 transition">
+        <div class="flex items-center justify-between text-xs text-slate-400">
+          <span class="text-orange-400 font-bold uppercase">Sincronización FBM</span>
+          <time>Semanal</time>
+        </div>
+        <h3 class="font-sports text-xl text-white font-bold hover:text-orange-400 transition cursor-pointer">
+          Calendario y Clasificaciones Oficiales FBM
+        </h3>
+        <p class="text-sm text-slate-400 leading-relaxed">
+          Resultados y actas actualizadas directamente desde la Federación de Baloncesto de Madrid para todas nuestras categorías.
+        </p>
+        <a href="/games/" class="inline-block text-xs font-bold text-orange-400 hover:text-orange-300">Consultar partidos →</a>
+      </article>
+
+      <article class="bg-slate-900 border border-slate-800 rounded-3xl p-6 space-y-4 hover:border-slate-700 transition">
+        <div class="flex items-center justify-between text-xs text-slate-400">
+          <span class="text-blue-400 font-bold uppercase">Cantera</span>
+          <time>Temporada 2026/27</time>
+        </div>
+        <h3 class="font-sports text-xl text-white font-bold hover:text-orange-400 transition cursor-pointer">
+          Equipos y Cantera del CB Colmenar Viejo
+        </h3>
+        <p class="text-sm text-slate-400 leading-relaxed">
+          Información completa de los 15 equipos federados del club, desde categorías de formación hasta Senior.
+        </p>
+        <a href="/teams/" class="inline-block text-xs font-bold text-orange-400 hover:text-orange-300">Ver equipos →</a>
+      </article>
+
+      <article class="bg-slate-900 border border-slate-800 rounded-3xl p-6 space-y-4 hover:border-slate-700 transition">
+        <div class="flex items-center justify-between text-xs text-slate-400">
+          <span class="text-emerald-400 font-bold uppercase">Instalaciones</span>
+          <time>Pabellón Principal</time>
+        </div>
+        <h3 class="font-sports text-xl text-white font-bold hover:text-orange-400 transition cursor-pointer">
+          Pabellón Juan Antonio Samaranch
+        </h3>
+        <p class="text-sm text-slate-400 leading-relaxed">
+          Sede oficial de nuestros partidos como local en Avda. Juan Pablo II, 13, Colmenar Viejo.
+        </p>
+        <span class="inline-block text-xs font-bold text-slate-400">Acceso libre</span>
+      </article>
+    </div>
+  </section>
+
+</div>
+{{ end }}

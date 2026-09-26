@@ -1,0 +1,70 @@
+{{ define "main" }}
+<div class="space-y-8">
+
+  <!-- HEADER -->
+  <div class="flex flex-col md:flex-row md:items-end justify-between gap-4 border-b border-slate-800 pb-6">
+    <div>
+      <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Cantera y Primer Equipo</span>
+      <h1 class="font-sports text-3xl sm:text-5xl text-white font-bold uppercase tracking-tight">Nuestros Equipos</h1>
+      <p class="text-slate-400 text-sm mt-1">Conoce todas las secciones que defienden los colores del club en las competiciones federadas.</p>
+    </div>
+  </div>
+
+  <!-- TEAMS GRID -->
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+    {{ range sort .Site.Data.teams "weight" }}
+    <div class="group bg-slate-900 border border-slate-800 rounded-3xl overflow-hidden hover:border-slate-700 transition-all duration-300 shadow-xl flex flex-col justify-between hover:-translate-y-1" data-category="{{ .category }}" data-gender="{{ .gender }}">
+      
+      <div>
+        <!-- Crest Header -->
+        <div class="relative bg-gradient-to-br from-slate-950 via-slate-900 to-slate-800 p-8 flex justify-center items-center border-b border-slate-800/80">
+          <div class="absolute inset-0 bg-orange-500/5 group-hover:bg-orange-500/10 transition"></div>
+          <img src="{{ .logo }}" alt="{{ .name }}" class="w-32 h-32 rounded-full object-cover ring-4 ring-slate-800 group-hover:scale-105 group-hover:ring-orange-500/50 transition-all duration-300 shadow-2xl"/>
+          
+          <span class="absolute top-4 right-4 text-xs font-bold uppercase tracking-wider px-3 py-1 rounded-full bg-slate-950 text-orange-400 border border-slate-800 shadow">
+            {{ .category }}
+          </span>
+        </div>
+
+        <!-- Team Info Body -->
+        <div class="p-6 space-y-5">
+          <div>
+            <h2 class="font-sports text-3xl text-white font-bold group-hover:text-orange-400 transition">{{ .name }}</h2>
+            <p class="text-xs text-slate-400 font-semibold uppercase tracking-wider mt-1">{{ .category }} · {{ .gender }}</p>
+          </div>
+
+          <p class="text-sm text-slate-400 leading-relaxed">
+            {{ .description }}
+          </p>
+
+          <!-- Key Metrics -->
+          <div class="space-y-3 bg-slate-950/70 p-4 rounded-2xl border border-slate-800/80">
+            <div class="flex items-center justify-between text-xs">
+              <span class="text-slate-400">Entrenador:</span>
+              <span class="font-bold text-slate-200">{{ .coach }}</span>
+            </div>
+            <div class="flex items-center justify-between text-xs">
+              <span class="text-slate-400">Pabellón:</span>
+              <span class="font-semibold text-slate-300">{{ .venue }}</span>
+            </div>
+            <div class="flex items-center justify-between text-xs">
+              <span class="text-slate-400">Balance:</span>
+              <span class="font-sports text-base font-bold text-emerald-400">{{ .wins }} Victorias - {{ .losses }} Derrotas</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Action Button -->
+      <div class="p-6 pt-0">
+        <a href="/teams/{{ .slug }}/" class="block text-center w-full bg-slate-800 hover:bg-orange-500 text-slate-200 hover:text-white font-bold text-xs uppercase tracking-wider py-3 rounded-xl transition duration-200 shadow">
+          Ver Ficha y Plantilla Completa →
+        </a>
+      </div>
+
+    </div>
+    {{ end }}
+  </div>
+
+</div>
+{{ end }}

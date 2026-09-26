@@ -1,0 +1,83 @@
+{{ define "main" }}
+<div class="space-y-8">
+
+  <!-- HEADER -->
+  <div class="flex flex-col md:flex-row md:items-end justify-between gap-4 border-b border-slate-800 pb-6">
+    <div>
+      <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Guía de Canchas y Ubicaciones</span>
+      <h1 class="font-sports text-3xl sm:text-5xl text-white font-bold uppercase tracking-tight">Instalaciones & Pabellones</h1>
+      <p class="text-slate-400 text-sm mt-1">Ubicaciones oficiales con mapa de Google Maps para todos los partidos del CB Colmenar Viejo.</p>
+    </div>
+
+    <!-- SEARCH BAR -->
+    <div class="w-full md:w-72">
+      <input type="text" id="search-venue" placeholder="Buscar pabellón o municipio..." class="w-full bg-slate-900 border border-slate-800 focus:border-orange-500 rounded-2xl px-4 py-2.5 text-xs text-white placeholder-slate-500 outline-none transition duration-200"/>
+    </div>
+  </div>
+
+  <!-- VENUES GRID -->
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="venues-grid">
+    {{ range .Site.Data.venues }}
+    <div class="venue-card bg-slate-900 border border-slate-800 hover:border-slate-700 rounded-3xl p-6 transition-all duration-300 shadow-xl flex flex-col justify-between group hover:-translate-y-1" data-venue-text="{{ .title }} {{ .address }}">
+      
+      <div class="space-y-4">
+        <!-- Card Header -->
+        <div class="flex items-start justify-between gap-2 border-b border-slate-800/80 pb-3">
+          <h2 class="font-sports text-xl text-white font-bold group-hover:text-orange-400 transition leading-snug">
+            {{ .title }}
+          </h2>
+          <span class="px-2.5 py-1 rounded-full bg-slate-950 border border-slate-800 text-[11px] font-bold text-orange-400 flex-shrink-0">
+            {{ .matches_count }} Partido(s)
+          </span>
+        </div>
+
+        <!-- Address -->
+        <div class="text-xs text-slate-400 leading-relaxed flex items-start gap-1.5">
+          <span class="text-orange-400 font-bold flex-shrink-0 mt-0.5">📍</span>
+          <span>{{ .address }}</span>
+        </div>
+
+        <!-- Mini Google Map Preview Container -->
+        <div class="w-full h-40 rounded-2xl overflow-hidden border border-slate-800/80 bg-slate-950 relative">
+          <iframe src="{{ .maps_embed }}" width="100%" height="100%" style="border:0;" loading="lazy" class="pointer-events-none opacity-80 group-hover:opacity-100 transition duration-300" title="{{ .title }}"></iframe>
+          <div class="absolute inset-0 bg-gradient-to-t from-slate-950/80 via-transparent to-transparent"></div>
+        </div>
+      </div>
+
+      <!-- Action Buttons -->
+      <div class="pt-5 flex items-center gap-2">
+        <a href="/venues/{{ .slug }}/" class="flex-1 text-center bg-slate-800 hover:bg-orange-500 text-slate-200 hover:text-white font-bold text-xs uppercase tracking-wider py-2.5 rounded-xl transition duration-200 shadow">
+          Ver Pabellón & Mapa →
+        </a>
+        <a href="{{ .maps_direct }}" target="_blank" rel="noopener noreferrer" class="bg-slate-950 hover:bg-slate-800 border border-slate-800 text-orange-400 hover:text-orange-300 font-bold text-xs p-2.5 rounded-xl transition" title="Abrir directo en Google Maps">
+          📍
+        </a>
+      </div>
+
+    </div>
+    {{ end }}
+  </div>
+
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const searchInput = document.getElementById('search-venue');
+    const venueCards = document.querySelectorAll('.venue-card');
+
+    if (searchInput && venueCards.length) {
+      searchInput.addEventListener('input', () => {
+        const query = searchInput.value.toLowerCase().trim();
+        venueCards.forEach(card => {
+          const text = (card.getAttribute('data-venue-text') || '').toLowerCase();
+          if (!query || text.includes(query)) {
+            card.style.display = '';
+          } else {
+            card.style.display = 'none';
+          }
+        });
+      });
+    }
+  });
+</script>
+{{ end }}

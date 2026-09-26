@@ -1,0 +1,160 @@
+{{ define "main" }}
+<div class="space-y-10 max-w-5xl mx-auto">
+
+  <!-- BREADCRUMB -->
+  <nav class="flex items-center gap-2 text-xs font-semibold text-slate-400">
+    <a href="/" class="hover:text-white transition">Inicio</a>
+    <span>/</span>
+    <a href="/players/" class="hover:text-white transition">Jugadores</a>
+    <span>/</span>
+    <span class="text-orange-400">{{ .Title }}</span>
+  </nav>
+
+  <!-- PLAYER HERO CARD -->
+  <div class="relative rounded-3xl overflow-hidden bg-gradient-to-br from-slate-950 via-slate-900 to-slate-800 border border-slate-800 shadow-2xl">
+    <div class="absolute inset-0 bg-[radial-gradient(circle_at_80%_20%,rgba(249,115,22,0.1),transparent_50%)] pointer-events-none"></div>
+
+    <div class="relative z-10 grid grid-cols-1 md:grid-cols-12 gap-8 items-center p-6 sm:p-10">
+      
+      <!-- Player Photo (5 cols) -->
+      <div class="md:col-span-5 relative flex justify-center">
+        <div class="relative w-64 h-80 sm:w-72 sm:h-96 rounded-3xl overflow-hidden shadow-2xl ring-4 ring-slate-800">
+          <img src="{{ .Params.photo | default "/images/players/player1.jpg" }}" alt="{{ .Title }}" class="w-full h-full object-cover object-top"/>
+          <div class="absolute inset-0 bg-gradient-to-t from-slate-950/80 via-transparent to-transparent"></div>
+          
+          <!-- Jersey Number Pill -->
+          <div class="absolute top-4 right-4 bg-orange-500 text-white font-sports text-3xl font-bold w-14 h-14 rounded-2xl flex items-center justify-center shadow-xl shadow-orange-500/50">
+            #{{ .Params.number | default 5 }}
+          </div>
+          
+          <!-- Position tag -->
+          <div class="absolute bottom-4 left-4">
+            <span class="px-3 py-1.5 rounded-xl text-xs font-bold bg-slate-900/90 text-white border border-slate-700 uppercase tracking-wider">
+              {{ .Params.position }}
+            </span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Player Bio & Info (7 cols) -->
+      <div class="md:col-span-7 space-y-6">
+        <div>
+          <div class="flex items-center gap-2 mb-2">
+            <a href="/teams/{{ .Params.team_slug | default (.Params.team | urlize) }}/" class="text-xs font-bold uppercase tracking-wider text-orange-400 hover:underline">
+              {{ .Params.team }}
+            </a>
+            <span class="text-slate-600">·</span>
+            <span class="text-xs text-slate-400 uppercase">{{ .Params.category }} {{ .Params.gender }}</span>
+          </div>
+          <h1 class="font-sports text-4xl sm:text-6xl text-white font-bold uppercase tracking-tight">{{ .Title }}</h1>
+        </div>
+
+        <!-- Physical Specs Grid -->
+        <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 bg-slate-950/60 p-4 rounded-2xl border border-slate-800">
+          <div>
+            <span class="text-[10px] uppercase font-bold text-slate-500 block">Altura</span>
+            <span class="font-bold text-white text-sm">{{ .Params.height | default "1.88 m" }}</span>
+          </div>
+          <div>
+            <span class="text-[10px] uppercase font-bold text-slate-500 block">Peso</span>
+            <span class="font-bold text-white text-sm">{{ .Params.weight | default "84 kg" }}</span>
+          </div>
+          <div>
+            <span class="text-[10px] uppercase font-bold text-slate-500 block">Edad</span>
+            <span class="font-bold text-white text-sm">{{ .Params.age | default 24 }} años</span>
+          </div>
+          <div>
+            <span class="text-[10px] uppercase font-bold text-slate-500 block">País</span>
+            <span class="font-bold text-white text-sm">{{ .Params.nationality | default "España" }}</span>
+          </div>
+        </div>
+
+        <!-- Big Season Stats -->
+        <div>
+          <span class="text-xs font-bold uppercase tracking-wider text-slate-400 block mb-3">Promedios Temporada 2026/27</span>
+          <div class="grid grid-cols-4 gap-3 text-center">
+            <div class="bg-slate-900 border border-slate-800 p-3.5 rounded-2xl">
+              <span class="font-sports text-2xl sm:text-3xl font-bold text-orange-400 block">{{ .Params.ppg | default "18.5" }}</span>
+              <span class="text-[10px] uppercase font-bold text-slate-400 mt-1 block">PUNTOS</span>
+            </div>
+            <div class="bg-slate-900 border border-slate-800 p-3.5 rounded-2xl">
+              <span class="font-sports text-2xl sm:text-3xl font-bold text-white block">{{ .Params.rpg | default "4.2" }}</span>
+              <span class="text-[10px] uppercase font-bold text-slate-400 mt-1 block">REBOTES</span>
+            </div>
+            <div class="bg-slate-900 border border-slate-800 p-3.5 rounded-2xl">
+              <span class="font-sports text-2xl sm:text-3xl font-bold text-blue-400 block">{{ .Params.apg | default "7.8" }}</span>
+              <span class="text-[10px] uppercase font-bold text-slate-400 mt-1 block">ASIST</span>
+            </div>
+            <div class="bg-slate-900 border border-slate-800 p-3.5 rounded-2xl">
+              <span class="font-sports text-2xl sm:text-3xl font-bold text-emerald-400 block">{{ .Params.efficiency | default "22.4" }}</span>
+              <span class="text-[10px] uppercase font-bold text-slate-400 mt-1 block">VAL</span>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+
+  <!-- PLAYER BIO / TRAYECTORIA -->
+  <div class="bg-slate-900 border border-slate-800 rounded-3xl p-6 sm:p-10 shadow-xl space-y-6">
+    <div class="border-b border-slate-800 pb-4">
+      <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Perfil Técnico</span>
+      <h3 class="font-sports text-3xl text-white font-bold uppercase tracking-tight">Trayectoria y Estilo de Juego</h3>
+    </div>
+
+    <div class="prose prose-invert max-w-none text-slate-300 leading-relaxed space-y-4">
+      {{ .Content }}
+    </div>
+
+    <!-- Recent Games Log Table -->
+    <div class="pt-6 border-t border-slate-800 space-y-4">
+      <h4 class="font-sports text-xl text-white font-bold uppercase tracking-wider">Últimas Actuaciones</h4>
+      <div class="overflow-x-auto">
+        <table class="w-full text-left text-xs">
+          <thead class="bg-slate-950 text-slate-400 uppercase font-semibold border-b border-slate-800">
+            <tr>
+              <th class="py-3 px-4">Fecha</th>
+              <th class="py-3 px-4">Rival</th>
+              <th class="py-3 px-3 text-center">MIN</th>
+              <th class="py-3 px-3 text-center text-orange-400 font-bold">PTS</th>
+              <th class="py-3 px-3 text-center">REB</th>
+              <th class="py-3 px-3 text-center">AST</th>
+              <th class="py-3 px-4 text-center">Resultado</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-slate-800/80 font-medium">
+            {{ $playerTeam := .Params.team }}
+            {{ $recentMatches := first 3 (where (where .Site.Data.games "status" "Finalizado") "home" $playerTeam) }}
+            {{ if not $recentMatches }}
+              {{ $recentMatches = first 3 (where .Site.Data.games "home" $playerTeam) }}
+            {{ end }}
+            {{ range $recentMatches }}
+            <tr class="hover:bg-slate-800/40">
+              <td class="py-3 px-4 text-slate-300">{{ .date }}</td>
+              <td class="py-3 px-4 font-bold text-white">{{ if eq .home $playerTeam }}vs {{ .away }}{{ else }}@ {{ .home }}{{ end }}</td>
+              <td class="py-3 px-3 text-center text-slate-400">-</td>
+              <td class="py-3 px-3 text-center font-sports text-sm font-bold text-orange-400">{{ if .home_score }}{{ .home_score }} - {{ .away_score }}{{ else }}VS{{ end }}</td>
+              <td class="py-3 px-3 text-center text-slate-300">-</td>
+              <td class="py-3 px-3 text-center text-slate-300">-</td>
+              <td class="py-3 px-4 text-center"><span class="px-2 py-0.5 rounded text-[10px] font-bold {{ if eq .status "Finalizado" }}bg-emerald-500/20 text-emerald-400{{ else }}bg-blue-500/20 text-blue-400{{ end }}">{{ .status }}</span></td>
+            </tr>
+            {{ else }}
+            <tr>
+              <td colspan="7" class="py-4 text-center text-slate-500 text-xs">Sin partidos recientes registrados para este equipo.</td>
+            </tr>
+            {{ end }}
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="pt-4 border-t border-slate-800 flex items-center justify-between text-xs">
+      <a href="/players/" class="text-orange-400 hover:text-orange-300 font-semibold transition">← Volver a la lista de jugadores</a>
+      <a href="/teams/{{ .Params.team_slug | default (.Params.team | urlize) }}/" class="text-slate-400 hover:text-white transition">Ver plantilla de {{ .Params.team }} →</a>
+    </div>
+  </div>
+
+</div>
+{{ end }}

@@ -1,0 +1,89 @@
+{{ define "main" }}
+<div class="space-y-8">
+
+  <!-- HEADER -->
+  <div class="flex flex-col md:flex-row md:items-end justify-between gap-4 border-b border-slate-800 pb-6">
+    <div>
+      <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Roster Temporada 2026/27</span>
+      <h1 class="font-sports text-3xl sm:text-5xl text-white font-bold uppercase tracking-tight">Plantillas y Jugadores</h1>
+      <p class="text-slate-400 text-sm mt-1">Conoce a las estrellas de nuestros equipos, sus estadísticas individuales y trayectoria.</p>
+    </div>
+  </div>
+
+  <!-- PLAYERS GRID -->
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+    {{ range .Site.Data.players }}
+    <div class="group bg-slate-900 border border-slate-800 rounded-3xl overflow-hidden hover:border-slate-700 transition-all duration-300 shadow-xl flex flex-col justify-between hover:-translate-y-1">
+      
+      <div>
+        <!-- Photo Container -->
+        <div class="relative h-72 bg-slate-950 overflow-hidden">
+          <img src="{{ .photo }}" alt="{{ .name }}" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500"/>
+          <div class="absolute inset-0 bg-gradient-to-t from-slate-900 via-transparent to-transparent"></div>
+          
+          <!-- Jersey Number Badge -->
+          <div class="absolute top-4 right-4 bg-orange-500 text-white font-sports text-2xl font-bold w-12 h-12 rounded-2xl flex items-center justify-center shadow-lg shadow-orange-500/40">
+            #{{ .number }}
+          </div>
+
+          <!-- Position Badge -->
+          <div class="absolute bottom-3 left-4">
+            <span class="px-2.5 py-1 rounded-lg text-xs font-bold bg-slate-900/90 text-slate-200 border border-slate-700 uppercase tracking-wider">
+              {{ .position }}
+            </span>
+          </div>
+        </div>
+
+        <!-- Info Body -->
+        <div class="p-5 space-y-4">
+          <div>
+            <h2 class="font-sports text-2xl text-white font-bold group-hover:text-orange-400 transition">{{ .name }}</h2>
+            <div class="flex items-center gap-2 mt-1">
+              <span class="text-xs text-slate-400">{{ .team }}</span>
+              <span class="text-slate-600">·</span>
+              <span class="text-xs text-slate-500">{{ .category }}</span>
+            </div>
+          </div>
+
+          <!-- Season Stats Grid -->
+          <div class="grid grid-cols-3 gap-2 text-center bg-slate-950/70 p-3 rounded-2xl border border-slate-800">
+            <div>
+              <p class="text-[10px] text-slate-500 uppercase font-semibold">PPG</p>
+              <p class="font-sports text-lg font-bold text-orange-400">{{ .ppg }}</p>
+            </div>
+            <div>
+              <p class="text-[10px] text-slate-500 uppercase font-semibold">RPG</p>
+              <p class="font-sports text-lg font-bold text-white">{{ .rpg }}</p>
+            </div>
+            <div>
+              <p class="text-[10px] text-slate-500 uppercase font-semibold">APG</p>
+              <p class="font-sports text-lg font-bold text-blue-400">{{ .apg }}</p>
+            </div>
+          </div>
+
+          <!-- Physical stats row -->
+          <div class="flex items-center justify-between text-xs text-slate-400 px-1">
+            <span>Altura: <strong class="text-slate-300">{{ .height }}</strong></span>
+            <span>Edad: <strong class="text-slate-300">{{ .age }} años</strong></span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Action Footer -->
+      <div class="p-5 pt-0">
+        <a href="/players/{{ .slug }}/" class="block text-center w-full bg-slate-800 hover:bg-orange-500 text-slate-200 hover:text-white font-bold text-xs uppercase tracking-wider py-2.5 rounded-xl transition duration-200 shadow">
+          Ver Ficha y Biografía →
+        </a>
+      </div>
+
+    </div>
+    {{ else }}
+    <div class="col-span-full bg-slate-900 border border-slate-800 rounded-3xl p-10 text-center space-y-3">
+      <p class="font-sports text-2xl text-white font-bold">Plantillas en Actualización</p>
+      <p class="text-slate-400 text-sm max-w-md mx-auto">No hay fichas de jugadores individuales registradas por el momento. Toda la información oficial está enfocada en los equipos y el calendario de partidos de la FBM.</p>
+    </div>
+    {{ end }}
+  </div>
+
+</div>
+{{ end }}

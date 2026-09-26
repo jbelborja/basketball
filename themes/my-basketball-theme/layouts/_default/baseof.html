@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="es" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>{{ .Title }} | CB Colmenar Viejo</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/main.css">
+  <style>
+    body { font-family: 'Plus Jakarta Sans', sans-serif; }
+    .font-sports { font-family: 'Oswald', sans-serif; }
+  </style>
+</head>
+<body class="bg-slate-900 text-slate-100 min-h-screen flex flex-col antialiased selection:bg-orange-500 selection:text-white">
+
+  <!-- TOP BAR: Match ticker / Announcement -->
+  <div class="bg-slate-950 border-b border-slate-800 text-xs py-2 px-4">
+    <div class="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-2">
+      <div class="flex items-center gap-3">
+        <span class="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold bg-orange-500/20 text-orange-400 border border-orange-500/30">
+          CB COLMENAR VIEJO
+        </span>
+        {{ $lastFinished := index (where .Site.Data.games "status" "Finalizado") 0 }}
+        {{ if $lastFinished }}
+        <span class="text-slate-300 font-medium">{{ $lastFinished.home }} {{ $lastFinished.home_score }} - {{ $lastFinished.away_score }} {{ $lastFinished.away }}</span>
+        <span class="text-slate-500 hidden sm:inline">| {{ $lastFinished.category }} {{ $lastFinished.gender }}</span>
+        {{ else }}
+        <span class="text-slate-300 font-medium">Federación de Baloncesto de Madrid</span>
+        {{ end }}
+      </div>
+      <div class="flex items-center gap-4 text-slate-400">
+        {{ $nextUp := index (where .Site.Data.games "status" "Próximo") 0 }}
+        {{ if $nextUp }}
+        <a href="/games/{{ $nextUp.slug }}/" class="hover:text-orange-400 transition flex items-center gap-1 font-semibold">
+          Próximo partido: {{ $nextUp.date }} ({{ $nextUp.home }} vs {{ $nextUp.away }}) <span class="text-orange-400">→</span>
+        </a>
+        {{ else }}
+        <a href="/games/" class="hover:text-orange-400 transition flex items-center gap-1 font-semibold">
+          Ver Calendario Completo <span class="text-orange-400">→</span>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+
+  <!-- MAIN NAVIGATION -->
+  <header class="bg-slate-900/95 backdrop-blur-md border-b border-slate-800 sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-20">
+        
+        <!-- Brand Logo & Title -->
+        <a href="/" class="flex items-center gap-3 group">
+          <div class="relative">
+            <img src="/images/teams/colmenar.jpg" alt="CB Colmenar Viejo" class="h-12 w-12 rounded-full object-cover ring-2 ring-orange-500 ring-offset-2 ring-offset-slate-900 group-hover:scale-105 transition-transform duration-300 shadow-lg shadow-orange-500/20"/>
+            <span class="absolute -bottom-1 -right-1 bg-orange-500 text-[9px] font-extrabold px-1.5 py-0.2 rounded text-white font-sports uppercase tracking-wider">CB</span>
+          </div>
+          <div>
+            <div class="font-sports text-2xl font-bold tracking-wider uppercase text-white group-hover:text-orange-400 transition flex items-center gap-1.5">
+              CB COLMENAR VIEJO
+            </div>
+            <div class="text-[11px] font-semibold tracking-widest uppercase text-slate-400">
+              Pasión · Esfuerzo · Victoria
+            </div>
+          </div>
+        </a>
+
+        <!-- Desktop Menu Links -->
+        <nav class="hidden md:flex items-center gap-1 lg:gap-2">
+          <a href="/" class="px-3.5 py-2 rounded-lg text-sm font-semibold text-slate-300 hover:text-white hover:bg-slate-800/80 transition {{ if eq .RelPermalink "/" }}text-orange-400 bg-slate-800/60 font-bold{{ end }}">
+            Inicio
+          </a>
+          <a href="/games/" class="nav-calendar-link px-3.5 py-2 rounded-lg text-sm font-semibold text-slate-300 hover:text-white hover:bg-slate-800/80 transition {{ if in .RelPermalink "/games" }}text-orange-400 bg-slate-800/60 font-bold{{ end }}">
+            Calendario
+          </a>
+          <a href="/classification/" class="px-3.5 py-2 rounded-lg text-sm font-semibold text-slate-300 hover:text-white hover:bg-slate-800/80 transition {{ if in .RelPermalink "/classification" }}text-orange-400 bg-slate-800/60 font-bold{{ end }}">
+            Clasificación
+          </a>
+          <a href="/teams/" class="px-3.5 py-2 rounded-lg text-sm font-semibold text-slate-300 hover:text-white hover:bg-slate-800/80 transition {{ if in .RelPermalink "/teams" }}text-orange-400 bg-slate-800/60 font-bold{{ end }}">
+            Equipos
+          </a>
+          <a href="/venues/" class="px-3.5 py-2 rounded-lg text-sm font-semibold text-slate-300 hover:text-white hover:bg-slate-800/80 transition {{ if in .RelPermalink "/venues" }}text-orange-400 bg-slate-800/60 font-bold{{ end }}">
+            Pabellones
+          </a>
+        </nav>
+
+        <!-- Right Filters & Category Selects -->
+        <div class="hidden lg:flex items-center gap-3">
+          <div class="flex items-center gap-1.5 bg-slate-800/70 p-1 rounded-xl border border-slate-700/60 text-xs">
+            <select id="filter-category" class="bg-slate-900 border-0 rounded-lg text-slate-200 py-1 px-2.5 font-medium focus:ring-1 focus:ring-orange-500 cursor-pointer">
+              <option value="all">Todas las Categorías</option>
+              {{ range .Site.Params.categories }}
+              <option value="{{ . }}">{{ . }}</option>
+              {{ end }}
+            </select>
+            <select id="filter-gender" class="bg-slate-900 border-0 rounded-lg text-slate-200 py-1 px-2.5 font-medium focus:ring-1 focus:ring-orange-500 cursor-pointer capitalize">
+              <option value="all">Todos los Géneros</option>
+              {{ range .Site.Params.genders }}
+              <option value="{{ . }}">{{ . }}</option>
+              {{ end }}
+            </select>
+          </div>
+
+          <a href="/games/" class="nav-calendar-link inline-flex items-center gap-2 bg-gradient-to-r from-orange-500 to-amber-500 hover:from-orange-600 hover:to-amber-600 text-white font-bold text-xs uppercase tracking-wider px-4 py-2.5 rounded-xl shadow-lg shadow-orange-500/25 transition-all transform hover:-translate-y-0.5">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
+            Calendario
+          </a>
+        </div>
+
+        <!-- Mobile menu button -->
+        <button id="mobile-menu-btn" class="md:hidden p-2 rounded-lg text-slate-400 hover:text-white hover:bg-slate-800 focus:outline-none" aria-label="Abrir menú">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+          </svg>
+        </button>
+
+      </div>
+    </div>
+
+    <!-- Mobile Dropdown -->
+    <div id="mobile-menu" class="hidden md:hidden border-t border-slate-800 bg-slate-900 px-4 pt-3 pb-6 space-y-2">
+      <a href="/" class="block px-3 py-2 rounded-lg text-base font-semibold text-slate-200 hover:bg-slate-800">Inicio</a>
+      <a href="/games/" class="nav-calendar-link block px-3 py-2 rounded-lg text-base font-semibold text-slate-200 hover:bg-slate-800">Calendario</a>
+      <a href="/classification/" class="block px-3 py-2 rounded-lg text-base font-semibold text-slate-200 hover:bg-slate-800">Clasificación</a>
+      <a href="/teams/" class="block px-3 py-2 rounded-lg text-base font-semibold text-slate-200 hover:bg-slate-800">Equipos</a>
+      <a href="/venues/" class="block px-3 py-2 rounded-lg text-base font-semibold text-slate-200 hover:bg-slate-800">Pabellones</a>
+    </div>
+  </header>
+
+  <!-- BODY CONTENT WRAPPER -->
+  <main class="flex-1 max-w-7xl mx-auto w-full px-4 sm:px-6 lg:px-8 py-8 md:py-12">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="bg-slate-950 border-t border-slate-800 mt-16 text-slate-400">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-10">
+        
+        <!-- Club Info -->
+        <div class="md:col-span-1">
+          <div class="flex items-center gap-3 mb-4">
+            <img src="/images/teams/colmenar.jpg" alt="CB Colmenar Viejo" class="h-10 w-10 rounded-full object-cover ring-2 ring-orange-500"/>
+            <span class="font-sports text-xl text-white font-bold tracking-wider">CB COLMENAR VIEJO</span>
+          </div>
+          <p class="text-sm text-slate-400 leading-relaxed mb-4">
+            Formación, competición y pasión por el baloncesto en Colmenar Viejo desde categorías de cantera hasta Senior.
+          </p>
+        </div>
+
+        <!-- Links Navigation -->
+        <div>
+          <h4 class="font-sports text-white text-base tracking-wider uppercase mb-4">Competición</h4>
+          <ul class="space-y-2 text-sm">
+            <li><a href="/games/" class="nav-calendar-link hover:text-orange-400 transition">Calendario Completo</a></li>
+            <li><a href="/classification/" class="hover:text-orange-400 transition">Tabla de Clasificación</a></li>
+            <li><a href="/teams/" class="hover:text-orange-400 transition">Equipos del Club</a></li>
+            <li><a href="/venues/" class="hover:text-orange-400 transition">Pabellones e Instalaciones</a></li>
+          </ul>
+        </div>
+
+        <!-- Facilities & Hours -->
+        <div>
+          <h4 class="font-sports text-white text-base tracking-wider uppercase mb-4">Instalaciones</h4>
+          <ul class="space-y-2 text-sm text-slate-400">
+            <li class="flex items-start gap-2">
+              <span class="text-orange-400 font-bold">📍</span> Pabellón Juan Antonio Samaranch
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-orange-400 font-bold">🏠</span> Avda. Juan Pablo II, 13, Colmenar Viejo
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-orange-400 font-bold">🏀</span> Sáb - Dom: Jornadas de Liga FBM
+            </li>
+          </ul>
+        </div>
+
+      </div>
+
+      <div class="border-t border-slate-800/80 pt-6 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500">
+        <p>&copy; {{ now.Format "2006" }} CB Colmenar Viejo. Todos los derechos reservados.</p>
+        <p class="mt-2 sm:mt-0">Diseñado con tecnología Hugo & Tailwind CSS</p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const btn = document.getElementById('mobile-menu-btn');
+    const menu = document.getElementById('mobile-menu');
+    if (btn && menu) {
+      btn.addEventListener('click', () => {
+        menu.classList.toggle('hidden');
+      });
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+      const catSelect = document.getElementById('filter-category');
+      const genSelect = document.getElementById('filter-gender');
+      const statSelect = document.getElementById('filter-status');
+
+      if (!catSelect && !genSelect && !statSelect) return;
+
+      const urlParams = new URLSearchParams(window.location.search);
+      if (catSelect && urlParams.has('category')) {
+        catSelect.value = urlParams.get('category');
+      }
+      if (genSelect && urlParams.has('gender')) {
+        genSelect.value = urlParams.get('gender');
+      }
+      if (statSelect && urlParams.has('status')) {
+        statSelect.value = urlParams.get('status');
+        const statusBtns = document.querySelectorAll('[data-status-btn]');
+        statusBtns.forEach(b => {
+          if (b.getAttribute('data-status-btn') === statSelect.value) {
+            b.classList.add('bg-orange-500', 'text-white');
+            b.classList.remove('text-slate-400', 'hover:text-white');
+          } else {
+            b.classList.remove('bg-orange-500', 'text-white');
+            b.classList.add('text-slate-400', 'hover:text-white');
+          }
+        });
+      }
+
+      function updateNavLinks() {
+        const selectedCat = catSelect ? (catSelect.value || 'all') : 'all';
+        const selectedGen = genSelect ? (genSelect.value || 'all') : 'all';
+
+        const params = new URLSearchParams();
+        if (selectedCat && selectedCat !== 'all') params.set('category', selectedCat);
+        if (selectedGen && selectedGen !== 'all') params.set('gender', selectedGen);
+
+        const targetUrl = '/games/' + (params.toString() ? ('?' + params.toString()) : '');
+        document.querySelectorAll('.nav-calendar-link').forEach(a => {
+          a.href = targetUrl;
+        });
+      }
+
+      function applyFilters() {
+        const selectedCat = (catSelect ? catSelect.value : 'all').toLowerCase().trim();
+        const selectedGen = (genSelect ? genSelect.value : 'all').toLowerCase().trim();
+        const selectedStat = (statSelect ? statSelect.value : 'all').toLowerCase().trim();
+
+        const currentUrl = new URL(window.location);
+        if (catSelect && selectedCat && selectedCat !== 'all') {
+          currentUrl.searchParams.set('category', catSelect.value);
+        } else if (catSelect) {
+          currentUrl.searchParams.delete('category');
+        }
+        if (genSelect && selectedGen && selectedGen !== 'all') {
+          currentUrl.searchParams.set('gender', genSelect.value);
+        } else if (genSelect) {
+          currentUrl.searchParams.delete('gender');
+        }
+        if (statSelect && selectedStat && selectedStat !== 'all') {
+          currentUrl.searchParams.set('status', statSelect.value);
+        } else if (statSelect) {
+          currentUrl.searchParams.delete('status');
+        }
+        window.history.replaceState({}, '', currentUrl);
+
+        updateNavLinks();
+
+        const filterableElements = document.querySelectorAll('[data-category]');
+        let visibleCount = 0;
+
+        filterableElements.forEach(el => {
+          const itemCat = (el.getAttribute('data-category') || '').toLowerCase().trim();
+          const itemGen = (el.getAttribute('data-gender') || '').toLowerCase().trim();
+          const itemStat = (el.getAttribute('data-status') || '').toLowerCase().trim();
+
+          const matchCat = (selectedCat === 'all' || selectedCat === '' || itemCat === selectedCat);
+          const matchGen = (selectedGen === 'all' || selectedGen === '' || itemGen === selectedGen);
+          const matchStat = (!el.hasAttribute('data-status') || selectedStat === 'all' || selectedStat === '' || itemStat === selectedStat);
+
+          if (matchCat && matchGen && matchStat) {
+            el.style.display = '';
+            visibleCount++;
+          } else {
+            el.style.display = 'none';
+          }
+        });
+
+        const emptyState = document.getElementById('filter-empty-state');
+        if (emptyState) {
+          if (visibleCount === 0 && (selectedCat !== 'all' || selectedGen !== 'all' || selectedStat !== 'all')) {
+            emptyState.classList.remove('hidden');
+          } else {
+            emptyState.classList.add('hidden');
+          }
+        }
+      }
+
+      if (catSelect) catSelect.addEventListener('change', applyFilters);
+      if (genSelect) genSelect.addEventListener('change', applyFilters);
+      if (statSelect) statSelect.addEventListener('change', applyFilters);
+
+      applyFilters();
+    });
+  </script>
+</body>
+</html>

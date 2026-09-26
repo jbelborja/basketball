@@ -1,0 +1,14 @@
+{
+  "name": "basketball-site",
+  "private": true,
+  "devDependencies": {
+    "autoprefixer": "^10",
+    "postcss": "^8",
+    "postcss-cli": "^9",
+    "tailwindcss": "^3"
+  },
+  "scripts": {
+    "build:css": "postcss themes/my-basketball-theme/assets/css/style.css -o static/css/main.css",
+    "watch:css": "npm run build:css -- --watch"
+  }
+}

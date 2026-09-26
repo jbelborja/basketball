@@ -1,0 +1,137 @@
+{{ define "main" }}
+<div class="space-y-8">
+
+  <!-- HEADER -->
+  <div class="flex flex-col md:flex-row md:items-end justify-between gap-4 border-b border-slate-800 pb-6">
+    <div>
+      <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Liga Regional Oficial FBM</span>
+      <h1 class="font-sports text-3xl sm:text-5xl text-white font-bold uppercase tracking-tight">Tabla de Clasificación</h1>
+      <p class="text-slate-400 text-sm mt-1">Consulta las posiciones oficiales, victorias, derrotas y dinámica de los grupos del CB Colmenar Viejo.</p>
+    </div>
+  </div>
+
+  <!-- STANDINGS TABLES LIST -->
+  <div class="space-y-8">
+    {{ range sort .Site.Data.classification "weight" }}
+    <div class="bg-slate-900 border border-slate-800 rounded-3xl overflow-hidden shadow-2xl transition duration-200" data-category="{{ .category }}" data-gender="{{ .gender }}">
+      
+      <div class="p-6 border-b border-slate-800 flex flex-wrap items-center justify-between gap-4 bg-slate-950/60">
+        <div>
+          <span class="text-xs font-bold uppercase tracking-wider text-orange-400 block mb-1">
+            Categoría {{ .category }} {{ .gender }}
+          </span>
+          <h2 class="font-sports text-xl text-white font-bold tracking-wide uppercase flex items-center gap-2">
+            <span class="text-orange-400">🏆</span>
+            {{ .league_title }}
+          </h2>
+        </div>
+        <div class="inline-flex items-center gap-2 bg-slate-900 border border-slate-800 px-4 py-2 rounded-2xl text-xs text-slate-300">
+          <span class="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
+          {{ if gt .max_pj 0 }}
+            Actualizado hasta la Jornada {{ .max_pj }}
+          {{ else }}
+            Jornada pendiente de inicio
+          {{ end }}
+        </div>
+      </div>
+
+      <div class="overflow-x-auto">
+        <table class="w-full text-left text-sm">
+          <thead class="bg-slate-950 text-slate-400 uppercase text-xs font-semibold tracking-wider border-b border-slate-800">
+            <tr>
+              <th class="py-4 px-4 text-center w-16">Pos</th>
+              <th class="py-4 px-6">Equipo</th>
+              <th class="py-4 px-3 text-center">PJ</th>
+              <th class="py-4 px-3 text-center text-emerald-400 font-bold">V</th>
+              <th class="py-4 px-3 text-center text-red-400 font-bold">D</th>
+              <th class="py-4 px-3 text-center hidden md:table-cell">PF</th>
+              <th class="py-4 px-3 text-center hidden md:table-cell">PC</th>
+              <th class="py-4 px-3 text-center hidden sm:table-cell">DIF</th>
+              <th class="py-4 px-4 text-center">Racha</th>
+              <th class="py-4 px-6 text-center text-white font-bold">PTS</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-slate-800/60 font-medium">
+            {{ range sort .teams "position" }}
+              <tr class="hover:bg-slate-800/40 transition duration-150 group {{ if in (lower .team) "colmenar" }}bg-orange-500/10 border-l-4 border-l-orange-500{{ end }}">
+                
+                <!-- Position with medal styling -->
+                <td class="py-4 px-4 text-center">
+                  <span class="inline-flex items-center justify-center w-8 h-8 rounded-xl font-sports text-sm font-bold
+                    {{ if eq .position 1 }}bg-gradient-to-br from-amber-400 to-yellow-600 text-slate-950 shadow-lg shadow-amber-500/20
+                    {{ else if eq .position 2 }}bg-gradient-to-br from-slate-200 to-slate-400 text-slate-950 shadow
+                    {{ else if eq .position 3 }}bg-gradient-to-br from-amber-700 to-yellow-900 text-amber-200 shadow
+                    {{ else }}text-slate-400 bg-slate-950 border border-slate-800{{ end }}">
+                    {{ .position }}
+                  </span>
+                </td>
+
+                <!-- Team Name & Logo -->
+                <td class="py-4 px-6">
+                  <div class="flex items-center gap-3">
+                    <img src="{{ .logo | default (printf "/images/teams/%s.jpg" .slug) }}" alt="{{ .team }}" class="w-9 h-9 rounded-full object-cover ring-2 ring-slate-800 shadow group-hover:ring-orange-500 transition"/>
+                    <div>
+                      <span class="font-bold text-white group-hover:text-orange-400 transition text-base block">
+                        {{ .team }}
+                      </span>
+                      <span class="text-[11px] text-slate-400 block">{{ .category }} · {{ .gender }} · PJ: {{ .pj }}</span>
+                    </div>
+                  </div>
+                </td>
+
+                <!-- PJ, V, D -->
+                <td class="py-4 px-3 text-center text-slate-300">{{ .pj }}</td>
+                <td class="py-4 px-3 text-center font-sports text-base font-bold text-emerald-400">{{ .v }}</td>
+                <td class="py-4 px-3 text-center font-sports text-base font-bold text-red-400">{{ .d }}</td>
+
+                <!-- PF, PC, DIF -->
+                <td class="py-4 px-3 text-center text-slate-400 hidden md:table-cell">{{ .pf }}</td>
+                <td class="py-4 px-3 text-center text-slate-400 hidden md:table-cell">{{ .pc }}</td>
+                <td class="py-4 px-3 text-center font-bold hidden sm:table-cell {{ if in .dif "+" }}text-emerald-400{{ else }}text-red-400{{ end }}">
+                  {{ .dif }}
+                </td>
+
+                <!-- Streak Pills -->
+                <td class="py-4 px-4 text-center">
+                  <div class="flex items-center justify-center gap-1">
+                    {{ range .streak }}
+                    <span class="w-5 h-5 rounded-md text-[10px] font-bold flex items-center justify-center 
+                      {{ if eq . "V" }}bg-emerald-500/20 text-emerald-400 border border-emerald-500/30
+                      {{ else }}bg-red-500/20 text-red-400 border border-red-500/30{{ end }}">
+                      {{ . }}
+                    </span>
+                    {{ end }}
+                  </div>
+                </td>
+
+                <!-- Points -->
+                <td class="py-4 px-6 text-center">
+                  <span class="font-sports text-2xl font-bold text-white">{{ .points }}</span>
+                </td>
+
+              </tr>
+            {{ end }}
+          </tbody>
+        </table>
+      </div>
+
+      <!-- Table Footer -->
+      <div class="p-6 bg-slate-950/80 border-t border-slate-800 text-xs text-slate-400 flex flex-col sm:flex-row items-center justify-between gap-4">
+        <div class="flex flex-wrap items-center gap-4">
+          <span class="flex items-center gap-2"><span class="w-3 h-3 rounded bg-slate-700"></span> Sistema de puntuación FBM: 2 puntos victoria, 1 punto derrota</span>
+        </div>
+        <a href="/games/?category={{ .category }}&gender={{ .gender }}" class="text-orange-400 hover:text-orange-300 font-semibold transition">Consultar calendario de {{ .category }} {{ .gender }} →</a>
+      </div>
+
+    </div>
+    {{ end }}
+  </div>
+
+  <div id="filter-empty-state" class="hidden bg-slate-900 border border-slate-800 rounded-3xl p-12 text-center">
+    <div class="text-4xl mb-3">🏀</div>
+    <h3 class="text-xl font-sports font-bold text-white mb-1">Sin clasificaciones en este filtro</h3>
+    <p class="text-slate-400 text-sm">No se encontraron clasificaciones para los filtros de categoría y género seleccionados.</p>
+  </div>
+
+</div>
+{{ end }}

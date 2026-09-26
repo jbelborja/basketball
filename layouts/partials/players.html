@@ -1,0 +1,10 @@
+{{/* Players partial */}}
+<ul>
+{{ $category := .Site.Params.currentCategory | default (index .Site.Params.categories 0) }}
+{{ $gender := .Site.Params.currentGender | default (index .Site.Params.genders 0) }}
+{{ range where .Site.Data.players "category" $category }}
+  {{ if eq .gender $gender }}
+    <li>{{ .name }} - {{ .position }} ({{ .number }})</li>
+  {{ end }}
+{{ end }}
+</ul>

@@ -1,0 +1,20 @@
+baseURL: "https://example.com/"
+languageCode: "es"
+title: "CB Colmenar Viejo - Club de Baloncesto"
+theme: "my-basketball-theme"
+
+params:
+  categories:
+    - "Senior"
+    - "Sub 22"
+    - "Junior"
+    - "Cadete"
+    - "Infantil"
+    - "Alevín"
+    - "Benjamín"
+  genders:
+    - "masculino"
+    - "femenino"
+buildFuture: true
+permalinks:
+  games: "/games/:slug/"

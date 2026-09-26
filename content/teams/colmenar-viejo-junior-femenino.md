@@ -1,0 +1,17 @@
+---
+title: "COLMENAR VIEJO"
+name: "COLMENAR VIEJO"
+slug: "colmenar-viejo-junior-femenino"
+category: "Junior"
+gender: "femenino"
+logo: "/images/teams/colmenar.jpg"
+coach: "Entrenador CB Colmenar"
+venue: "Pabell\u00f3n Juan Antonio Samaranch"
+established: 1985
+record: "0V - 0D"
+league_position: 1
+weight: 9
+---
+
+El **COLMENAR VIEJO** representa al CB Colmenar Viejo en la categoría Junior (femenino).
+Entrenado por Entrenador CB Colmenar, disputa sus encuentros como local en Pabellón Juan Antonio Samaranch.

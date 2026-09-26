@@ -1,0 +1,144 @@
+{{ define "main" }}
+<div class="space-y-10 max-w-6xl mx-auto">
+
+  <!-- BREADCRUMB -->
+  <nav class="flex items-center gap-2 text-xs font-semibold text-slate-400">
+    <a href="/" class="hover:text-white transition">Inicio</a>
+    <span>/</span>
+    <a href="/teams/" class="hover:text-white transition">Equipos</a>
+    <span>/</span>
+    <span class="text-orange-400">{{ .Title }}</span>
+  </nav>
+
+  <!-- TEAM HERO BANNER -->
+  <div class="relative rounded-3xl overflow-hidden bg-gradient-to-br from-slate-950 via-slate-900 to-slate-800 border border-slate-800 p-8 sm:p-12 shadow-2xl">
+    <div class="absolute inset-0 bg-[radial-gradient(circle_at_20%_20%,rgba(249,115,22,0.1),transparent_50%)] pointer-events-none"></div>
+
+    <div class="relative z-10 flex flex-col md:flex-row items-center md:items-start gap-8">
+      
+      <!-- Big Crest -->
+      <div class="relative flex-shrink-0">
+        <img src="{{ .Params.logo | default "/images/teams/team1.jpg" }}" alt="{{ .Title }}" class="w-32 h-32 sm:w-40 sm:h-40 rounded-full object-cover ring-4 ring-orange-500/80 shadow-2xl"/>
+        <span class="absolute -bottom-2 right-2 bg-orange-500 text-white font-sports text-sm font-bold px-3 py-1 rounded-full shadow">
+          #{{ .Params.league_position | default 1 }} LIGA
+        </span>
+      </div>
+
+      <!-- Info Details -->
+      <div class="space-y-4 text-center md:text-left flex-1">
+        <div class="flex flex-wrap items-center justify-center md:justify-start gap-2">
+          <span class="px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider bg-orange-500/10 text-orange-400 border border-orange-500/20">
+            {{ .Params.category }} {{ .Params.gender }}
+          </span>
+          <span class="px-3 py-1 rounded-full text-xs font-semibold bg-slate-800 text-slate-300 border border-slate-700">
+            Fundado en {{ .Params.established | default 2015 }}
+          </span>
+        </div>
+
+        <h1 class="font-sports text-4xl sm:text-6xl text-white font-bold uppercase tracking-tight">{{ .Title }}</h1>
+
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 pt-2">
+          <div class="bg-slate-900/80 border border-slate-800 p-3 rounded-2xl">
+            <span class="text-[10px] uppercase font-bold text-slate-500 block">Entrenador</span>
+            <span class="text-sm font-bold text-slate-200">{{ .Params.coach | default "Cuerpo Técnico CB Colmenar" }}</span>
+          </div>
+          <div class="bg-slate-900/80 border border-slate-800 p-3 rounded-2xl">
+            <span class="text-[10px] uppercase font-bold text-slate-500 block">Pabellón Local</span>
+            <span class="text-sm font-bold text-slate-200">{{ .Params.venue | default "Pabellón Juan Antonio Samaranch" }}</span>
+          </div>
+          <div class="bg-slate-900/80 border border-slate-800 p-3 rounded-2xl">
+            <span class="text-[10px] uppercase font-bold text-slate-500 block">Balance Oficial</span>
+            <span class="font-sports text-lg font-bold text-emerald-400">{{ .Params.record | default "0V - 0D" }}</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ABOUT & ROSTER TABS -->
+  <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+    
+    <!-- Team Description (1 col) -->
+    <div class="lg:col-span-1 bg-slate-900 border border-slate-800 rounded-3xl p-6 sm:p-8 space-y-4 shadow-xl">
+      <h3 class="font-sports text-2xl text-white font-bold uppercase tracking-wider">Identidad de Juego</h3>
+      <div class="text-slate-300 text-sm leading-relaxed space-y-3">
+        {{ .Content }}
+      </div>
+
+      <div class="pt-4 border-t border-slate-800 space-y-3">
+        <h4 class="text-xs font-bold uppercase tracking-wider text-orange-400">Próximo Compromiso</h4>
+        {{ $teamName := .Title }}
+        {{ $nextMatch := index (where (where .Site.Data.games "status" "Próximo") "home" $teamName) 0 }}
+        {{ if not $nextMatch }}
+          {{ $nextMatch = index (where (where .Site.Data.games "status" "Próximo") "away" $teamName) 0 }}
+        {{ end }}
+        {{ if $nextMatch }}
+        <div class="bg-slate-950 p-4 rounded-2xl border border-slate-800">
+          <p class="text-xs text-slate-400">📅 {{ $nextMatch.date }} · {{ $nextMatch.time }}</p>
+          <p class="font-bold text-white text-sm mt-1">{{ $nextMatch.home }} vs {{ $nextMatch.away }}</p>
+          <p class="text-xs text-slate-500 mt-1">📍 {{ $nextMatch.venue }}</p>
+          <a href="/games/{{ $nextMatch.slug }}/" class="inline-block mt-2 text-xs font-bold text-orange-400 hover:underline">Ver detalles →</a>
+        </div>
+        {{ else }}
+        <div class="bg-slate-950 p-4 rounded-2xl border border-slate-800 text-xs text-slate-400">
+          Sin próximos partidos programados.
+        </div>
+        {{ end }}
+      </div>
+    </div>
+
+    <!-- Team Roster / Plantilla (2 cols) -->
+    <div class="lg:col-span-2 bg-slate-900 border border-slate-800 rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
+      <div class="flex items-center justify-between border-b border-slate-800 pb-4">
+        <div>
+          <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Jugadores Convocados</span>
+          <h3 class="font-sports text-2xl text-white font-bold uppercase tracking-wider">Plantilla Oficial</h3>
+        </div>
+        <span class="text-xs text-slate-400 font-semibold">Temporada 2026/27</span>
+      </div>
+
+      <!-- Player Cards Grid -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+        {{ $currentTeamName := .Title }}
+        {{ $currentTeamSlug := .Params.slug }}
+        {{ range .Site.Data.players }}
+          {{ if or (eq .team $currentTeamName) (eq .team_slug $currentTeamSlug) }}
+          <div class="group bg-slate-950/80 border border-slate-800 hover:border-slate-700 rounded-2xl p-4 transition duration-200 flex items-center justify-between gap-4">
+            <div class="flex items-center gap-3">
+              <div class="relative">
+                <img src="{{ .photo }}" alt="{{ .name }}" class="w-14 h-14 rounded-xl object-cover object-top ring-2 ring-slate-800 group-hover:ring-orange-500 transition"/>
+                <span class="absolute -top-1.5 -left-1.5 bg-orange-500 text-white font-sports text-xs font-bold w-5 h-5 rounded-md flex items-center justify-center shadow">
+                  {{ .number }}
+                </span>
+              </div>
+              <div>
+                <a href="/players/{{ .slug }}/" class="font-sports text-lg font-bold text-white group-hover:text-orange-400 transition block">
+                  {{ .name }}
+                </a>
+                <span class="text-xs text-slate-400 uppercase font-semibold">{{ .position }}</span>
+                <span class="text-[11px] text-slate-500 block">{{ .height }} · {{ .age }} años</span>
+              </div>
+            </div>
+
+            <div class="text-right">
+              <span class="font-sports text-base font-bold text-orange-400 block">{{ .ppg }}</span>
+              <span class="text-[9px] uppercase tracking-wider text-slate-500 block">PTS/P</span>
+            </div>
+          </div>
+          {{ end }}
+        {{ end }}
+      </div>
+
+      <div class="pt-4 border-t border-slate-800 text-right">
+        <a href="/players/" class="text-xs font-bold text-orange-400 hover:text-orange-300 transition">
+          Ver todas las plantillas del club →
+        </a>
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+{{ end }}

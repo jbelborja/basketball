@@ -1,0 +1,1 @@
+{{ define "main" }}<div class="space-y-4"><h1 class="font-sports text-3xl text-white">{{ .Title }}</h1><ul>{{ range .Pages }}<li><a href="{{ .RelPermalink }}" class="text-orange-400 hover:underline">{{ .Title }}</a></li>{{ end }}</ul></div>{{ end }}

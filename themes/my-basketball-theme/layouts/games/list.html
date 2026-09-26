@@ -1,0 +1,24 @@
+{{ define "main" }}
+<h2>Calendario de Partidos</h2>
+<table>
+  <thead>
+    <tr><th>Fecha y hora</th><th>Local</th><th>Visitante</th><th>Instalación</th><th>Resultado</th></tr>
+  </thead>
+  <tbody>
+    {{ $cat := .Site.Params.currentCategory | default (index .Site.Params.categories 0) }}
+    {{ $gen := .Site.Params.currentGender | default (index .Site.Params.genders 0) }}
+    {{ range .Pages }}
+      {{ $p := .Params }}
+      {{ if and (eq $p.category $cat) (eq $p.gender $gen) }}
+        <tr>
+          <td>{{ $p.date }} {{ $p.time | default "00:00" }}</td>
+          <td><a href="/teams/{{ $p.home | urlize }}">{{ $p.home }}</a></td>
+          <td><a href="/teams/{{ $p.away | urlize }}">{{ $p.away }}</a></td>
+          <td>{{ $p.location }}</td>
+          <td>{{ with $p.result }}{{ . }}{{ else }}-{{ end }}</td>
+        </tr>
+      {{ end }}
+    {{ end }}
+  </tbody>
+</table>
+{{ end }}

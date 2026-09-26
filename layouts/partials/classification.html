@@ -1,0 +1,11 @@
+{{/* Classification partial */}}
+<table>
+  <tr><th>Pos</th><th>Team</th><th>Pts</th></tr>
+{{ $category := .Site.Params.currentCategory | default (index .Site.Params.categories 0) }}
+{{ $gender := .Site.Params.currentGender | default (index .Site.Params.genders 0) }}
+{{ range sort (where .Site.Data.classification "category" $category) "position" }}
+  {{ if eq .gender $gender }}
+    <tr><td>{{ .position }}</td><td>{{ .team }}</td><td>{{ .points }}</td></tr>
+  {{ end }}
+{{ end }}
+</table>

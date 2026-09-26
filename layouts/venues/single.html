@@ -1,0 +1,125 @@
+{{ define "main" }}
+<div class="space-y-8">
+
+  <!-- HEADER -->
+  <div class="border-b border-slate-800 pb-6 space-y-4">
+    <div class="flex items-center justify-between">
+      <a href="/venues/" class="text-xs font-bold text-orange-400 hover:text-orange-300 transition flex items-center gap-1.5">
+        ← Volver a Instalaciones y Pabellones
+      </a>
+      <span class="px-3 py-1 rounded-full bg-slate-900 border border-slate-800 text-xs text-slate-400 font-semibold">
+        🏀 {{ .Params.matches_count }} Partido(s) programado(s)
+      </span>
+    </div>
+
+    <h1 class="font-sports text-3xl sm:text-5xl text-white font-bold uppercase tracking-tight">
+      {{ .Title }}
+    </h1>
+
+    <div class="flex flex-wrap items-center gap-4 text-sm text-slate-300">
+      <span class="flex items-center gap-1.5 text-slate-400">
+        📍 <strong class="text-white">Dirección:</strong> {{ .Params.address }}
+      </span>
+      <a href="{{ .Params.maps_direct_url }}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-1.5 text-orange-400 hover:text-orange-300 font-bold hover:underline">
+        Abrir en Google Maps ↗
+      </a>
+    </div>
+  </div>
+
+  <!-- GOOGLE MAPS EMBED CARD -->
+  <div class="bg-slate-900 border border-slate-800 rounded-3xl p-4 overflow-hidden shadow-2xl space-y-4">
+    <div class="flex items-center justify-between px-2 text-xs text-slate-400 font-semibold">
+      <span>Mapa Interactivo Google Maps</span>
+      <span class="text-emerald-400 flex items-center gap-1"><span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span> Ubicación Oficial FBM</span>
+    </div>
+    <div class="w-full h-[380px] sm:h-[450px] rounded-2xl overflow-hidden border border-slate-800/80 bg-slate-950">
+      <iframe src="{{ .Params.maps_embed_url }}" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Google Maps - {{ .Title }}"></iframe>
+    </div>
+  </div>
+
+  <!-- MATCHES AT THIS VENUE -->
+  <div class="space-y-6 pt-4">
+    <h2 class="font-sports text-2xl text-white font-bold uppercase tracking-wide flex items-center gap-2">
+      <span>🏀</span> Partidos en {{ .Title }}
+    </h2>
+
+    <div class="grid grid-cols-1 gap-6">
+      {{ $currentSlug := .Params.slug }}
+      {{ $venueGames := where (where .Site.RegularPages "Section" "games") "Params.venue_slug" $currentSlug }}
+
+      {{ range $venueGames.ByWeight }}
+      <div class="match-item bg-slate-900 border border-slate-800 hover:border-slate-700 rounded-3xl p-6 transition duration-200 shadow-xl space-y-4 group">
+        
+        <!-- Top Metadata Header -->
+        <div class="flex flex-wrap items-center justify-between gap-2 pb-3 border-b border-slate-800/80 text-xs">
+          <div class="flex items-center gap-2">
+            <span class="px-2.5 py-1 rounded-full bg-slate-950 text-orange-400 font-bold border border-slate-800">
+              {{ .Params.category }} {{ .Params.gender }}
+            </span>
+            <span class="text-slate-400 font-medium">
+              📅 {{ .Date.Format "02/01/2006" }} {{ with .Params.time }}· 🕒 {{ . }}{{ end }}
+            </span>
+          </div>
+
+          <div>
+            {{ if eq (lower .Params.status) "finalizado" }}
+            <span class="px-2.5 py-1 rounded-full text-[10px] font-bold bg-emerald-500/20 text-emerald-400 border border-emerald-500/30 uppercase">
+              FINALIZADO
+            </span>
+            {{ else }}
+            <span class="px-2.5 py-1 rounded-full text-[10px] font-bold bg-blue-500/20 text-blue-400 border border-blue-500/30 uppercase">
+              PRÓXIMO
+            </span>
+            {{ end }}
+          </div>
+        </div>
+
+        <!-- Teams & Score Row -->
+        <div class="py-2 grid grid-cols-1 md:grid-cols-11 gap-4 items-center">
+          
+          <!-- Home Team (4 cols) -->
+          <div class="md:col-span-4 flex items-center gap-3 md:justify-end text-left md:text-right">
+            <div class="order-2 md:order-1 flex-1 md:flex-initial">
+              <span class="font-sports text-xl sm:text-2xl font-bold text-white group-hover:text-orange-400 transition block leading-tight">{{ .Params.team1 }}</span>
+              <span class="text-[10px] text-slate-500 uppercase font-semibold">Local</span>
+            </div>
+            <img src="{{ .Params.team1_logo | default "/images/teams/colmenar.jpg" }}" alt="{{ .Params.team1 }}" class="w-12 h-12 sm:w-14 sm:h-14 rounded-full object-cover ring-2 ring-slate-800 shadow order-1 md:order-2 flex-shrink-0"/>
+          </div>
+
+          <!-- Score / VS (3 cols) -->
+          <div class="md:col-span-3 text-center py-1">
+            <div class="inline-block px-4 py-2 bg-slate-950 rounded-2xl border border-slate-800/80">
+              {{ if eq (lower .Params.status) "finalizado" }}
+              <div class="font-sports text-3xl sm:text-4xl font-bold text-white tracking-wider">
+                <span class="{{ if gt .Params.team1_score .Params.team2_score }}text-orange-400{{ end }}">{{ .Params.team1_score }}</span>
+                <span class="text-slate-600">-</span>
+                <span class="{{ if gt .Params.team2_score .Params.team1_score }}text-orange-400{{ end }}">{{ .Params.team2_score }}</span>
+              </div>
+              {{ else }}
+              <div class="font-sports text-3xl font-bold text-orange-400">VS</div>
+              {{ end }}
+            </div>
+          </div>
+
+          <!-- Away Team (4 cols) -->
+          <div class="md:col-span-4 flex items-center gap-3 text-left">
+            <img src="{{ .Params.team2_logo | default "/images/teams/rival.jpg" }}" alt="{{ .Params.team2 }}" class="w-12 h-12 sm:w-14 sm:h-14 rounded-full object-cover ring-2 ring-slate-800 shadow flex-shrink-0"/>
+            <div>
+              <span class="font-sports text-xl sm:text-2xl font-bold text-white group-hover:text-orange-400 transition block leading-tight">{{ .Params.team2 }}</span>
+              <span class="text-[10px] text-slate-500 uppercase font-semibold">Visitante</span>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+      {{ else }}
+      <div class="bg-slate-900 border border-slate-800 rounded-3xl p-8 text-center text-slate-400">
+        No se encontraron partidos registrados en esta ubicación.
+      </div>
+      {{ end }}
+    </div>
+  </div>
+
+</div>
+{{ end }}
