@@ -3,9 +3,9 @@
 
   <!-- BREADCRUMB -->
   <nav class="flex items-center gap-2 text-xs font-semibold text-slate-400">
-    <a href="/" class="hover:text-white transition">Inicio</a>
+    <a href="{{ "" | relURL }}" class="hover:text-white transition">Inicio</a>
     <span>/</span>
-    <a href="/games/" class="hover:text-white transition">Calendario</a>
+    <a href="{{ "games/" | relURL }}" class="hover:text-white transition">Calendario</a>
     <span>/</span>
     <span class="text-orange-400">Detalle del Partido</span>
   </nav>
@@ -13,7 +13,7 @@
   <!-- MATCH HEADER / SCOREBOARD HERO -->
   <div class="relative rounded-3xl overflow-hidden bg-gradient-to-b from-slate-900 to-slate-950 border border-slate-800 shadow-2xl">
     <!-- Stadium Court Banner overlay -->
-    <div class="absolute inset-0 bg-[url('/images/games/game-banner.jpg')] bg-cover bg-center opacity-10 pointer-events-none"></div>
+    <div class="absolute inset-0 bg-cover bg-center opacity-10 pointer-events-none" style="background-image: url('{{ "images/games/game-banner.jpg" | relURL }}')"></div>
 
     <!-- Match Metadata Bar -->
     <div class="relative z-10 px-6 py-4 border-b border-slate-800 flex flex-wrap items-center justify-between gap-3 bg-slate-950/60">
@@ -49,9 +49,9 @@
         
         <!-- Home Team (4 cols) -->
         <div class="md:col-span-4 flex flex-col items-center md:items-end text-center md:text-right group">
-          <a href="/teams/{{ .Params.team1_slug | default (.Params.team1 | urlize) }}/" class="flex flex-col items-center md:items-end">
+          <a href="{{ (printf "teams/%s/" (.Params.team1_slug | default (.Params.team1 | urlize))) | relURL }}" class="flex flex-col items-center md:items-end">
             <div class="relative mb-3">
-              <img src="{{ .Params.team1_logo | default "/images/teams/team1.jpg" }}" alt="{{ .Params.team1 }}" class="w-24 h-24 sm:w-28 sm:h-28 rounded-full object-cover ring-4 ring-slate-800 group-hover:ring-orange-500 transition-all duration-300 shadow-xl"/>
+              <img src="{{ (.Params.team1_logo | default "/images/teams/team1.jpg") | relURL }}" alt="{{ .Params.team1 }}" class="w-24 h-24 sm:w-28 sm:h-28 rounded-full object-cover ring-4 ring-slate-800 group-hover:ring-orange-500 transition-all duration-300 shadow-xl"/>
             </div>
             <h2 class="font-sports text-2xl sm:text-3xl text-white font-bold group-hover:text-orange-400 transition">{{ .Params.team1 }}</h2>
             <span class="text-xs text-slate-400 uppercase font-bold tracking-wider mt-1">Equipo Local</span>
@@ -81,9 +81,9 @@
 
         <!-- Away Team (4 cols) -->
         <div class="md:col-span-4 flex flex-col items-center md:items-start text-center md:text-left group">
-          <a href="/teams/{{ .Params.team2_slug | default (.Params.team2 | urlize) }}/" class="flex flex-col items-center md:items-start">
+          <a href="{{ (printf "teams/%s/" (.Params.team2_slug | default (.Params.team2 | urlize))) | relURL }}" class="flex flex-col items-center md:items-start">
             <div class="relative mb-3">
-              <img src="{{ .Params.team2_logo | default "/images/teams/team2.jpg" }}" alt="{{ .Params.team2 }}" class="w-24 h-24 sm:w-28 sm:h-28 rounded-full object-cover ring-4 ring-slate-800 group-hover:ring-orange-500 transition-all duration-300 shadow-xl"/>
+              <img src="{{ (.Params.team2_logo | default "/images/teams/team2.jpg") | relURL }}" alt="{{ .Params.team2 }}" class="w-24 h-24 sm:w-28 sm:h-28 rounded-full object-cover ring-4 ring-slate-800 group-hover:ring-orange-500 transition-all duration-300 shadow-xl"/>
             </div>
             <h2 class="font-sports text-2xl sm:text-3xl text-white font-bold group-hover:text-orange-400 transition">{{ .Params.team2 }}</h2>
             <span class="text-xs text-slate-400 uppercase font-bold tracking-wider mt-1">Equipo Visitante</span>
@@ -132,7 +132,7 @@
         <tbody class="divide-y divide-slate-800/80 font-medium">
           <tr>
             <td class="text-left py-4 font-bold text-white flex items-center gap-3">
-              <img src="{{ .Params.team1_logo }}" alt="{{ .Params.team1 }}" class="w-6 h-6 rounded-full object-cover"/>
+              <img src="{{ .Params.team1_logo | relURL }}" alt="{{ .Params.team1 }}" class="w-6 h-6 rounded-full object-cover"/>
               {{ .Params.team1 }}
             </td>
             <td class="py-4 text-slate-300">{{ .Params.q1_home }}</td>
@@ -143,7 +143,7 @@
           </tr>
           <tr>
             <td class="text-left py-4 font-semibold text-slate-300 flex items-center gap-3">
-              <img src="{{ .Params.team2_logo }}" alt="{{ .Params.team2 }}" class="w-6 h-6 rounded-full object-cover"/>
+              <img src="{{ .Params.team2_logo | relURL }}" alt="{{ .Params.team2 }}" class="w-6 h-6 rounded-full object-cover"/>
               {{ .Params.team2 }}
             </td>
             <td class="py-4 text-slate-400">{{ .Params.q1_away }}</td>
@@ -170,7 +170,7 @@
         </span>
       </div>
       <div class="flex items-center gap-4">
-        <img src="{{ .Params.mvp_photo }}" alt="{{ .Params.mvp_name }}" class="w-16 h-16 rounded-2xl object-cover ring-2 ring-amber-400 shadow-md"/>
+        <img src="{{ .Params.mvp_photo | relURL }}" alt="{{ .Params.mvp_name }}" class="w-16 h-16 rounded-2xl object-cover ring-2 ring-amber-400 shadow-md"/>
         <div>
           <h4 class="font-sports text-xl text-white font-bold">{{ .Params.mvp_name }}</h4>
           <p class="text-xs text-amber-400 font-bold mt-1">{{ .Params.mvp_stats }}</p>
@@ -216,7 +216,7 @@
     {{ with .Params.referees }}
     <div class="pt-6 border-t border-slate-800 flex items-center justify-between text-xs text-slate-400">
       <span><strong>Árbitros:</strong> {{ . }}</span>
-      <a href="/games/" class="text-orange-400 hover:text-orange-300 font-semibold transition">← Volver al Calendario</a>
+      <a href="{{ "games/" | relURL }}" class="text-orange-400 hover:text-orange-300 font-semibold transition">← Volver al Calendario</a>
     </div>
     {{ end }}
   </div>

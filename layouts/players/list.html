@@ -18,7 +18,7 @@
       <div>
         <!-- Photo Container -->
         <div class="relative h-72 bg-slate-950 overflow-hidden">
-          <img src="{{ .photo }}" alt="{{ .name }}" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500"/>
+          <img src="{{ .photo | relURL }}" alt="{{ .name }}" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500"/>
           <div class="absolute inset-0 bg-gradient-to-t from-slate-900 via-transparent to-transparent"></div>
           
           <!-- Jersey Number Badge -->
@@ -71,7 +71,7 @@
 
       <!-- Action Footer -->
       <div class="p-5 pt-0">
-        <a href="/players/{{ .slug }}/" class="block text-center w-full bg-slate-800 hover:bg-orange-500 text-slate-200 hover:text-white font-bold text-xs uppercase tracking-wider py-2.5 rounded-xl transition duration-200 shadow">
+        <a href="{{ (printf "players/%s/" .slug) | relURL }}" class="block text-center w-full bg-slate-800 hover:bg-orange-500 text-slate-200 hover:text-white font-bold text-xs uppercase tracking-wider py-2.5 rounded-xl transition duration-200 shadow">
           Ver Ficha y Biografía →
         </a>
       </div>

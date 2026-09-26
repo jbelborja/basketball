@@ -7,7 +7,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
   <style>
     body { font-family: 'Plus Jakarta Sans', sans-serif; }
     .font-sports { font-family: 'Oswald', sans-serif; }
@@ -33,11 +33,11 @@
       <div class="flex items-center gap-4 text-slate-400">
         {{ $nextUp := index (where .Site.Data.games "status" "Próximo") 0 }}
         {{ if $nextUp }}
-        <a href="/games/{{ $nextUp.slug }}/" class="hover:text-orange-400 transition flex items-center gap-1 font-semibold">
+        <a href="{{ (printf "games/%s/" $nextUp.slug) | relURL }}" class="hover:text-orange-400 transition flex items-center gap-1 font-semibold">
           Próximo partido: {{ $nextUp.date }} ({{ $nextUp.home }} vs {{ $nextUp.away }}) <span class="text-orange-400">→</span>
         </a>
         {{ else }}
-        <a href="/games/" class="hover:text-orange-400 transition flex items-center gap-1 font-semibold">
+        <a href="{{ "games/" | relURL }}" class="hover:text-orange-400 transition flex items-center gap-1 font-semibold">
           Ver Calendario Completo <span class="text-orange-400">→</span>
         </a>
         {{ end }}
@@ -51,9 +51,9 @@
       <div class="flex items-center justify-between h-20">
         
         <!-- Brand Logo & Title -->
-        <a href="/" class="flex items-center gap-3 group">
+        <a href="{{ "" | relURL }}" class="flex items-center gap-3 group">
           <div class="relative">
-            <img src="/images/teams/colmenar.jpg" alt="CB Colmenar Viejo" class="h-12 w-12 rounded-full object-cover ring-2 ring-orange-500 ring-offset-2 ring-offset-slate-900 group-hover:scale-105 transition-transform duration-300 shadow-lg shadow-orange-500/20"/>
+            <img src="{{ "images/teams/colmenar.jpg" | relURL }}" alt="CB Colmenar Viejo" class="h-12 w-12 rounded-full object-cover ring-2 ring-orange-500 ring-offset-2 ring-offset-slate-900 group-hover:scale-105 transition-transform duration-300 shadow-lg shadow-orange-500/20"/>
             <span class="absolute -bottom-1 -right-1 bg-orange-500 text-[9px] font-extrabold px-1.5 py-0.2 rounded text-white font-sports uppercase tracking-wider">CB</span>
           </div>
           <div>
@@ -68,19 +68,19 @@
 
         <!-- Desktop Menu Links -->
         <nav class="hidden md:flex items-center gap-1 lg:gap-2">
-          <a href="/" class="px-3.5 py-2 rounded-lg text-sm font-semibold text-slate-300 hover:text-white hover:bg-slate-800/80 transition {{ if eq .RelPermalink "/" }}text-orange-400 bg-slate-800/60 font-bold{{ end }}">
+          <a href="{{ "" | relURL }}" class="px-3.5 py-2 rounded-lg text-sm font-semibold text-slate-300 hover:text-white hover:bg-slate-800/80 transition {{ if eq .RelPermalink "/" }}text-orange-400 bg-slate-800/60 font-bold{{ end }}">
             Inicio
           </a>
-          <a href="/games/" class="nav-calendar-link px-3.5 py-2 rounded-lg text-sm font-semibold text-slate-300 hover:text-white hover:bg-slate-800/80 transition {{ if in .RelPermalink "/games" }}text-orange-400 bg-slate-800/60 font-bold{{ end }}">
+          <a href="{{ "games/" | relURL }}" class="nav-calendar-link px-3.5 py-2 rounded-lg text-sm font-semibold text-slate-300 hover:text-white hover:bg-slate-800/80 transition {{ if in .RelPermalink "/games" }}text-orange-400 bg-slate-800/60 font-bold{{ end }}">
             Calendario
           </a>
-          <a href="/classification/" class="px-3.5 py-2 rounded-lg text-sm font-semibold text-slate-300 hover:text-white hover:bg-slate-800/80 transition {{ if in .RelPermalink "/classification" }}text-orange-400 bg-slate-800/60 font-bold{{ end }}">
+          <a href="{{ "classification/" | relURL }}" class="px-3.5 py-2 rounded-lg text-sm font-semibold text-slate-300 hover:text-white hover:bg-slate-800/80 transition {{ if in .RelPermalink "/classification" }}text-orange-400 bg-slate-800/60 font-bold{{ end }}">
             Clasificación
           </a>
-          <a href="/teams/" class="px-3.5 py-2 rounded-lg text-sm font-semibold text-slate-300 hover:text-white hover:bg-slate-800/80 transition {{ if in .RelPermalink "/teams" }}text-orange-400 bg-slate-800/60 font-bold{{ end }}">
+          <a href="{{ "teams/" | relURL }}" class="px-3.5 py-2 rounded-lg text-sm font-semibold text-slate-300 hover:text-white hover:bg-slate-800/80 transition {{ if in .RelPermalink "/teams" }}text-orange-400 bg-slate-800/60 font-bold{{ end }}">
             Equipos
           </a>
-          <a href="/venues/" class="px-3.5 py-2 rounded-lg text-sm font-semibold text-slate-300 hover:text-white hover:bg-slate-800/80 transition {{ if in .RelPermalink "/venues" }}text-orange-400 bg-slate-800/60 font-bold{{ end }}">
+          <a href="{{ "venues/" | relURL }}" class="px-3.5 py-2 rounded-lg text-sm font-semibold text-slate-300 hover:text-white hover:bg-slate-800/80 transition {{ if in .RelPermalink "/venues" }}text-orange-400 bg-slate-800/60 font-bold{{ end }}">
             Pabellones
           </a>
         </nav>
@@ -102,7 +102,7 @@
             </select>
           </div>
 
-          <a href="/games/" class="nav-calendar-link inline-flex items-center gap-2 bg-gradient-to-r from-orange-500 to-amber-500 hover:from-orange-600 hover:to-amber-600 text-white font-bold text-xs uppercase tracking-wider px-4 py-2.5 rounded-xl shadow-lg shadow-orange-500/25 transition-all transform hover:-translate-y-0.5">
+          <a href="{{ "games/" | relURL }}" class="nav-calendar-link inline-flex items-center gap-2 bg-gradient-to-r from-orange-500 to-amber-500 hover:from-orange-600 hover:to-amber-600 text-white font-bold text-xs uppercase tracking-wider px-4 py-2.5 rounded-xl shadow-lg shadow-orange-500/25 transition-all transform hover:-translate-y-0.5">
             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
             Calendario
           </a>
@@ -120,11 +120,11 @@
 
     <!-- Mobile Dropdown -->
     <div id="mobile-menu" class="hidden md:hidden border-t border-slate-800 bg-slate-900 px-4 pt-3 pb-6 space-y-2">
-      <a href="/" class="block px-3 py-2 rounded-lg text-base font-semibold text-slate-200 hover:bg-slate-800">Inicio</a>
-      <a href="/games/" class="nav-calendar-link block px-3 py-2 rounded-lg text-base font-semibold text-slate-200 hover:bg-slate-800">Calendario</a>
-      <a href="/classification/" class="block px-3 py-2 rounded-lg text-base font-semibold text-slate-200 hover:bg-slate-800">Clasificación</a>
-      <a href="/teams/" class="block px-3 py-2 rounded-lg text-base font-semibold text-slate-200 hover:bg-slate-800">Equipos</a>
-      <a href="/venues/" class="block px-3 py-2 rounded-lg text-base font-semibold text-slate-200 hover:bg-slate-800">Pabellones</a>
+      <a href="{{ "" | relURL }}" class="block px-3 py-2 rounded-lg text-base font-semibold text-slate-200 hover:bg-slate-800">Inicio</a>
+      <a href="{{ "games/" | relURL }}" class="nav-calendar-link block px-3 py-2 rounded-lg text-base font-semibold text-slate-200 hover:bg-slate-800">Calendario</a>
+      <a href="{{ "classification/" | relURL }}" class="block px-3 py-2 rounded-lg text-base font-semibold text-slate-200 hover:bg-slate-800">Clasificación</a>
+      <a href="{{ "teams/" | relURL }}" class="block px-3 py-2 rounded-lg text-base font-semibold text-slate-200 hover:bg-slate-800">Equipos</a>
+      <a href="{{ "venues/" | relURL }}" class="block px-3 py-2 rounded-lg text-base font-semibold text-slate-200 hover:bg-slate-800">Pabellones</a>
     </div>
   </header>
 
@@ -141,7 +141,7 @@
         <!-- Club Info -->
         <div class="md:col-span-1">
           <div class="flex items-center gap-3 mb-4">
-            <img src="/images/teams/colmenar.jpg" alt="CB Colmenar Viejo" class="h-10 w-10 rounded-full object-cover ring-2 ring-orange-500"/>
+            <img src="{{ "images/teams/colmenar.jpg" | relURL }}" alt="CB Colmenar Viejo" class="h-10 w-10 rounded-full object-cover ring-2 ring-orange-500"/>
             <span class="font-sports text-xl text-white font-bold tracking-wider">CB COLMENAR VIEJO</span>
           </div>
           <p class="text-sm text-slate-400 leading-relaxed mb-4">
@@ -153,10 +153,10 @@
         <div>
           <h4 class="font-sports text-white text-base tracking-wider uppercase mb-4">Competición</h4>
           <ul class="space-y-2 text-sm">
-            <li><a href="/games/" class="nav-calendar-link hover:text-orange-400 transition">Calendario Completo</a></li>
-            <li><a href="/classification/" class="hover:text-orange-400 transition">Tabla de Clasificación</a></li>
-            <li><a href="/teams/" class="hover:text-orange-400 transition">Equipos del Club</a></li>
-            <li><a href="/venues/" class="hover:text-orange-400 transition">Pabellones e Instalaciones</a></li>
+            <li><a href="{{ "games/" | relURL }}" class="nav-calendar-link hover:text-orange-400 transition">Calendario Completo</a></li>
+            <li><a href="{{ "classification/" | relURL }}" class="hover:text-orange-400 transition">Tabla de Clasificación</a></li>
+            <li><a href="{{ "teams/" | relURL }}" class="hover:text-orange-400 transition">Equipos del Club</a></li>
+            <li><a href="{{ "venues/" | relURL }}" class="hover:text-orange-400 transition">Pabellones e Instalaciones</a></li>
           </ul>
         </div>
 
@@ -230,7 +230,7 @@
         if (selectedCat && selectedCat !== 'all') params.set('category', selectedCat);
         if (selectedGen && selectedGen !== 'all') params.set('gender', selectedGen);
 
-        const targetUrl = '/games/' + (params.toString() ? ('?' + params.toString()) : '');
+        const targetUrl = {{ "games/" | relURL | jsonify }} + (params.toString() ? ('?' + params.toString()) : '');
         document.querySelectorAll('.nav-calendar-link').forEach(a => {
           a.href = targetUrl;
         });

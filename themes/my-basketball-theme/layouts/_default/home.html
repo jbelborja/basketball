@@ -24,11 +24,11 @@
         </p>
 
         <div class="flex flex-wrap gap-4 pt-2">
-          <a href="/games/" class="inline-flex items-center gap-2 bg-gradient-to-r from-orange-500 to-amber-500 hover:from-orange-600 hover:to-amber-600 text-white font-bold text-sm uppercase tracking-wider px-6 py-3.5 rounded-xl shadow-lg shadow-orange-500/30 transition transform hover:-translate-y-0.5">
+          <a href="{{ "games/" | relURL }}" class="inline-flex items-center gap-2 bg-gradient-to-r from-orange-500 to-amber-500 hover:from-orange-600 hover:to-amber-600 text-white font-bold text-sm uppercase tracking-wider px-6 py-3.5 rounded-xl shadow-lg shadow-orange-500/30 transition transform hover:-translate-y-0.5">
             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
             Ver Calendario
           </a>
-          <a href="/classification/" class="inline-flex items-center gap-2 bg-slate-800/80 hover:bg-slate-700 text-slate-200 hover:text-white font-bold text-sm uppercase tracking-wider px-6 py-3.5 rounded-xl border border-slate-700 transition">
+          <a href="{{ "classification/" | relURL }}" class="inline-flex items-center gap-2 bg-slate-800/80 hover:bg-slate-700 text-slate-200 hover:text-white font-bold text-sm uppercase tracking-wider px-6 py-3.5 rounded-xl border border-slate-700 transition">
             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path></svg>
             Clasificación
           </a>
@@ -54,7 +54,7 @@
           <div class="flex items-center justify-between gap-4 py-4">
             <!-- Home Team -->
             <div class="text-center flex-1">
-              <img src="{{ $featuredGame.home_logo | default "/images/teams/colmenar.jpg" }}" alt="{{ $featuredGame.home }}" class="w-16 h-16 rounded-full object-cover mx-auto ring-2 ring-slate-700 mb-2 shadow"/>
+              <img src="{{ ($featuredGame.home_logo | default "/images/teams/colmenar.jpg") | relURL }}" alt="{{ $featuredGame.home }}" class="w-16 h-16 rounded-full object-cover mx-auto ring-2 ring-slate-700 mb-2 shadow"/>
               <p class="font-bold text-white text-xs line-clamp-2">{{ $featuredGame.home }}</p>
               <span class="text-[10px] text-slate-400">Local</span>
             </div>
@@ -67,7 +67,7 @@
 
             <!-- Away Team -->
             <div class="text-center flex-1">
-              <img src="{{ $featuredGame.away_logo | default "/images/teams/rival.jpg" }}" alt="{{ $featuredGame.away }}" class="w-16 h-16 rounded-full object-cover mx-auto ring-2 ring-slate-700 mb-2 shadow"/>
+              <img src="{{ ($featuredGame.away_logo | default "/images/teams/rival.jpg") | relURL }}" alt="{{ $featuredGame.away }}" class="w-16 h-16 rounded-full object-cover mx-auto ring-2 ring-slate-700 mb-2 shadow"/>
               <p class="font-bold text-white text-xs line-clamp-2">{{ $featuredGame.away }}</p>
               <span class="text-[10px] text-slate-400">Visitante</span>
             </div>
@@ -80,7 +80,7 @@
           </div>
 
           <div class="mt-4">
-            <a href="/games/{{ $featuredGame.slug }}/" class="block text-center w-full bg-slate-800 hover:bg-slate-700 text-white font-bold text-xs uppercase tracking-wider py-2.5 rounded-xl transition">
+            <a href="{{ (printf "games/%s/" $featuredGame.slug) | relURL }}" class="block text-center w-full bg-slate-800 hover:bg-slate-700 text-white font-bold text-xs uppercase tracking-wider py-2.5 rounded-xl transition">
               Ficha del Partido →
             </a>
           </div>
@@ -137,7 +137,7 @@
         <div class="flex items-center justify-between gap-4">
           <!-- Home -->
           <div class="flex items-center gap-3 flex-1">
-            <img src="{{ $lastGame.home_logo | default "/images/teams/colmenar.jpg" }}" alt="{{ $lastGame.home }}" class="w-14 h-14 rounded-full object-cover ring-2 ring-orange-500 shadow"/>
+            <img src="{{ ($lastGame.home_logo | default "/images/teams/colmenar.jpg") | relURL }}" alt="{{ $lastGame.home }}" class="w-14 h-14 rounded-full object-cover ring-2 ring-orange-500 shadow"/>
             <div>
               <p class="font-sports text-lg sm:text-xl font-bold text-white leading-tight">{{ $lastGame.home }}</p>
               <span class="text-xs text-slate-400">Local</span>
@@ -161,7 +161,7 @@
               <p class="font-sports text-lg sm:text-xl font-bold text-white leading-tight">{{ $lastGame.away }}</p>
               <span class="text-xs text-slate-400">Visitante</span>
             </div>
-            <img src="{{ $lastGame.away_logo | default "/images/teams/rival.jpg" }}" alt="{{ $lastGame.away }}" class="w-14 h-14 rounded-full object-cover ring-2 ring-slate-700 shadow"/>
+            <img src="{{ ($lastGame.away_logo | default "/images/teams/rival.jpg") | relURL }}" alt="{{ $lastGame.away }}" class="w-14 h-14 rounded-full object-cover ring-2 ring-slate-700 shadow"/>
           </div>
         </div>
       </div>
@@ -171,7 +171,7 @@
         <div class="text-slate-300">
           <span class="font-bold text-orange-400">📍 Pabellón:</span> {{ $lastGame.venue }}
         </div>
-        <a href="/games/{{ $lastGame.slug }}/" class="font-bold text-orange-400 hover:text-orange-300 transition flex items-center gap-1">
+        <a href="{{ (printf "games/%s/" $lastGame.slug) | relURL }}" class="font-bold text-orange-400 hover:text-orange-300 transition flex items-center gap-1">
           Ficha Completa <span>→</span>
         </a>
       </div>
@@ -184,7 +184,7 @@
           <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Federación Baloncesto Madrid</span>
           <h2 class="font-sports text-2xl text-white font-bold">Clasificación</h2>
         </div>
-        <a href="/classification/" class="text-xs font-bold text-slate-400 hover:text-white transition">
+        <a href="{{ "classification/" | relURL }}" class="text-xs font-bold text-slate-400 hover:text-white transition">
           Ver Todo →
         </a>
       </div>
@@ -200,9 +200,9 @@
               {{ else }}text-slate-500{{ end }}">
               {{ .position }}
             </span>
-            <img src="{{ .logo }}" alt="{{ .team }}" class="w-8 h-8 rounded-full object-cover"/>
+            <img src="{{ .logo | relURL }}" alt="{{ .team }}" class="w-8 h-8 rounded-full object-cover"/>
             <div>
-              <a href="/classification/" class="text-xs font-bold text-white hover:text-orange-400 transition block truncate max-w-[140px]">{{ .team }}</a>
+              <a href="{{ "classification/" | relURL }}" class="text-xs font-bold text-white hover:text-orange-400 transition block truncate max-w-[140px]">{{ .team }}</a>
               <p class="text-[10px] text-slate-400">{{ .category }} · {{ .v }}V - {{ .d }}D</p>
             </div>
           </div>
@@ -215,7 +215,7 @@
       </div>
 
       <div class="mt-6 pt-4 border-t border-slate-800 text-center">
-        <a href="/classification/" class="inline-flex items-center gap-2 text-xs font-bold text-orange-400 hover:text-orange-300 transition uppercase tracking-wider">
+        <a href="{{ "classification/" | relURL }}" class="inline-flex items-center gap-2 text-xs font-bold text-orange-400 hover:text-orange-300 transition uppercase tracking-wider">
           Consultar todas las categorías <span>→</span>
         </a>
       </div>
@@ -230,7 +230,7 @@
         <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Nuestras Secciones</span>
         <h2 class="font-sports text-3xl sm:text-4xl text-white font-bold uppercase tracking-tight">Equipos del Club</h2>
       </div>
-      <a href="/teams/" class="text-sm font-bold text-slate-400 hover:text-orange-400 transition">
+      <a href="{{ "teams/" | relURL }}" class="text-sm font-bold text-slate-400 hover:text-orange-400 transition">
         Ver todos los equipos →
       </a>
     </div>
@@ -240,7 +240,7 @@
       <div class="group bg-slate-900 border border-slate-800 rounded-3xl overflow-hidden hover:border-slate-700 transition-all duration-300 shadow-lg hover:shadow-orange-500/5 hover:-translate-y-1">
         <div class="relative bg-gradient-to-br from-slate-950 via-slate-900 to-slate-800 p-6 flex justify-center items-center overflow-hidden border-b border-slate-800/80">
           <div class="absolute inset-0 bg-orange-500/5 group-hover:bg-orange-500/10 transition"></div>
-          <img src="{{ .logo }}" alt="{{ .name }}" class="h-24 w-24 rounded-full object-cover ring-4 ring-slate-800 group-hover:scale-110 group-hover:ring-orange-500/50 transition-all duration-300 shadow-xl"/>
+          <img src="{{ .logo | relURL }}" alt="{{ .name }}" class="h-24 w-24 rounded-full object-cover ring-4 ring-slate-800 group-hover:scale-110 group-hover:ring-orange-500/50 transition-all duration-300 shadow-xl"/>
           <span class="absolute top-3 right-3 text-[10px] font-bold uppercase tracking-wider px-2.5 py-1 rounded-full bg-slate-800 text-orange-400 border border-slate-700">
             {{ .category }}
           </span>
@@ -263,7 +263,7 @@
             </div>
           </div>
 
-          <a href="/teams/{{ .slug }}/" class="block text-center w-full bg-slate-800/80 hover:bg-orange-500 text-slate-200 hover:text-white font-bold text-xs uppercase tracking-wider py-2.5 rounded-xl transition duration-200">
+          <a href="{{ (printf "teams/%s/" .slug) | relURL }}" class="block text-center w-full bg-slate-800/80 hover:bg-orange-500 text-slate-200 hover:text-white font-bold text-xs uppercase tracking-wider py-2.5 rounded-xl transition duration-200">
             Ver Ficha del Equipo
           </a>
         </div>
@@ -280,7 +280,7 @@
         <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Cantera & Formación</span>
         <h2 class="font-sports text-3xl sm:text-4xl text-white font-bold uppercase tracking-tight">Jugadores Destacados</h2>
       </div>
-      <a href="/players/" class="text-sm font-bold text-slate-400 hover:text-orange-400 transition">
+      <a href="{{ "players/" | relURL }}" class="text-sm font-bold text-slate-400 hover:text-orange-400 transition">
         Ver plantilla completa →
       </a>
     </div>
@@ -290,7 +290,7 @@
       <div class="group bg-slate-900 border border-slate-800 rounded-3xl overflow-hidden hover:border-slate-700 transition-all duration-300 shadow-lg hover:-translate-y-1">
         <!-- Player Photo Container -->
         <div class="relative h-60 bg-slate-950 overflow-hidden">
-          <img src="{{ .photo }}" alt="{{ .name }}" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500"/>
+          <img src="{{ .photo | relURL }}" alt="{{ .name }}" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500"/>
           <div class="absolute inset-0 bg-gradient-to-t from-slate-900 via-transparent to-transparent"></div>
           
           <!-- Jersey Number Floating Badge -->
@@ -312,7 +312,7 @@
             <p class="text-xs text-slate-400 truncate">{{ .team }}</p>
           </div>
 
-          <a href="/players/{{ .slug }}/" class="block text-center w-full bg-slate-800 hover:bg-slate-700 text-white font-bold text-xs uppercase tracking-wider py-2 rounded-xl transition">
+          <a href="{{ (printf "players/%s/" .slug) | relURL }}" class="block text-center w-full bg-slate-800 hover:bg-slate-700 text-white font-bold text-xs uppercase tracking-wider py-2 rounded-xl transition">
             Ver Ficha
           </a>
         </div>
@@ -341,7 +341,7 @@
         <p class="text-sm text-slate-400 leading-relaxed">
           Resultados y actas actualizadas directamente desde la Federación de Baloncesto de Madrid para todas nuestras categorías.
         </p>
-        <a href="/games/" class="inline-block text-xs font-bold text-orange-400 hover:text-orange-300">Consultar partidos →</a>
+        <a href="{{ "games/" | relURL }}" class="inline-block text-xs font-bold text-orange-400 hover:text-orange-300">Consultar partidos →</a>
       </article>
 
       <article class="bg-slate-900 border border-slate-800 rounded-3xl p-6 space-y-4 hover:border-slate-700 transition">
@@ -355,7 +355,7 @@
         <p class="text-sm text-slate-400 leading-relaxed">
           Información completa de los 15 equipos federados del club, desde categorías de formación hasta Senior.
         </p>
-        <a href="/teams/" class="inline-block text-xs font-bold text-orange-400 hover:text-orange-300">Ver equipos →</a>
+        <a href="{{ "teams/" | relURL }}" class="inline-block text-xs font-bold text-orange-400 hover:text-orange-300">Ver equipos →</a>
       </article>
 
       <article class="bg-slate-900 border border-slate-800 rounded-3xl p-6 space-y-4 hover:border-slate-700 transition">

@@ -4,7 +4,7 @@
   <!-- HEADER -->
   <div class="border-b border-slate-800 pb-6 space-y-4">
     <div class="flex items-center justify-between">
-      <a href="/venues/" class="text-xs font-bold text-orange-400 hover:text-orange-300 transition flex items-center gap-1.5">
+      <a href="{{ "venues/" | relURL }}" class="text-xs font-bold text-orange-400 hover:text-orange-300 transition flex items-center gap-1.5">
         ← Volver a Instalaciones y Pabellones
       </a>
       <span class="px-3 py-1 rounded-full bg-slate-900 border border-slate-800 text-xs text-slate-400 font-semibold">
@@ -83,7 +83,7 @@
               <span class="font-sports text-xl sm:text-2xl font-bold text-white group-hover:text-orange-400 transition block leading-tight">{{ .Params.team1 }}</span>
               <span class="text-[10px] text-slate-500 uppercase font-semibold">Local</span>
             </div>
-            <img src="{{ .Params.team1_logo | default "/images/teams/colmenar.jpg" }}" alt="{{ .Params.team1 }}" class="w-12 h-12 sm:w-14 sm:h-14 rounded-full object-cover ring-2 ring-slate-800 shadow order-1 md:order-2 flex-shrink-0"/>
+            <img src="{{ (.Params.team1_logo | default "/images/teams/colmenar.jpg") | relURL }}" alt="{{ .Params.team1 }}" class="w-12 h-12 sm:w-14 sm:h-14 rounded-full object-cover ring-2 ring-slate-800 shadow order-1 md:order-2 flex-shrink-0"/>
           </div>
 
           <!-- Score / VS (3 cols) -->
@@ -103,7 +103,7 @@
 
           <!-- Away Team (4 cols) -->
           <div class="md:col-span-4 flex items-center gap-3 text-left">
-            <img src="{{ .Params.team2_logo | default "/images/teams/rival.jpg" }}" alt="{{ .Params.team2 }}" class="w-12 h-12 sm:w-14 sm:h-14 rounded-full object-cover ring-2 ring-slate-800 shadow flex-shrink-0"/>
+            <img src="{{ (.Params.team2_logo | default "/images/teams/rival.jpg") | relURL }}" alt="{{ .Params.team2 }}" class="w-12 h-12 sm:w-14 sm:h-14 rounded-full object-cover ring-2 ring-slate-800 shadow flex-shrink-0"/>
             <div>
               <span class="font-sports text-xl sm:text-2xl font-bold text-white group-hover:text-orange-400 transition block leading-tight">{{ .Params.team2 }}</span>
               <span class="text-[10px] text-slate-500 uppercase font-semibold">Visitante</span>

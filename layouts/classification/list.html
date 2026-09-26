@@ -69,7 +69,7 @@
                 <!-- Team Name & Logo -->
                 <td class="py-4 px-6">
                   <div class="flex items-center gap-3">
-                    <img src="{{ .logo | default (printf "/images/teams/%s.jpg" .slug) }}" alt="{{ .team }}" class="w-9 h-9 rounded-full object-cover ring-2 ring-slate-800 shadow group-hover:ring-orange-500 transition"/>
+                    <img src="{{ (.logo | default (printf "/images/teams/%s.jpg" .slug)) | relURL }}" alt="{{ .team }}" class="w-9 h-9 rounded-full object-cover ring-2 ring-slate-800 shadow group-hover:ring-orange-500 transition"/>
                     <div>
                       <span class="font-bold text-white group-hover:text-orange-400 transition text-base block">
                         {{ .team }}
@@ -120,7 +120,7 @@
         <div class="flex flex-wrap items-center gap-4">
           <span class="flex items-center gap-2"><span class="w-3 h-3 rounded bg-slate-700"></span> Sistema de puntuación FBM: 2 puntos victoria, 1 punto derrota</span>
         </div>
-        <a href="/games/?category={{ .category }}&gender={{ .gender }}" class="text-orange-400 hover:text-orange-300 font-semibold transition">Consultar calendario de {{ .category }} {{ .gender }} →</a>
+        <a href="{{ "games/" | relURL }}?category={{ .category }}&gender={{ .gender }}" class="text-orange-400 hover:text-orange-300 font-semibold transition">Consultar calendario de {{ .category }} {{ .gender }} →</a>
       </div>
 
     </div>
