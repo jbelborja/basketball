@@ -4,7 +4,7 @@ name: "COLMENAR VIEJO B"
 slug: "colmenar-viejo-b-infantil-masculino"
 category: "Infantil"
 gender: "masculino"
-logo: "/images/teams/cbcolmenar.png"
+logo: "images/teams/cbcolmenar.png"
 coach: "Entrenador CB Colmenar"
 venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1985
