@@ -18,7 +18,7 @@
       
       <!-- Big Crest -->
       <div class="relative flex-shrink-0">
-        <img src="{{ (.Params.logo | default "/images/teams/team1.jpg") | relURL }}" alt="{{ .Title }}" class="w-32 h-32 sm:w-40 sm:h-40 rounded-full object-cover ring-4 ring-orange-500/80 shadow-2xl"/>
+        <img src="{{ (.Params.logo | default "images/teams/team1.jpg") | relURL }}" alt="{{ .Title }}" class="w-32 h-32 sm:w-40 sm:h-40 rounded-full object-cover ring-4 ring-orange-500/80 shadow-2xl"/>
         <span class="absolute -bottom-2 right-2 bg-orange-500 text-white font-sports text-sm font-bold px-3 py-1 rounded-full shadow">
           #{{ .Params.league_position | default 1 }} LIGA
         </span>

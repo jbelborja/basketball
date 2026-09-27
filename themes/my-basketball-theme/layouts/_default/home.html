@@ -67,7 +67,7 @@
 
             <!-- Away Team -->
             <div class="text-center flex-1">
-              <img src="{{ ($featuredGame.away_logo | default "images/teams/rival.jpg") | relURL }}" alt="{{ $featuredGame.away }}" class="w-16 h-16 rounded-full object-cover mx-auto ring-2 ring-slate-700 mb-2 shadow"/>
+              <img src="{{ ($featuredGame.away_logo | default "images/teams/rival.png") | relURL }}" alt="{{ $featuredGame.away }}" class="w-16 h-16 rounded-full object-cover mx-auto ring-2 ring-slate-700 mb-2 shadow"/>
               <p class="font-bold text-white text-xs line-clamp-2">{{ $featuredGame.away }}</p>
               <span class="text-[10px] text-slate-400">Visitante</span>
             </div>
@@ -161,7 +161,7 @@
               <p class="font-sports text-lg sm:text-xl font-bold text-white leading-tight">{{ $lastGame.away }}</p>
               <span class="text-xs text-slate-400">Visitante</span>
             </div>
-            <img src="{{ ($lastGame.away_logo | default "images/teams/rival.jpg") | relURL }}" alt="{{ $lastGame.away }}" class="w-14 h-14 rounded-full object-cover ring-2 ring-slate-700 shadow"/>
+            <img src="{{ ($lastGame.away_logo | default "images/teams/rival.png") | relURL }}" alt="{{ $lastGame.away }}" class="w-14 h-14 rounded-full object-cover ring-2 ring-slate-700 shadow"/>
           </div>
         </div>
       </div>
