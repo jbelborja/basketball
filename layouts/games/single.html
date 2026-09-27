@@ -57,7 +57,7 @@
           <div class="flex flex-col items-center md:items-end">
           {{ end }}
             <div class="relative mb-3">
-              <img src="{{ (.Params.team1_logo | default "/images/teams/team1.jpg") | relURL }}" alt="{{ .Params.team1 }}" class="w-24 h-24 sm:w-28 sm:h-28 rounded-full object-cover ring-4 ring-slate-800 {{ if $team1_page }}group-hover:ring-orange-500{{ end }} transition-all duration-300 shadow-xl"/>
+              <img src="{{ (.Params.team1_logo | default "images/teams/team1.jpg") | absURL }}" alt="{{ .Params.team1 }}" class="w-24 h-24 sm:w-28 sm:h-28 rounded-full object-cover ring-4 ring-slate-800 {{ if $team1_page }}group-hover:ring-orange-500{{ end }} transition-all duration-300 shadow-xl"/>
             </div>
             <h2 class="font-sports text-2xl sm:text-3xl text-white font-bold {{ if $team1_page }}group-hover:text-orange-400{{ end }} transition">{{ .Params.team1 }}</h2>
             <span class="text-xs text-slate-400 uppercase font-bold tracking-wider mt-1">Equipo Local</span>
@@ -99,7 +99,7 @@
           <div class="flex flex-col items-center md:items-start">
           {{ end }}
             <div class="relative mb-3">
-              <img src="{{ (.Params.team2_logo | default "/images/teams/team2.jpg") | relURL }}" alt="{{ .Params.team2 }}" class="w-24 h-24 sm:w-28 sm:h-28 rounded-full object-cover ring-4 ring-slate-800 {{ if $team2_page }}group-hover:ring-orange-500{{ end }} transition-all duration-300 shadow-xl"/>
+              <img src="{{ (.Params.team2_logo | default "images/teams/team2.jpg") | absURL }}" alt="{{ .Params.team2 }}" class="w-24 h-24 sm:w-28 sm:h-28 rounded-full object-cover ring-4 ring-slate-800 {{ if $team2_page }}group-hover:ring-orange-500{{ end }} transition-all duration-300 shadow-xl"/>
             </div>
             <h2 class="font-sports text-2xl sm:text-3xl text-white font-bold {{ if $team2_page }}group-hover:text-orange-400{{ end }} transition">{{ .Params.team2 }}</h2>
             <span class="text-xs text-slate-400 uppercase font-bold tracking-wider mt-1">Equipo Visitante</span>
@@ -152,7 +152,7 @@
         <tbody class="divide-y divide-slate-800/80 font-medium">
           <tr>
             <td class="text-left py-4 font-bold text-white flex items-center gap-3">
-              <img src="{{ .Params.team1_logo | relURL }}" alt="{{ .Params.team1 }}" class="w-6 h-6 rounded-full object-cover"/>
+              <img src="{{ .Params.team1_logo | absURL }}" alt="{{ .Params.team1 }}" class="w-6 h-6 rounded-full object-cover"/>
               {{ .Params.team1 }}
             </td>
             <td class="py-4 text-slate-300">{{ .Params.q1_home }}</td>
