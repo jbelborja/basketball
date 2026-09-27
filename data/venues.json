@@ -6,7 +6,7 @@
     "raw_venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "maps_embed": "https://maps.google.com/maps?q=JUAN%20ANTONIO%20SAMARANCH%2C%20CDAD.%20DPTVA.%20%28PISTA%20CENTRAL%29%20AVDA.%20JUAN%20PABLO%20II%2C%2013%2C%20Colmenar%20Viejo&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=JUAN%20ANTONIO%20SAMARANCH%2C%20CDAD.%20DPTVA.%20%28PISTA%20CENTRAL%29%20AVDA.%20JUAN%20PABLO%20II%2C%2013%2C%20Colmenar%20Viejo",
-    "matches_count": 157
+    "matches_count": 154
   },
   {
     "slug": "liceo-frances-pabellon-colegio-avda-de-los-madronos-frente-n-42-madrid",
@@ -414,6 +414,15 @@
     "matches_count": 1
   },
   {
+    "slug": "baloncesto-86-la-salle-b",
+    "title": "BALONCESTO 86 LA SALLE \"B\"",
+    "address": "BALONCESTO 86 LA SALLE \"B\"",
+    "raw_venue": "BALONCESTO 86 LA SALLE \"B\"",
+    "maps_embed": "https://maps.google.com/maps?q=BALONCESTO%2086%20LA%20SALLE%20%22B%22&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=BALONCESTO%2086%20LA%20SALLE%20%22B%22",
+    "matches_count": 1
+  },
+  {
     "slug": "brains-arturo-soria-colegio-maria-lombillo-5-madrid",
     "title": "BRAINS ARTURO SORIA",
     "address": "COLEGIO MARIA LOMBILLO, 5, Madrid",
@@ -555,6 +564,15 @@
     "raw_venue": "FELIPE REYES, PABELLON PISTA CENTRAL AV. ESPAÑA, 90, Getafe",
     "maps_embed": "https://maps.google.com/maps?q=FELIPE%20REYES%2C%20PABELLON%20PISTA%20CENTRAL%20AV.%20ESPA%C3%91A%2C%2090%2C%20Getafe&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=FELIPE%20REYES%2C%20PABELLON%20PISTA%20CENTRAL%20AV.%20ESPA%C3%91A%2C%2090%2C%20Getafe",
+    "matches_count": 1
+  },
+  {
+    "slug": "femenino-alcorcon",
+    "title": "FEMENINO ALCORCON",
+    "address": "FEMENINO ALCORCON",
+    "raw_venue": "FEMENINO ALCORCON",
+    "maps_embed": "https://maps.google.com/maps?q=FEMENINO%20ALCORCON&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=FEMENINO%20ALCORCON",
     "matches_count": 1
   },
   {
@@ -882,21 +900,21 @@
     "matches_count": 1
   },
   {
-    "slug": "soto-del-real-pabellon-el-egidillo-s-n-soto-del-real",
-    "title": "SOTO DEL REAL",
-    "address": "PABELLON EL EGIDILLO, S/N, Soto del Real",
-    "raw_venue": "SOTO DEL REAL, PABELLON EL EGIDILLO, S/N, Soto del Real",
-    "maps_embed": "https://maps.google.com/maps?q=SOTO%20DEL%20REAL%2C%20PABELLON%20EL%20EGIDILLO%2C%20S/N%2C%20Soto%20del%20Real&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=SOTO%20DEL%20REAL%2C%20PABELLON%20EL%20EGIDILLO%2C%20S/N%2C%20Soto%20del%20Real",
-    "matches_count": 1
-  },
-  {
     "slug": "torrejon-de-la-calzada-pabellon-camino-de-cubas-s-n-torrejon-de-la-calzada",
     "title": "TORREJON DE LA CALZADA",
     "address": "PABELLON CAMINO DE CUBAS, S/N, Torrejón de la Calzada",
     "raw_venue": "TORREJON DE LA CALZADA, PABELLON CAMINO DE CUBAS, S/N, Torrejón de la Calzada",
     "maps_embed": "https://maps.google.com/maps?q=TORREJON%20DE%20LA%20CALZADA%2C%20PABELLON%20CAMINO%20DE%20CUBAS%2C%20S/N%2C%20Torrej%C3%B3n%20de%20la%20Calzada&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=TORREJON%20DE%20LA%20CALZADA%2C%20PABELLON%20CAMINO%20DE%20CUBAS%2C%20S/N%2C%20Torrej%C3%B3n%20de%20la%20Calzada",
+    "matches_count": 1
+  },
+  {
+    "slug": "torrejon-de-la-calzada-emb",
+    "title": "TORREJON DE LA CALZADA EMB",
+    "address": "TORREJON DE LA CALZADA EMB",
+    "raw_venue": "TORREJON DE LA CALZADA EMB",
+    "maps_embed": "https://maps.google.com/maps?q=TORREJON%20DE%20LA%20CALZADA%20EMB&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=TORREJON%20DE%20LA%20CALZADA%20EMB",
     "matches_count": 1
   },
   {

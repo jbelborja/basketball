@@ -4,12 +4,12 @@ name: "COLMENAR VIEJO A"
 slug: "colmenar-viejo-a-junior-masculino"
 category: "Junior"
 gender: "masculino"
-logo: "images/teams/cbcolmenar.png"
+logo: "/images/teams/cbcolmenar.png"
 coach: "Entrenador CB Colmenar"
 venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1985
-record: "0V - 0D"
-league_position: 11
+record: "0V - 1D"
+league_position: 9
 weight: 6
 ---
 
