@@ -4,12 +4,11 @@ on:
   push:
     branches:
       - main
-      - master
   schedule:
-    # Ejecución semanal: Todos los lunes a las 06:00 UTC
-    - cron: '0 6 * * 1'
+    # Ejecución semanal: Todos los lunes a las 19:00 UTC (Lunes por la tarde/noche)
+    - cron: '0 19 * * 1'
   workflow_dispatch:
-    # Permite ejecución manual bajo demanda
+  # Permite ejecución manual bajo demanda
 
 permissions:
   contents: write
@@ -64,7 +63,12 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add data/ content/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "auto: Actualización de datos FBM [skip ci]" && git push)
+          if git diff --staged --quiet; then
+            echo "No hay cambios en los datos. Continuando con el despliegue..."
+          else
+            git commit -m "auto: Actualización de datos FBM [skip ci]"
+            git push
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
