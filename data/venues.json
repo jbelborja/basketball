@@ -6,7 +6,16 @@
     "raw_venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "maps_embed": "https://maps.google.com/maps?q=JUAN%20ANTONIO%20SAMARANCH%2C%20CDAD.%20DPTVA.%20%28PISTA%20CENTRAL%29%20AVDA.%20JUAN%20PABLO%20II%2C%2013%2C%20Colmenar%20Viejo&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=JUAN%20ANTONIO%20SAMARANCH%2C%20CDAD.%20DPTVA.%20%28PISTA%20CENTRAL%29%20AVDA.%20JUAN%20PABLO%20II%2C%2013%2C%20Colmenar%20Viejo",
-    "matches_count": 154
+    "matches_count": 192
+  },
+  {
+    "slug": "movistar-academy-magarinos-pabellon-serrano-129-madrid",
+    "title": "MOVISTAR ACADEMY MAGARIÑOS",
+    "address": "PABELLON SERRANO, 129, Madrid",
+    "raw_venue": "MOVISTAR ACADEMY MAGARIÑOS, PABELLON SERRANO, 129, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=MOVISTAR%20ACADEMY%20MAGARI%C3%91OS%2C%20PABELLON%20SERRANO%2C%20129%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=MOVISTAR%20ACADEMY%20MAGARI%C3%91OS%2C%20PABELLON%20SERRANO%2C%20129%2C%20Madrid",
+    "matches_count": 6
   },
   {
     "slug": "liceo-frances-pabellon-colegio-avda-de-los-madronos-frente-n-42-madrid",
@@ -18,12 +27,39 @@
     "matches_count": 5
   },
   {
+    "slug": "buen-consejo-pabellon-colegio-beatriz-de-bobadilla-s-n-madrid",
+    "title": "BUEN CONSEJO",
+    "address": "PABELLON COLEGIO BEATRIZ DE BOBADILLA, S/N, Madrid",
+    "raw_venue": "BUEN CONSEJO, PABELLON COLEGIO BEATRIZ DE BOBADILLA, S/N, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=BUEN%20CONSEJO%2C%20PABELLON%20COLEGIO%20BEATRIZ%20DE%20BOBADILLA%2C%20S/N%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=BUEN%20CONSEJO%2C%20PABELLON%20COLEGIO%20BEATRIZ%20DE%20BOBADILLA%2C%20S/N%2C%20Madrid",
+    "matches_count": 4
+  },
+  {
+    "slug": "carlos-sastre-pabellon-francisco-largo-caballero-1-leganes",
+    "title": "CARLOS SASTRE",
+    "address": "PABELLON FRANCISCO LARGO CABALLERO, 1, Leganés",
+    "raw_venue": "CARLOS SASTRE, PABELLON FRANCISCO LARGO CABALLERO, 1, Leganés",
+    "maps_embed": "https://maps.google.com/maps?q=CARLOS%20SASTRE%2C%20PABELLON%20FRANCISCO%20LARGO%20CABALLERO%2C%201%2C%20Legan%C3%A9s&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=CARLOS%20SASTRE%2C%20PABELLON%20FRANCISCO%20LARGO%20CABALLERO%2C%201%2C%20Legan%C3%A9s",
+    "matches_count": 4
+  },
+  {
     "slug": "francisco-fernandez-ochoa-pabellon-de-las-14-olivas-s-n-madrid",
     "title": "FRANCISCO FERNANDEZ OCHOA",
     "address": "PABELLON DE LAS 14 OLIVAS, S/N, Madrid",
     "raw_venue": "FRANCISCO FERNANDEZ OCHOA, PABELLON DE LAS 14 OLIVAS, S/N, Madrid",
     "maps_embed": "https://maps.google.com/maps?q=FRANCISCO%20FERNANDEZ%20OCHOA%2C%20PABELLON%20DE%20LAS%2014%20OLIVAS%2C%20S/N%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=FRANCISCO%20FERNANDEZ%20OCHOA%2C%20PABELLON%20DE%20LAS%2014%20OLIVAS%2C%20S/N%2C%20Madrid",
+    "matches_count": 4
+  },
+  {
+    "slug": "las-olivas-ciudad-deportiva-c-juan-de-herrera-1-aranjuez",
+    "title": "LAS OLIVAS",
+    "address": "CIUDAD DEPORTIVA C/ JUAN DE HERRERA, 1, Aranjuez",
+    "raw_venue": "LAS OLIVAS, CIUDAD DEPORTIVA C/ JUAN DE HERRERA, 1, Aranjuez",
+    "maps_embed": "https://maps.google.com/maps?q=LAS%20OLIVAS%2C%20CIUDAD%20DEPORTIVA%20C/%20JUAN%20DE%20HERRERA%2C%201%2C%20Aranjuez&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=LAS%20OLIVAS%2C%20CIUDAD%20DEPORTIVA%20C/%20JUAN%20DE%20HERRERA%2C%201%2C%20Aranjuez",
     "matches_count": 4
   },
   {
@@ -36,13 +72,31 @@
     "matches_count": 4
   },
   {
-    "slug": "movistar-academy-magarinos-pabellon-serrano-129-madrid",
-    "title": "MOVISTAR ACADEMY MAGARIÑOS",
-    "address": "PABELLON SERRANO, 129, Madrid",
-    "raw_venue": "MOVISTAR ACADEMY MAGARIÑOS, PABELLON SERRANO, 129, Madrid",
-    "maps_embed": "https://maps.google.com/maps?q=MOVISTAR%20ACADEMY%20MAGARI%C3%91OS%2C%20PABELLON%20SERRANO%2C%20129%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=MOVISTAR%20ACADEMY%20MAGARI%C3%91OS%2C%20PABELLON%20SERRANO%2C%20129%2C%20Madrid",
+    "slug": "santiago-apostol-pdvo-mpal-calle-del-polideportivo-s-n-villanueva-de-la-canada",
+    "title": "SANTIAGO APOSTOL",
+    "address": "PDVO. MPAL. CALLE DEL POLIDEPORTIVO, S/N, Villanueva de la Cañada",
+    "raw_venue": "SANTIAGO APOSTOL, PDVO. MPAL. CALLE DEL POLIDEPORTIVO, S/N, Villanueva de la Cañada",
+    "maps_embed": "https://maps.google.com/maps?q=SANTIAGO%20APOSTOL%2C%20PDVO.%20MPAL.%20CALLE%20DEL%20POLIDEPORTIVO%2C%20S/N%2C%20Villanueva%20de%20la%20Ca%C3%B1ada&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=SANTIAGO%20APOSTOL%2C%20PDVO.%20MPAL.%20CALLE%20DEL%20POLIDEPORTIVO%2C%20S/N%2C%20Villanueva%20de%20la%20Ca%C3%B1ada",
     "matches_count": 4
+  },
+  {
+    "slug": "veritas-pabellon-instituto-pista-central-avda-radio-television-2-pozuelo-de-alarcon",
+    "title": "VERITAS",
+    "address": "PABELLON INSTITUTO (PISTA CENTRAL) AVDA. RADIO TELEVISION, 2, Pozuelo de Alarcón",
+    "raw_venue": "VERITAS, PABELLON INSTITUTO (PISTA CENTRAL) AVDA. RADIO TELEVISION, 2, Pozuelo de Alarcón",
+    "maps_embed": "https://maps.google.com/maps?q=VERITAS%2C%20PABELLON%20INSTITUTO%20%28PISTA%20CENTRAL%29%20AVDA.%20RADIO%20TELEVISION%2C%202%2C%20Pozuelo%20de%20Alarc%C3%B3n&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=VERITAS%2C%20PABELLON%20INSTITUTO%20%28PISTA%20CENTRAL%29%20AVDA.%20RADIO%20TELEVISION%2C%202%2C%20Pozuelo%20de%20Alarc%C3%B3n",
+    "matches_count": 4
+  },
+  {
+    "slug": "alfredo-espiniella-pabellon-pista-central-comunidad-de-la-rioja-4-rozas-de-madrid-las",
+    "title": "ALFREDO ESPINIELLA",
+    "address": "PABELLON (PISTA CENTRAL) COMUNIDAD DE LA RIOJA, 4, Rozas de Madrid, Las",
+    "raw_venue": "ALFREDO ESPINIELLA, PABELLON (PISTA CENTRAL) COMUNIDAD DE LA RIOJA, 4, Rozas de Madrid, Las",
+    "maps_embed": "https://maps.google.com/maps?q=ALFREDO%20ESPINIELLA%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20COMUNIDAD%20DE%20LA%20RIOJA%2C%204%2C%20Rozas%20de%20Madrid%2C%20Las&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=ALFREDO%20ESPINIELLA%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20COMUNIDAD%20DE%20LA%20RIOJA%2C%204%2C%20Rozas%20de%20Madrid%2C%20Las",
+    "matches_count": 3
   },
   {
     "slug": "cabrini-colegio-semicubierto-sta-francisca-javier-cabrini-esquina-c-sicelidas-madrid",
@@ -51,15 +105,6 @@
     "raw_venue": "CABRINI, COLEGIO (Semicubierto) STA. FRANCISCA JAVIER CABRINI esquina C/ Sicélidas, Madrid",
     "maps_embed": "https://maps.google.com/maps?q=CABRINI%2C%20COLEGIO%20%28Semicubierto%29%20STA.%20FRANCISCA%20JAVIER%20CABRINI%20esquina%20C/%20Sic%C3%A9lidas%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=CABRINI%2C%20COLEGIO%20%28Semicubierto%29%20STA.%20FRANCISCA%20JAVIER%20CABRINI%20esquina%20C/%20Sic%C3%A9lidas%2C%20Madrid",
-    "matches_count": 3
-  },
-  {
-    "slug": "carlos-sastre-pabellon-francisco-largo-caballero-1-leganes",
-    "title": "CARLOS SASTRE",
-    "address": "PABELLON FRANCISCO LARGO CABALLERO, 1, Leganés",
-    "raw_venue": "CARLOS SASTRE, PABELLON FRANCISCO LARGO CABALLERO, 1, Leganés",
-    "maps_embed": "https://maps.google.com/maps?q=CARLOS%20SASTRE%2C%20PABELLON%20FRANCISCO%20LARGO%20CABALLERO%2C%201%2C%20Legan%C3%A9s&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=CARLOS%20SASTRE%2C%20PABELLON%20FRANCISCO%20LARGO%20CABALLERO%2C%201%2C%20Legan%C3%A9s",
     "matches_count": 3
   },
   {
@@ -72,6 +117,15 @@
     "matches_count": 3
   },
   {
+    "slug": "el-prado-pabellon-colegio-costa-brava-4-madrid",
+    "title": "EL PRADO",
+    "address": "PABELLON COLEGIO COSTA BRAVA, 4, Madrid",
+    "raw_venue": "EL PRADO, PABELLON COLEGIO COSTA BRAVA, 4, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=EL%20PRADO%2C%20PABELLON%20COLEGIO%20COSTA%20BRAVA%2C%204%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=EL%20PRADO%2C%20PABELLON%20COLEGIO%20COSTA%20BRAVA%2C%204%2C%20Madrid",
+    "matches_count": 3
+  },
+  {
     "slug": "juan-de-austria-pabellon-pista-central-jose-caballero-s-n-alcala-de-henares",
     "title": "JUAN DE AUSTRIA",
     "address": "PABELLON (PISTA CENTRAL) JOSE CABALLERO, S/N, Alcalá de Henares",
@@ -81,12 +135,39 @@
     "matches_count": 3
   },
   {
-    "slug": "las-olivas-ciudad-deportiva-c-juan-de-herrera-1-aranjuez",
-    "title": "LAS OLIVAS",
-    "address": "CIUDAD DEPORTIVA C/ JUAN DE HERRERA, 1, Aranjuez",
-    "raw_venue": "LAS OLIVAS, CIUDAD DEPORTIVA C/ JUAN DE HERRERA, 1, Aranjuez",
-    "maps_embed": "https://maps.google.com/maps?q=LAS%20OLIVAS%2C%20CIUDAD%20DEPORTIVA%20C/%20JUAN%20DE%20HERRERA%2C%201%2C%20Aranjuez&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=LAS%20OLIVAS%2C%20CIUDAD%20DEPORTIVA%20C/%20JUAN%20DE%20HERRERA%2C%201%2C%20Aranjuez",
+    "slug": "juan-de-la-cierva-pabellon-pista-central-av-espana-90-getafe",
+    "title": "JUAN DE LA CIERVA",
+    "address": "PABELLON PISTA CENTRAL AV. ESPAÑA, 90, Getafe",
+    "raw_venue": "JUAN DE LA CIERVA, PABELLON PISTA CENTRAL AV. ESPAÑA, 90, Getafe",
+    "maps_embed": "https://maps.google.com/maps?q=JUAN%20DE%20LA%20CIERVA%2C%20PABELLON%20PISTA%20CENTRAL%20AV.%20ESPA%C3%91A%2C%2090%2C%20Getafe&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=JUAN%20DE%20LA%20CIERVA%2C%20PABELLON%20PISTA%20CENTRAL%20AV.%20ESPA%C3%91A%2C%2090%2C%20Getafe",
+    "matches_count": 3
+  },
+  {
+    "slug": "la-luz-pabellon-pista-3-avenida-de-la-luz-6-tres-cantos",
+    "title": "LA LUZ",
+    "address": "PABELLON PISTA 3 AVENIDA DE LA LUZ, 6, Tres Cantos",
+    "raw_venue": "LA LUZ, PABELLON PISTA 3 AVENIDA DE LA LUZ, 6, Tres Cantos",
+    "maps_embed": "https://maps.google.com/maps?q=LA%20LUZ%2C%20PABELLON%20PISTA%203%20AVENIDA%20DE%20LA%20LUZ%2C%206%2C%20Tres%20Cantos&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=LA%20LUZ%2C%20PABELLON%20PISTA%203%20AVENIDA%20DE%20LA%20LUZ%2C%206%2C%20Tres%20Cantos",
+    "matches_count": 3
+  },
+  {
+    "slug": "la-maso-pabellon-calle-de-la-maso-80-madrid",
+    "title": "LA MASO",
+    "address": "PABELLON Calle de La Masó, 80, Madrid",
+    "raw_venue": "LA MASO, PABELLON Calle de La Masó, 80, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=LA%20MASO%2C%20PABELLON%20Calle%20de%20La%20Mas%C3%B3%2C%2080%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=LA%20MASO%2C%20PABELLON%20Calle%20de%20La%20Mas%C3%B3%2C%2080%2C%20Madrid",
+    "matches_count": 3
+  },
+  {
+    "slug": "mirasur-pabellon-colegio-pablo-gargallo-1-pinto",
+    "title": "MIRASUR",
+    "address": "PABELLON COLEGIO PABLO GARGALLO, 1, Pinto",
+    "raw_venue": "MIRASUR, PABELLON COLEGIO PABLO GARGALLO, 1, Pinto",
+    "maps_embed": "https://maps.google.com/maps?q=MIRASUR%2C%20PABELLON%20COLEGIO%20PABLO%20GARGALLO%2C%201%2C%20Pinto&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=MIRASUR%2C%20PABELLON%20COLEGIO%20PABLO%20GARGALLO%2C%201%2C%20Pinto",
     "matches_count": 3
   },
   {
@@ -108,39 +189,12 @@
     "matches_count": 3
   },
   {
-    "slug": "veritas-pabellon-instituto-pista-central-avda-radio-television-2-pozuelo-de-alarcon",
-    "title": "VERITAS",
-    "address": "PABELLON INSTITUTO (PISTA CENTRAL) AVDA. RADIO TELEVISION, 2, Pozuelo de Alarcón",
-    "raw_venue": "VERITAS, PABELLON INSTITUTO (PISTA CENTRAL) AVDA. RADIO TELEVISION, 2, Pozuelo de Alarcón",
-    "maps_embed": "https://maps.google.com/maps?q=VERITAS%2C%20PABELLON%20INSTITUTO%20%28PISTA%20CENTRAL%29%20AVDA.%20RADIO%20TELEVISION%2C%202%2C%20Pozuelo%20de%20Alarc%C3%B3n&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=VERITAS%2C%20PABELLON%20INSTITUTO%20%28PISTA%20CENTRAL%29%20AVDA.%20RADIO%20TELEVISION%2C%202%2C%20Pozuelo%20de%20Alarc%C3%B3n",
-    "matches_count": 3
-  },
-  {
-    "slug": "ronda-del-sur-46-arganda-del-rey",
-    "title": ". RONDA DEL SUR",
-    "address": "46, Arganda del Rey",
-    "raw_venue": ". RONDA DEL SUR, 46, Arganda del Rey",
-    "maps_embed": "https://maps.google.com/maps?q=.%20RONDA%20DEL%20SUR%2C%2046%2C%20Arganda%20del%20Rey&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=.%20RONDA%20DEL%20SUR%2C%2046%2C%20Arganda%20del%20Rey",
-    "matches_count": 2
-  },
-  {
     "slug": "alameda-de-osuna-pabellon-colegio-calle-la-rioja-1-madrid",
     "title": "ALAMEDA DE OSUNA",
     "address": "PABELLON COLEGIO CALLE LA RIOJA, 1, Madrid",
     "raw_venue": "ALAMEDA DE OSUNA, PABELLON COLEGIO CALLE LA RIOJA, 1, Madrid",
     "maps_embed": "https://maps.google.com/maps?q=ALAMEDA%20DE%20OSUNA%2C%20PABELLON%20COLEGIO%20CALLE%20LA%20RIOJA%2C%201%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=ALAMEDA%20DE%20OSUNA%2C%20PABELLON%20COLEGIO%20CALLE%20LA%20RIOJA%2C%201%2C%20Madrid",
-    "matches_count": 2
-  },
-  {
-    "slug": "alfredo-espiniella-pabellon-pista-central-comunidad-de-la-rioja-4-rozas-de-madrid-las",
-    "title": "ALFREDO ESPINIELLA",
-    "address": "PABELLON (PISTA CENTRAL) COMUNIDAD DE LA RIOJA, 4, Rozas de Madrid, Las",
-    "raw_venue": "ALFREDO ESPINIELLA, PABELLON (PISTA CENTRAL) COMUNIDAD DE LA RIOJA, 4, Rozas de Madrid, Las",
-    "maps_embed": "https://maps.google.com/maps?q=ALFREDO%20ESPINIELLA%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20COMUNIDAD%20DE%20LA%20RIOJA%2C%204%2C%20Rozas%20de%20Madrid%2C%20Las&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=ALFREDO%20ESPINIELLA%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20COMUNIDAD%20DE%20LA%20RIOJA%2C%204%2C%20Rozas%20de%20Madrid%2C%20Las",
     "matches_count": 2
   },
   {
@@ -153,21 +207,21 @@
     "matches_count": 2
   },
   {
+    "slug": "antonio-diaz-miguel-pdvo-mpal-joaquin-dicenta-1-madrid",
+    "title": "ANTONIO DIAZ MIGUEL",
+    "address": "PDVO. MPAL. JOAQUIN DICENTA, 1, Madrid",
+    "raw_venue": "ANTONIO DIAZ MIGUEL, PDVO. MPAL. JOAQUIN DICENTA, 1, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=ANTONIO%20DIAZ%20MIGUEL%2C%20PDVO.%20MPAL.%20JOAQUIN%20DICENTA%2C%201%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=ANTONIO%20DIAZ%20MIGUEL%2C%20PDVO.%20MPAL.%20JOAQUIN%20DICENTA%2C%201%2C%20Madrid",
+    "matches_count": 2
+  },
+  {
     "slug": "arganzuela-centro-integrado-c-palos-de-la-frontera-40-madrid",
     "title": "ARGANZUELA",
     "address": "CENTRO INTEGRADO C/ PALOS DE LA FRONTERA, 40, Madrid",
     "raw_venue": "ARGANZUELA, CENTRO INTEGRADO C/ PALOS DE LA FRONTERA, 40, Madrid",
     "maps_embed": "https://maps.google.com/maps?q=ARGANZUELA%2C%20CENTRO%20INTEGRADO%20C/%20PALOS%20DE%20LA%20FRONTERA%2C%2040%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=ARGANZUELA%2C%20CENTRO%20INTEGRADO%20C/%20PALOS%20DE%20LA%20FRONTERA%2C%2040%2C%20Madrid",
-    "matches_count": 2
-  },
-  {
-    "slug": "buen-consejo-pabellon-colegio-beatriz-de-bobadilla-s-n-madrid",
-    "title": "BUEN CONSEJO",
-    "address": "PABELLON COLEGIO BEATRIZ DE BOBADILLA, S/N, Madrid",
-    "raw_venue": "BUEN CONSEJO, PABELLON COLEGIO BEATRIZ DE BOBADILLA, S/N, Madrid",
-    "maps_embed": "https://maps.google.com/maps?q=BUEN%20CONSEJO%2C%20PABELLON%20COLEGIO%20BEATRIZ%20DE%20BOBADILLA%2C%20S/N%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=BUEN%20CONSEJO%2C%20PABELLON%20COLEGIO%20BEATRIZ%20DE%20BOBADILLA%2C%20S/N%2C%20Madrid",
     "matches_count": 2
   },
   {
@@ -186,6 +240,15 @@
     "raw_venue": "COLEGIO BERNADETTE, PABELLON CALLE SANTA BERNARDITA, 1, Aravaca",
     "maps_embed": "https://maps.google.com/maps?q=COLEGIO%20BERNADETTE%2C%20PABELLON%20CALLE%20SANTA%20BERNARDITA%2C%201%2C%20Aravaca&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=COLEGIO%20BERNADETTE%2C%20PABELLON%20CALLE%20SANTA%20BERNARDITA%2C%201%2C%20Aravaca",
+    "matches_count": 2
+  },
+  {
+    "slug": "el-valle-las-tablas-pabellon-colegio-cebreiro-2-madrid",
+    "title": "EL VALLE LAS TABLAS",
+    "address": "PABELLON COLEGIO CEBREIRO, 2, Madrid",
+    "raw_venue": "EL VALLE LAS TABLAS, PABELLON COLEGIO CEBREIRO, 2, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=EL%20VALLE%20LAS%20TABLAS%2C%20PABELLON%20COLEGIO%20CEBREIRO%2C%202%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=EL%20VALLE%20LAS%20TABLAS%2C%20PABELLON%20COLEGIO%20CEBREIRO%2C%202%2C%20Madrid",
     "matches_count": 2
   },
   {
@@ -234,21 +297,12 @@
     "matches_count": 2
   },
   {
-    "slug": "la-luz-pabellon-pista-3-avenida-de-la-luz-6-tres-cantos",
-    "title": "LA LUZ",
-    "address": "PABELLON PISTA 3 AVENIDA DE LA LUZ, 6, Tres Cantos",
-    "raw_venue": "LA LUZ, PABELLON PISTA 3 AVENIDA DE LA LUZ, 6, Tres Cantos",
-    "maps_embed": "https://maps.google.com/maps?q=LA%20LUZ%2C%20PABELLON%20PISTA%203%20AVENIDA%20DE%20LA%20LUZ%2C%206%2C%20Tres%20Cantos&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=LA%20LUZ%2C%20PABELLON%20PISTA%203%20AVENIDA%20DE%20LA%20LUZ%2C%206%2C%20Tres%20Cantos",
-    "matches_count": 2
-  },
-  {
-    "slug": "la-maso-pabellon-calle-de-la-maso-80-madrid",
-    "title": "LA MASO",
-    "address": "PABELLON Calle de La Masó, 80, Madrid",
-    "raw_venue": "LA MASO, PABELLON Calle de La Masó, 80, Madrid",
-    "maps_embed": "https://maps.google.com/maps?q=LA%20MASO%2C%20PABELLON%20Calle%20de%20La%20Mas%C3%B3%2C%2080%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=LA%20MASO%2C%20PABELLON%20Calle%20de%20La%20Mas%C3%B3%2C%2080%2C%20Madrid",
+    "slug": "los-almendros-pabellon-aigues-tortes-s-n-rivas-vaciamadrid",
+    "title": "LOS ALMENDROS",
+    "address": "PABELLON AIGUES TORTES, S/N, Rivas-Vaciamadrid",
+    "raw_venue": "LOS ALMENDROS, PABELLON AIGUES TORTES, S/N, Rivas-Vaciamadrid",
+    "maps_embed": "https://maps.google.com/maps?q=LOS%20ALMENDROS%2C%20PABELLON%20AIGUES%20TORTES%2C%20S/N%2C%20Rivas-Vaciamadrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=LOS%20ALMENDROS%2C%20PABELLON%20AIGUES%20TORTES%2C%20S/N%2C%20Rivas-Vaciamadrid",
     "matches_count": 2
   },
   {
@@ -258,15 +312,6 @@
     "raw_venue": "LOS ROSALES, PABELLON (PISTA CENTRAL) LILAS, S/N (Frente nº 7), Móstoles",
     "maps_embed": "https://maps.google.com/maps?q=LOS%20ROSALES%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20LILAS%2C%20S/N%20%28Frente%20n%C2%BA%207%29%2C%20M%C3%B3stoles&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=LOS%20ROSALES%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20LILAS%2C%20S/N%20%28Frente%20n%C2%BA%207%29%2C%20M%C3%B3stoles",
-    "matches_count": 2
-  },
-  {
-    "slug": "mirasur-pabellon-colegio-pablo-gargallo-1-pinto",
-    "title": "MIRASUR",
-    "address": "PABELLON COLEGIO PABLO GARGALLO, 1, Pinto",
-    "raw_venue": "MIRASUR, PABELLON COLEGIO PABLO GARGALLO, 1, Pinto",
-    "maps_embed": "https://maps.google.com/maps?q=MIRASUR%2C%20PABELLON%20COLEGIO%20PABLO%20GARGALLO%2C%201%2C%20Pinto&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=MIRASUR%2C%20PABELLON%20COLEGIO%20PABLO%20GARGALLO%2C%201%2C%20Pinto",
     "matches_count": 2
   },
   {
@@ -333,6 +378,15 @@
     "matches_count": 2
   },
   {
+    "slug": "ronda-del-sur-46-arganda-del-rey",
+    "title": ". RONDA DEL SUR",
+    "address": "46, Arganda del Rey",
+    "raw_venue": ". RONDA DEL SUR, 46, Arganda del Rey",
+    "maps_embed": "https://maps.google.com/maps?q=.%20RONDA%20DEL%20SUR%2C%2046%2C%20Arganda%20del%20Rey&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=.%20RONDA%20DEL%20SUR%2C%2046%2C%20Arganda%20del%20Rey",
+    "matches_count": 1
+  },
+  {
     "slug": "abaco-pabellon-colegio-avda-de-la-peseta-8-madrid",
     "title": "ABACO",
     "address": "PABELLON COLEGIO AVDA. DE LA PESETA, 8, Madrid",
@@ -387,6 +441,15 @@
     "matches_count": 1
   },
   {
+    "slug": "angel-nieto-complejo-dptivo-mpal-crta-pozuelo-boadilla-km-4-boadilla-del-monte",
+    "title": "ANGEL NIETO",
+    "address": "COMPLEJO DPTIVO. MPAL. CRTA. POZUELO-BOADILLA Km. 4, Boadilla del Monte",
+    "raw_venue": "ANGEL NIETO, COMPLEJO DPTIVO. MPAL. CRTA. POZUELO-BOADILLA Km. 4, Boadilla del Monte",
+    "maps_embed": "https://maps.google.com/maps?q=ANGEL%20NIETO%2C%20COMPLEJO%20DPTIVO.%20MPAL.%20CRTA.%20POZUELO-BOADILLA%20Km.%204%2C%20Boadilla%20del%20Monte&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=ANGEL%20NIETO%2C%20COMPLEJO%20DPTIVO.%20MPAL.%20CRTA.%20POZUELO-BOADILLA%20Km.%204%2C%20Boadilla%20del%20Monte",
+    "matches_count": 1
+  },
+  {
     "slug": "antela-parada-pabellon-pista-central-francisco-chico-mendes-8-alcobendas",
     "title": "ANTELA PARADA",
     "address": "PABELLON (PISTA CENTRAL) FRANCISCO CHICO MENDES, 8, Alcobendas",
@@ -396,21 +459,21 @@
     "matches_count": 1
   },
   {
-    "slug": "antonio-diaz-miguel-pdvo-mpal-joaquin-dicenta-1-madrid",
-    "title": "ANTONIO DIAZ MIGUEL",
-    "address": "PDVO. MPAL. JOAQUIN DICENTA, 1, Madrid",
-    "raw_venue": "ANTONIO DIAZ MIGUEL, PDVO. MPAL. JOAQUIN DICENTA, 1, Madrid",
-    "maps_embed": "https://maps.google.com/maps?q=ANTONIO%20DIAZ%20MIGUEL%2C%20PDVO.%20MPAL.%20JOAQUIN%20DICENTA%2C%201%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=ANTONIO%20DIAZ%20MIGUEL%2C%20PDVO.%20MPAL.%20JOAQUIN%20DICENTA%2C%201%2C%20Madrid",
-    "matches_count": 1
-  },
-  {
     "slug": "aquinas-american-school-calle-transversal-4-urbanizacion-montealina-pozuelo-de-alarcon",
     "title": "AQUINAS AMERICAN SCHOOL CALLE TRANSVERSAL",
     "address": "4 (Urbanización MONTEALINA), Pozuelo de Alarcón",
     "raw_venue": "AQUINAS AMERICAN SCHOOL CALLE TRANSVERSAL, 4 (Urbanización MONTEALINA), Pozuelo de Alarcón",
     "maps_embed": "https://maps.google.com/maps?q=AQUINAS%20AMERICAN%20SCHOOL%20CALLE%20TRANSVERSAL%2C%204%20%28Urbanizaci%C3%B3n%20MONTEALINA%29%2C%20Pozuelo%20de%20Alarc%C3%B3n&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=AQUINAS%20AMERICAN%20SCHOOL%20CALLE%20TRANSVERSAL%2C%204%20%28Urbanizaci%C3%B3n%20MONTEALINA%29%2C%20Pozuelo%20de%20Alarc%C3%B3n",
+    "matches_count": 1
+  },
+  {
+    "slug": "averroes-pabellon-ceip-avenida-de-francia-163-entrada-por-c-suiza-arroyomolinos",
+    "title": "AVERROES",
+    "address": "PABELLON CEIP AVENIDA DE FRANCIA, 163 (entrada por C/ Suiza), Arroyomolinos",
+    "raw_venue": "AVERROES, PABELLON CEIP AVENIDA DE FRANCIA, 163 (entrada por C/ Suiza), Arroyomolinos",
+    "maps_embed": "https://maps.google.com/maps?q=AVERROES%2C%20PABELLON%20CEIP%20AVENIDA%20DE%20FRANCIA%2C%20163%20%28entrada%20por%20C/%20Suiza%29%2C%20Arroyomolinos&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=AVERROES%2C%20PABELLON%20CEIP%20AVENIDA%20DE%20FRANCIA%2C%20163%20%28entrada%20por%20C/%20Suiza%29%2C%20Arroyomolinos",
     "matches_count": 1
   },
   {
@@ -441,6 +504,24 @@
     "matches_count": 1
   },
   {
+    "slug": "cabrini-colegio-descubierto-sta-francisca-javier-cabrini-esquina-c-sicelidas-madrid",
+    "title": "CABRINI",
+    "address": "COLEGIO (Descubierto) STA. FRANCISCA JAVIER CABRINI esquina C/ Sicélidas, Madrid",
+    "raw_venue": "CABRINI, COLEGIO (Descubierto) STA. FRANCISCA JAVIER CABRINI esquina C/ Sicélidas, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=CABRINI%2C%20COLEGIO%20%28Descubierto%29%20STA.%20FRANCISCA%20JAVIER%20CABRINI%20esquina%20C/%20Sic%C3%A9lidas%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=CABRINI%2C%20COLEGIO%20%28Descubierto%29%20STA.%20FRANCISCA%20JAVIER%20CABRINI%20esquina%20C/%20Sic%C3%A9lidas%2C%20Madrid",
+    "matches_count": 1
+  },
+  {
+    "slug": "caldeiro-colegio-avda-de-los-toreros-45-madrid",
+    "title": "CALDEIRO",
+    "address": "COLEGIO AVDA. DE LOS TOREROS, 45, Madrid",
+    "raw_venue": "CALDEIRO, COLEGIO AVDA. DE LOS TOREROS, 45, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=CALDEIRO%2C%20COLEGIO%20AVDA.%20DE%20LOS%20TOREROS%2C%2045%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=CALDEIRO%2C%20COLEGIO%20AVDA.%20DE%20LOS%20TOREROS%2C%2045%2C%20Madrid",
+    "matches_count": 1
+  },
+  {
     "slug": "campo-por-determinar-madrid",
     "title": "CAMPO POR DETERMINAR ...",
     "address": "Madrid",
@@ -465,6 +546,15 @@
     "raw_venue": "CLARET, PABELLON COLEGIO CLARA DEL REY, 6, Madrid",
     "maps_embed": "https://maps.google.com/maps?q=CLARET%2C%20PABELLON%20COLEGIO%20CLARA%20DEL%20REY%2C%206%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=CLARET%2C%20PABELLON%20COLEGIO%20CLARA%20DEL%20REY%2C%206%2C%20Madrid",
+    "matches_count": 1
+  },
+  {
+    "slug": "colegio-madrid-fundacion-santa-maria-avda-de-los-madronos-esquina-c-joselito-madrid",
+    "title": "COLEGIO MADRID FUNDACION SANTA MARIA AVDA. DE LOS MADROÑOS esquina C/ JOSELITO",
+    "address": "Madrid",
+    "raw_venue": "COLEGIO MADRID FUNDACION SANTA MARIA AVDA. DE LOS MADROÑOS esquina C/ JOSELITO, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=COLEGIO%20MADRID%20FUNDACION%20SANTA%20MARIA%20AVDA.%20DE%20LOS%20MADRO%C3%91OS%20esquina%20C/%20JOSELITO%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=COLEGIO%20MADRID%20FUNDACION%20SANTA%20MARIA%20AVDA.%20DE%20LOS%20MADRO%C3%91OS%20esquina%20C/%20JOSELITO%2C%20Madrid",
     "matches_count": 1
   },
   {
@@ -504,12 +594,12 @@
     "matches_count": 1
   },
   {
-    "slug": "el-prado-pabellon-colegio-costa-brava-4-madrid",
+    "slug": "el-prado-colegio-pista-exterior-costa-brava-4-madrid",
     "title": "EL PRADO",
-    "address": "PABELLON COLEGIO COSTA BRAVA, 4, Madrid",
-    "raw_venue": "EL PRADO, PABELLON COLEGIO COSTA BRAVA, 4, Madrid",
-    "maps_embed": "https://maps.google.com/maps?q=EL%20PRADO%2C%20PABELLON%20COLEGIO%20COSTA%20BRAVA%2C%204%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=EL%20PRADO%2C%20PABELLON%20COLEGIO%20COSTA%20BRAVA%2C%204%2C%20Madrid",
+    "address": "COLEGIO (PISTA EXTERIOR) COSTA BRAVA, 4, Madrid",
+    "raw_venue": "EL PRADO, COLEGIO (PISTA EXTERIOR) COSTA BRAVA, 4, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=EL%20PRADO%2C%20COLEGIO%20%28PISTA%20EXTERIOR%29%20COSTA%20BRAVA%2C%204%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=EL%20PRADO%2C%20COLEGIO%20%28PISTA%20EXTERIOR%29%20COSTA%20BRAVA%2C%204%2C%20Madrid",
     "matches_count": 1
   },
   {
@@ -528,15 +618,6 @@
     "raw_venue": "EL TRIGAL, PABELLON LOGROÑO, 4, Fuenlabrada",
     "maps_embed": "https://maps.google.com/maps?q=EL%20TRIGAL%2C%20PABELLON%20LOGRO%C3%91O%2C%204%2C%20Fuenlabrada&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=EL%20TRIGAL%2C%20PABELLON%20LOGRO%C3%91O%2C%204%2C%20Fuenlabrada",
-    "matches_count": 1
-  },
-  {
-    "slug": "el-valle-las-tablas-pabellon-colegio-cebreiro-2-madrid",
-    "title": "EL VALLE LAS TABLAS",
-    "address": "PABELLON COLEGIO CEBREIRO, 2, Madrid",
-    "raw_venue": "EL VALLE LAS TABLAS, PABELLON COLEGIO CEBREIRO, 2, Madrid",
-    "maps_embed": "https://maps.google.com/maps?q=EL%20VALLE%20LAS%20TABLAS%2C%20PABELLON%20COLEGIO%20CEBREIRO%2C%202%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=EL%20VALLE%20LAS%20TABLAS%2C%20PABELLON%20COLEGIO%20CEBREIRO%2C%202%2C%20Madrid",
     "matches_count": 1
   },
   {
@@ -612,6 +693,15 @@
     "matches_count": 1
   },
   {
+    "slug": "i-e-s-federico-garcia-lorca-calle-gimnasio-1-3-rozas-de-madrid-las",
+    "title": "I.E.S. FEDERICO GARCIA LORCA CALLE GIMNASIO",
+    "address": "1-3, Rozas de Madrid, Las",
+    "raw_venue": "I.E.S. FEDERICO GARCIA LORCA CALLE GIMNASIO, 1-3, Rozas de Madrid, Las",
+    "maps_embed": "https://maps.google.com/maps?q=I.E.S.%20FEDERICO%20GARCIA%20LORCA%20CALLE%20GIMNASIO%2C%201-3%2C%20Rozas%20de%20Madrid%2C%20Las&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=I.E.S.%20FEDERICO%20GARCIA%20LORCA%20CALLE%20GIMNASIO%2C%201-3%2C%20Rozas%20de%20Madrid%2C%20Las",
+    "matches_count": 1
+  },
+  {
     "slug": "ies-isabel-la-catolica-pabellon-cristobal-colon-12-boadilla-del-monte",
     "title": "IES ISABEL LA CATOLICA",
     "address": "PABELLON CRISTOBAL COLON, 12, Boadilla del Monte",
@@ -648,12 +738,21 @@
     "matches_count": 1
   },
   {
-    "slug": "juan-de-la-cierva-pabellon-pista-central-av-espana-90-getafe",
-    "title": "JUAN DE LA CIERVA",
-    "address": "PABELLON PISTA CENTRAL AV. ESPAÑA, 90, Getafe",
-    "raw_venue": "JUAN DE LA CIERVA, PABELLON PISTA CENTRAL AV. ESPAÑA, 90, Getafe",
-    "maps_embed": "https://maps.google.com/maps?q=JUAN%20DE%20LA%20CIERVA%2C%20PABELLON%20PISTA%20CENTRAL%20AV.%20ESPA%C3%91A%2C%2090%2C%20Getafe&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=JUAN%20DE%20LA%20CIERVA%2C%20PABELLON%20PISTA%20CENTRAL%20AV.%20ESPA%C3%91A%2C%2090%2C%20Getafe",
+    "slug": "juan-de-dios-roman-polideportivo-techado-c-jose-gutierrez-maroto-34-madrid",
+    "title": "JUAN DE DIOS ROMÁN",
+    "address": "POLIDEPORTIVO (TECHADO) C/ JOSÉ GUTIÉRREZ MAROTO, 34, Madrid",
+    "raw_venue": "JUAN DE DIOS ROMÁN, POLIDEPORTIVO (TECHADO) C/ JOSÉ GUTIÉRREZ MAROTO, 34, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=JUAN%20DE%20DIOS%20ROM%C3%81N%2C%20POLIDEPORTIVO%20%28TECHADO%29%20C/%20JOS%C3%89%20GUTI%C3%89RREZ%20MAROTO%2C%2034%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=JUAN%20DE%20DIOS%20ROM%C3%81N%2C%20POLIDEPORTIVO%20%28TECHADO%29%20C/%20JOS%C3%89%20GUTI%C3%89RREZ%20MAROTO%2C%2034%2C%20Madrid",
+    "matches_count": 1
+  },
+  {
+    "slug": "la-caja-magica-indoor-norte-pista-3-camino-de-perales-23-madrid",
+    "title": "LA CAJA MAGICA INDOOR NORTE Pista 3 CAMINO DE PERALES",
+    "address": "23, Madrid",
+    "raw_venue": "LA CAJA MAGICA INDOOR NORTE Pista 3 CAMINO DE PERALES, 23, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=LA%20CAJA%20MAGICA%20INDOOR%20NORTE%20Pista%203%20CAMINO%20DE%20PERALES%2C%2023%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=LA%20CAJA%20MAGICA%20INDOOR%20NORTE%20Pista%203%20CAMINO%20DE%20PERALES%2C%2023%2C%20Madrid",
     "matches_count": 1
   },
   {
@@ -672,6 +771,24 @@
     "raw_venue": "LA CANALEJA, PABELLON PISTA 3 AVENIDA CIRCUNVALACION NORTE, 1, Alcorcón",
     "maps_embed": "https://maps.google.com/maps?q=LA%20CANALEJA%2C%20PABELLON%20PISTA%203%20AVENIDA%20CIRCUNVALACION%20NORTE%2C%201%2C%20Alcorc%C3%B3n&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=LA%20CANALEJA%2C%20PABELLON%20PISTA%203%20AVENIDA%20CIRCUNVALACION%20NORTE%2C%201%2C%20Alcorc%C3%B3n",
+    "matches_count": 1
+  },
+  {
+    "slug": "la-cantuena-pabellon-calle-prolongacion-cuenca-6a-parla",
+    "title": "LA CANTUEÑA",
+    "address": "PABELLON CALLE PROLONGACION CUENCA, 6A, Parla",
+    "raw_venue": "LA CANTUEÑA, PABELLON CALLE PROLONGACION CUENCA, 6A, Parla",
+    "maps_embed": "https://maps.google.com/maps?q=LA%20CANTUE%C3%91A%2C%20PABELLON%20CALLE%20PROLONGACION%20CUENCA%2C%206A%2C%20Parla&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=LA%20CANTUE%C3%91A%2C%20PABELLON%20CALLE%20PROLONGACION%20CUENCA%2C%206A%2C%20Parla",
+    "matches_count": 1
+  },
+  {
+    "slug": "la-nevera-pabellon-pista-central-serrano-129-madrid",
+    "title": "LA NEVERA",
+    "address": "PABELLON (PISTA CENTRAL) SERRANO, 129, Madrid",
+    "raw_venue": "LA NEVERA, PABELLON (PISTA CENTRAL) SERRANO, 129, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=LA%20NEVERA%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20SERRANO%2C%20129%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=LA%20NEVERA%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20SERRANO%2C%20129%2C%20Madrid",
     "matches_count": 1
   },
   {
@@ -711,12 +828,12 @@
     "matches_count": 1
   },
   {
-    "slug": "los-almendros-pabellon-aigues-tortes-s-n-rivas-vaciamadrid",
-    "title": "LOS ALMENDROS",
-    "address": "PABELLON AIGUES TORTES, S/N, Rivas-Vaciamadrid",
-    "raw_venue": "LOS ALMENDROS, PABELLON AIGUES TORTES, S/N, Rivas-Vaciamadrid",
-    "maps_embed": "https://maps.google.com/maps?q=LOS%20ALMENDROS%2C%20PABELLON%20AIGUES%20TORTES%2C%20S/N%2C%20Rivas-Vaciamadrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=LOS%20ALMENDROS%2C%20PABELLON%20AIGUES%20TORTES%2C%20S/N%2C%20Rivas-Vaciamadrid",
+    "slug": "liceo-frances-colegio-descubierto-avda-de-los-madronos-frente-n-42-madrid",
+    "title": "LICEO FRANCES",
+    "address": "COLEGIO (Descubierto) AVDA. DE LOS MADROÑOS frente nº 42, Madrid",
+    "raw_venue": "LICEO FRANCES, COLEGIO (Descubierto) AVDA. DE LOS MADROÑOS frente nº 42, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=LICEO%20FRANCES%2C%20COLEGIO%20%28Descubierto%29%20AVDA.%20DE%20LOS%20MADRO%C3%91OS%20frente%20n%C2%BA%2042%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=LICEO%20FRANCES%2C%20COLEGIO%20%28Descubierto%29%20AVDA.%20DE%20LOS%20MADRO%C3%91OS%20frente%20n%C2%BA%2042%2C%20Madrid",
     "matches_count": 1
   },
   {
@@ -738,21 +855,21 @@
     "matches_count": 1
   },
   {
+    "slug": "los-mosquitos-pabellon-santander-110-arroyomolinos",
+    "title": "LOS MOSQUITOS",
+    "address": "PABELLON SANTANDER, 110, Arroyomolinos",
+    "raw_venue": "LOS MOSQUITOS, PABELLON SANTANDER, 110, Arroyomolinos",
+    "maps_embed": "https://maps.google.com/maps?q=LOS%20MOSQUITOS%2C%20PABELLON%20SANTANDER%2C%20110%2C%20Arroyomolinos&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=LOS%20MOSQUITOS%2C%20PABELLON%20SANTANDER%2C%20110%2C%20Arroyomolinos",
+    "matches_count": 1
+  },
+  {
     "slug": "maria-de-villota-pabellon-arroyo-de-los-viales-4-torrelodones",
     "title": "MARIA DE VILLOTA",
     "address": "PABELLON ARROYO DE LOS VIALES, 4, Torrelodones",
     "raw_venue": "MARIA DE VILLOTA, PABELLON ARROYO DE LOS VIALES, 4, Torrelodones",
     "maps_embed": "https://maps.google.com/maps?q=MARIA%20DE%20VILLOTA%2C%20PABELLON%20ARROYO%20DE%20LOS%20VIALES%2C%204%2C%20Torrelodones&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=MARIA%20DE%20VILLOTA%2C%20PABELLON%20ARROYO%20DE%20LOS%20VIALES%2C%204%2C%20Torrelodones",
-    "matches_count": 1
-  },
-  {
-    "slug": "menesiano-colegio-descubierto-avenida-de-brasilia-11-madrid",
-    "title": "MENESIANO",
-    "address": "COLEGIO (Descubierto) AVENIDA DE BRASILIA, 11, Madrid",
-    "raw_venue": "MENESIANO, COLEGIO (Descubierto) AVENIDA DE BRASILIA, 11, Madrid",
-    "maps_embed": "https://maps.google.com/maps?q=MENESIANO%2C%20COLEGIO%20%28Descubierto%29%20AVENIDA%20DE%20BRASILIA%2C%2011%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=MENESIANO%2C%20COLEGIO%20%28Descubierto%29%20AVENIDA%20DE%20BRASILIA%2C%2011%2C%20Madrid",
     "matches_count": 1
   },
   {
@@ -789,6 +906,15 @@
     "raw_venue": "PARQUE DEL SURESTE, PABELLON (PISTA CENTRAL) MIRADOR Frente al nº 25, Rivas-Vaciamadrid",
     "maps_embed": "https://maps.google.com/maps?q=PARQUE%20DEL%20SURESTE%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20MIRADOR%20Frente%20al%20n%C2%BA%2025%2C%20Rivas-Vaciamadrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=PARQUE%20DEL%20SURESTE%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20MIRADOR%20Frente%20al%20n%C2%BA%2025%2C%20Rivas-Vaciamadrid",
+    "matches_count": 1
+  },
+  {
+    "slug": "parque-del-sureste-pista-1-mirador-frente-al-n-25-rivas-vaciamadrid",
+    "title": "PARQUE DEL SURESTE",
+    "address": "Pista 1 MIRADOR Frente al nº 25, Rivas-Vaciamadrid",
+    "raw_venue": "PARQUE DEL SURESTE, Pista 1 MIRADOR Frente al nº 25, Rivas-Vaciamadrid",
+    "maps_embed": "https://maps.google.com/maps?q=PARQUE%20DEL%20SURESTE%2C%20Pista%201%20MIRADOR%20Frente%20al%20n%C2%BA%2025%2C%20Rivas-Vaciamadrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=PARQUE%20DEL%20SURESTE%2C%20Pista%201%20MIRADOR%20Frente%20al%20n%C2%BA%2025%2C%20Rivas-Vaciamadrid",
     "matches_count": 1
   },
   {
@@ -873,15 +999,6 @@
     "matches_count": 1
   },
   {
-    "slug": "santiago-apostol-pdvo-mpal-calle-del-polideportivo-s-n-villanueva-de-la-canada",
-    "title": "SANTIAGO APOSTOL",
-    "address": "PDVO. MPAL. CALLE DEL POLIDEPORTIVO, S/N, Villanueva de la Cañada",
-    "raw_venue": "SANTIAGO APOSTOL, PDVO. MPAL. CALLE DEL POLIDEPORTIVO, S/N, Villanueva de la Cañada",
-    "maps_embed": "https://maps.google.com/maps?q=SANTIAGO%20APOSTOL%2C%20PDVO.%20MPAL.%20CALLE%20DEL%20POLIDEPORTIVO%2C%20S/N%2C%20Villanueva%20de%20la%20Ca%C3%B1ada&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=SANTIAGO%20APOSTOL%2C%20PDVO.%20MPAL.%20CALLE%20DEL%20POLIDEPORTIVO%2C%20S/N%2C%20Villanueva%20de%20la%20Ca%C3%B1ada",
-    "matches_count": 1
-  },
-  {
     "slug": "sba-arena-fraguas-26-alcorcon",
     "title": "SBA ARENA FRAGUAS",
     "address": "26, Alcorcón",
@@ -897,6 +1014,24 @@
     "raw_venue": "SEVERO OCHOA, C.E.I.P. LONDRES, 7-9, Torrejón de Ardoz",
     "maps_embed": "https://maps.google.com/maps?q=SEVERO%20OCHOA%2C%20C.E.I.P.%20LONDRES%2C%207-9%2C%20Torrej%C3%B3n%20de%20Ardoz&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=SEVERO%20OCHOA%2C%20C.E.I.P.%20LONDRES%2C%207-9%2C%20Torrej%C3%B3n%20de%20Ardoz",
+    "matches_count": 1
+  },
+  {
+    "slug": "soto-del-real-pabellon-el-egidillo-s-n-soto-del-real",
+    "title": "SOTO DEL REAL",
+    "address": "PABELLON EL EGIDILLO, S/N, Soto del Real",
+    "raw_venue": "SOTO DEL REAL, PABELLON EL EGIDILLO, S/N, Soto del Real",
+    "maps_embed": "https://maps.google.com/maps?q=SOTO%20DEL%20REAL%2C%20PABELLON%20EL%20EGIDILLO%2C%20S/N%2C%20Soto%20del%20Real&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=SOTO%20DEL%20REAL%2C%20PABELLON%20EL%20EGIDILLO%2C%20S/N%2C%20Soto%20del%20Real",
+    "matches_count": 1
+  },
+  {
+    "slug": "supera-pabellon-avda-de-los-planetas-42-parla",
+    "title": "SUPERA",
+    "address": "PABELLON AVDA. DE LOS PLANETAS, 42, Parla",
+    "raw_venue": "SUPERA, PABELLON AVDA. DE LOS PLANETAS, 42, Parla",
+    "maps_embed": "https://maps.google.com/maps?q=SUPERA%2C%20PABELLON%20AVDA.%20DE%20LOS%20PLANETAS%2C%2042%2C%20Parla&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=SUPERA%2C%20PABELLON%20AVDA.%20DE%20LOS%20PLANETAS%2C%2042%2C%20Parla",
     "matches_count": 1
   },
   {
@@ -924,6 +1059,15 @@
     "raw_venue": "VICENTE DEL BOSQUE, CDM (Descubierto) AVDA. MONFORTE DE LEMOS, 13, Madrid",
     "maps_embed": "https://maps.google.com/maps?q=VICENTE%20DEL%20BOSQUE%2C%20CDM%20%28Descubierto%29%20AVDA.%20MONFORTE%20DE%20LEMOS%2C%2013%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=VICENTE%20DEL%20BOSQUE%2C%20CDM%20%28Descubierto%29%20AVDA.%20MONFORTE%20DE%20LEMOS%2C%2013%2C%20Madrid",
+    "matches_count": 1
+  },
+  {
+    "slug": "virgen-de-mirasierra-colegio-calle-pena-dorada-2-madrid",
+    "title": "VIRGEN DE MIRASIERRA",
+    "address": "COLEGIO CALLE PEÑA DORADA, 2, Madrid",
+    "raw_venue": "VIRGEN DE MIRASIERRA, COLEGIO CALLE PEÑA DORADA, 2, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=VIRGEN%20DE%20MIRASIERRA%2C%20COLEGIO%20CALLE%20PE%C3%91A%20DORADA%2C%202%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=VIRGEN%20DE%20MIRASIERRA%2C%20COLEGIO%20CALLE%20PE%C3%91A%20DORADA%2C%202%2C%20Madrid",
     "matches_count": 1
   },
   {

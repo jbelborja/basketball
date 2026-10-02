@@ -125,6 +125,34 @@ def fetch_html():
         raise
 
 
+def _load_existing_game_ids():
+    """Return a dict mapping natural-key → existing id/slug from the saved games.json."""
+    games_path = os.path.join(DATA_DIR, "games.json")
+    if not os.path.exists(games_path):
+        return {}
+    try:
+        with open(games_path, "r", encoding="utf-8") as f:
+            existing = json.load(f)
+        mapping = {}
+        for g in existing:
+            key = _game_natural_key(g["date"], g["home"], g["away"], g["category"], g["gender"])
+            mapping[key] = {"id": g["id"], "slug": g["slug"]}
+        return mapping
+    except Exception:
+        return {}
+
+
+def _game_natural_key(date, home, away, category, gender):
+    """Stable, case-insensitive natural key for deduplication/ID lookup."""
+    return (date, home.strip().upper(), away.strip().upper(),
+            category.strip().lower(), gender.strip().lower())
+
+
+def _make_game_id(date, home, away, category, gender):
+    """Deterministic slug built from the game's natural key."""
+    return "game-" + slugify(f"{date}-{home}-{away}-{category}-{gender}")
+
+
 def parse_fbm_data(html):
     sections = re.split(r"<h[34][^>]*>(.*?)</h[34]>", html, flags=re.IGNORECASE)
 
@@ -132,7 +160,8 @@ def parse_fbm_data(html):
     all_classifications = []
     all_games = []
     venues_dict = {}
-    game_counter = 1
+
+    existing_ids = _load_existing_game_ids()
 
     for i in range(1, len(sections), 2):
         comp_title = clean_html_text(sections[i])
@@ -302,8 +331,15 @@ def parse_fbm_data(html):
                             away_score = int(score_match.group(2))
                             status = "Finalizado"
 
-                        g_id = f"game-{date_str.replace('-', '')}-{game_counter:02d}"
-                        game_counter += 1
+
+                        nat_key = _game_natural_key(date_str, home, away, category, gender)
+                        if nat_key in existing_ids:
+                            g_id = existing_ids[nat_key]["id"]
+                            g_slug = existing_ids[nat_key]["slug"]
+                        else:
+                            g_id = _make_game_id(date_str, home, away, category, gender)
+                            g_slug = g_id
+
 
                         home_slug = slugify(f"{home}-{category}-{gender}") if "colmenar" in home.lower() else slugify(home)
                         away_slug = slugify(f"{away}-{category}-{gender}") if "colmenar" in away.lower() else slugify(away)
@@ -332,7 +368,7 @@ def parse_fbm_data(html):
 
                         game_entry = {
                             "id": g_id,
-                            "slug": g_id,
+                            "slug": g_slug,
                             "date": date_str,
                             "time": time_str,
                             "status": status,
@@ -559,9 +595,6 @@ def main():
     generate_markdown_content(teams, games, venues, players)
     print("Proceso finalizado con éxito.")
 
-
-if __name__ == "__main__":
-    main()
 
 if __name__ == "__main__":
     main()

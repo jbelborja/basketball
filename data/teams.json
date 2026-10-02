@@ -4,7 +4,7 @@
     "slug": "colmenar-viejo-senior-masculino",
     "category": "Senior",
     "gender": "masculino",
-    "logo": "/images/teams/cbcolmenar.png",
+    "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
     "established": 1985,
@@ -15,11 +15,41 @@
     "weight": 1
   },
   {
+    "name": "COLMENAR VIEJO BLANCO",
+    "slug": "colmenar-viejo-blanco-senior-masculino",
+    "category": "Senior",
+    "gender": "masculino",
+    "logo": "images/teams/cbcolmenar.png",
+    "coach": "Entrenador CB Colmenar",
+    "venue": "Pabellón Juan Antonio Samaranch",
+    "established": 1985,
+    "wins": 0,
+    "losses": 0,
+    "league_position": 1,
+    "description": "Equipo COLMENAR VIEJO BLANCO del CB Colmenar Viejo en la categoría Senior masculino.",
+    "weight": 2
+  },
+  {
+    "name": "COLMENAR VIEJO NEGRO",
+    "slug": "colmenar-viejo-negro-senior-masculino",
+    "category": "Senior",
+    "gender": "masculino",
+    "logo": "images/teams/cbcolmenar.png",
+    "coach": "Entrenador CB Colmenar",
+    "venue": "Pabellón Juan Antonio Samaranch",
+    "established": 1985,
+    "wins": 0,
+    "losses": 0,
+    "league_position": 1,
+    "description": "Equipo COLMENAR VIEJO NEGRO del CB Colmenar Viejo en la categoría Senior masculino.",
+    "weight": 3
+  },
+  {
     "name": "COLMENAR VIEJO A",
     "slug": "colmenar-viejo-a-senior-masculino",
     "category": "Senior",
     "gender": "masculino",
-    "logo": "/images/teams/cbcolmenar.png",
+    "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
     "established": 1985,
@@ -27,14 +57,29 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO A del CB Colmenar Viejo en la categoría Senior masculino.",
-    "weight": 2
+    "weight": 4
+  },
+  {
+    "name": "COLMENAR VIEJO",
+    "slug": "colmenar-viejo-senior-femenino",
+    "category": "Senior",
+    "gender": "femenino",
+    "logo": "images/teams/cbcolmenar.png",
+    "coach": "Entrenador CB Colmenar",
+    "venue": "Pabellón Juan Antonio Samaranch",
+    "established": 1985,
+    "wins": 0,
+    "losses": 0,
+    "league_position": 1,
+    "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Senior femenino.",
+    "weight": 5
   },
   {
     "name": "COLMENAR VIEJO A",
     "slug": "colmenar-viejo-a-senior-femenino",
     "category": "Senior",
     "gender": "femenino",
-    "logo": "/images/teams/cbcolmenar.png",
+    "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
     "established": 1985,
@@ -42,14 +87,14 @@
     "losses": 1,
     "league_position": 6,
     "description": "Equipo COLMENAR VIEJO A del CB Colmenar Viejo compitiendo en la categoría Senior femenino.",
-    "weight": 3
+    "weight": 6
   },
   {
     "name": "COLMENAR VIEJO B",
     "slug": "colmenar-viejo-b-senior-femenino",
     "category": "Senior",
     "gender": "femenino",
-    "logo": "/images/teams/cbcolmenar.png",
+    "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
     "established": 1985,
@@ -57,14 +102,14 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO B del CB Colmenar Viejo en la categoría Senior femenino.",
-    "weight": 4
+    "weight": 7
   },
   {
     "name": "COLMENAR VIEJO",
     "slug": "colmenar-viejo-sub-22-masculino",
     "category": "Sub 22",
     "gender": "masculino",
-    "logo": "/images/teams/cbcolmenar.png",
+    "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
     "established": 1985,
@@ -72,14 +117,14 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Sub 22 masculino.",
-    "weight": 5
+    "weight": 8
   },
   {
     "name": "COLMENAR VIEJO A",
     "slug": "colmenar-viejo-a-junior-masculino",
     "category": "Junior",
     "gender": "masculino",
-    "logo": "/images/teams/cbcolmenar.png",
+    "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
     "established": 1985,
@@ -87,14 +132,14 @@
     "losses": 1,
     "league_position": 9,
     "description": "Equipo COLMENAR VIEJO A del CB Colmenar Viejo compitiendo en la categoría Junior masculino.",
-    "weight": 6
+    "weight": 9
   },
   {
     "name": "COLMENAR VIEJO B",
     "slug": "colmenar-viejo-b-junior-masculino",
     "category": "Junior",
     "gender": "masculino",
-    "logo": "/images/teams/cbcolmenar.png",
+    "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
     "established": 1985,
@@ -102,14 +147,14 @@
     "losses": 0,
     "league_position": 4,
     "description": "Equipo COLMENAR VIEJO B del CB Colmenar Viejo compitiendo en la categoría Junior masculino.",
-    "weight": 7
+    "weight": 10
   },
   {
     "name": "COLMENAR VIEJO C",
     "slug": "colmenar-viejo-c-junior-masculino",
     "category": "Junior",
     "gender": "masculino",
-    "logo": "/images/teams/cbcolmenar.png",
+    "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
     "established": 1985,
@@ -117,14 +162,14 @@
     "losses": 1,
     "league_position": 5,
     "description": "Equipo COLMENAR VIEJO C del CB Colmenar Viejo compitiendo en la categoría Junior masculino.",
-    "weight": 8
+    "weight": 11
   },
   {
     "name": "COLMENAR VIEJO",
     "slug": "colmenar-viejo-junior-femenino",
     "category": "Junior",
     "gender": "femenino",
-    "logo": "/images/teams/cbcolmenar.png",
+    "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
     "established": 1985,
@@ -132,14 +177,14 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Junior femenino.",
-    "weight": 9
+    "weight": 12
   },
   {
     "name": "COLMENAR VIEJO A",
     "slug": "colmenar-viejo-a-cadete-masculino",
     "category": "Cadete",
     "gender": "masculino",
-    "logo": "/images/teams/cbcolmenar.png",
+    "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
     "established": 1985,
@@ -147,14 +192,14 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO A del CB Colmenar Viejo en la categoría Cadete masculino.",
-    "weight": 10
+    "weight": 13
   },
   {
     "name": "COLMENAR VIEJO B",
     "slug": "colmenar-viejo-b-cadete-masculino",
     "category": "Cadete",
     "gender": "masculino",
-    "logo": "/images/teams/cbcolmenar.png",
+    "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
     "established": 1985,
@@ -162,14 +207,14 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO B del CB Colmenar Viejo en la categoría Cadete masculino.",
-    "weight": 11
+    "weight": 14
   },
   {
     "name": "COLMENAR VIEJO C",
     "slug": "colmenar-viejo-c-cadete-masculino",
     "category": "Cadete",
     "gender": "masculino",
-    "logo": "/images/teams/cbcolmenar.png",
+    "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
     "established": 1985,
@@ -177,14 +222,14 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO C del CB Colmenar Viejo en la categoría Cadete masculino.",
-    "weight": 12
+    "weight": 15
   },
   {
     "name": "COLMENAR VIEJO",
     "slug": "colmenar-viejo-cadete-femenino",
     "category": "Cadete",
     "gender": "femenino",
-    "logo": "/images/teams/cbcolmenar.png",
+    "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
     "established": 1985,
@@ -192,14 +237,14 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Cadete femenino.",
-    "weight": 13
+    "weight": 16
   },
   {
     "name": "COLMENAR VIEJO A",
     "slug": "colmenar-viejo-a-infantil-masculino",
     "category": "Infantil",
     "gender": "masculino",
-    "logo": "/images/teams/cbcolmenar.png",
+    "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
     "established": 1985,
@@ -207,14 +252,14 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO A del CB Colmenar Viejo en la categoría Infantil masculino.",
-    "weight": 14
+    "weight": 17
   },
   {
     "name": "COLMENAR VIEJO B",
     "slug": "colmenar-viejo-b-infantil-masculino",
     "category": "Infantil",
     "gender": "masculino",
-    "logo": "/images/teams/cbcolmenar.png",
+    "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
     "established": 1985,
@@ -222,6 +267,6 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO B del CB Colmenar Viejo en la categoría Infantil masculino.",
-    "weight": 15
+    "weight": 18
   }
 ]

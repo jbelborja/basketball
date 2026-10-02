@@ -51,16 +51,16 @@
       <div class="flex items-center justify-between h-20">
         
         <!-- Brand Logo & Title -->
-        <a href="{{ "" | relURL }}" class="flex items-center gap-3 group">
-          <div class="relative">
+        <a href="{{ "" | relURL }}" class="flex items-center gap-3 group min-w-0">
+          <div class="relative flex-shrink-0">
             <img src="{{ "images/teams/cbcolmenar.png" | relURL }}" alt="CB Colmenar Viejo" class="h-12 w-12 rounded-full object-cover ring-2 ring-orange-500 ring-offset-2 ring-offset-slate-900 group-hover:scale-105 transition-transform duration-300 shadow-lg shadow-orange-500/20"/>
             <span class="absolute -bottom-1 -right-1 bg-orange-500 text-[9px] font-extrabold px-1.5 py-0.2 rounded text-white font-sports uppercase tracking-wider">CB</span>
           </div>
-          <div>
-            <div class="font-sports text-2xl font-bold tracking-wider uppercase text-white group-hover:text-orange-400 transition flex items-center gap-1.5">
+          <div class="min-w-0 overflow-hidden">
+            <div class="font-sports text-lg sm:text-2xl font-bold tracking-wider uppercase text-white group-hover:text-orange-400 transition truncate">
               CB COLMENAR VIEJO
             </div>
-            <div class="text-[11px] font-semibold tracking-widest uppercase text-slate-400">
+            <div class="text-[11px] font-semibold tracking-widest uppercase text-slate-400 truncate">
               Pasión · Esfuerzo · Victoria
             </div>
           </div>
@@ -186,33 +186,46 @@
   </footer>
 
   <script>
+    /* ── Mobile menu toggle ── */
     const btn = document.getElementById('mobile-menu-btn');
     const menu = document.getElementById('mobile-menu');
     if (btn && menu) {
-      btn.addEventListener('click', () => {
-        menu.classList.toggle('hidden');
-      });
+      btn.addEventListener('click', () => menu.classList.toggle('hidden'));
     }
 
+    /* ── Persistent global filters ── */
+    const STORAGE_KEY_CAT = 'cbcv_filter_category';
+    const STORAGE_KEY_GEN = 'cbcv_filter_gender';
+
     document.addEventListener('DOMContentLoaded', () => {
-      const catSelect = document.getElementById('filter-category');
-      const genSelect = document.getElementById('filter-gender');
+      const catSelect  = document.getElementById('filter-category');
+      const genSelect  = document.getElementById('filter-gender');
       const statSelect = document.getElementById('filter-status');
 
-      if (!catSelect && !genSelect && !statSelect) return;
-
+      /* ── Restore persisted values (localStorage wins over URL params) ── */
       const urlParams = new URLSearchParams(window.location.search);
-      if (catSelect && urlParams.has('category')) {
-        catSelect.value = urlParams.get('category');
+
+      function restoreSelect(el, storageKey, urlParamKey) {
+        if (!el) return;
+        const stored = localStorage.getItem(storageKey);
+        const fromUrl = urlParams.get(urlParamKey);
+        const val = fromUrl || stored || 'all';
+        if (val && el.querySelector(`option[value="${val}"]`)) {
+          el.value = val;
+        }
       }
-      if (genSelect && urlParams.has('gender')) {
-        genSelect.value = urlParams.get('gender');
-      }
+
+      restoreSelect(catSelect, STORAGE_KEY_CAT, 'category');
+      restoreSelect(genSelect, STORAGE_KEY_GEN, 'gender');
+
       if (statSelect && urlParams.has('status')) {
         statSelect.value = urlParams.get('status');
-        const statusBtns = document.querySelectorAll('[data-status-btn]');
-        statusBtns.forEach(b => {
-          if (b.getAttribute('data-status-btn') === statSelect.value) {
+      }
+
+      /* ── Update status-pill buttons to match hidden select ── */
+      function syncStatusButtons(val) {
+        document.querySelectorAll('[data-status-btn]').forEach(b => {
+          if (b.getAttribute('data-status-btn') === val) {
             b.classList.add('bg-orange-500', 'text-white');
             b.classList.remove('text-slate-400', 'hover:text-white');
           } else {
@@ -221,80 +234,81 @@
           }
         });
       }
+      if (statSelect) syncStatusButtons(statSelect.value || 'all');
 
+      /* ── Keep the calendar nav-link URL in sync ── */
       function updateNavLinks() {
-        const selectedCat = catSelect ? (catSelect.value || 'all') : 'all';
-        const selectedGen = genSelect ? (genSelect.value || 'all') : 'all';
-
+        const cat = catSelect ? catSelect.value : 'all';
+        const gen = genSelect ? genSelect.value : 'all';
         const params = new URLSearchParams();
-        if (selectedCat && selectedCat !== 'all') params.set('category', selectedCat);
-        if (selectedGen && selectedGen !== 'all') params.set('gender', selectedGen);
-
-        const targetUrl = "{{ "games/" | relURL }}" + (params.toString() ? ('?' + params.toString()) : '');
+        if (cat && cat !== 'all') params.set('category', cat);
+        if (gen && gen !== 'all') params.set('gender', gen);
+        const qs = params.toString();
+        const base = "{{ "games/" | relURL }}";
         document.querySelectorAll('.nav-calendar-link').forEach(a => {
-          a.href = targetUrl;
+          a.href = base + (qs ? '?' + qs : '');
         });
       }
 
+      /* ── Core filter function — works on any page ── */
       function applyFilters() {
-        const selectedCat = (catSelect ? catSelect.value : 'all').toLowerCase().trim();
-        const selectedGen = (genSelect ? genSelect.value : 'all').toLowerCase().trim();
-        const selectedStat = (statSelect ? statSelect.value : 'all').toLowerCase().trim();
+        const cat  = (catSelect  ? catSelect.value  : 'all').toLowerCase().trim();
+        const gen  = (genSelect  ? genSelect.value  : 'all').toLowerCase().trim();
+        const stat = (statSelect ? statSelect.value : 'all').toLowerCase().trim();
 
+        /* Persist to localStorage */
+        if (catSelect) localStorage.setItem(STORAGE_KEY_CAT, catSelect.value);
+        if (genSelect) localStorage.setItem(STORAGE_KEY_GEN, genSelect.value);
+
+        /* Update URL params without navigation */
         const currentUrl = new URL(window.location);
-        if (catSelect && selectedCat && selectedCat !== 'all') {
-          currentUrl.searchParams.set('category', catSelect.value);
-        } else if (catSelect) {
-          currentUrl.searchParams.delete('category');
-        }
-        if (genSelect && selectedGen && selectedGen !== 'all') {
-          currentUrl.searchParams.set('gender', genSelect.value);
-        } else if (genSelect) {
-          currentUrl.searchParams.delete('gender');
-        }
-        if (statSelect && selectedStat && selectedStat !== 'all') {
-          currentUrl.searchParams.set('status', statSelect.value);
-        } else if (statSelect) {
-          currentUrl.searchParams.delete('status');
-        }
+        cat  !== 'all' ? currentUrl.searchParams.set('category', catSelect.value) : currentUrl.searchParams.delete('category');
+        gen  !== 'all' ? currentUrl.searchParams.set('gender',   genSelect.value) : currentUrl.searchParams.delete('gender');
+        stat !== 'all' ? currentUrl.searchParams.set('status',   statSelect ? statSelect.value : '') : currentUrl.searchParams.delete('status');
         window.history.replaceState({}, '', currentUrl);
 
         updateNavLinks();
 
-        const filterableElements = document.querySelectorAll('[data-category]');
-        let visibleCount = 0;
+        /* Show/hide filterable elements on the current page */
+        const items = document.querySelectorAll('[data-category]');
+        let visible = 0;
+        items.forEach(el => {
+          const elCat  = (el.getAttribute('data-category') || '').toLowerCase().trim();
+          const elGen  = (el.getAttribute('data-gender')   || '').toLowerCase().trim();
+          const elStat = (el.getAttribute('data-status')   || '').toLowerCase().trim();
 
-        filterableElements.forEach(el => {
-          const itemCat = (el.getAttribute('data-category') || '').toLowerCase().trim();
-          const itemGen = (el.getAttribute('data-gender') || '').toLowerCase().trim();
-          const itemStat = (el.getAttribute('data-status') || '').toLowerCase().trim();
+          const okCat  = cat  === 'all' || cat  === '' || elCat  === cat;
+          const okGen  = gen  === 'all' || gen  === '' || elGen  === gen;
+          const okStat = !el.hasAttribute('data-status') || stat === 'all' || stat === '' || elStat === stat;
 
-          const matchCat = (selectedCat === 'all' || selectedCat === '' || itemCat === selectedCat);
-          const matchGen = (selectedGen === 'all' || selectedGen === '' || itemGen === selectedGen);
-          const matchStat = (!el.hasAttribute('data-status') || selectedStat === 'all' || selectedStat === '' || itemStat === selectedStat);
-
-          if (matchCat && matchGen && matchStat) {
-            el.style.display = '';
-            visibleCount++;
-          } else {
-            el.style.display = 'none';
-          }
+          if (okCat && okGen && okStat) { el.style.display = ''; visible++; }
+          else                          { el.style.display = 'none'; }
         });
 
-        const emptyState = document.getElementById('filter-empty-state');
-        if (emptyState) {
-          if (visibleCount === 0 && (selectedCat !== 'all' || selectedGen !== 'all' || selectedStat !== 'all')) {
-            emptyState.classList.remove('hidden');
-          } else {
-            emptyState.classList.add('hidden');
-          }
+        const empty = document.getElementById('filter-empty-state');
+        if (empty) {
+          const isFiltered = cat !== 'all' || gen !== 'all' || stat !== 'all';
+          empty.classList.toggle('hidden', !(visible === 0 && isFiltered));
         }
       }
 
+      /* ── Wire up status pill buttons ── */
+      document.querySelectorAll('[data-status-btn]').forEach(b => {
+        b.addEventListener('click', () => {
+          const val = b.getAttribute('data-status-btn');
+          if (statSelect) statSelect.value = val;
+          syncStatusButtons(val);
+          applyFilters();
+        });
+      });
+
+      /* ── Wire up selects ── */
       if (catSelect) catSelect.addEventListener('change', applyFilters);
       if (genSelect) genSelect.addEventListener('change', applyFilters);
       if (statSelect) statSelect.addEventListener('change', applyFilters);
 
+      /* ── Run on load ── */
+      updateNavLinks();
       applyFilters();
     });
   </script>

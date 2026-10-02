@@ -28,9 +28,9 @@
     </select>
   </div>
 
-  <!-- MATCHES LIST (ORDERED BY CATEGORY HIERARCHY & DATE) -->
+  <!-- MATCHES LIST — sorted by date, closest first -->
   <div class="grid grid-cols-1 gap-6">
-    {{ range (where .Site.RegularPages "Section" "games").ByWeight }}
+    {{ range (where .Site.RegularPages "Section" "games").ByDate }}
     <div class="match-item bg-slate-900 border border-slate-800 hover:border-slate-700 rounded-3xl p-6 transition duration-200 shadow-xl space-y-4 group" data-category="{{ .Params.category }}" data-gender="{{ .Params.gender }}" data-status="{{ .Params.status | lower }}">
       
       <!-- Top Metadata Header -->
@@ -97,10 +97,12 @@
 
       <!-- Bottom Venue & Action Footer -->
       <div class="pt-3 border-t border-slate-800/80 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 text-xs text-slate-400">
-        <div class="flex items-center gap-1.5 min-w-0 flex-1">
-          <span class="text-orange-400 font-bold flex-shrink-0">📍 Pabellón:</span>
-          <a href="{{ (printf "venues/%s/" .Params.venue_slug) | relURL }}" class="text-slate-300 hover:text-orange-400 font-medium truncate transition underline decoration-slate-700 hover:decoration-orange-400" title="{{ .Params.venue }}">
-            {{ .Params.venue }}
+        <div class="flex items-center gap-1.5 min-w-0 flex-1 overflow-hidden">
+          <span class="text-orange-400 font-bold flex-shrink-0">📍</span>
+          <a href="{{ (printf "venues/%s/" .Params.venue_slug) | relURL }}"
+             class="text-slate-300 hover:text-orange-400 font-medium truncate transition underline decoration-slate-700 hover:decoration-orange-400"
+             title="{{ .Params.venue }}">
+            {{ .Params.venue_title | default .Params.venue }}
           </a>
         </div>
         <a href="{{ .RelPermalink }}" class="inline-flex items-center gap-1.5 bg-slate-800 hover:bg-orange-500 text-white font-bold text-xs uppercase tracking-wider px-4 py-2 rounded-xl transition flex-shrink-0">
@@ -119,32 +121,4 @@
   </div>
 
 </div>
-
-<script>
-  document.addEventListener('DOMContentLoaded', () => {
-    const statusBtns = document.querySelectorAll('[data-status-btn]');
-    const hiddenSelect = document.getElementById('filter-status');
-
-    if (statusBtns.length && hiddenSelect) {
-      statusBtns.forEach(btn => {
-        btn.addEventListener('click', () => {
-          const val = btn.getAttribute('data-status-btn');
-          hiddenSelect.value = val;
-
-          statusBtns.forEach(b => {
-            if (b.getAttribute('data-status-btn') === val) {
-              b.classList.add('bg-orange-500', 'text-white');
-              b.classList.remove('text-slate-400', 'hover:text-white');
-            } else {
-              b.classList.remove('bg-orange-500', 'text-white');
-              b.classList.add('text-slate-400', 'hover:text-white');
-            }
-          });
-
-          hiddenSelect.dispatchEvent(new Event('change'));
-        });
-      });
-    }
-  });
-</script>
 {{ end }}

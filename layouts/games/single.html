@@ -114,13 +114,21 @@
     </div>
 
     <!-- Match Venue Footer Pill -->
-    <div class="relative z-10 bg-slate-950/80 px-6 py-3 border-t border-slate-800 flex flex-wrap items-center justify-between text-xs text-slate-400">
-      <div class="flex items-center gap-2">
-        <span class="text-orange-400 font-bold">📍 Pabellón:</span>
-        <a href="{{ (printf "venues/%s/" .Params.venue_slug) | relURL }}" class="text-slate-200 font-medium hover:text-orange-400 hover:underline transition">{{ .Params.venue }}</a>
+    <div class="relative z-10 bg-slate-950/80 px-6 py-3 border-t border-slate-800 flex flex-wrap items-center justify-between gap-x-4 gap-y-2 text-xs text-slate-400">
+      <div class="flex items-center gap-2 min-w-0 flex-1">
+        <span class="text-orange-400 font-bold flex-shrink-0">📍</span>
+        {{ $venueLabel := (.Params.venue_title | default .Params.venue) }}
+        {{ $venueSlug  := .Params.venue_slug }}
+        {{ if $venueSlug }}
+        <a href="{{ (printf "venues/%s/" $venueSlug) | relURL }}"
+           class="text-slate-200 font-medium hover:text-orange-400 hover:underline transition truncate"
+           title="{{ .Params.venue }}">{{ $venueLabel }}</a>
+        {{ else }}
+        <span class="text-slate-200 font-medium truncate" title="{{ .Params.venue }}">{{ $venueLabel }}</span>
+        {{ end }}
       </div>
       {{ with .Params.attendance }}
-      <div class="flex items-center gap-2">
+      <div class="flex items-center gap-2 flex-shrink-0">
         <span class="text-slate-500">Asistencia:</span>
         <span class="text-slate-300 font-medium">{{ . }}</span>
       </div>

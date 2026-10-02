@@ -4,13 +4,13 @@ name: "COLMENAR VIEJO A"
 slug: "colmenar-viejo-a-senior-femenino"
 category: "Senior"
 gender: "femenino"
-logo: "/images/teams/cbcolmenar.png"
+logo: "images/teams/cbcolmenar.png"
 coach: "Entrenador CB Colmenar"
 venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1985
 record: "0V - 1D"
 league_position: 6
-weight: 3
+weight: 6
 ---
 
 El **COLMENAR VIEJO A** representa al CB Colmenar Viejo en la categoría Senior (femenino).
