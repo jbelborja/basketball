@@ -1,0 +1,25 @@
+---
+title: "C.B. GETAFE \"B\" VS COLMENAR VIEJO BLANCO"
+date: 2026-11-07T12:00:00
+time: "12:00"
+team1: "C.B. GETAFE \"B\""
+team1_slug: "c-b-getafe-b"
+team1_logo: "images/teams/rival.png"
+team1_score: null
+team2: "COLMENAR VIEJO BLANCO"
+team2_slug: "colmenar-viejo-blanco-senior-masculino"
+team2_logo: "images/teams/cbcolmenar.png"
+team2_score: null
+status: "Pr\u00f3ximo"
+venue: "JUAN DE LA CIERVA, PABELLON PISTA CENTRAL AV. ESPA\u00d1A, 90, Getafe"
+venue_slug: "juan-de-la-cierva-pabellon-pista-central-av-espana-90-getafe"
+venue_title: "JUAN DE LA CIERVA"
+venue_address: "PABELLON PISTA CENTRAL AV. ESPA\u00d1A, 90, Getafe"
+category: "Senior"
+gender: "masculino"
+uid: "game-2026-11-07-c-b-getafe-b-colmenar-viejo-blanco-senior-masculino"
+slug: "game-2026-11-07-c-b-getafe-b-colmenar-viejo-blanco-senior-masculino"
+weight: 22
+---
+
+Encuentro correspondiente a la categoría Senior (masculino) entre **C.B. GETAFE "B"** y **COLMENAR VIEJO BLANCO**.
