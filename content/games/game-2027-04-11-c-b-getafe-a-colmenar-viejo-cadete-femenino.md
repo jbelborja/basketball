@@ -1,0 +1,25 @@
+---
+title: "C.B. GETAFE \"A\" VS COLMENAR VIEJO"
+date: 2027-04-11T12:00:00
+time: "12:00"
+team1: "C.B. GETAFE \"A\""
+team1_slug: "c-b-getafe-a"
+team1_logo: "images/teams/rival.png"
+team1_score: null
+team2: "COLMENAR VIEJO"
+team2_slug: "colmenar-viejo-cadete-femenino"
+team2_logo: "images/teams/cbcolmenar.png"
+team2_score: null
+status: "Pr\u00f3ximo"
+venue: "JUAN DE LA CIERVA, PABELLON PISTA CENTRAL AV. ESPA\u00d1A, 90, Getafe"
+venue_slug: "juan-de-la-cierva-pabellon-pista-central-av-espana-90-getafe"
+venue_title: "JUAN DE LA CIERVA"
+venue_address: "PABELLON PISTA CENTRAL AV. ESPA\u00d1A, 90, Getafe"
+category: "Cadete"
+gender: "femenino"
+uid: "game-2027-04-11-c-b-getafe-a-colmenar-viejo-cadete-femenino"
+slug: "game-2027-04-11-c-b-getafe-a-colmenar-viejo-cadete-femenino"
+weight: 42020270411120026
+---
+
+Encuentro correspondiente a la categoría Cadete (femenino) entre **C.B. GETAFE "A"** y **COLMENAR VIEJO**.

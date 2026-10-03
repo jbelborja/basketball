@@ -19,7 +19,7 @@ category: "Alev\u00edn"
 gender: "masculino"
 uid: "game-2026-10-10-colmenar-viejo-negro-colmenar-viejo-blanco-alevin-masculino"
 slug: "game-2026-10-10-colmenar-viejo-negro-colmenar-viejo-blanco-alevin-masculino"
-weight: 314
+weight: 61020261010123029
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **COLMENAR VIEJO NEGRO** y **COLMENAR VIEJO BLANCO**.

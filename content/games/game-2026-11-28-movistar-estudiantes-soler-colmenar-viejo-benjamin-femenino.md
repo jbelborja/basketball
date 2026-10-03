@@ -19,7 +19,7 @@ category: "Benjam\u00edn"
 gender: "femenino"
 uid: "game-2026-11-28-movistar-estudiantes-soler-colmenar-viejo-benjamin-femenino"
 slug: "game-2026-11-28-movistar-estudiantes-soler-colmenar-viejo-benjamin-femenino"
-weight: 388
+weight: 72020261128120098
 ---
 
 Encuentro correspondiente a la categoría Benjamín (femenino) entre **MOVISTAR ESTUDIANTES SOLER** y **COLMENAR VIEJO**.

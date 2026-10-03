@@ -329,21 +329,35 @@
       });
 
       /* ── Wire up desktop selects ── */
+      let _lastCat = catSelect ? catSelect.value : 'all';
+      let _lastGen = genSelect ? genSelect.value : 'all';
+
       if (catSelect) catSelect.addEventListener('change', () => {
+        if (catSelect.value === _lastCat) return;
+        _lastCat = catSelect.value;
         syncPair(catSelect, catSelectMobile);
         applyFilters();
       });
       if (genSelect) genSelect.addEventListener('change', () => {
+        if (genSelect.value === _lastGen) return;
+        _lastGen = genSelect.value;
         syncPair(genSelect, genSelectMobile);
         applyFilters();
       });
 
       /* ── Wire up mobile selects ── */
+      let _lastCatMobile = catSelectMobile ? catSelectMobile.value : 'all';
+      let _lastGenMobile = genSelectMobile ? genSelectMobile.value : 'all';
+
       if (catSelectMobile) catSelectMobile.addEventListener('change', () => {
+        if (catSelectMobile.value === _lastCatMobile) return;
+        _lastCatMobile = catSelectMobile.value;
         syncPair(catSelectMobile, catSelect);
         applyFilters();
       });
       if (genSelectMobile) genSelectMobile.addEventListener('change', () => {
+        if (genSelectMobile.value === _lastGenMobile) return;
+        _lastGenMobile = genSelectMobile.value;
         syncPair(genSelectMobile, genSelect);
         applyFilters();
       });

@@ -19,7 +19,7 @@ category: "Benjam\u00edn"
 gender: "femenino"
 uid: "game-2026-10-10-cabrini-a-p-a-colmenar-viejo-benjamin-femenino"
 slug: "game-2026-10-10-cabrini-a-p-a-colmenar-viejo-benjamin-femenino"
-weight: 382
+weight: 72020261010093096
 ---
 
 Encuentro correspondiente a la categoría Benjamín (femenino) entre **CABRINI A.P.A.** y **COLMENAR VIEJO**.

@@ -4,82 +4,29 @@
     "category": "Senior",
     "gender": "femenino",
     "colmenar_team": "COLMENAR VIEJO A",
-    "max_pj": 1,
+    "max_pj": 2,
     "teams": [
       {
         "position": 1,
-        "team": "COLEGIO ALAMEDA DE OSUNA",
-        "slug": "colegio-alameda-de-osuna-senior-femenino",
-        "logo": "images/teams/rival.png",
-        "pj": 1,
+        "team": "COLMENAR VIEJO A",
+        "slug": "colmenar-viejo-a-senior-femenino",
+        "logo": "images/teams/cbcolmenar.png",
+        "pj": 2,
         "v": 1,
-        "d": 0,
-        "pf": 55,
-        "pc": 26,
-        "dif": "+29",
-        "points": 2,
+        "d": 1,
+        "pf": 133,
+        "pc": 111,
+        "dif": "+22",
+        "points": 3,
         "streak": [
-          "V"
+          "V",
+          "D"
         ],
         "category": "Senior",
         "gender": "femenino"
       },
       {
         "position": 2,
-        "team": "ISAAC NEWTON",
-        "slug": "isaac-newton-senior-femenino",
-        "logo": "images/teams/rival.png",
-        "pj": 1,
-        "v": 1,
-        "d": 0,
-        "pf": 78,
-        "pc": 51,
-        "dif": "+27",
-        "points": 2,
-        "streak": [
-          "V"
-        ],
-        "category": "Senior",
-        "gender": "femenino"
-      },
-      {
-        "position": 3,
-        "team": "CESUR DISTRITO OLIMPICO",
-        "slug": "cesur-distrito-olimpico-senior-femenino",
-        "logo": "images/teams/rival.png",
-        "pj": 1,
-        "v": 1,
-        "d": 0,
-        "pf": 58,
-        "pc": 42,
-        "dif": "+16",
-        "points": 2,
-        "streak": [
-          "V"
-        ],
-        "category": "Senior",
-        "gender": "femenino"
-      },
-      {
-        "position": 4,
-        "team": "FEMENINO ALCORCON",
-        "slug": "femenino-alcorcon-senior-femenino",
-        "logo": "images/teams/rival.png",
-        "pj": 1,
-        "v": 1,
-        "d": 0,
-        "pf": 65,
-        "pc": 58,
-        "dif": "+7",
-        "points": 2,
-        "streak": [
-          "V"
-        ],
-        "category": "Senior",
-        "gender": "femenino"
-      },
-      {
-        "position": 5,
         "team": "FUNDAL ALCOBENDAS",
         "slug": "fundal-alcobendas-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -97,37 +44,92 @@
         "gender": "femenino"
       },
       {
-        "position": 6,
+        "position": 3,
         "team": "VERITAS POZUELO",
         "slug": "veritas-pozuelo-senior-femenino",
         "logo": "images/teams/rival.png",
-        "pj": 1,
+        "pj": 2,
         "v": 0,
-        "d": 1,
-        "pf": 66,
-        "pc": 67,
-        "dif": "-1",
-        "points": 1,
+        "d": 2,
+        "pf": 112,
+        "pc": 142,
+        "dif": "-30",
+        "points": 2,
         "streak": [
+          "D",
           "D"
         ],
         "category": "Senior",
         "gender": "femenino"
       },
       {
-        "position": 7,
-        "team": "COLMENAR VIEJO A",
-        "slug": "colmenar-viejo-a-senior-femenino",
-        "logo": "images/teams/cbcolmenar.png",
+        "position": 4,
+        "team": "COLEGIO ALAMEDA DE OSUNA",
+        "slug": "colegio-alameda-de-osuna-senior-femenino",
+        "logo": "images/teams/rival.png",
         "pj": 1,
-        "v": 0,
-        "d": 1,
-        "pf": 58,
-        "pc": 65,
-        "dif": "-7",
-        "points": 1,
+        "v": 1,
+        "d": 0,
+        "pf": 55,
+        "pc": 26,
+        "dif": "+29",
+        "points": 2,
         "streak": [
-          "D"
+          "V"
+        ],
+        "category": "Senior",
+        "gender": "femenino"
+      },
+      {
+        "position": 5,
+        "team": "ISAAC NEWTON",
+        "slug": "isaac-newton-senior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 1,
+        "d": 0,
+        "pf": 78,
+        "pc": 51,
+        "dif": "+27",
+        "points": 2,
+        "streak": [
+          "V"
+        ],
+        "category": "Senior",
+        "gender": "femenino"
+      },
+      {
+        "position": 6,
+        "team": "CESUR DISTRITO OLIMPICO",
+        "slug": "cesur-distrito-olimpico-senior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 1,
+        "d": 0,
+        "pf": 58,
+        "pc": 42,
+        "dif": "+16",
+        "points": 2,
+        "streak": [
+          "V"
+        ],
+        "category": "Senior",
+        "gender": "femenino"
+      },
+      {
+        "position": 7,
+        "team": "FEMENINO ALCORCON",
+        "slug": "femenino-alcorcon-senior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 1,
+        "d": 0,
+        "pf": 65,
+        "pc": 58,
+        "dif": "+7",
+        "points": 2,
+        "streak": [
+          "V"
         ],
         "category": "Senior",
         "gender": "femenino"
@@ -187,7 +189,7 @@
         "gender": "femenino"
       }
     ],
-    "weight": 1
+    "weight": 121829
   },
   {
     "league_title": "Junior Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
@@ -198,6 +200,25 @@
     "teams": [
       {
         "position": 1,
+        "team": "PARLA BASQUET BLACK",
+        "slug": "parla-basquet-black-junior-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 2,
+        "v": 2,
+        "d": 0,
+        "pf": 174,
+        "pc": 103,
+        "dif": "+71",
+        "points": 4,
+        "streak": [
+          "V",
+          "V"
+        ],
+        "category": "Junior",
+        "gender": "masculino"
+      },
+      {
+        "position": 2,
         "team": "COLEGIO EL PRADO",
         "slug": "colegio-el-prado-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -216,7 +237,64 @@
         "gender": "masculino"
       },
       {
-        "position": 2,
+        "position": 3,
+        "team": "BALONCESTO SAN FERNANDO 09",
+        "slug": "baloncesto-san-fernando-09-junior-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 2,
+        "v": 2,
+        "d": 0,
+        "pf": 131,
+        "pc": 87,
+        "dif": "+44",
+        "points": 4,
+        "streak": [
+          "V",
+          "V"
+        ],
+        "category": "Junior",
+        "gender": "masculino"
+      },
+      {
+        "position": 4,
+        "team": "VILLANUEVA DE LA CAÑADA",
+        "slug": "villanueva-de-la-canada-junior-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 2,
+        "v": 2,
+        "d": 0,
+        "pf": 114,
+        "pc": 107,
+        "dif": "+7",
+        "points": 4,
+        "streak": [
+          "V",
+          "V"
+        ],
+        "category": "Junior",
+        "gender": "masculino"
+      },
+      {
+        "position": 5,
+        "team": "PIRATAS SOTO BASKET",
+        "slug": "piratas-soto-basket-junior-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 2,
+        "v": 1,
+        "d": 1,
+        "pf": 120,
+        "pc": 132,
+        "dif": "-12",
+        "points": 3,
+        "streak": [
+          "V",
+          "D"
+        ],
+        "category": "Junior",
+        "gender": "masculino"
+      },
+      {
+        "position": 6,
         "team": "SPANISH BASKETBALL ACADEMY",
         "slug": "spanish-basketball-academy-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -235,79 +313,45 @@
         "gender": "masculino"
       },
       {
-        "position": 3,
-        "team": "PARLA BASQUET BLACK",
-        "slug": "parla-basquet-black-junior-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 1,
-        "v": 1,
-        "d": 0,
-        "pf": 105,
-        "pc": 40,
-        "dif": "+65",
-        "points": 2,
-        "streak": [
-          "V"
-        ],
-        "category": "Junior",
-        "gender": "masculino"
-      },
-      {
-        "position": 4,
-        "team": "BALONCESTO SAN FERNANDO 09",
-        "slug": "baloncesto-san-fernando-09-junior-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 1,
-        "v": 1,
-        "d": 0,
-        "pf": 49,
-        "pc": 31,
-        "dif": "+18",
-        "points": 2,
-        "streak": [
-          "V"
-        ],
-        "category": "Junior",
-        "gender": "masculino"
-      },
-      {
-        "position": 5,
-        "team": "PIRATAS SOTO BASKET",
-        "slug": "piratas-soto-basket-junior-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 1,
-        "v": 1,
-        "d": 0,
-        "pf": 64,
-        "pc": 50,
-        "dif": "+14",
-        "points": 2,
-        "streak": [
-          "V"
-        ],
-        "category": "Junior",
-        "gender": "masculino"
-      },
-      {
-        "position": 6,
-        "team": "VILLANUEVA DE LA CAÑADA",
-        "slug": "villanueva-de-la-canada-junior-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 1,
-        "v": 1,
-        "d": 0,
-        "pf": 56,
-        "pc": 50,
-        "dif": "+6",
-        "points": 2,
-        "streak": [
-          "V"
-        ],
-        "category": "Junior",
-        "gender": "masculino"
-      },
-      {
         "position": 7,
+        "team": "C.B. ALCORCON \"A\"",
+        "slug": "c-b-alcorcon-a-junior-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 2,
+        "v": 0,
+        "d": 2,
+        "pf": 94,
+        "pc": 118,
+        "dif": "-24",
+        "points": 2,
+        "streak": [
+          "D",
+          "D"
+        ],
+        "category": "Junior",
+        "gender": "masculino"
+      },
+      {
+        "position": 8,
+        "team": "BRAINS MORALEJA B",
+        "slug": "brains-moraleja-b-junior-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 2,
+        "v": 0,
+        "d": 2,
+        "pf": 95,
+        "pc": 121,
+        "dif": "-26",
+        "points": 2,
+        "streak": [
+          "D",
+          "D"
+        ],
+        "category": "Junior",
+        "gender": "masculino"
+      },
+      {
+        "position": 9,
         "team": "COSLADA C.B. SERRACINES",
         "slug": "coslada-c-b-serracines-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -325,7 +369,7 @@
         "gender": "masculino"
       },
       {
-        "position": 8,
+        "position": 10,
         "team": "PILARISTAS",
         "slug": "pilaristas-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -343,7 +387,7 @@
         "gender": "masculino"
       },
       {
-        "position": 9,
+        "position": 11,
         "team": "COLMENAR VIEJO A",
         "slug": "colmenar-viejo-a-junior-masculino",
         "logo": "images/teams/cbcolmenar.png",
@@ -353,42 +397,6 @@
         "pf": 50,
         "pc": 64,
         "dif": "-14",
-        "points": 1,
-        "streak": [
-          "D"
-        ],
-        "category": "Junior",
-        "gender": "masculino"
-      },
-      {
-        "position": 10,
-        "team": "C.B. ALCORCON \"A\"",
-        "slug": "c-b-alcorcon-a-junior-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 1,
-        "v": 0,
-        "d": 1,
-        "pf": 31,
-        "pc": 49,
-        "dif": "-18",
-        "points": 1,
-        "streak": [
-          "D"
-        ],
-        "category": "Junior",
-        "gender": "masculino"
-      },
-      {
-        "position": 11,
-        "team": "BRAINS MORALEJA B",
-        "slug": "brains-moraleja-b-junior-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 1,
-        "v": 0,
-        "d": 1,
-        "pf": 38,
-        "pc": 63,
-        "dif": "-25",
         "points": 1,
         "streak": [
           "D"
@@ -415,7 +423,7 @@
         "gender": "masculino"
       }
     ],
-    "weight": 2
+    "weight": 311660
   },
   {
     "league_title": "Junior Masc. Pref. - PRIMERA 4ª DIVISION - GRUPO 2",
@@ -464,6 +472,25 @@
       },
       {
         "position": 3,
+        "team": "LICEO FRANCES 10",
+        "slug": "liceo-frances-10-junior-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 2,
+        "v": 1,
+        "d": 1,
+        "pf": 149,
+        "pc": 89,
+        "dif": "+60",
+        "points": 3,
+        "streak": [
+          "V",
+          "D"
+        ],
+        "category": "Junior",
+        "gender": "masculino"
+      },
+      {
+        "position": 4,
         "team": "VALLEKAS BASKET B",
         "slug": "vallekas-basket-b-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -482,25 +509,45 @@
         "gender": "masculino"
       },
       {
-        "position": 4,
-        "team": "LICEO FRANCES 10",
-        "slug": "liceo-frances-10-junior-masculino",
+        "position": 5,
+        "team": "C.B. VILLA DE VALDEMORO \"C\"",
+        "slug": "c-b-villa-de-valdemoro-c-junior-masculino",
         "logo": "images/teams/rival.png",
-        "pj": 1,
+        "pj": 2,
         "v": 1,
-        "d": 0,
-        "pf": 102,
-        "pc": 12,
-        "dif": "+90",
-        "points": 2,
+        "d": 1,
+        "pf": 104,
+        "pc": 112,
+        "dif": "-8",
+        "points": 3,
         "streak": [
-          "V"
+          "V",
+          "D"
         ],
         "category": "Junior",
         "gender": "masculino"
       },
       {
-        "position": 5,
+        "position": 6,
+        "team": "VALCUDE ALCOBENDAS 10",
+        "slug": "valcude-alcobendas-10-junior-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 2,
+        "v": 1,
+        "d": 1,
+        "pf": 114,
+        "pc": 127,
+        "dif": "-13",
+        "points": 3,
+        "streak": [
+          "V",
+          "D"
+        ],
+        "category": "Junior",
+        "gender": "masculino"
+      },
+      {
+        "position": 7,
         "team": "COLMENAR VIEJO B",
         "slug": "colmenar-viejo-b-junior-masculino",
         "logo": "images/teams/cbcolmenar.png",
@@ -518,7 +565,7 @@
         "gender": "masculino"
       },
       {
-        "position": 6,
+        "position": 8,
         "team": "RICOPIA FUNBAL ALCALA CBJA",
         "slug": "ricopia-funbal-alcala-cbja-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -536,7 +583,26 @@
         "gender": "masculino"
       },
       {
-        "position": 7,
+        "position": 9,
+        "team": "TORREJON DE LA CALZADA EMB",
+        "slug": "torrejon-de-la-calzada-emb-junior-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 2,
+        "v": 0,
+        "d": 2,
+        "pf": 67,
+        "pc": 130,
+        "dif": "-63",
+        "points": 2,
+        "streak": [
+          "D",
+          "D"
+        ],
+        "category": "Junior",
+        "gender": "masculino"
+      },
+      {
+        "position": 10,
         "team": "BASALCOR RM",
         "slug": "basalcor-rm-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -555,7 +621,7 @@
         "gender": "masculino"
       },
       {
-        "position": 8,
+        "position": 11,
         "team": "VICALVARO BALONCESTO CDE",
         "slug": "vicalvaro-baloncesto-cde-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -573,43 +639,7 @@
         "gender": "masculino"
       },
       {
-        "position": 9,
-        "team": "C.B. VILLA DE VALDEMORO \"C\"",
-        "slug": "c-b-villa-de-valdemoro-c-junior-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 1,
-        "v": 0,
-        "d": 1,
-        "pf": 33,
-        "pc": 67,
-        "dif": "-34",
-        "points": 1,
-        "streak": [
-          "D"
-        ],
-        "category": "Junior",
-        "gender": "masculino"
-      },
-      {
-        "position": 10,
-        "team": "TORREJON DE LA CALZADA EMB",
-        "slug": "torrejon-de-la-calzada-emb-junior-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 1,
-        "v": 0,
-        "d": 1,
-        "pf": 22,
-        "pc": 59,
-        "dif": "-37",
-        "points": 1,
-        "streak": [
-          "D"
-        ],
-        "category": "Junior",
-        "gender": "masculino"
-      },
-      {
-        "position": 11,
+        "position": 12,
         "team": "C.B. PIZARRO BLANCO CAMPUS ÁVILA",
         "slug": "c-b-pizarro-blanco-campus-avila-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -625,27 +655,9 @@
         ],
         "category": "Junior",
         "gender": "masculino"
-      },
-      {
-        "position": 12,
-        "team": "VALCUDE ALCOBENDAS 10",
-        "slug": "valcude-alcobendas-10-junior-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 1,
-        "v": 0,
-        "d": 1,
-        "pf": 37,
-        "pc": 80,
-        "dif": "-43",
-        "points": 1,
-        "streak": [
-          "D"
-        ],
-        "category": "Junior",
-        "gender": "masculino"
       }
     ],
-    "weight": 3
+    "weight": 312420
   },
   {
     "league_title": "Junior Masc. Pref. - PRIMERA 5ª DIVISION - GRUPO PAR",
@@ -675,6 +687,25 @@
       },
       {
         "position": 2,
+        "team": "MARAVILLAS",
+        "slug": "maravillas-junior-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 2,
+        "v": 2,
+        "d": 0,
+        "pf": 125,
+        "pc": 87,
+        "dif": "+38",
+        "points": 4,
+        "streak": [
+          "V",
+          "V"
+        ],
+        "category": "Junior",
+        "gender": "masculino"
+      },
+      {
+        "position": 3,
         "team": "MIRAMADRID CLUB DEPORTIVO BASICO Amarillo",
         "slug": "miramadrid-club-deportivo-basico-amarillo-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -693,7 +724,7 @@
         "gender": "masculino"
       },
       {
-        "position": 3,
+        "position": 4,
         "team": "COLEGIO CLARET MADRID ''BLANCO''",
         "slug": "colegio-claret-madrid-blanco-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -712,7 +743,7 @@
         "gender": "masculino"
       },
       {
-        "position": 4,
+        "position": 5,
         "team": "BASKET ARANJUEZ C",
         "slug": "basket-aranjuez-c-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -730,25 +761,26 @@
         "gender": "masculino"
       },
       {
-        "position": 5,
-        "team": "MARAVILLAS",
-        "slug": "maravillas-junior-masculino",
+        "position": 6,
+        "team": "TAC-TEC-TENIS C.D.E.",
+        "slug": "tac-tec-tenis-c-d-e-junior-masculino",
         "logo": "images/teams/rival.png",
-        "pj": 1,
-        "v": 1,
-        "d": 0,
-        "pf": 59,
-        "pc": 54,
-        "dif": "+5",
+        "pj": 2,
+        "v": 0,
+        "d": 2,
+        "pf": 74,
+        "pc": 119,
+        "dif": "-45",
         "points": 2,
         "streak": [
-          "V"
+          "D",
+          "D"
         ],
         "category": "Junior",
         "gender": "masculino"
       },
       {
-        "position": 6,
+        "position": 7,
         "team": "MEJORADA 2012 C.B.",
         "slug": "mejorada-2012-c-b-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -766,7 +798,7 @@
         "gender": "masculino"
       },
       {
-        "position": 7,
+        "position": 8,
         "team": "CB POZUELO B",
         "slug": "cb-pozuelo-b-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -776,24 +808,6 @@
         "pf": 50,
         "pc": 57,
         "dif": "-7",
-        "points": 1,
-        "streak": [
-          "D"
-        ],
-        "category": "Junior",
-        "gender": "masculino"
-      },
-      {
-        "position": 8,
-        "team": "TAC-TEC-TENIS C.D.E.",
-        "slug": "tac-tec-tenis-c-d-e-junior-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 1,
-        "v": 0,
-        "d": 1,
-        "pf": 41,
-        "pc": 53,
-        "dif": "-12",
         "points": 1,
         "streak": [
           "D"
@@ -868,7 +882,185 @@
         "gender": "masculino"
       }
     ],
-    "weight": 4
+    "weight": 313270
+  },
+  {
+    "league_title": "Junior Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 5",
+    "category": "Junior",
+    "gender": "femenino",
+    "colmenar_team": "COLMENAR VIEJO",
+    "max_pj": 1,
+    "teams": [
+      {
+        "position": 1,
+        "team": "MOVISTAR ESTUDIANTES ANTON",
+        "slug": "movistar-estudiantes-anton-junior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 1,
+        "d": 0,
+        "pf": 71,
+        "pc": 24,
+        "dif": "+47",
+        "points": 2,
+        "streak": [
+          "V"
+        ],
+        "category": "Junior",
+        "gender": "femenino"
+      },
+      {
+        "position": 2,
+        "team": "FENIX BASKET CLUB BOADILLA",
+        "slug": "fenix-basket-club-boadilla-junior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 1,
+        "d": 0,
+        "pf": 63,
+        "pc": 31,
+        "dif": "+32",
+        "points": 2,
+        "streak": [
+          "V"
+        ],
+        "category": "Junior",
+        "gender": "femenino"
+      },
+      {
+        "position": 3,
+        "team": "COLMENAR VIEJO",
+        "slug": "colmenar-viejo-junior-femenino",
+        "logo": "images/teams/cbcolmenar.png",
+        "pj": 1,
+        "v": 0,
+        "d": 1,
+        "pf": 31,
+        "pc": 63,
+        "dif": "-32",
+        "points": 1,
+        "streak": [
+          "D"
+        ],
+        "category": "Junior",
+        "gender": "femenino"
+      },
+      {
+        "position": 4,
+        "team": "ESTUDIANTES INTERNATIONAL SCHOOL \"B\"",
+        "slug": "estudiantes-international-school-b-junior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 0,
+        "d": 1,
+        "pf": 24,
+        "pc": 71,
+        "dif": "-47",
+        "points": 1,
+        "streak": [
+          "D"
+        ],
+        "category": "Junior",
+        "gender": "femenino"
+      },
+      {
+        "position": 5,
+        "team": "ARAVACA BASKET C.D.E.",
+        "slug": "aravaca-basket-c-d-e-junior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 0,
+        "v": 0,
+        "d": 0,
+        "pf": 0,
+        "pc": 0,
+        "dif": "0",
+        "points": 0,
+        "streak": [],
+        "category": "Junior",
+        "gender": "femenino"
+      },
+      {
+        "position": 6,
+        "team": "C.B. CIUDAD DE MÓSTOLES \"B\"",
+        "slug": "c-b-ciudad-de-mostoles-b-junior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 0,
+        "v": 0,
+        "d": 0,
+        "pf": 0,
+        "pc": 0,
+        "dif": "0",
+        "points": 0,
+        "streak": [],
+        "category": "Junior",
+        "gender": "femenino"
+      },
+      {
+        "position": 7,
+        "team": "FM GESTIONA C.B. VILLA DE VALDEMORO \"B\"",
+        "slug": "fm-gestiona-c-b-villa-de-valdemoro-b-junior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 0,
+        "v": 0,
+        "d": 0,
+        "pf": 0,
+        "pc": 0,
+        "dif": "0",
+        "points": 0,
+        "streak": [],
+        "category": "Junior",
+        "gender": "femenino"
+      },
+      {
+        "position": 8,
+        "team": "CABRINI A.P.A. VERDE",
+        "slug": "cabrini-a-p-a-verde-junior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 0,
+        "v": 0,
+        "d": 0,
+        "pf": 0,
+        "pc": 0,
+        "dif": "0",
+        "points": 0,
+        "streak": [],
+        "category": "Junior",
+        "gender": "femenino"
+      },
+      {
+        "position": 9,
+        "team": "LICEO FRANCES",
+        "slug": "liceo-frances-junior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 0,
+        "v": 0,
+        "d": 0,
+        "pf": 0,
+        "pc": 0,
+        "dif": "0",
+        "points": 0,
+        "streak": [],
+        "category": "Junior",
+        "gender": "femenino"
+      },
+      {
+        "position": 10,
+        "team": "IRLANDESAS 2",
+        "slug": "irlandesas-2-junior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 0,
+        "v": 0,
+        "d": 0,
+        "pf": 0,
+        "pc": 0,
+        "dif": "0",
+        "points": 0,
+        "streak": [],
+        "category": "Junior",
+        "gender": "femenino"
+      }
+    ],
+    "weight": 320028
   },
   {
     "league_title": "Cadete Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
@@ -879,6 +1071,60 @@
     "teams": [
       {
         "position": 1,
+        "team": "MOVISTAR ESTUDIANTES WINSLOW",
+        "slug": "movistar-estudiantes-winslow-cadete-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 1,
+        "d": 0,
+        "pf": 93,
+        "pc": 22,
+        "dif": "+71",
+        "points": 2,
+        "streak": [
+          "V"
+        ],
+        "category": "Cadete",
+        "gender": "masculino"
+      },
+      {
+        "position": 2,
+        "team": "PARQUE CATALUÑA TORREJÓN AMARILLO",
+        "slug": "parque-cataluna-torrejon-amarillo-cadete-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 1,
+        "d": 0,
+        "pf": 43,
+        "pc": 30,
+        "dif": "+13",
+        "points": 2,
+        "streak": [
+          "V"
+        ],
+        "category": "Cadete",
+        "gender": "masculino"
+      },
+      {
+        "position": 3,
+        "team": "ALAMEDA DE OSUNA VERDE",
+        "slug": "alameda-de-osuna-verde-cadete-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 1,
+        "d": 0,
+        "pf": 66,
+        "pc": 58,
+        "dif": "+8",
+        "points": 2,
+        "streak": [
+          "V"
+        ],
+        "category": "Cadete",
+        "gender": "masculino"
+      },
+      {
+        "position": 4,
         "team": "SAN VIATOR \"C\"",
         "slug": "san-viator-c-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -896,7 +1142,7 @@
         "gender": "masculino"
       },
       {
-        "position": 2,
+        "position": 5,
         "team": "BRAINS ARTURO SORIA",
         "slug": "brains-arturo-soria-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -914,7 +1160,7 @@
         "gender": "masculino"
       },
       {
-        "position": 3,
+        "position": 6,
         "team": "JYA FOTOVOLTAICA CB NAVALCARNERO A",
         "slug": "jya-fotovoltaica-cb-navalcarnero-a-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -932,7 +1178,7 @@
         "gender": "masculino"
       },
       {
-        "position": 4,
+        "position": 7,
         "team": "ARGANZUELA CENTRO \"B\"",
         "slug": "arganzuela-centro-b-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -950,55 +1196,61 @@
         "gender": "masculino"
       },
       {
-        "position": 5,
-        "team": "BUEN CONSEJO 11",
-        "slug": "buen-consejo-11-cadete-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
+        "position": 8,
+        "team": "COLMENAR VIEJO A",
+        "slug": "colmenar-viejo-a-cadete-masculino",
+        "logo": "images/teams/cbcolmenar.png",
+        "pj": 1,
         "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
+        "d": 1,
+        "pf": 58,
+        "pc": 66,
+        "dif": "-8",
+        "points": 1,
+        "streak": [
+          "D"
+        ],
         "category": "Cadete",
         "gender": "masculino"
       },
       {
-        "position": 6,
+        "position": 9,
         "team": "OLIMPICO 64",
         "slug": "olimpico-64-cadete-masculino",
         "logo": "images/teams/rival.png",
-        "pj": 0,
+        "pj": 1,
         "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
+        "d": 1,
+        "pf": 30,
+        "pc": 43,
+        "dif": "-13",
+        "points": 1,
+        "streak": [
+          "D"
+        ],
         "category": "Cadete",
         "gender": "masculino"
       },
       {
-        "position": 7,
-        "team": "ALAMEDA DE OSUNA VERDE",
-        "slug": "alameda-de-osuna-verde-cadete-masculino",
+        "position": 10,
+        "team": "BUEN CONSEJO 11",
+        "slug": "buen-consejo-11-cadete-masculino",
         "logo": "images/teams/rival.png",
-        "pj": 0,
+        "pj": 1,
         "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
+        "d": 1,
+        "pf": 22,
+        "pc": 93,
+        "dif": "-71",
+        "points": 1,
+        "streak": [
+          "D"
+        ],
         "category": "Cadete",
         "gender": "masculino"
       },
       {
-        "position": 8,
+        "position": 11,
         "team": "DISTRITO CARABANCHEL A",
         "slug": "distrito-carabanchel-a-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -1014,39 +1266,7 @@
         "gender": "masculino"
       },
       {
-        "position": 9,
-        "team": "MOVISTAR ESTUDIANTES WINSLOW",
-        "slug": "movistar-estudiantes-winslow-cadete-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
-        "category": "Cadete",
-        "gender": "masculino"
-      },
-      {
-        "position": 10,
-        "team": "PARQUE CATALUÑA TORREJÓN AMARILLO",
-        "slug": "parque-cataluna-torrejon-amarillo-cadete-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
-        "category": "Cadete",
-        "gender": "masculino"
-      },
-      {
-        "position": 11,
+        "position": 12,
         "team": "BALONCESTO ALCALA 2011",
         "slug": "baloncesto-alcala-2011-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -1060,25 +1280,9 @@
         "streak": [],
         "category": "Cadete",
         "gender": "masculino"
-      },
-      {
-        "position": 12,
-        "team": "COLMENAR VIEJO A",
-        "slug": "colmenar-viejo-a-cadete-masculino",
-        "logo": "images/teams/cbcolmenar.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
-        "category": "Cadete",
-        "gender": "masculino"
       }
     ],
-    "weight": 5
+    "weight": 411086
   },
   {
     "league_title": "Cadete Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 3",
@@ -1089,6 +1293,24 @@
     "teams": [
       {
         "position": 1,
+        "team": "COLMENAR VIEJO B",
+        "slug": "colmenar-viejo-b-cadete-masculino",
+        "logo": "images/teams/cbcolmenar.png",
+        "pj": 1,
+        "v": 1,
+        "d": 0,
+        "pf": 100,
+        "pc": 28,
+        "dif": "+72",
+        "points": 2,
+        "streak": [
+          "V"
+        ],
+        "category": "Cadete",
+        "gender": "masculino"
+      },
+      {
+        "position": 2,
         "team": "TRIPLE CHAMBERI",
         "slug": "triple-chamberi-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -1106,7 +1328,25 @@
         "gender": "masculino"
       },
       {
-        "position": 2,
+        "position": 3,
+        "team": "BALONCESTO DAGANZO 12 ISUZU REVEIN",
+        "slug": "baloncesto-daganzo-12-isuzu-revein-cadete-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 1,
+        "d": 0,
+        "pf": 78,
+        "pc": 48,
+        "dif": "+30",
+        "points": 2,
+        "streak": [
+          "V"
+        ],
+        "category": "Cadete",
+        "gender": "masculino"
+      },
+      {
+        "position": 4,
         "team": "ARGANZUELA CENTRO BLANCO",
         "slug": "arganzuela-centro-blanco-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -1124,7 +1364,43 @@
         "gender": "masculino"
       },
       {
-        "position": 3,
+        "position": 5,
+        "team": "MEJORADA 2012 C.B.",
+        "slug": "mejorada-2012-c-b-cadete-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 1,
+        "d": 0,
+        "pf": 51,
+        "pc": 48,
+        "dif": "+3",
+        "points": 2,
+        "streak": [
+          "V"
+        ],
+        "category": "Cadete",
+        "gender": "masculino"
+      },
+      {
+        "position": 6,
+        "team": "ESTUDIO B",
+        "slug": "estudio-b-cadete-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 0,
+        "d": 1,
+        "pf": 48,
+        "pc": 51,
+        "dif": "-3",
+        "points": 1,
+        "streak": [
+          "D"
+        ],
+        "category": "Cadete",
+        "gender": "masculino"
+      },
+      {
+        "position": 7,
         "team": "OROQUIETA ESPINILLO C.D.E.",
         "slug": "oroquieta-espinillo-c-d-e-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -1142,7 +1418,25 @@
         "gender": "masculino"
       },
       {
-        "position": 4,
+        "position": 8,
+        "team": "INNOVA-TSN LEGANÉS 2012 \"B\"",
+        "slug": "innova-tsn-leganes-2012-b-cadete-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 0,
+        "d": 1,
+        "pf": 48,
+        "pc": 78,
+        "dif": "-30",
+        "points": 1,
+        "streak": [
+          "D"
+        ],
+        "category": "Cadete",
+        "gender": "masculino"
+      },
+      {
+        "position": 9,
         "team": "HA BASKET \"A\"",
         "slug": "ha-basket-a-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -1160,106 +1454,28 @@
         "gender": "masculino"
       },
       {
-        "position": 5,
-        "team": "BALONCESTO PARACUELLOS AZUL",
-        "slug": "baloncesto-paracuellos-azul-cadete-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
-        "category": "Cadete",
-        "gender": "masculino"
-      },
-      {
-        "position": 6,
-        "team": "INNOVA-TSN LEGANÉS 2012 \"B\"",
-        "slug": "innova-tsn-leganes-2012-b-cadete-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
-        "category": "Cadete",
-        "gender": "masculino"
-      },
-      {
-        "position": 7,
-        "team": "MEJORADA 2012 C.B.",
-        "slug": "mejorada-2012-c-b-cadete-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
-        "category": "Cadete",
-        "gender": "masculino"
-      },
-      {
-        "position": 8,
-        "team": "BALONCESTO DAGANZO 12 ISUZU REVEIN",
-        "slug": "baloncesto-daganzo-12-isuzu-revein-cadete-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
-        "category": "Cadete",
-        "gender": "masculino"
-      },
-      {
-        "position": 9,
-        "team": "ESTUDIO B",
-        "slug": "estudio-b-cadete-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
-        "category": "Cadete",
-        "gender": "masculino"
-      },
-      {
         "position": 10,
-        "team": "COLMENAR VIEJO B",
-        "slug": "colmenar-viejo-b-cadete-masculino",
+        "team": "COLMENAR VIEJO C",
+        "slug": "colmenar-viejo-c-cadete-masculino",
         "logo": "images/teams/cbcolmenar.png",
-        "pj": 0,
+        "pj": 1,
         "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
+        "d": 1,
+        "pf": 28,
+        "pc": 100,
+        "dif": "-72",
+        "points": 1,
+        "streak": [
+          "D"
+        ],
         "category": "Cadete",
         "gender": "masculino"
       },
       {
         "position": 11,
-        "team": "COLMENAR VIEJO C",
-        "slug": "colmenar-viejo-c-cadete-masculino",
-        "logo": "images/teams/cbcolmenar.png",
+        "team": "BALONCESTO PARACUELLOS AZUL",
+        "slug": "baloncesto-paracuellos-azul-cadete-masculino",
+        "logo": "images/teams/rival.png",
         "pj": 0,
         "v": 0,
         "d": 0,
@@ -1288,7 +1504,7 @@
         "gender": "masculino"
       }
     ],
-    "weight": 6
+    "weight": 413148
   },
   {
     "league_title": "Infantil Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
@@ -1335,6 +1551,24 @@
       },
       {
         "position": 3,
+        "team": "SAN AGUSTIN DEL GUADALIX",
+        "slug": "san-agustin-del-guadalix-infantil-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 1,
+        "d": 0,
+        "pf": 88,
+        "pc": 37,
+        "dif": "+51",
+        "points": 2,
+        "streak": [
+          "V"
+        ],
+        "category": "Infantil",
+        "gender": "masculino"
+      },
+      {
+        "position": 4,
         "team": "BALONCESTO DAGANZO ISUZU REVEIN",
         "slug": "baloncesto-daganzo-isuzu-revein-infantil-masculino",
         "logo": "images/teams/rival.png",
@@ -1352,7 +1586,7 @@
         "gender": "masculino"
       },
       {
-        "position": 4,
+        "position": 5,
         "team": "BASKET ARANJUEZ NEGRO",
         "slug": "basket-aranjuez-negro-infantil-masculino",
         "logo": "images/teams/rival.png",
@@ -1370,7 +1604,43 @@
         "gender": "masculino"
       },
       {
-        "position": 5,
+        "position": 6,
+        "team": "PRODET POZUELO C.D.E.",
+        "slug": "prodet-pozuelo-c-d-e-infantil-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 1,
+        "d": 0,
+        "pf": 54,
+        "pc": 51,
+        "dif": "+3",
+        "points": 2,
+        "streak": [
+          "V"
+        ],
+        "category": "Infantil",
+        "gender": "masculino"
+      },
+      {
+        "position": 7,
+        "team": "ESTUDIO B",
+        "slug": "estudio-b-infantil-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 0,
+        "d": 1,
+        "pf": 51,
+        "pc": 54,
+        "dif": "-3",
+        "points": 1,
+        "streak": [
+          "D"
+        ],
+        "category": "Infantil",
+        "gender": "masculino"
+      },
+      {
+        "position": 8,
         "team": "C.B. LAS ROZAS \"C\"",
         "slug": "c-b-las-rozas-c-infantil-masculino",
         "logo": "images/teams/rival.png",
@@ -1388,7 +1658,7 @@
         "gender": "masculino"
       },
       {
-        "position": 6,
+        "position": 9,
         "team": "C.B. ALCORCON",
         "slug": "c-b-alcorcon-infantil-masculino",
         "logo": "images/teams/rival.png",
@@ -1406,7 +1676,25 @@
         "gender": "masculino"
       },
       {
-        "position": 7,
+        "position": 10,
+        "team": "CB POZUELO",
+        "slug": "cb-pozuelo-infantil-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 0,
+        "d": 1,
+        "pf": 37,
+        "pc": 88,
+        "dif": "-51",
+        "points": 1,
+        "streak": [
+          "D"
+        ],
+        "category": "Infantil",
+        "gender": "masculino"
+      },
+      {
+        "position": 11,
         "team": "C.D.V.",
         "slug": "c-d-v-infantil-masculino",
         "logo": "images/teams/rival.png",
@@ -1424,7 +1712,7 @@
         "gender": "masculino"
       },
       {
-        "position": 8,
+        "position": 12,
         "team": "COLMENAR VIEJO A",
         "slug": "colmenar-viejo-a-infantil-masculino",
         "logo": "images/teams/cbcolmenar.png",
@@ -1440,72 +1728,8 @@
         ],
         "category": "Infantil",
         "gender": "masculino"
-      },
-      {
-        "position": 9,
-        "team": "SAN AGUSTIN DEL GUADALIX",
-        "slug": "san-agustin-del-guadalix-infantil-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
-        "category": "Infantil",
-        "gender": "masculino"
-      },
-      {
-        "position": 10,
-        "team": "PRODET POZUELO C.D.E.",
-        "slug": "prodet-pozuelo-c-d-e-infantil-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
-        "category": "Infantil",
-        "gender": "masculino"
-      },
-      {
-        "position": 11,
-        "team": "CB POZUELO",
-        "slug": "cb-pozuelo-infantil-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
-        "category": "Infantil",
-        "gender": "masculino"
-      },
-      {
-        "position": 12,
-        "team": "ESTUDIO B",
-        "slug": "estudio-b-infantil-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
-        "category": "Infantil",
-        "gender": "masculino"
       }
     ],
-    "weight": 7
+    "weight": 511997
   }
 ]

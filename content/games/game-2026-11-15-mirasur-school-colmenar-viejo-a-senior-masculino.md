@@ -1,0 +1,25 @@
+---
+title: "MIRASUR SCHOOL VS COLMENAR VIEJO A"
+date: 2026-11-15T12:00:00
+time: "12:00"
+team1: "MIRASUR SCHOOL"
+team1_slug: "mirasur-school"
+team1_logo: "images/teams/rival.png"
+team1_score: null
+team2: "COLMENAR VIEJO A"
+team2_slug: "colmenar-viejo-a-senior-masculino"
+team2_logo: "images/teams/cbcolmenar.png"
+team2_score: null
+status: "Pr\u00f3ximo"
+venue: "MIRASUR, PABELLON COLEGIO PABLO GARGALLO, 1, Pinto"
+venue_slug: "mirasur-pabellon-colegio-pablo-gargallo-1-pinto"
+venue_title: "MIRASUR"
+venue_address: "PABELLON COLEGIO PABLO GARGALLO, 1, Pinto"
+category: "Senior"
+gender: "masculino"
+uid: "game-2026-11-15-mirasur-school-colmenar-viejo-a-senior-masculino"
+slug: "game-2026-11-15-mirasur-school-colmenar-viejo-a-senior-masculino"
+weight: 11120261115120099
+---
+
+Encuentro correspondiente a la categoría Senior (masculino) entre **MIRASUR SCHOOL** y **COLMENAR VIEJO A**.

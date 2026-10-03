@@ -1,0 +1,25 @@
+---
+title: "C.B. LAS ROZAS VS COLMENAR VIEJO A"
+date: 2026-10-10T16:30:00
+time: "16:30"
+team1: "C.B. LAS ROZAS"
+team1_slug: "c-b-las-rozas"
+team1_logo: "images/teams/rival.png"
+team1_score: null
+team2: "COLMENAR VIEJO A"
+team2_slug: "colmenar-viejo-a-senior-femenino"
+team2_logo: "images/teams/cbcolmenar.png"
+team2_score: null
+status: "Pr\u00f3ximo"
+venue: "ALFREDO ESPINIELLA, PABELLON (PISTA CENTRAL) COMUNIDAD DE LA RIOJA, 4, Rozas de Madrid, Las"
+venue_slug: "alfredo-espiniella-pabellon-pista-central-comunidad-de-la-rioja-4-rozas-de-madrid-las"
+venue_title: "ALFREDO ESPINIELLA"
+venue_address: "PABELLON (PISTA CENTRAL) COMUNIDAD DE LA RIOJA, 4, Rozas de Madrid, Las"
+category: "Senior"
+gender: "femenino"
+uid: "game-2026-10-10-c-b-las-rozas-colmenar-viejo-a-senior-femenino"
+slug: "game-2026-10-10-c-b-las-rozas-colmenar-viejo-a-senior-femenino"
+weight: 12120261010163074
+---
+
+Encuentro correspondiente a la categoría Senior (femenino) entre **C.B. LAS ROZAS** y **COLMENAR VIEJO A**.

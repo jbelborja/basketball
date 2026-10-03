@@ -1,0 +1,25 @@
+---
+title: "C.D.V. VS COLMENAR VIEJO A"
+date: 2027-03-21T16:30:00
+time: "16:30"
+team1: "C.D.V."
+team1_slug: "c-d-v"
+team1_logo: "images/teams/rival.png"
+team1_score: null
+team2: "COLMENAR VIEJO A"
+team2_slug: "colmenar-viejo-a-senior-masculino"
+team2_logo: "images/teams/cbcolmenar.png"
+team2_score: null
+status: "Pr\u00f3ximo"
+venue: "PALOMERAS, PDVO. MPAL. TRANVIA DE ARGANDA, S/N, Madrid"
+venue_slug: "palomeras-pdvo-mpal-tranvia-de-arganda-s-n-madrid"
+venue_title: "PALOMERAS"
+venue_address: "PDVO. MPAL. TRANVIA DE ARGANDA, S/N, Madrid"
+category: "Senior"
+gender: "masculino"
+uid: "game-2027-03-21-c-d-v-colmenar-viejo-a-senior-masculino"
+slug: "game-2027-03-21-c-d-v-colmenar-viejo-a-senior-masculino"
+weight: 11120270321163028
+---
+
+Encuentro correspondiente a la categoría Senior (masculino) entre **C.D.V.** y **COLMENAR VIEJO A**.

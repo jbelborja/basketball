@@ -19,7 +19,7 @@ category: "Junior"
 gender: "femenino"
 uid: "game-2027-03-13-aravaca-basket-c-d-e-colmenar-viejo-junior-femenino"
 slug: "game-2027-03-13-aravaca-basket-c-d-e-colmenar-viejo-junior-femenino"
-weight: 189
+weight: 32020270313120009
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **ARAVACA BASKET C.D.E.** y **COLMENAR VIEJO**.

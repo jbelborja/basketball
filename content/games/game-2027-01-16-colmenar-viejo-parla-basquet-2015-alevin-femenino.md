@@ -19,7 +19,7 @@ category: "Alev\u00edn"
 gender: "femenino"
 uid: "game-2027-01-16-colmenar-viejo-parla-basquet-2015-alevin-femenino"
 slug: "game-2027-01-16-colmenar-viejo-parla-basquet-2015-alevin-femenino"
-weight: 360
+weight: 62020270116120082
 ---
 
 Encuentro correspondiente a la categoría Alevín (femenino) entre **COLMENAR VIEJO** y **PARLA BASQUET 2015**.

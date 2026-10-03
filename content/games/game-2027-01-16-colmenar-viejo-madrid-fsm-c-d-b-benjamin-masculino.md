@@ -19,7 +19,7 @@ category: "Benjam\u00edn"
 gender: "masculino"
 uid: "game-2027-01-16-colmenar-viejo-madrid-fsm-c-d-b-benjamin-masculino"
 slug: "game-2027-01-16-colmenar-viejo-madrid-fsm-c-d-b-benjamin-masculino"
-weight: 380
+weight: 71020270116120011
 ---
 
 Encuentro correspondiente a la categoría Benjamín (masculino) entre **COLMENAR VIEJO** y **MADRID FSM C.D.B.**.

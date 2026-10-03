@@ -19,7 +19,7 @@ category: "Alev\u00edn"
 gender: "femenino"
 uid: "game-2026-11-14-colmenar-viejo-el-valle-c-d-b-alevin-femenino"
 slug: "game-2026-11-14-colmenar-viejo-el-valle-c-d-b-alevin-femenino"
-weight: 351
+weight: 62020261114120042
 ---
 
 Encuentro correspondiente a la categoría Alevín (femenino) entre **COLMENAR VIEJO** y **EL VALLE C.D. "B"**.

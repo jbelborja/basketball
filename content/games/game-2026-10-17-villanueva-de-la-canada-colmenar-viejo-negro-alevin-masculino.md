@@ -19,7 +19,7 @@ category: "Alev\u00edn"
 gender: "masculino"
 uid: "game-2026-10-17-villanueva-de-la-canada-colmenar-viejo-negro-alevin-masculino"
 slug: "game-2026-10-17-villanueva-de-la-canada-colmenar-viejo-negro-alevin-masculino"
-weight: 318
+weight: 61020261017120093
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **VILLANUEVA DE LA CAÑADA** y **COLMENAR VIEJO NEGRO**.

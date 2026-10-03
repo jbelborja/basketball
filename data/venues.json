@@ -6,7 +6,7 @@
     "raw_venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "maps_embed": "https://maps.google.com/maps?q=JUAN%20ANTONIO%20SAMARANCH%2C%20CDAD.%20DPTVA.%20%28PISTA%20CENTRAL%29%20AVDA.%20JUAN%20PABLO%20II%2C%2013%2C%20Colmenar%20Viejo&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=JUAN%20ANTONIO%20SAMARANCH%2C%20CDAD.%20DPTVA.%20%28PISTA%20CENTRAL%29%20AVDA.%20JUAN%20PABLO%20II%2C%2013%2C%20Colmenar%20Viejo",
-    "matches_count": 199
+    "matches_count": 198
   },
   {
     "slug": "movistar-academy-magarinos-pabellon-serrano-129-madrid",
@@ -360,15 +360,6 @@
     "matches_count": 2
   },
   {
-    "slug": "villa-de-madrid-pabellon-calle-brezos-4-madrid",
-    "title": "VILLA DE MADRID",
-    "address": "PABELLON CALLE BREZOS, 4, Madrid",
-    "raw_venue": "VILLA DE MADRID, PABELLON CALLE BREZOS, 4, Madrid",
-    "maps_embed": "https://maps.google.com/maps?q=VILLA%20DE%20MADRID%2C%20PABELLON%20CALLE%20BREZOS%2C%204%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=VILLA%20DE%20MADRID%2C%20PABELLON%20CALLE%20BREZOS%2C%204%2C%20Madrid",
-    "matches_count": 2
-  },
-  {
     "slug": "virgen-de-la-rivera-sala-escolar-camino-radar-1-paracuellos-de-jarama",
     "title": "VIRGEN DE LA RIVERA",
     "address": "SALA ESCOLAR CAMINO RADAR, 1, Paracuellos de Jarama",
@@ -558,6 +549,15 @@
     "matches_count": 1
   },
   {
+    "slug": "colmenar-viejo-b",
+    "title": "COLMENAR VIEJO B",
+    "address": "COLMENAR VIEJO B",
+    "raw_venue": "COLMENAR VIEJO B",
+    "maps_embed": "https://maps.google.com/maps?q=COLMENAR%20VIEJO%20B&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=COLMENAR%20VIEJO%20B",
+    "matches_count": 1
+  },
+  {
     "slug": "corazonistas-pabellon-colegio-calle-guatemala-11-madrid",
     "title": "CORAZONISTAS",
     "address": "PABELLON COLEGIO calle GUATEMALA, 11, Madrid",
@@ -702,15 +702,6 @@
     "matches_count": 1
   },
   {
-    "slug": "ies-isabel-la-catolica-pabellon-cristobal-colon-12-boadilla-del-monte",
-    "title": "IES ISABEL LA CATOLICA",
-    "address": "PABELLON CRISTOBAL COLON, 12, Boadilla del Monte",
-    "raw_venue": "IES ISABEL LA CATOLICA, PABELLON CRISTOBAL COLON, 12, Boadilla del Monte",
-    "maps_embed": "https://maps.google.com/maps?q=IES%20ISABEL%20LA%20CATOLICA%2C%20PABELLON%20CRISTOBAL%20COLON%2C%2012%2C%20Boadilla%20del%20Monte&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=IES%20ISABEL%20LA%20CATOLICA%2C%20PABELLON%20CRISTOBAL%20COLON%2C%2012%2C%20Boadilla%20del%20Monte",
-    "matches_count": 1
-  },
-  {
     "slug": "irlandesas-colegio-descubierto-begonia-257-alcobendas",
     "title": "IRLANDESAS",
     "address": "COLEGIO (Descubierto) BEGONIA, 257, Alcobendas",
@@ -738,12 +729,12 @@
     "matches_count": 1
   },
   {
-    "slug": "juan-de-dios-roman-polideportivo-techado-c-jose-gutierrez-maroto-34-madrid",
+    "slug": "juan-de-dios-roman-polideportivo-c-jose-gutierrez-maroto-34-madrid",
     "title": "JUAN DE DIOS ROMÁN",
-    "address": "POLIDEPORTIVO (TECHADO) C/ JOSÉ GUTIÉRREZ MAROTO, 34, Madrid",
-    "raw_venue": "JUAN DE DIOS ROMÁN, POLIDEPORTIVO (TECHADO) C/ JOSÉ GUTIÉRREZ MAROTO, 34, Madrid",
-    "maps_embed": "https://maps.google.com/maps?q=JUAN%20DE%20DIOS%20ROM%C3%81N%2C%20POLIDEPORTIVO%20%28TECHADO%29%20C/%20JOS%C3%89%20GUTI%C3%89RREZ%20MAROTO%2C%2034%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=JUAN%20DE%20DIOS%20ROM%C3%81N%2C%20POLIDEPORTIVO%20%28TECHADO%29%20C/%20JOS%C3%89%20GUTI%C3%89RREZ%20MAROTO%2C%2034%2C%20Madrid",
+    "address": "POLIDEPORTIVO C/ JOSÉ GUTIÉRREZ MAROTO, 34, Madrid",
+    "raw_venue": "JUAN DE DIOS ROMÁN, POLIDEPORTIVO C/ JOSÉ GUTIÉRREZ MAROTO, 34, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=JUAN%20DE%20DIOS%20ROM%C3%81N%2C%20POLIDEPORTIVO%20C/%20JOS%C3%89%20GUTI%C3%89RREZ%20MAROTO%2C%2034%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=JUAN%20DE%20DIOS%20ROM%C3%81N%2C%20POLIDEPORTIVO%20C/%20JOS%C3%89%20GUTI%C3%89RREZ%20MAROTO%2C%2034%2C%20Madrid",
     "matches_count": 1
   },
   {
@@ -1053,12 +1044,30 @@
     "matches_count": 1
   },
   {
+    "slug": "veritas-pozuelo",
+    "title": "VERITAS POZUELO",
+    "address": "VERITAS POZUELO",
+    "raw_venue": "VERITAS POZUELO",
+    "maps_embed": "https://maps.google.com/maps?q=VERITAS%20POZUELO&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=VERITAS%20POZUELO",
+    "matches_count": 1
+  },
+  {
     "slug": "vicente-del-bosque-cdm-descubierto-avda-monforte-de-lemos-13-madrid",
     "title": "VICENTE DEL BOSQUE",
     "address": "CDM (Descubierto) AVDA. MONFORTE DE LEMOS, 13, Madrid",
     "raw_venue": "VICENTE DEL BOSQUE, CDM (Descubierto) AVDA. MONFORTE DE LEMOS, 13, Madrid",
     "maps_embed": "https://maps.google.com/maps?q=VICENTE%20DEL%20BOSQUE%2C%20CDM%20%28Descubierto%29%20AVDA.%20MONFORTE%20DE%20LEMOS%2C%2013%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=VICENTE%20DEL%20BOSQUE%2C%20CDM%20%28Descubierto%29%20AVDA.%20MONFORTE%20DE%20LEMOS%2C%2013%2C%20Madrid",
+    "matches_count": 1
+  },
+  {
+    "slug": "villa-de-madrid-pabellon-calle-brezos-4-madrid",
+    "title": "VILLA DE MADRID",
+    "address": "PABELLON CALLE BREZOS, 4, Madrid",
+    "raw_venue": "VILLA DE MADRID, PABELLON CALLE BREZOS, 4, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=VILLA%20DE%20MADRID%2C%20PABELLON%20CALLE%20BREZOS%2C%204%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=VILLA%20DE%20MADRID%2C%20PABELLON%20CALLE%20BREZOS%2C%204%2C%20Madrid",
     "matches_count": 1
   },
   {

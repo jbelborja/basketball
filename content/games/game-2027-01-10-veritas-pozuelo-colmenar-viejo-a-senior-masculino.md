@@ -1,0 +1,25 @@
+---
+title: "VERITAS POZUELO VS COLMENAR VIEJO A"
+date: 2027-01-10T20:00:00
+time: "20:00"
+team1: "VERITAS POZUELO"
+team1_slug: "veritas-pozuelo"
+team1_logo: "images/teams/rival.png"
+team1_score: null
+team2: "COLMENAR VIEJO A"
+team2_slug: "colmenar-viejo-a-senior-masculino"
+team2_logo: "images/teams/cbcolmenar.png"
+team2_score: null
+status: "Pr\u00f3ximo"
+venue: "VERITAS, PABELLON INSTITUTO (PISTA CENTRAL) AVDA. RADIO TELEVISION, 2, Pozuelo de Alarc\u00f3n"
+venue_slug: "veritas-pabellon-instituto-pista-central-avda-radio-television-2-pozuelo-de-alarcon"
+venue_title: "VERITAS"
+venue_address: "PABELLON INSTITUTO (PISTA CENTRAL) AVDA. RADIO TELEVISION, 2, Pozuelo de Alarc\u00f3n"
+category: "Senior"
+gender: "masculino"
+uid: "game-2027-01-10-veritas-pozuelo-colmenar-viejo-a-senior-masculino"
+slug: "game-2027-01-10-veritas-pozuelo-colmenar-viejo-a-senior-masculino"
+weight: 11120270110200010
+---
+
+Encuentro correspondiente a la categoría Senior (masculino) entre **VERITAS POZUELO** y **COLMENAR VIEJO A**.

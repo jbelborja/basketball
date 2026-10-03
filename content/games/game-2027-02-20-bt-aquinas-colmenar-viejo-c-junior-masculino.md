@@ -1,0 +1,25 @@
+---
+title: "BT AQUINAS VS COLMENAR VIEJO C"
+date: 2027-02-20T12:00:00
+time: "12:00"
+team1: "BT AQUINAS"
+team1_slug: "bt-aquinas"
+team1_logo: "images/teams/rival.png"
+team1_score: null
+team2: "COLMENAR VIEJO C"
+team2_slug: "colmenar-viejo-c-junior-masculino"
+team2_logo: "images/teams/cbcolmenar.png"
+team2_score: null
+status: "Pr\u00f3ximo"
+venue: "AQUINAS AMERICAN SCHOOL CALLE TRANSVERSAL, 4 (Urbanizaci\u00f3n MONTEALINA), Pozuelo de Alarc\u00f3n"
+venue_slug: "aquinas-american-school-calle-transversal-4-urbanizacion-montealina-pozuelo-de-alarcon"
+venue_title: "AQUINAS AMERICAN SCHOOL CALLE TRANSVERSAL"
+venue_address: "4 (Urbanizaci\u00f3n MONTEALINA), Pozuelo de Alarc\u00f3n"
+category: "Junior"
+gender: "masculino"
+uid: "game-2027-02-20-bt-aquinas-colmenar-viejo-c-junior-masculino"
+slug: "game-2027-02-20-bt-aquinas-colmenar-viejo-c-junior-masculino"
+weight: 31320270220120088
+---
+
+Encuentro correspondiente a la categoría Junior (masculino) entre **BT AQUINAS** y **COLMENAR VIEJO C**.

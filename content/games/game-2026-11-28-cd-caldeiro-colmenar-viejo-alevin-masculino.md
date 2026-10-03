@@ -19,7 +19,7 @@ category: "Alev\u00edn"
 gender: "masculino"
 uid: "game-2026-11-28-cd-caldeiro-colmenar-viejo-alevin-masculino"
 slug: "game-2026-11-28-cd-caldeiro-colmenar-viejo-alevin-masculino"
-weight: 330
+weight: 61020261128120088
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **CD CALDEIRO** y **COLMENAR VIEJO**.

@@ -1,0 +1,25 @@
+---
+title: "COSLADA C.B. SERRACINES VS COLMENAR VIEJO"
+date: 2027-04-04T12:00:00
+time: "12:00"
+team1: "COSLADA C.B. SERRACINES"
+team1_slug: "coslada-c-b-serracines"
+team1_logo: "images/teams/rival.png"
+team1_score: null
+team2: "COLMENAR VIEJO"
+team2_slug: "colmenar-viejo-senior-masculino"
+team2_logo: "images/teams/cbcolmenar.png"
+team2_score: null
+status: "Pr\u00f3ximo"
+venue: "C.E.I.P. SERRACINES, PABELLON ROMERAL, 15, Serracines"
+venue_slug: "c-e-i-p-serracines-pabellon-romeral-15-serracines"
+venue_title: "C.E.I.P. SERRACINES"
+venue_address: "PABELLON ROMERAL, 15, Serracines"
+category: "Senior"
+gender: "masculino"
+uid: "game-2027-04-04-coslada-c-b-serracines-colmenar-viejo-senior-masculino"
+slug: "game-2027-04-04-coslada-c-b-serracines-colmenar-viejo-senior-masculino"
+weight: 11020270404120033
+---
+
+Encuentro correspondiente a la categoría Senior (masculino) entre **COSLADA C.B. SERRACINES** y **COLMENAR VIEJO**.

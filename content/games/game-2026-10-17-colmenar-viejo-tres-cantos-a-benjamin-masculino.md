@@ -19,7 +19,7 @@ category: "Benjam\u00edn"
 gender: "masculino"
 uid: "game-2026-10-17-colmenar-viejo-tres-cantos-a-benjamin-masculino"
 slug: "game-2026-10-17-colmenar-viejo-tres-cantos-a-benjamin-masculino"
-weight: 365
+weight: 71020261017120055
 ---
 
 Encuentro correspondiente a la categoría Benjamín (masculino) entre **COLMENAR VIEJO** y **TRES CANTOS A**.

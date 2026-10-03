@@ -19,7 +19,7 @@ category: "Alev\u00edn"
 gender: "masculino"
 uid: "game-2026-11-14-colmenar-viejo-arroyomolinos-c-b-a-alevin-masculino"
 slug: "game-2026-11-14-colmenar-viejo-arroyomolinos-c-b-a-alevin-masculino"
-weight: 325
+weight: 61020261114120096
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **COLMENAR VIEJO** y **ARROYOMOLINOS C.B. "A"**.

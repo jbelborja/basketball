@@ -12,7 +12,7 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Senior masculino.",
-    "weight": 1
+    "weight": 110844
   },
   {
     "name": "COLMENAR VIEJO A",
@@ -27,7 +27,7 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO A del CB Colmenar Viejo en la categoría Senior masculino.",
-    "weight": 2
+    "weight": 111056
   },
   {
     "name": "COLMENAR VIEJO A",
@@ -38,11 +38,11 @@
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
     "established": 1985,
-    "wins": 0,
+    "wins": 1,
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO A del CB Colmenar Viejo en la categoría Senior femenino.",
-    "weight": 3
+    "weight": 121384
   },
   {
     "name": "COLMENAR VIEJO B",
@@ -57,7 +57,7 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO B del CB Colmenar Viejo en la categoría Senior femenino.",
-    "weight": 4
+    "weight": 122519
   },
   {
     "name": "COLMENAR VIEJO",
@@ -72,7 +72,7 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Sub 22 masculino.",
-    "weight": 5
+    "weight": 210192
   },
   {
     "name": "COLMENAR VIEJO A",
@@ -87,7 +87,7 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO A del CB Colmenar Viejo en la categoría Junior masculino.",
-    "weight": 6
+    "weight": 311451
   },
   {
     "name": "COLMENAR VIEJO B",
@@ -102,7 +102,7 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO B del CB Colmenar Viejo en la categoría Junior masculino.",
-    "weight": 7
+    "weight": 312502
   },
   {
     "name": "COLMENAR VIEJO C",
@@ -117,7 +117,7 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO C del CB Colmenar Viejo en la categoría Junior masculino.",
-    "weight": 8
+    "weight": 313338
   },
   {
     "name": "COLMENAR VIEJO",
@@ -129,10 +129,10 @@
     "venue": "Pabellón Juan Antonio Samaranch",
     "established": 1985,
     "wins": 0,
-    "losses": 0,
+    "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Junior femenino.",
-    "weight": 9
+    "weight": 320695
   },
   {
     "name": "COLMENAR VIEJO A",
@@ -144,10 +144,10 @@
     "venue": "Pabellón Juan Antonio Samaranch",
     "established": 1985,
     "wins": 0,
-    "losses": 0,
+    "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO A del CB Colmenar Viejo en la categoría Cadete masculino.",
-    "weight": 10
+    "weight": 411379
   },
   {
     "name": "COLMENAR VIEJO B",
@@ -158,11 +158,11 @@
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
     "established": 1985,
-    "wins": 0,
+    "wins": 1,
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO B del CB Colmenar Viejo en la categoría Cadete masculino.",
-    "weight": 11
+    "weight": 412705
   },
   {
     "name": "COLMENAR VIEJO C",
@@ -174,10 +174,10 @@
     "venue": "Pabellón Juan Antonio Samaranch",
     "established": 1985,
     "wins": 0,
-    "losses": 0,
+    "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO C del CB Colmenar Viejo en la categoría Cadete masculino.",
-    "weight": 12
+    "weight": 413885
   },
   {
     "name": "COLMENAR VIEJO",
@@ -192,7 +192,7 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Cadete femenino.",
-    "weight": 13
+    "weight": 420808
   },
   {
     "name": "COLMENAR VIEJO A",
@@ -207,7 +207,7 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO A del CB Colmenar Viejo en la categoría Infantil masculino.",
-    "weight": 14
+    "weight": 511763
   },
   {
     "name": "COLMENAR VIEJO B",
@@ -222,7 +222,7 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO B del CB Colmenar Viejo en la categoría Infantil masculino.",
-    "weight": 15
+    "weight": 512808
   },
   {
     "name": "COLMENAR VIEJO",
@@ -237,7 +237,7 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Alevín masculino.",
-    "weight": 16
+    "weight": 610770
   },
   {
     "name": "COLMENAR VIEJO BLANCO",
@@ -252,7 +252,7 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO BLANCO del CB Colmenar Viejo en la categoría Alevín masculino.",
-    "weight": 17
+    "weight": 610860
   },
   {
     "name": "COLMENAR VIEJO NEGRO",
@@ -267,7 +267,7 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO NEGRO del CB Colmenar Viejo en la categoría Alevín masculino.",
-    "weight": 18
+    "weight": 610232
   },
   {
     "name": "COLMENAR VIEJO",
@@ -282,7 +282,7 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Alevín femenino.",
-    "weight": 19
+    "weight": 620117
   },
   {
     "name": "COLMENAR VIEJO",
@@ -297,7 +297,7 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Benjamín masculino.",
-    "weight": 20
+    "weight": 710312
   },
   {
     "name": "COLMENAR VIEJO",
@@ -312,6 +312,6 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Benjamín femenino.",
-    "weight": 21
+    "weight": 720244
   }
 ]

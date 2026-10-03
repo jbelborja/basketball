@@ -19,7 +19,7 @@ category: "Junior"
 gender: "femenino"
 uid: "game-2027-02-13-c-b-ciudad-de-mostoles-b-colmenar-viejo-junior-femenino"
 slug: "game-2027-02-13-c-b-ciudad-de-mostoles-b-colmenar-viejo-junior-femenino"
-weight: 185
+weight: 32020270213120050
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **C.B. CIUDAD DE MÓSTOLES "B"** y **COLMENAR VIEJO**.

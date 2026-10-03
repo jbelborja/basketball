@@ -1,0 +1,25 @@
+---
+title: "BUEN CONSEJO 11 VS COLMENAR VIEJO A"
+date: 2027-04-17T12:00:00
+time: "12:00"
+team1: "BUEN CONSEJO 11"
+team1_slug: "buen-consejo-11"
+team1_logo: "images/teams/rival.png"
+team1_score: null
+team2: "COLMENAR VIEJO A"
+team2_slug: "colmenar-viejo-a-cadete-masculino"
+team2_logo: "images/teams/cbcolmenar.png"
+team2_score: null
+status: "Pr\u00f3ximo"
+venue: "BUEN CONSEJO, PABELLON COLEGIO BEATRIZ DE BOBADILLA, S/N, Madrid"
+venue_slug: "buen-consejo-pabellon-colegio-beatriz-de-bobadilla-s-n-madrid"
+venue_title: "BUEN CONSEJO"
+venue_address: "PABELLON COLEGIO BEATRIZ DE BOBADILLA, S/N, Madrid"
+category: "Cadete"
+gender: "masculino"
+uid: "game-2027-04-17-buen-consejo-11-colmenar-viejo-a-cadete-masculino"
+slug: "game-2027-04-17-buen-consejo-11-colmenar-viejo-a-cadete-masculino"
+weight: 41120270417120010
+---
+
+Encuentro correspondiente a la categoría Cadete (masculino) entre **BUEN CONSEJO 11** y **COLMENAR VIEJO A**.

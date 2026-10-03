@@ -19,7 +19,7 @@ category: "Alev\u00edn"
 gender: "femenino"
 uid: "game-2026-10-24-c-d-i-rozasbasket-colmenar-viejo-alevin-femenino"
 slug: "game-2026-10-24-c-d-i-rozasbasket-colmenar-viejo-alevin-femenino"
-weight: 346
+weight: 62020261024120042
 ---
 
 Encuentro correspondiente a la categoría Alevín (femenino) entre **C.D.I. ROZASBASKET** y **COLMENAR VIEJO**.

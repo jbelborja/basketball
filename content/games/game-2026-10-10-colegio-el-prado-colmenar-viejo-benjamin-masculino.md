@@ -19,7 +19,7 @@ category: "Benjam\u00edn"
 gender: "masculino"
 uid: "game-2026-10-10-colegio-el-prado-colmenar-viejo-benjamin-masculino"
 slug: "game-2026-10-10-colegio-el-prado-colmenar-viejo-benjamin-masculino"
-weight: 363
+weight: 71020261010111576
 ---
 
 Encuentro correspondiente a la categoría Benjamín (masculino) entre **COLEGIO EL PRADO** y **COLMENAR VIEJO**.

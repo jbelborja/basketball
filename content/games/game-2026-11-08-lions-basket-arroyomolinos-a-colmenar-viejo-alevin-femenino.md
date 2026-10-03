@@ -19,7 +19,7 @@ category: "Alev\u00edn"
 gender: "femenino"
 uid: "game-2026-11-08-lions-basket-arroyomolinos-a-colmenar-viejo-alevin-femenino"
 slug: "game-2026-11-08-lions-basket-arroyomolinos-a-colmenar-viejo-alevin-femenino"
-weight: 349
+weight: 62020261108130049
 ---
 
 Encuentro correspondiente a la categoría Alevín (femenino) entre **LIONS BASKET ARROYOMOLINOS "A"** y **COLMENAR VIEJO**.

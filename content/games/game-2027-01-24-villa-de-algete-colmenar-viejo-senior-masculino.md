@@ -1,0 +1,25 @@
+---
+title: "VILLA DE ALGETE VS COLMENAR VIEJO"
+date: 2027-01-24T19:00:00
+time: "19:00"
+team1: "VILLA DE ALGETE"
+team1_slug: "villa-de-algete"
+team1_logo: "images/teams/rival.png"
+team1_score: null
+team2: "COLMENAR VIEJO"
+team2_slug: "colmenar-viejo-senior-masculino"
+team2_logo: "images/teams/cbcolmenar.png"
+team2_score: null
+status: "Pr\u00f3ximo"
+venue: "DUQUE DE ALGETE, PABELLON CAMINO VEREDA DE LA LOBERA, S/N, Algete"
+venue_slug: "duque-de-algete-pabellon-camino-vereda-de-la-lobera-s-n-algete"
+venue_title: "DUQUE DE ALGETE"
+venue_address: "PABELLON CAMINO VEREDA DE LA LOBERA, S/N, Algete"
+category: "Senior"
+gender: "masculino"
+uid: "game-2027-01-24-villa-de-algete-colmenar-viejo-senior-masculino"
+slug: "game-2027-01-24-villa-de-algete-colmenar-viejo-senior-masculino"
+weight: 11020270124190006
+---
+
+Encuentro correspondiente a la categoría Senior (masculino) entre **VILLA DE ALGETE** y **COLMENAR VIEJO**.

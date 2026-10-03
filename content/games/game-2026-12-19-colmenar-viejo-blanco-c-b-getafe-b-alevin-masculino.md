@@ -19,7 +19,7 @@ category: "Alev\u00edn"
 gender: "masculino"
 uid: "game-2026-12-19-colmenar-viejo-blanco-c-b-getafe-b-alevin-masculino"
 slug: "game-2026-12-19-colmenar-viejo-blanco-c-b-getafe-b-alevin-masculino"
-weight: 337
+weight: 61020261219120049
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **COLMENAR VIEJO BLANCO** y **C.B. GETAFE "B"**.

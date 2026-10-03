@@ -10,7 +10,7 @@ venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1985
 record: "0V - 0D"
 league_position: 1
-weight: 20
+weight: 710312
 ---
 
 El **COLMENAR VIEJO** representa al CB Colmenar Viejo en la categoría Benjamín (masculino).

@@ -19,7 +19,7 @@ category: "Junior"
 gender: "femenino"
 uid: "game-2026-11-21-cabrini-a-p-a-verde-colmenar-viejo-junior-femenino"
 slug: "game-2026-11-21-cabrini-a-p-a-verde-colmenar-viejo-junior-femenino"
-weight: 177
+weight: 32020261121120019
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **CABRINI A.P.A. VERDE** y **COLMENAR VIEJO**.

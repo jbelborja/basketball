@@ -1,0 +1,25 @@
+---
+title: "C.B. MORATALAZ \"B\" VS COLMENAR VIEJO"
+date: 2027-03-14T12:00:00
+time: "12:00"
+team1: "C.B. MORATALAZ \"B\""
+team1_slug: "c-b-moratalaz-b"
+team1_logo: "images/teams/rival.png"
+team1_score: null
+team2: "COLMENAR VIEJO"
+team2_slug: "colmenar-viejo-sub-22-masculino"
+team2_logo: "images/teams/cbcolmenar.png"
+team2_score: null
+status: "Pr\u00f3ximo"
+venue: "JOSE LUIS FERNANDEZ CANO, PABELLON HACIENDA DE PAVONES, 223, Madrid"
+venue_slug: "jose-luis-fernandez-cano-pabellon-hacienda-de-pavones-223-madrid"
+venue_title: "JOSE LUIS FERNANDEZ CANO"
+venue_address: "PABELLON HACIENDA DE PAVONES, 223, Madrid"
+category: "Sub 22"
+gender: "masculino"
+uid: "game-2027-03-14-c-b-moratalaz-b-colmenar-viejo-sub-22-masculino"
+slug: "game-2027-03-14-c-b-moratalaz-b-colmenar-viejo-sub-22-masculino"
+weight: 21020270314120019
+---
+
+Encuentro correspondiente a la categoría Sub 22 (masculino) entre **C.B. MORATALAZ "B"** y **COLMENAR VIEJO**.

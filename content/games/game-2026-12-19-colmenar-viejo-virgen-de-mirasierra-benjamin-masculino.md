@@ -19,7 +19,7 @@ category: "Benjam\u00edn"
 gender: "masculino"
 uid: "game-2026-12-19-colmenar-viejo-virgen-de-mirasierra-benjamin-masculino"
 slug: "game-2026-12-19-colmenar-viejo-virgen-de-mirasierra-benjamin-masculino"
-weight: 379
+weight: 71020261219120044
 ---
 
 Encuentro correspondiente a la categoría Benjamín (masculino) entre **COLMENAR VIEJO** y **VIRGEN DE MIRASIERRA**.

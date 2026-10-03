@@ -1,0 +1,25 @@
+---
+title: "GAUDEM C.D.E. \"A\" VS COLMENAR VIEJO A"
+date: 2027-02-27T12:00:00
+time: "12:00"
+team1: "GAUDEM C.D.E. \"A\""
+team1_slug: "gaudem-c-d-e-a"
+team1_logo: "images/teams/rival.png"
+team1_score: null
+team2: "COLMENAR VIEJO A"
+team2_slug: "colmenar-viejo-a-infantil-masculino"
+team2_logo: "images/teams/cbcolmenar.png"
+team2_score: null
+status: "Pr\u00f3ximo"
+venue: "GAUDEM, PABELLON COLEGIO PLAYA DE BARLOVENTO, 14, Madrid"
+venue_slug: "gaudem-pabellon-colegio-playa-de-barlovento-14-madrid"
+venue_title: "GAUDEM"
+venue_address: "PABELLON COLEGIO PLAYA DE BARLOVENTO, 14, Madrid"
+category: "Infantil"
+gender: "masculino"
+uid: "game-2027-02-27-gaudem-c-d-e-a-colmenar-viejo-a-infantil-masculino"
+slug: "game-2027-02-27-gaudem-c-d-e-a-colmenar-viejo-a-infantil-masculino"
+weight: 51120270227120071
+---
+
+Encuentro correspondiente a la categoría Infantil (masculino) entre **GAUDEM C.D.E. "A"** y **COLMENAR VIEJO A**.

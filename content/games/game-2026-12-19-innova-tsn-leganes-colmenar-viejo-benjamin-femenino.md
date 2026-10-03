@@ -19,7 +19,7 @@ category: "Benjam\u00edn"
 gender: "femenino"
 uid: "game-2026-12-19-innova-tsn-leganes-colmenar-viejo-benjamin-femenino"
 slug: "game-2026-12-19-innova-tsn-leganes-colmenar-viejo-benjamin-femenino"
-weight: 390
+weight: 72020261219120077
 ---
 
 Encuentro correspondiente a la categoría Benjamín (femenino) entre **INNOVA-TSN LEGANÉS** y **COLMENAR VIEJO**.

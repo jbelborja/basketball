@@ -1,7 +1,7 @@
 [
   {
-    "id": "game-20261004-41",
-    "slug": "game-20261004-41",
+    "id": "game-2026-10-04-uros-de-rivas-colmenar-viejo-senior-masculino",
+    "slug": "game-2026-10-04-uros-de-rivas-colmenar-viejo-senior-masculino",
     "date": "2026-10-04",
     "time": "20:30",
     "status": "Próximo",
@@ -21,13 +21,13 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 1
+    "weight": 11020261004203024
   },
   {
-    "id": "game-20261018-43",
-    "slug": "game-20261018-43",
+    "id": "game-2026-10-18-el-valle-c-d-colmenar-viejo-senior-masculino",
+    "slug": "game-2026-10-18-el-valle-c-d-colmenar-viejo-senior-masculino",
     "date": "2026-10-18",
-    "time": "12:00",
+    "time": "13:00",
     "status": "Próximo",
     "home": "EL VALLE C.D.",
     "home_slug": "el-valle-c-d",
@@ -45,11 +45,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 2
+    "weight": 11020261018130093
   },
   {
-    "id": "game-20261023-42",
-    "slug": "game-20261023-42",
+    "id": "game-2026-10-23-colmenar-viejo-villa-de-algete-senior-masculino",
+    "slug": "game-2026-10-23-colmenar-viejo-villa-de-algete-senior-masculino",
     "date": "2026-10-23",
     "time": "20:30",
     "status": "Próximo",
@@ -69,11 +69,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 3
+    "weight": 11020261023203029
   },
   {
-    "id": "game-20261025-44",
-    "slug": "game-20261025-44",
+    "id": "game-2026-10-25-colmenar-viejo-revolution-senior-masculino",
+    "slug": "game-2026-10-25-colmenar-viejo-revolution-senior-masculino",
     "date": "2026-10-25",
     "time": "12:00",
     "status": "Próximo",
@@ -93,11 +93,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 4
+    "weight": 11020261025120099
   },
   {
-    "id": "game-20261108-45",
-    "slug": "game-20261108-45",
+    "id": "game-2026-11-08-grupo-bursan-c-b-ciudad-de-mostoles-colmenar-viejo-senior-masculino",
+    "slug": "game-2026-11-08-grupo-bursan-c-b-ciudad-de-mostoles-colmenar-viejo-senior-masculino",
     "date": "2026-11-08",
     "time": "12:00",
     "status": "Próximo",
@@ -117,11 +117,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 5
+    "weight": 11020261108120009
   },
   {
-    "id": "game-20261115-46",
-    "slug": "game-20261115-46",
+    "id": "game-2026-11-15-colmenar-viejo-cb-pozuelo-senior-masculino",
+    "slug": "game-2026-11-15-colmenar-viejo-cb-pozuelo-senior-masculino",
     "date": "2026-11-15",
     "time": "12:00",
     "status": "Próximo",
@@ -141,11 +141,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 6
+    "weight": 11020261115120074
   },
   {
-    "id": "game-20261122-47",
-    "slug": "game-20261122-47",
+    "id": "game-2026-11-22-colmenar-viejo-ricopia-funbal-alcala-cbja-senior-masculino",
+    "slug": "game-2026-11-22-colmenar-viejo-ricopia-funbal-alcala-cbja-senior-masculino",
     "date": "2026-11-22",
     "time": "12:00",
     "status": "Próximo",
@@ -165,11 +165,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 7
+    "weight": 11020261122120064
   },
   {
-    "id": "game-20261129-48",
-    "slug": "game-20261129-48",
+    "id": "game-2026-11-29-san-ignacio-torrelodones-colmenar-viejo-senior-masculino",
+    "slug": "game-2026-11-29-san-ignacio-torrelodones-colmenar-viejo-senior-masculino",
     "date": "2026-11-29",
     "time": "12:00",
     "status": "Próximo",
@@ -189,11 +189,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 8
+    "weight": 11020261129120070
   },
   {
-    "id": "game-20261213-49",
-    "slug": "game-20261213-49",
+    "id": "game-2026-12-13-colmenar-viejo-patrocinio-san-jose-bta-tetuan-senior-masculino",
+    "slug": "game-2026-12-13-colmenar-viejo-patrocinio-san-jose-bta-tetuan-senior-masculino",
     "date": "2026-12-13",
     "time": "12:00",
     "status": "Próximo",
@@ -213,11 +213,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 9
+    "weight": 11020261213120039
   },
   {
-    "id": "game-20261220-50",
-    "slug": "game-20261220-50",
+    "id": "game-2026-12-20-baloncesto-aristos-a-colmenar-viejo-senior-masculino",
+    "slug": "game-2026-12-20-baloncesto-aristos-a-colmenar-viejo-senior-masculino",
     "date": "2026-12-20",
     "time": "12:00",
     "status": "Próximo",
@@ -237,11 +237,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 10
+    "weight": 11020261220120042
   },
   {
-    "id": "game-20270110-51",
-    "slug": "game-20270110-51",
+    "id": "game-2027-01-10-colmenar-viejo-coslada-c-b-serracines-senior-masculino",
+    "slug": "game-2027-01-10-colmenar-viejo-coslada-c-b-serracines-senior-masculino",
     "date": "2027-01-10",
     "time": "12:00",
     "status": "Próximo",
@@ -261,11 +261,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 11
+    "weight": 11020270110120029
   },
   {
-    "id": "game-20270117-52",
-    "slug": "game-20270117-52",
+    "id": "game-2027-01-17-colmenar-viejo-uros-de-rivas-senior-masculino",
+    "slug": "game-2027-01-17-colmenar-viejo-uros-de-rivas-senior-masculino",
     "date": "2027-01-17",
     "time": "12:00",
     "status": "Próximo",
@@ -285,11 +285,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 12
+    "weight": 11020270117120081
   },
   {
-    "id": "game-20270124-53",
-    "slug": "game-20270124-53",
+    "id": "game-2027-01-24-villa-de-algete-colmenar-viejo-senior-masculino",
+    "slug": "game-2027-01-24-villa-de-algete-colmenar-viejo-senior-masculino",
     "date": "2027-01-24",
     "time": "19:00",
     "status": "Próximo",
@@ -309,11 +309,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 13
+    "weight": 11020270124190006
   },
   {
-    "id": "game-20270131-54",
-    "slug": "game-20270131-54",
+    "id": "game-2027-01-31-colmenar-viejo-el-valle-c-d-senior-masculino",
+    "slug": "game-2027-01-31-colmenar-viejo-el-valle-c-d-senior-masculino",
     "date": "2027-01-31",
     "time": "12:00",
     "status": "Próximo",
@@ -333,11 +333,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 14
+    "weight": 11020270131120040
   },
   {
-    "id": "game-20270207-55",
-    "slug": "game-20270207-55",
+    "id": "game-2027-02-07-revolution-colmenar-viejo-senior-masculino",
+    "slug": "game-2027-02-07-revolution-colmenar-viejo-senior-masculino",
     "date": "2027-02-07",
     "time": "12:00",
     "status": "Próximo",
@@ -357,11 +357,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 15
+    "weight": 11020270207120025
   },
   {
-    "id": "game-20270214-56",
-    "slug": "game-20270214-56",
+    "id": "game-2027-02-14-colmenar-viejo-grupo-bursan-c-b-ciudad-de-mostoles-senior-masculino",
+    "slug": "game-2027-02-14-colmenar-viejo-grupo-bursan-c-b-ciudad-de-mostoles-senior-masculino",
     "date": "2027-02-14",
     "time": "12:00",
     "status": "Próximo",
@@ -381,11 +381,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 16
+    "weight": 11020270214120031
   },
   {
-    "id": "game-20270221-57",
-    "slug": "game-20270221-57",
+    "id": "game-2027-02-21-cb-pozuelo-colmenar-viejo-senior-masculino",
+    "slug": "game-2027-02-21-cb-pozuelo-colmenar-viejo-senior-masculino",
     "date": "2027-02-21",
     "time": "12:00",
     "status": "Próximo",
@@ -405,11 +405,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 17
+    "weight": 11020270221120079
   },
   {
-    "id": "game-20270228-58",
-    "slug": "game-20270228-58",
+    "id": "game-2027-02-28-ricopia-funbal-alcala-cbja-colmenar-viejo-senior-masculino",
+    "slug": "game-2027-02-28-ricopia-funbal-alcala-cbja-colmenar-viejo-senior-masculino",
     "date": "2027-02-28",
     "time": "12:00",
     "status": "Próximo",
@@ -429,11 +429,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 18
+    "weight": 11020270228120025
   },
   {
-    "id": "game-20270307-59",
-    "slug": "game-20270307-59",
+    "id": "game-2027-03-07-colmenar-viejo-san-ignacio-torrelodones-senior-masculino",
+    "slug": "game-2027-03-07-colmenar-viejo-san-ignacio-torrelodones-senior-masculino",
     "date": "2027-03-07",
     "time": "12:00",
     "status": "Próximo",
@@ -453,11 +453,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 19
+    "weight": 11020270307120027
   },
   {
-    "id": "game-20270314-60",
-    "slug": "game-20270314-60",
+    "id": "game-2027-03-14-patrocinio-san-jose-bta-tetuan-colmenar-viejo-senior-masculino",
+    "slug": "game-2027-03-14-patrocinio-san-jose-bta-tetuan-colmenar-viejo-senior-masculino",
     "date": "2027-03-14",
     "time": "12:00",
     "status": "Próximo",
@@ -477,11 +477,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 20
+    "weight": 11020270314120005
   },
   {
-    "id": "game-20270321-61",
-    "slug": "game-20270321-61",
+    "id": "game-2027-03-21-colmenar-viejo-baloncesto-aristos-a-senior-masculino",
+    "slug": "game-2027-03-21-colmenar-viejo-baloncesto-aristos-a-senior-masculino",
     "date": "2027-03-21",
     "time": "12:00",
     "status": "Próximo",
@@ -501,11 +501,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 21
+    "weight": 11020270321120023
   },
   {
-    "id": "game-20270404-62",
-    "slug": "game-20270404-62",
+    "id": "game-2027-04-04-coslada-c-b-serracines-colmenar-viejo-senior-masculino",
+    "slug": "game-2027-04-04-coslada-c-b-serracines-colmenar-viejo-senior-masculino",
     "date": "2027-04-04",
     "time": "12:00",
     "status": "Próximo",
@@ -525,11 +525,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 22
+    "weight": 11020270404120033
   },
   {
-    "id": "game-20261004-19",
-    "slug": "game-20261004-19",
+    "id": "game-2026-10-04-colmenar-viejo-a-baloncesto-rivas-sureste-a-senior-masculino",
+    "slug": "game-2026-10-04-colmenar-viejo-a-baloncesto-rivas-sureste-a-senior-masculino",
     "date": "2026-10-04",
     "time": "16:30",
     "status": "Próximo",
@@ -549,11 +549,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 23
+    "weight": 11120261004163069
   },
   {
-    "id": "game-20261011-20",
-    "slug": "game-20261011-20",
+    "id": "game-2026-10-11-cis-university-tres-cantos-colmenar-viejo-a-senior-masculino",
+    "slug": "game-2026-10-11-cis-university-tres-cantos-colmenar-viejo-a-senior-masculino",
     "date": "2026-10-11",
     "time": "13:30",
     "status": "Próximo",
@@ -573,11 +573,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 24
+    "weight": 11120261011133041
   },
   {
-    "id": "game-20261018-21",
-    "slug": "game-20261018-21",
+    "id": "game-2026-10-18-colmenar-viejo-a-parla-basquet-senior-masculino",
+    "slug": "game-2026-10-18-colmenar-viejo-a-parla-basquet-senior-masculino",
     "date": "2026-10-18",
     "time": "12:00",
     "status": "Próximo",
@@ -597,11 +597,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 25
+    "weight": 11120261018120017
   },
   {
-    "id": "game-20261025-22",
-    "slug": "game-20261025-22",
+    "id": "game-2026-10-25-automatic-club-baloncesto-alcorcon-colmenar-viejo-a-senior-masculino",
+    "slug": "game-2026-10-25-automatic-club-baloncesto-alcorcon-colmenar-viejo-a-senior-masculino",
     "date": "2026-10-25",
     "time": "12:00",
     "status": "Próximo",
@@ -621,11 +621,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 26
+    "weight": 11120261025120083
   },
   {
-    "id": "game-20261108-23",
-    "slug": "game-20261108-23",
+    "id": "game-2026-11-08-colmenar-viejo-a-colegio-joyfe-senior-masculino",
+    "slug": "game-2026-11-08-colmenar-viejo-a-colegio-joyfe-senior-masculino",
     "date": "2026-11-08",
     "time": "12:00",
     "status": "Próximo",
@@ -645,11 +645,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 27
+    "weight": 11120261108120004
   },
   {
-    "id": "game-20261115-24",
-    "slug": "game-20261115-24",
+    "id": "game-2026-11-15-mirasur-school-colmenar-viejo-a-senior-masculino",
+    "slug": "game-2026-11-15-mirasur-school-colmenar-viejo-a-senior-masculino",
     "date": "2026-11-15",
     "time": "12:00",
     "status": "Próximo",
@@ -669,11 +669,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 28
+    "weight": 11120261115120099
   },
   {
-    "id": "game-20261122-25",
-    "slug": "game-20261122-25",
+    "id": "game-2026-11-22-liceo-frances-colmenar-viejo-a-senior-masculino",
+    "slug": "game-2026-11-22-liceo-frances-colmenar-viejo-a-senior-masculino",
     "date": "2026-11-22",
     "time": "12:00",
     "status": "Próximo",
@@ -693,11 +693,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 29
+    "weight": 11120261122120083
   },
   {
-    "id": "game-20261129-26",
-    "slug": "game-20261129-26",
+    "id": "game-2026-11-29-colmenar-viejo-a-distrito-carabanchel-senior-masculino",
+    "slug": "game-2026-11-29-colmenar-viejo-a-distrito-carabanchel-senior-masculino",
     "date": "2026-11-29",
     "time": "12:00",
     "status": "Próximo",
@@ -717,11 +717,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 30
+    "weight": 11120261129120038
   },
   {
-    "id": "game-20261213-27",
-    "slug": "game-20261213-27",
+    "id": "game-2026-12-13-cesur-distrito-olimpico-colmenar-viejo-a-senior-masculino",
+    "slug": "game-2026-12-13-cesur-distrito-olimpico-colmenar-viejo-a-senior-masculino",
     "date": "2026-12-13",
     "time": "12:00",
     "status": "Próximo",
@@ -741,11 +741,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 31
+    "weight": 11120261213120000
   },
   {
-    "id": "game-20261220-28",
-    "slug": "game-20261220-28",
+    "id": "game-2026-12-20-colmenar-viejo-a-c-d-v-senior-masculino",
+    "slug": "game-2026-12-20-colmenar-viejo-a-c-d-v-senior-masculino",
     "date": "2026-12-20",
     "time": "12:00",
     "status": "Próximo",
@@ -765,11 +765,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 32
+    "weight": 11120261220120014
   },
   {
-    "id": "game-20270110-29",
-    "slug": "game-20270110-29",
+    "id": "game-2027-01-10-veritas-pozuelo-colmenar-viejo-a-senior-masculino",
+    "slug": "game-2027-01-10-veritas-pozuelo-colmenar-viejo-a-senior-masculino",
     "date": "2027-01-10",
     "time": "20:00",
     "status": "Próximo",
@@ -789,11 +789,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 33
+    "weight": 11120270110200010
   },
   {
-    "id": "game-20270117-30",
-    "slug": "game-20270117-30",
+    "id": "game-2027-01-17-baloncesto-rivas-sureste-a-colmenar-viejo-a-senior-masculino",
+    "slug": "game-2027-01-17-baloncesto-rivas-sureste-a-colmenar-viejo-a-senior-masculino",
     "date": "2027-01-17",
     "time": "12:00",
     "status": "Próximo",
@@ -813,11 +813,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 34
+    "weight": 11120270117120060
   },
   {
-    "id": "game-20270124-31",
-    "slug": "game-20270124-31",
+    "id": "game-2027-01-24-colmenar-viejo-a-cis-university-tres-cantos-senior-masculino",
+    "slug": "game-2027-01-24-colmenar-viejo-a-cis-university-tres-cantos-senior-masculino",
     "date": "2027-01-24",
     "time": "12:00",
     "status": "Próximo",
@@ -837,11 +837,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 35
+    "weight": 11120270124120039
   },
   {
-    "id": "game-20270131-32",
-    "slug": "game-20270131-32",
+    "id": "game-2027-01-31-parla-basquet-colmenar-viejo-a-senior-masculino",
+    "slug": "game-2027-01-31-parla-basquet-colmenar-viejo-a-senior-masculino",
     "date": "2027-01-31",
     "time": "12:00",
     "status": "Próximo",
@@ -861,11 +861,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 36
+    "weight": 11120270131120052
   },
   {
-    "id": "game-20270207-33",
-    "slug": "game-20270207-33",
+    "id": "game-2027-02-07-colmenar-viejo-a-automatic-club-baloncesto-alcorcon-senior-masculino",
+    "slug": "game-2027-02-07-colmenar-viejo-a-automatic-club-baloncesto-alcorcon-senior-masculino",
     "date": "2027-02-07",
     "time": "12:00",
     "status": "Próximo",
@@ -885,11 +885,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 37
+    "weight": 11120270207120006
   },
   {
-    "id": "game-20270214-34",
-    "slug": "game-20270214-34",
+    "id": "game-2027-02-14-colegio-joyfe-colmenar-viejo-a-senior-masculino",
+    "slug": "game-2027-02-14-colegio-joyfe-colmenar-viejo-a-senior-masculino",
     "date": "2027-02-14",
     "time": "12:00",
     "status": "Próximo",
@@ -909,11 +909,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 38
+    "weight": 11120270214120051
   },
   {
-    "id": "game-20270221-35",
-    "slug": "game-20270221-35",
+    "id": "game-2027-02-21-colmenar-viejo-a-mirasur-school-senior-masculino",
+    "slug": "game-2027-02-21-colmenar-viejo-a-mirasur-school-senior-masculino",
     "date": "2027-02-21",
     "time": "12:00",
     "status": "Próximo",
@@ -933,11 +933,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 39
+    "weight": 11120270221120069
   },
   {
-    "id": "game-20270228-36",
-    "slug": "game-20270228-36",
+    "id": "game-2027-02-28-colmenar-viejo-a-liceo-frances-senior-masculino",
+    "slug": "game-2027-02-28-colmenar-viejo-a-liceo-frances-senior-masculino",
     "date": "2027-02-28",
     "time": "12:00",
     "status": "Próximo",
@@ -957,11 +957,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 40
+    "weight": 11120270228120046
   },
   {
-    "id": "game-20270307-37",
-    "slug": "game-20270307-37",
+    "id": "game-2027-03-07-distrito-carabanchel-colmenar-viejo-a-senior-masculino",
+    "slug": "game-2027-03-07-distrito-carabanchel-colmenar-viejo-a-senior-masculino",
     "date": "2027-03-07",
     "time": "12:00",
     "status": "Próximo",
@@ -981,11 +981,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 41
+    "weight": 11120270307120070
   },
   {
-    "id": "game-20270314-38",
-    "slug": "game-20270314-38",
+    "id": "game-2027-03-14-colmenar-viejo-a-cesur-distrito-olimpico-senior-masculino",
+    "slug": "game-2027-03-14-colmenar-viejo-a-cesur-distrito-olimpico-senior-masculino",
     "date": "2027-03-14",
     "time": "12:00",
     "status": "Próximo",
@@ -1005,11 +1005,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 42
+    "weight": 11120270314120082
   },
   {
-    "id": "game-20270321-39",
-    "slug": "game-20270321-39",
+    "id": "game-2027-03-21-c-d-v-colmenar-viejo-a-senior-masculino",
+    "slug": "game-2027-03-21-c-d-v-colmenar-viejo-a-senior-masculino",
     "date": "2027-03-21",
     "time": "16:30",
     "status": "Próximo",
@@ -1029,11 +1029,11 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 43
+    "weight": 11120270321163028
   },
   {
-    "id": "game-20270404-40",
-    "slug": "game-20270404-40",
+    "id": "game-2027-04-04-colmenar-viejo-a-veritas-pozuelo-senior-masculino",
+    "slug": "game-2027-04-04-colmenar-viejo-a-veritas-pozuelo-senior-masculino",
     "date": "2027-04-04",
     "time": "12:00",
     "status": "Próximo",
@@ -1053,11 +1053,35 @@
     "category": "Senior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 44
+    "weight": 11120270404120090
   },
   {
-    "id": "game-20261001-10",
-    "slug": "game-20261001-10",
+    "id": "game-2026-10-01-colmenar-viejo-a-75-senior-femenino",
+    "slug": "game-2026-10-01-colmenar-viejo-a-75-senior-femenino",
+    "date": "2026-10-01",
+    "time": "12:00",
+    "status": "Próximo",
+    "home": "COLMENAR VIEJO A",
+    "home_slug": "colmenar-viejo-a-senior-femenino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": null,
+    "away": "75",
+    "away_slug": "75",
+    "away_logo": "images/teams/rival.png",
+    "away_score": null,
+    "quarters": null,
+    "venue": "VERITAS POZUELO",
+    "venue_slug": "veritas-pozuelo",
+    "venue_title": "VERITAS POZUELO",
+    "venue_address": "VERITAS POZUELO",
+    "category": "Senior",
+    "gender": "femenino",
+    "mvp": "-",
+    "weight": 12120261001120040
+  },
+  {
+    "id": "game-2026-10-01-colmenar-viejo-a-58-senior-femenino",
+    "slug": "game-2026-10-01-colmenar-viejo-a-58-senior-femenino",
     "date": "2026-10-01",
     "time": "12:00",
     "status": "Próximo",
@@ -1077,23 +1101,36 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 45
+    "weight": 12120261001120058
   },
   {
-    "id": "game-20261003-02",
-    "slug": "game-20261003-02",
+    "id": "game-2026-10-03-colmenar-viejo-a-veritas-pozuelo-senior-femenino",
+    "slug": "game-2026-10-03-colmenar-viejo-a-veritas-pozuelo-senior-femenino",
     "date": "2026-10-03",
-    "time": "13:30",
-    "status": "Próximo",
+    "time": "12:00",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO A",
     "home_slug": "colmenar-viejo-a-senior-femenino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 75,
     "away": "VERITAS POZUELO",
     "away_slug": "veritas-pozuelo",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 46,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -1101,11 +1138,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 46
+    "weight": 12120261003120023
   },
   {
-    "id": "game-20261010-03",
-    "slug": "game-20261010-03",
+    "id": "game-2026-10-10-c-b-las-rozas-colmenar-viejo-a-senior-femenino",
+    "slug": "game-2026-10-10-c-b-las-rozas-colmenar-viejo-a-senior-femenino",
     "date": "2026-10-10",
     "time": "16:30",
     "status": "Próximo",
@@ -1125,11 +1162,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 47
+    "weight": 12120261010163074
   },
   {
-    "id": "game-20261017-04",
-    "slug": "game-20261017-04",
+    "id": "game-2026-10-17-colmenar-viejo-a-quiero-valcude-alcobendas-senior-femenino",
+    "slug": "game-2026-10-17-colmenar-viejo-a-quiero-valcude-alcobendas-senior-femenino",
     "date": "2026-10-17",
     "time": "12:00",
     "status": "Próximo",
@@ -1149,11 +1186,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 48
+    "weight": 12120261017120031
   },
   {
-    "id": "game-20261025-05",
-    "slug": "game-20261025-05",
+    "id": "game-2026-10-25-colegio-alameda-de-osuna-colmenar-viejo-a-senior-femenino",
+    "slug": "game-2026-10-25-colegio-alameda-de-osuna-colmenar-viejo-a-senior-femenino",
     "date": "2026-10-25",
     "time": "12:00",
     "status": "Próximo",
@@ -1173,11 +1210,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 49
+    "weight": 12120261025120087
   },
   {
-    "id": "game-20261107-06",
-    "slug": "game-20261107-06",
+    "id": "game-2026-11-07-colmenar-viejo-a-cesur-distrito-olimpico-senior-femenino",
+    "slug": "game-2026-11-07-colmenar-viejo-a-cesur-distrito-olimpico-senior-femenino",
     "date": "2026-11-07",
     "time": "12:00",
     "status": "Próximo",
@@ -1197,11 +1234,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 50
+    "weight": 12120261107120048
   },
   {
-    "id": "game-20261115-07",
-    "slug": "game-20261115-07",
+    "id": "game-2026-11-15-fundal-alcobendas-colmenar-viejo-a-senior-femenino",
+    "slug": "game-2026-11-15-fundal-alcobendas-colmenar-viejo-a-senior-femenino",
     "date": "2026-11-15",
     "time": "18:00",
     "status": "Próximo",
@@ -1221,11 +1258,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 51
+    "weight": 12120261115180013
   },
   {
-    "id": "game-20261122-08",
-    "slug": "game-20261122-08",
+    "id": "game-2026-11-22-ricopia-funbal-alcala-cbja-colmenar-viejo-a-senior-femenino",
+    "slug": "game-2026-11-22-ricopia-funbal-alcala-cbja-colmenar-viejo-a-senior-femenino",
     "date": "2026-11-22",
     "time": "12:00",
     "status": "Próximo",
@@ -1245,11 +1282,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 52
+    "weight": 12120261122120065
   },
   {
-    "id": "game-20261128-09",
-    "slug": "game-20261128-09",
+    "id": "game-2026-11-28-colmenar-viejo-a-isaac-newton-senior-femenino",
+    "slug": "game-2026-11-28-colmenar-viejo-a-isaac-newton-senior-femenino",
     "date": "2026-11-28",
     "time": "12:00",
     "status": "Próximo",
@@ -1269,35 +1306,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 53
+    "weight": 12120261128120064
   },
   {
-    "id": "game-20261213-01",
-    "slug": "game-20261213-01",
-    "date": "2026-12-13",
-    "time": "12:00",
-    "status": "Próximo",
-    "home": "FEMENINO ALCORCON",
-    "home_slug": "femenino-alcorcon",
-    "home_logo": "images/teams/rival.png",
-    "home_score": null,
-    "away": "COLMENAR VIEJO A",
-    "away_slug": "colmenar-viejo-a-senior-femenino",
-    "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
-    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
-    "venue_title": "JUAN ANTONIO SAMARANCH",
-    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "category": "Senior",
-    "gender": "femenino",
-    "mvp": "-",
-    "weight": 54
-  },
-  {
-    "id": "game-20261213-01",
-    "slug": "game-20261213-01",
+    "id": "game-2026-12-13-femenino-alcorcon-colmenar-viejo-a-senior-femenino",
+    "slug": "game-2026-12-13-femenino-alcorcon-colmenar-viejo-a-senior-femenino",
     "date": "2026-12-13",
     "time": "17:00",
     "status": "Próximo",
@@ -1317,11 +1330,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 55
+    "weight": 12120261213170002
   },
   {
-    "id": "game-20261219-11",
-    "slug": "game-20261219-11",
+    "id": "game-2026-12-19-veritas-pozuelo-colmenar-viejo-a-senior-femenino",
+    "slug": "game-2026-12-19-veritas-pozuelo-colmenar-viejo-a-senior-femenino",
     "date": "2026-12-19",
     "time": "18:00",
     "status": "Próximo",
@@ -1341,11 +1354,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 56
+    "weight": 12120261219180099
   },
   {
-    "id": "game-20270116-12",
-    "slug": "game-20270116-12",
+    "id": "game-2027-01-16-colmenar-viejo-a-c-b-las-rozas-senior-femenino",
+    "slug": "game-2027-01-16-colmenar-viejo-a-c-b-las-rozas-senior-femenino",
     "date": "2027-01-16",
     "time": "12:00",
     "status": "Próximo",
@@ -1365,11 +1378,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 57
+    "weight": 12120270116120073
   },
   {
-    "id": "game-20270124-13",
-    "slug": "game-20270124-13",
+    "id": "game-2027-01-24-quiero-valcude-alcobendas-colmenar-viejo-a-senior-femenino",
+    "slug": "game-2027-01-24-quiero-valcude-alcobendas-colmenar-viejo-a-senior-femenino",
     "date": "2027-01-24",
     "time": "12:00",
     "status": "Próximo",
@@ -1389,11 +1402,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 58
+    "weight": 12120270124120022
   },
   {
-    "id": "game-20270130-14",
-    "slug": "game-20270130-14",
+    "id": "game-2027-01-30-colmenar-viejo-a-colegio-alameda-de-osuna-senior-femenino",
+    "slug": "game-2027-01-30-colmenar-viejo-a-colegio-alameda-de-osuna-senior-femenino",
     "date": "2027-01-30",
     "time": "12:00",
     "status": "Próximo",
@@ -1413,11 +1426,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 59
+    "weight": 12120270130120098
   },
   {
-    "id": "game-20270207-15",
-    "slug": "game-20270207-15",
+    "id": "game-2027-02-07-cesur-distrito-olimpico-colmenar-viejo-a-senior-femenino",
+    "slug": "game-2027-02-07-cesur-distrito-olimpico-colmenar-viejo-a-senior-femenino",
     "date": "2027-02-07",
     "time": "12:00",
     "status": "Próximo",
@@ -1437,11 +1450,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 60
+    "weight": 12120270207120094
   },
   {
-    "id": "game-20270220-16",
-    "slug": "game-20270220-16",
+    "id": "game-2027-02-20-colmenar-viejo-a-fundal-alcobendas-senior-femenino",
+    "slug": "game-2027-02-20-colmenar-viejo-a-fundal-alcobendas-senior-femenino",
     "date": "2027-02-20",
     "time": "12:00",
     "status": "Próximo",
@@ -1461,11 +1474,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 61
+    "weight": 12120270220120030
   },
   {
-    "id": "game-20270227-17",
-    "slug": "game-20270227-17",
+    "id": "game-2027-02-27-colmenar-viejo-a-ricopia-funbal-alcala-cbja-senior-femenino",
+    "slug": "game-2027-02-27-colmenar-viejo-a-ricopia-funbal-alcala-cbja-senior-femenino",
     "date": "2027-02-27",
     "time": "12:00",
     "status": "Próximo",
@@ -1485,11 +1498,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 62
+    "weight": 12120270227120082
   },
   {
-    "id": "game-20270306-18",
-    "slug": "game-20270306-18",
+    "id": "game-2027-03-06-isaac-newton-colmenar-viejo-a-senior-femenino",
+    "slug": "game-2027-03-06-isaac-newton-colmenar-viejo-a-senior-femenino",
     "date": "2027-03-06",
     "time": "12:00",
     "status": "Próximo",
@@ -1509,11 +1522,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 63
+    "weight": 12120270306120086
   },
   {
-    "id": "game-20261004-63",
-    "slug": "game-20261004-63",
+    "id": "game-2026-10-04-isaac-newton-colmenar-viejo-b-senior-femenino",
+    "slug": "game-2026-10-04-isaac-newton-colmenar-viejo-b-senior-femenino",
     "date": "2026-10-04",
     "time": "09:00",
     "status": "Próximo",
@@ -1533,11 +1546,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 64
+    "weight": 12220261004090086
   },
   {
-    "id": "game-20261011-64",
-    "slug": "game-20261011-64",
+    "id": "game-2026-10-11-colmenar-viejo-b-femenino-fuenlabrada-senior-femenino",
+    "slug": "game-2026-10-11-colmenar-viejo-b-femenino-fuenlabrada-senior-femenino",
     "date": "2026-10-11",
     "time": "12:00",
     "status": "Próximo",
@@ -1557,11 +1570,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 65
+    "weight": 12220261011120049
   },
   {
-    "id": "game-20261018-65",
-    "slug": "game-20261018-65",
+    "id": "game-2026-10-18-colmenar-viejo-b-arganzuela-centro-senior-femenino",
+    "slug": "game-2026-10-18-colmenar-viejo-b-arganzuela-centro-senior-femenino",
     "date": "2026-10-18",
     "time": "12:00",
     "status": "Próximo",
@@ -1581,11 +1594,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 66
+    "weight": 12220261018120033
   },
   {
-    "id": "game-20261025-66",
-    "slug": "game-20261025-66",
+    "id": "game-2026-10-25-uros-de-rivas-colmenar-viejo-b-senior-femenino",
+    "slug": "game-2026-10-25-uros-de-rivas-colmenar-viejo-b-senior-femenino",
     "date": "2026-10-25",
     "time": "12:00",
     "status": "Próximo",
@@ -1605,11 +1618,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 67
+    "weight": 12220261025120057
   },
   {
-    "id": "game-20261108-67",
-    "slug": "game-20261108-67",
+    "id": "game-2026-11-08-colmenar-viejo-b-virgen-de-atocha-senior-femenino",
+    "slug": "game-2026-11-08-colmenar-viejo-b-virgen-de-atocha-senior-femenino",
     "date": "2026-11-08",
     "time": "12:00",
     "status": "Próximo",
@@ -1629,11 +1642,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 68
+    "weight": 12220261108120094
   },
   {
-    "id": "game-20261115-68",
-    "slug": "game-20261115-68",
+    "id": "game-2026-11-15-corazonistas-colmenar-viejo-b-senior-femenino",
+    "slug": "game-2026-11-15-corazonistas-colmenar-viejo-b-senior-femenino",
     "date": "2026-11-15",
     "time": "12:00",
     "status": "Próximo",
@@ -1653,11 +1666,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 69
+    "weight": 12220261115120032
   },
   {
-    "id": "game-20261122-69",
-    "slug": "game-20261122-69",
+    "id": "game-2026-11-22-colmenar-viejo-b-c-b-getafe-senior-femenino",
+    "slug": "game-2026-11-22-colmenar-viejo-b-c-b-getafe-senior-femenino",
     "date": "2026-11-22",
     "time": "12:00",
     "status": "Próximo",
@@ -1677,11 +1690,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 70
+    "weight": 12220261122120006
   },
   {
-    "id": "game-20261129-70",
-    "slug": "game-20261129-70",
+    "id": "game-2026-11-29-saltium-alcorcon-basket-colmenar-viejo-b-senior-femenino",
+    "slug": "game-2026-11-29-saltium-alcorcon-basket-colmenar-viejo-b-senior-femenino",
     "date": "2026-11-29",
     "time": "12:00",
     "status": "Próximo",
@@ -1701,11 +1714,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 71
+    "weight": 12220261129120085
   },
   {
-    "id": "game-20261213-71",
-    "slug": "game-20261213-71",
+    "id": "game-2026-12-13-colmenar-viejo-b-san-viator-la-maluca-senior-femenino",
+    "slug": "game-2026-12-13-colmenar-viejo-b-san-viator-la-maluca-senior-femenino",
     "date": "2026-12-13",
     "time": "12:00",
     "status": "Próximo",
@@ -1725,11 +1738,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 72
+    "weight": 12220261213120014
   },
   {
-    "id": "game-20261220-72",
-    "slug": "game-20261220-72",
+    "id": "game-2026-12-20-moveup-tres-cantos-colmenar-viejo-b-senior-femenino",
+    "slug": "game-2026-12-20-moveup-tres-cantos-colmenar-viejo-b-senior-femenino",
     "date": "2026-12-20",
     "time": "12:00",
     "status": "Próximo",
@@ -1749,11 +1762,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 73
+    "weight": 12220261220120087
   },
   {
-    "id": "game-20270110-73",
-    "slug": "game-20270110-73",
+    "id": "game-2027-01-10-colmenar-viejo-b-colegio-alameda-de-osuna-senior-femenino",
+    "slug": "game-2027-01-10-colmenar-viejo-b-colegio-alameda-de-osuna-senior-femenino",
     "date": "2027-01-10",
     "time": "12:00",
     "status": "Próximo",
@@ -1773,11 +1786,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 74
+    "weight": 12220270110120043
   },
   {
-    "id": "game-20270117-74",
-    "slug": "game-20270117-74",
+    "id": "game-2027-01-17-colmenar-viejo-b-isaac-newton-senior-femenino",
+    "slug": "game-2027-01-17-colmenar-viejo-b-isaac-newton-senior-femenino",
     "date": "2027-01-17",
     "time": "12:00",
     "status": "Próximo",
@@ -1797,11 +1810,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 75
+    "weight": 12220270117120022
   },
   {
-    "id": "game-20270124-75",
-    "slug": "game-20270124-75",
+    "id": "game-2027-01-24-femenino-fuenlabrada-colmenar-viejo-b-senior-femenino",
+    "slug": "game-2027-01-24-femenino-fuenlabrada-colmenar-viejo-b-senior-femenino",
     "date": "2027-01-24",
     "time": "12:00",
     "status": "Próximo",
@@ -1821,11 +1834,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 76
+    "weight": 12220270124120057
   },
   {
-    "id": "game-20270131-76",
-    "slug": "game-20270131-76",
+    "id": "game-2027-01-31-arganzuela-centro-colmenar-viejo-b-senior-femenino",
+    "slug": "game-2027-01-31-arganzuela-centro-colmenar-viejo-b-senior-femenino",
     "date": "2027-01-31",
     "time": "11:00",
     "status": "Próximo",
@@ -1845,11 +1858,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 77
+    "weight": 12220270131110034
   },
   {
-    "id": "game-20270207-77",
-    "slug": "game-20270207-77",
+    "id": "game-2027-02-07-colmenar-viejo-b-uros-de-rivas-senior-femenino",
+    "slug": "game-2027-02-07-colmenar-viejo-b-uros-de-rivas-senior-femenino",
     "date": "2027-02-07",
     "time": "12:00",
     "status": "Próximo",
@@ -1869,11 +1882,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 78
+    "weight": 12220270207120055
   },
   {
-    "id": "game-20270214-78",
-    "slug": "game-20270214-78",
+    "id": "game-2027-02-14-virgen-de-atocha-colmenar-viejo-b-senior-femenino",
+    "slug": "game-2027-02-14-virgen-de-atocha-colmenar-viejo-b-senior-femenino",
     "date": "2027-02-14",
     "time": "12:00",
     "status": "Próximo",
@@ -1893,11 +1906,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 79
+    "weight": 12220270214120020
   },
   {
-    "id": "game-20270221-79",
-    "slug": "game-20270221-79",
+    "id": "game-2027-02-21-colmenar-viejo-b-corazonistas-senior-femenino",
+    "slug": "game-2027-02-21-colmenar-viejo-b-corazonistas-senior-femenino",
     "date": "2027-02-21",
     "time": "12:00",
     "status": "Próximo",
@@ -1917,11 +1930,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 80
+    "weight": 12220270221120034
   },
   {
-    "id": "game-20270228-80",
-    "slug": "game-20270228-80",
+    "id": "game-2027-02-28-c-b-getafe-colmenar-viejo-b-senior-femenino",
+    "slug": "game-2027-02-28-c-b-getafe-colmenar-viejo-b-senior-femenino",
     "date": "2027-02-28",
     "time": "12:00",
     "status": "Próximo",
@@ -1941,11 +1954,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 81
+    "weight": 12220270228120095
   },
   {
-    "id": "game-20270307-81",
-    "slug": "game-20270307-81",
+    "id": "game-2027-03-07-colmenar-viejo-b-saltium-alcorcon-basket-senior-femenino",
+    "slug": "game-2027-03-07-colmenar-viejo-b-saltium-alcorcon-basket-senior-femenino",
     "date": "2027-03-07",
     "time": "12:00",
     "status": "Próximo",
@@ -1965,11 +1978,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 82
+    "weight": 12220270307120022
   },
   {
-    "id": "game-20270314-82",
-    "slug": "game-20270314-82",
+    "id": "game-2027-03-14-san-viator-la-maluca-colmenar-viejo-b-senior-femenino",
+    "slug": "game-2027-03-14-san-viator-la-maluca-colmenar-viejo-b-senior-femenino",
     "date": "2027-03-14",
     "time": "13:00",
     "status": "Próximo",
@@ -1989,11 +2002,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 83
+    "weight": 12220270314130020
   },
   {
-    "id": "game-20270321-83",
-    "slug": "game-20270321-83",
+    "id": "game-2027-03-21-colmenar-viejo-b-moveup-tres-cantos-senior-femenino",
+    "slug": "game-2027-03-21-colmenar-viejo-b-moveup-tres-cantos-senior-femenino",
     "date": "2027-03-21",
     "time": "12:00",
     "status": "Próximo",
@@ -2013,11 +2026,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 84
+    "weight": 12220270321120020
   },
   {
-    "id": "game-20270404-84",
-    "slug": "game-20270404-84",
+    "id": "game-2027-04-04-colegio-alameda-de-osuna-colmenar-viejo-b-senior-femenino",
+    "slug": "game-2027-04-04-colegio-alameda-de-osuna-colmenar-viejo-b-senior-femenino",
     "date": "2027-04-04",
     "time": "12:00",
     "status": "Próximo",
@@ -2037,11 +2050,11 @@
     "category": "Senior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 85
+    "weight": 12220270404120009
   },
   {
-    "id": "game-20261018-85",
-    "slug": "game-20261018-85",
+    "id": "game-2026-10-18-mejorada-2012-c-b-colmenar-viejo-sub-22-masculino",
+    "slug": "game-2026-10-18-mejorada-2012-c-b-colmenar-viejo-sub-22-masculino",
     "date": "2026-10-18",
     "time": "10:00",
     "status": "Próximo",
@@ -2061,11 +2074,11 @@
     "category": "Sub 22",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 86
+    "weight": 21020261018100062
   },
   {
-    "id": "game-20261025-86",
-    "slug": "game-20261025-86",
+    "id": "game-2026-10-25-colmenar-viejo-buen-consejo-sub-22-masculino",
+    "slug": "game-2026-10-25-colmenar-viejo-buen-consejo-sub-22-masculino",
     "date": "2026-10-25",
     "time": "12:00",
     "status": "Próximo",
@@ -2085,11 +2098,11 @@
     "category": "Sub 22",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 87
+    "weight": 21020261025120007
   },
   {
-    "id": "game-20261108-87",
-    "slug": "game-20261108-87",
+    "id": "game-2026-11-08-distrito-carabanchel-a-colmenar-viejo-sub-22-masculino",
+    "slug": "game-2026-11-08-distrito-carabanchel-a-colmenar-viejo-sub-22-masculino",
     "date": "2026-11-08",
     "time": "12:00",
     "status": "Próximo",
@@ -2109,11 +2122,11 @@
     "category": "Sub 22",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 88
+    "weight": 21020261108120085
   },
   {
-    "id": "game-20261115-88",
-    "slug": "game-20261115-88",
+    "id": "game-2026-11-15-colmenar-viejo-vallekas-basket-sub-22-masculino",
+    "slug": "game-2026-11-15-colmenar-viejo-vallekas-basket-sub-22-masculino",
     "date": "2026-11-15",
     "time": "12:00",
     "status": "Próximo",
@@ -2133,11 +2146,11 @@
     "category": "Sub 22",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 89
+    "weight": 21020261115120029
   },
   {
-    "id": "game-20261122-89",
-    "slug": "game-20261122-89",
+    "id": "game-2026-11-22-abaco-colmenar-viejo-sub-22-masculino",
+    "slug": "game-2026-11-22-abaco-colmenar-viejo-sub-22-masculino",
     "date": "2026-11-22",
     "time": "12:00",
     "status": "Próximo",
@@ -2157,11 +2170,11 @@
     "category": "Sub 22",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 90
+    "weight": 21020261122120017
   },
   {
-    "id": "game-20261129-90",
-    "slug": "game-20261129-90",
+    "id": "game-2026-11-29-colmenar-viejo-cabrini-a-p-a-sub-22-masculino",
+    "slug": "game-2026-11-29-colmenar-viejo-cabrini-a-p-a-sub-22-masculino",
     "date": "2026-11-29",
     "time": "12:00",
     "status": "Próximo",
@@ -2181,11 +2194,11 @@
     "category": "Sub 22",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 91
+    "weight": 21020261129120034
   },
   {
-    "id": "game-20261213-91",
-    "slug": "game-20261213-91",
+    "id": "game-2026-12-13-basket-hoyo-de-manzanares-colmenar-viejo-sub-22-masculino",
+    "slug": "game-2026-12-13-basket-hoyo-de-manzanares-colmenar-viejo-sub-22-masculino",
     "date": "2026-12-13",
     "time": "12:00",
     "status": "Próximo",
@@ -2205,11 +2218,11 @@
     "category": "Sub 22",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 92
+    "weight": 21020261213120052
   },
   {
-    "id": "game-20261220-92",
-    "slug": "game-20261220-92",
+    "id": "game-2026-12-20-parque-cataluna-torrejon-negro-colmenar-viejo-sub-22-masculino",
+    "slug": "game-2026-12-20-parque-cataluna-torrejon-negro-colmenar-viejo-sub-22-masculino",
     "date": "2026-12-20",
     "time": "12:00",
     "status": "Próximo",
@@ -2229,11 +2242,11 @@
     "category": "Sub 22",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 93
+    "weight": 21020261220120051
   },
   {
-    "id": "game-20270110-93",
-    "slug": "game-20270110-93",
+    "id": "game-2027-01-10-colmenar-viejo-c-b-moratalaz-b-sub-22-masculino",
+    "slug": "game-2027-01-10-colmenar-viejo-c-b-moratalaz-b-sub-22-masculino",
     "date": "2027-01-10",
     "time": "12:00",
     "status": "Próximo",
@@ -2253,11 +2266,11 @@
     "category": "Sub 22",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 94
+    "weight": 21020270110120027
   },
   {
-    "id": "game-20270117-94",
-    "slug": "game-20270117-94",
+    "id": "game-2027-01-17-colmenar-viejo-mejorada-2012-c-b-sub-22-masculino",
+    "slug": "game-2027-01-17-colmenar-viejo-mejorada-2012-c-b-sub-22-masculino",
     "date": "2027-01-17",
     "time": "12:00",
     "status": "Próximo",
@@ -2277,11 +2290,11 @@
     "category": "Sub 22",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 95
+    "weight": 21020270117120010
   },
   {
-    "id": "game-20270124-95",
-    "slug": "game-20270124-95",
+    "id": "game-2027-01-24-buen-consejo-colmenar-viejo-sub-22-masculino",
+    "slug": "game-2027-01-24-buen-consejo-colmenar-viejo-sub-22-masculino",
     "date": "2027-01-24",
     "time": "12:00",
     "status": "Próximo",
@@ -2301,11 +2314,11 @@
     "category": "Sub 22",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 96
+    "weight": 21020270124120002
   },
   {
-    "id": "game-20270131-96",
-    "slug": "game-20270131-96",
+    "id": "game-2027-01-31-colmenar-viejo-distrito-carabanchel-a-sub-22-masculino",
+    "slug": "game-2027-01-31-colmenar-viejo-distrito-carabanchel-a-sub-22-masculino",
     "date": "2027-01-31",
     "time": "12:00",
     "status": "Próximo",
@@ -2325,11 +2338,11 @@
     "category": "Sub 22",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 97
+    "weight": 21020270131120019
   },
   {
-    "id": "game-20270207-97",
-    "slug": "game-20270207-97",
+    "id": "game-2027-02-07-vallekas-basket-colmenar-viejo-sub-22-masculino",
+    "slug": "game-2027-02-07-vallekas-basket-colmenar-viejo-sub-22-masculino",
     "date": "2027-02-07",
     "time": "17:00",
     "status": "Próximo",
@@ -2349,11 +2362,11 @@
     "category": "Sub 22",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 98
+    "weight": 21020270207170018
   },
   {
-    "id": "game-20270214-98",
-    "slug": "game-20270214-98",
+    "id": "game-2027-02-14-colmenar-viejo-abaco-sub-22-masculino",
+    "slug": "game-2027-02-14-colmenar-viejo-abaco-sub-22-masculino",
     "date": "2027-02-14",
     "time": "12:00",
     "status": "Próximo",
@@ -2373,11 +2386,11 @@
     "category": "Sub 22",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 99
+    "weight": 21020270214120009
   },
   {
-    "id": "game-20270221-99",
-    "slug": "game-20270221-99",
+    "id": "game-2027-02-21-cabrini-a-p-a-colmenar-viejo-sub-22-masculino",
+    "slug": "game-2027-02-21-cabrini-a-p-a-colmenar-viejo-sub-22-masculino",
     "date": "2027-02-21",
     "time": "12:00",
     "status": "Próximo",
@@ -2397,11 +2410,11 @@
     "category": "Sub 22",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 100
+    "weight": 21020270221120081
   },
   {
-    "id": "game-20270228-100",
-    "slug": "game-20270228-100",
+    "id": "game-2027-02-28-colmenar-viejo-basket-hoyo-de-manzanares-sub-22-masculino",
+    "slug": "game-2027-02-28-colmenar-viejo-basket-hoyo-de-manzanares-sub-22-masculino",
     "date": "2027-02-28",
     "time": "12:00",
     "status": "Próximo",
@@ -2421,11 +2434,11 @@
     "category": "Sub 22",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 101
+    "weight": 21020270228120065
   },
   {
-    "id": "game-20270307-101",
-    "slug": "game-20270307-101",
+    "id": "game-2027-03-07-colmenar-viejo-parque-cataluna-torrejon-negro-sub-22-masculino",
+    "slug": "game-2027-03-07-colmenar-viejo-parque-cataluna-torrejon-negro-sub-22-masculino",
     "date": "2027-03-07",
     "time": "12:00",
     "status": "Próximo",
@@ -2445,11 +2458,11 @@
     "category": "Sub 22",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 102
+    "weight": 21020270307120092
   },
   {
-    "id": "game-20270314-102",
-    "slug": "game-20270314-102",
+    "id": "game-2027-03-14-c-b-moratalaz-b-colmenar-viejo-sub-22-masculino",
+    "slug": "game-2027-03-14-c-b-moratalaz-b-colmenar-viejo-sub-22-masculino",
     "date": "2027-03-14",
     "time": "12:00",
     "status": "Próximo",
@@ -2469,11 +2482,11 @@
     "category": "Sub 22",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 103
+    "weight": 21020270314120019
   },
   {
-    "id": "game-20261004-103",
-    "slug": "game-20261004-103",
+    "id": "game-2026-10-04-colmenar-viejo-a-coslada-c-b-serracines-junior-masculino",
+    "slug": "game-2026-10-04-colmenar-viejo-a-coslada-c-b-serracines-junior-masculino",
     "date": "2026-10-04",
     "time": "12:00",
     "status": "Próximo",
@@ -2493,11 +2506,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 104
+    "weight": 31120261004120062
   },
   {
-    "id": "game-20261004-103",
-    "slug": "game-20261004-103",
+    "id": "game-2026-10-04-colmenar-viejo-a-coslada-c-b-serracines-junior-masculino",
+    "slug": "game-2026-10-04-colmenar-viejo-a-coslada-c-b-serracines-junior-masculino",
     "date": "2026-10-04",
     "time": "18:15",
     "status": "Próximo",
@@ -2517,11 +2530,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 105
+    "weight": 31120261004181562
   },
   {
-    "id": "game-20261010-104",
-    "slug": "game-20261010-104",
+    "id": "game-2026-10-10-colegio-el-prado-colmenar-viejo-a-junior-masculino",
+    "slug": "game-2026-10-10-colegio-el-prado-colmenar-viejo-a-junior-masculino",
     "date": "2026-10-10",
     "time": "13:00",
     "status": "Próximo",
@@ -2541,11 +2554,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 106
+    "weight": 31120261010130053
   },
   {
-    "id": "game-20261018-105",
-    "slug": "game-20261018-105",
+    "id": "game-2026-10-18-colmenar-viejo-a-villanueva-de-la-canada-junior-masculino",
+    "slug": "game-2026-10-18-colmenar-viejo-a-villanueva-de-la-canada-junior-masculino",
     "date": "2026-10-18",
     "time": "12:00",
     "status": "Próximo",
@@ -2565,11 +2578,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 107
+    "weight": 31120261018120002
   },
   {
-    "id": "game-20261025-106",
-    "slug": "game-20261025-106",
+    "id": "game-2026-10-25-pilaristas-colmenar-viejo-a-junior-masculino",
+    "slug": "game-2026-10-25-pilaristas-colmenar-viejo-a-junior-masculino",
     "date": "2026-10-25",
     "time": "12:00",
     "status": "Próximo",
@@ -2589,11 +2602,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 108
+    "weight": 31120261025120082
   },
   {
-    "id": "game-20261108-107",
-    "slug": "game-20261108-107",
+    "id": "game-2026-11-08-colmenar-viejo-a-brains-moraleja-b-junior-masculino",
+    "slug": "game-2026-11-08-colmenar-viejo-a-brains-moraleja-b-junior-masculino",
     "date": "2026-11-08",
     "time": "12:00",
     "status": "Próximo",
@@ -2613,11 +2626,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 109
+    "weight": 31120261108120065
   },
   {
-    "id": "game-20261114-108",
-    "slug": "game-20261114-108",
+    "id": "game-2026-11-14-spanish-basketball-academy-colmenar-viejo-a-junior-masculino",
+    "slug": "game-2026-11-14-spanish-basketball-academy-colmenar-viejo-a-junior-masculino",
     "date": "2026-11-14",
     "time": "10:00",
     "status": "Próximo",
@@ -2637,11 +2650,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 110
+    "weight": 31120261114100051
   },
   {
-    "id": "game-20261122-109",
-    "slug": "game-20261122-109",
+    "id": "game-2026-11-22-colmenar-viejo-a-movistar-estudiantes-diaz-miguel-junior-masculino",
+    "slug": "game-2026-11-22-colmenar-viejo-a-movistar-estudiantes-diaz-miguel-junior-masculino",
     "date": "2026-11-22",
     "time": "12:00",
     "status": "Próximo",
@@ -2661,11 +2674,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 111
+    "weight": 31120261122120058
   },
   {
-    "id": "game-20261129-110",
-    "slug": "game-20261129-110",
+    "id": "game-2026-11-29-colmenar-viejo-a-baloncesto-san-fernando-09-junior-masculino",
+    "slug": "game-2026-11-29-colmenar-viejo-a-baloncesto-san-fernando-09-junior-masculino",
     "date": "2026-11-29",
     "time": "12:00",
     "status": "Próximo",
@@ -2685,11 +2698,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 112
+    "weight": 31120261129120094
   },
   {
-    "id": "game-20261212-111",
-    "slug": "game-20261212-111",
+    "id": "game-2026-12-12-parla-basquet-black-colmenar-viejo-a-junior-masculino",
+    "slug": "game-2026-12-12-parla-basquet-black-colmenar-viejo-a-junior-masculino",
     "date": "2026-12-12",
     "time": "12:00",
     "status": "Próximo",
@@ -2709,11 +2722,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 113
+    "weight": 31120261212120015
   },
   {
-    "id": "game-20261220-112",
-    "slug": "game-20261220-112",
+    "id": "game-2026-12-20-colmenar-viejo-a-c-b-alcorcon-a-junior-masculino",
+    "slug": "game-2026-12-20-colmenar-viejo-a-c-b-alcorcon-a-junior-masculino",
     "date": "2026-12-20",
     "time": "12:00",
     "status": "Próximo",
@@ -2733,11 +2746,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 114
+    "weight": 31120261220120011
   },
   {
-    "id": "game-20270117-113",
-    "slug": "game-20270117-113",
+    "id": "game-2027-01-17-colmenar-viejo-a-piratas-soto-basket-junior-masculino",
+    "slug": "game-2027-01-17-colmenar-viejo-a-piratas-soto-basket-junior-masculino",
     "date": "2027-01-17",
     "time": "12:00",
     "status": "Próximo",
@@ -2757,11 +2770,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 115
+    "weight": 31120270117120044
   },
   {
-    "id": "game-20270123-114",
-    "slug": "game-20270123-114",
+    "id": "game-2027-01-23-coslada-c-b-serracines-colmenar-viejo-a-junior-masculino",
+    "slug": "game-2027-01-23-coslada-c-b-serracines-colmenar-viejo-a-junior-masculino",
     "date": "2027-01-23",
     "time": "12:00",
     "status": "Próximo",
@@ -2781,11 +2794,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 116
+    "weight": 31120270123120077
   },
   {
-    "id": "game-20270131-115",
-    "slug": "game-20270131-115",
+    "id": "game-2027-01-31-colmenar-viejo-a-colegio-el-prado-junior-masculino",
+    "slug": "game-2027-01-31-colmenar-viejo-a-colegio-el-prado-junior-masculino",
     "date": "2027-01-31",
     "time": "12:00",
     "status": "Próximo",
@@ -2805,11 +2818,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 117
+    "weight": 31120270131120074
   },
   {
-    "id": "game-20270206-116",
-    "slug": "game-20270206-116",
+    "id": "game-2027-02-06-villanueva-de-la-canada-colmenar-viejo-a-junior-masculino",
+    "slug": "game-2027-02-06-villanueva-de-la-canada-colmenar-viejo-a-junior-masculino",
     "date": "2027-02-06",
     "time": "12:00",
     "status": "Próximo",
@@ -2829,11 +2842,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 118
+    "weight": 31120270206120087
   },
   {
-    "id": "game-20270214-117",
-    "slug": "game-20270214-117",
+    "id": "game-2027-02-14-colmenar-viejo-a-pilaristas-junior-masculino",
+    "slug": "game-2027-02-14-colmenar-viejo-a-pilaristas-junior-masculino",
     "date": "2027-02-14",
     "time": "12:00",
     "status": "Próximo",
@@ -2853,11 +2866,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 119
+    "weight": 31120270214120071
   },
   {
-    "id": "game-20270220-118",
-    "slug": "game-20270220-118",
+    "id": "game-2027-02-20-brains-moraleja-b-colmenar-viejo-a-junior-masculino",
+    "slug": "game-2027-02-20-brains-moraleja-b-colmenar-viejo-a-junior-masculino",
     "date": "2027-02-20",
     "time": "12:00",
     "status": "Próximo",
@@ -2877,11 +2890,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 120
+    "weight": 31120270220120033
   },
   {
-    "id": "game-20270228-119",
-    "slug": "game-20270228-119",
+    "id": "game-2027-02-28-colmenar-viejo-a-spanish-basketball-academy-junior-masculino",
+    "slug": "game-2027-02-28-colmenar-viejo-a-spanish-basketball-academy-junior-masculino",
     "date": "2027-02-28",
     "time": "12:00",
     "status": "Próximo",
@@ -2901,11 +2914,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 121
+    "weight": 31120270228120080
   },
   {
-    "id": "game-20270306-120",
-    "slug": "game-20270306-120",
+    "id": "game-2027-03-06-movistar-estudiantes-diaz-miguel-colmenar-viejo-a-junior-masculino",
+    "slug": "game-2027-03-06-movistar-estudiantes-diaz-miguel-colmenar-viejo-a-junior-masculino",
     "date": "2027-03-06",
     "time": "12:00",
     "status": "Próximo",
@@ -2925,11 +2938,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 122
+    "weight": 31120270306120011
   },
   {
-    "id": "game-20270313-121",
-    "slug": "game-20270313-121",
+    "id": "game-2027-03-13-baloncesto-san-fernando-09-colmenar-viejo-a-junior-masculino",
+    "slug": "game-2027-03-13-baloncesto-san-fernando-09-colmenar-viejo-a-junior-masculino",
     "date": "2027-03-13",
     "time": "12:00",
     "status": "Próximo",
@@ -2949,11 +2962,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 123
+    "weight": 31120270313120038
   },
   {
-    "id": "game-20270321-122",
-    "slug": "game-20270321-122",
+    "id": "game-2027-03-21-colmenar-viejo-a-parla-basquet-black-junior-masculino",
+    "slug": "game-2027-03-21-colmenar-viejo-a-parla-basquet-black-junior-masculino",
     "date": "2027-03-21",
     "time": "12:00",
     "status": "Próximo",
@@ -2973,11 +2986,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 124
+    "weight": 31120270321120039
   },
   {
-    "id": "game-20270403-123",
-    "slug": "game-20270403-123",
+    "id": "game-2027-04-03-c-b-alcorcon-a-colmenar-viejo-a-junior-masculino",
+    "slug": "game-2027-04-03-c-b-alcorcon-a-colmenar-viejo-a-junior-masculino",
     "date": "2027-04-03",
     "time": "12:00",
     "status": "Próximo",
@@ -2997,11 +3010,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 125
+    "weight": 31120270403120070
   },
   {
-    "id": "game-20261001-124",
-    "slug": "game-20261001-124",
+    "id": "game-2026-10-01-colmenar-viejo-b-59-junior-masculino",
+    "slug": "game-2026-10-01-colmenar-viejo-b-59-junior-masculino",
     "date": "2026-10-01",
     "time": "12:00",
     "status": "Próximo",
@@ -3021,11 +3034,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 126
+    "weight": 31220261001120098
   },
   {
-    "id": "game-20261004-125",
-    "slug": "game-20261004-125",
+    "id": "game-2026-10-04-ricopia-funbal-alcala-cbja-colmenar-viejo-b-junior-masculino",
+    "slug": "game-2026-10-04-ricopia-funbal-alcala-cbja-colmenar-viejo-b-junior-masculino",
     "date": "2026-10-04",
     "time": "12:00",
     "status": "Próximo",
@@ -3045,11 +3058,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 127
+    "weight": 31220261004120002
   },
   {
-    "id": "game-20261004-125",
-    "slug": "game-20261004-125",
+    "id": "game-2026-10-04-ricopia-funbal-alcala-cbja-colmenar-viejo-b-junior-masculino",
+    "slug": "game-2026-10-04-ricopia-funbal-alcala-cbja-colmenar-viejo-b-junior-masculino",
     "date": "2026-10-04",
     "time": "15:00",
     "status": "Próximo",
@@ -3069,11 +3082,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 128
+    "weight": 31220261004150002
   },
   {
-    "id": "game-20261011-126",
-    "slug": "game-20261011-126",
+    "id": "game-2026-10-11-colmenar-viejo-b-c-b-pizarro-blanco-campus-avila-junior-masculino",
+    "slug": "game-2026-10-11-colmenar-viejo-b-c-b-pizarro-blanco-campus-avila-junior-masculino",
     "date": "2026-10-11",
     "time": "10:00",
     "status": "Próximo",
@@ -3093,11 +3106,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 129
+    "weight": 31220261011100048
   },
   {
-    "id": "game-20261017-127",
-    "slug": "game-20261017-127",
+    "id": "game-2026-10-17-basalcor-rm-colmenar-viejo-b-junior-masculino",
+    "slug": "game-2026-10-17-basalcor-rm-colmenar-viejo-b-junior-masculino",
     "date": "2026-10-17",
     "time": "12:00",
     "status": "Próximo",
@@ -3117,11 +3130,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 130
+    "weight": 31220261017120083
   },
   {
-    "id": "game-20261025-128",
-    "slug": "game-20261025-128",
+    "id": "game-2026-10-25-colmenar-viejo-b-valcude-alcobendas-10-junior-masculino",
+    "slug": "game-2026-10-25-colmenar-viejo-b-valcude-alcobendas-10-junior-masculino",
     "date": "2026-10-25",
     "time": "12:00",
     "status": "Próximo",
@@ -3141,11 +3154,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 131
+    "weight": 31220261025120000
   },
   {
-    "id": "game-20261107-129",
-    "slug": "game-20261107-129",
+    "id": "game-2026-11-07-liceo-frances-10-colmenar-viejo-b-junior-masculino",
+    "slug": "game-2026-11-07-liceo-frances-10-colmenar-viejo-b-junior-masculino",
     "date": "2026-11-07",
     "time": "12:00",
     "status": "Próximo",
@@ -3165,11 +3178,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 132
+    "weight": 31220261107120066
   },
   {
-    "id": "game-20261115-130",
-    "slug": "game-20261115-130",
+    "id": "game-2026-11-15-colmenar-viejo-b-innova-tsn-leganes-b-junior-masculino",
+    "slug": "game-2026-11-15-colmenar-viejo-b-innova-tsn-leganes-b-junior-masculino",
     "date": "2026-11-15",
     "time": "12:00",
     "status": "Próximo",
@@ -3189,11 +3202,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 133
+    "weight": 31220261115120049
   },
   {
-    "id": "game-20261121-131",
-    "slug": "game-20261121-131",
+    "id": "game-2026-11-21-vicalvaro-baloncesto-cde-colmenar-viejo-b-junior-masculino",
+    "slug": "game-2026-11-21-vicalvaro-baloncesto-cde-colmenar-viejo-b-junior-masculino",
     "date": "2026-11-21",
     "time": "13:30",
     "status": "Próximo",
@@ -3213,11 +3226,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 134
+    "weight": 31220261121133080
   },
   {
-    "id": "game-20261128-132",
-    "slug": "game-20261128-132",
+    "id": "game-2026-11-28-valcude-alcobendas-09-colmenar-viejo-b-junior-masculino",
+    "slug": "game-2026-11-28-valcude-alcobendas-09-colmenar-viejo-b-junior-masculino",
     "date": "2026-11-28",
     "time": "12:00",
     "status": "Próximo",
@@ -3237,11 +3250,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 135
+    "weight": 31220261128120011
   },
   {
-    "id": "game-20261213-133",
-    "slug": "game-20261213-133",
+    "id": "game-2026-12-13-colmenar-viejo-b-c-b-villa-de-valdemoro-c-junior-masculino",
+    "slug": "game-2026-12-13-colmenar-viejo-b-c-b-villa-de-valdemoro-c-junior-masculino",
     "date": "2026-12-13",
     "time": "12:00",
     "status": "Próximo",
@@ -3261,11 +3274,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 136
+    "weight": 31220261213120026
   },
   {
-    "id": "game-20261219-134",
-    "slug": "game-20261219-134",
+    "id": "game-2026-12-19-vallekas-basket-b-colmenar-viejo-b-junior-masculino",
+    "slug": "game-2026-12-19-vallekas-basket-b-colmenar-viejo-b-junior-masculino",
     "date": "2026-12-19",
     "time": "09:15",
     "status": "Próximo",
@@ -3285,11 +3298,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 137
+    "weight": 31220261219091529
   },
   {
-    "id": "game-20270116-135",
-    "slug": "game-20270116-135",
+    "id": "game-2027-01-16-torrejon-de-la-calzada-emb-colmenar-viejo-b-junior-masculino",
+    "slug": "game-2027-01-16-torrejon-de-la-calzada-emb-colmenar-viejo-b-junior-masculino",
     "date": "2027-01-16",
     "time": "12:00",
     "status": "Próximo",
@@ -3309,11 +3322,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 138
+    "weight": 31220270116120080
   },
   {
-    "id": "game-20270124-136",
-    "slug": "game-20270124-136",
+    "id": "game-2027-01-24-colmenar-viejo-b-ricopia-funbal-alcala-cbja-junior-masculino",
+    "slug": "game-2027-01-24-colmenar-viejo-b-ricopia-funbal-alcala-cbja-junior-masculino",
     "date": "2027-01-24",
     "time": "12:00",
     "status": "Próximo",
@@ -3333,11 +3346,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 139
+    "weight": 31220270124120096
   },
   {
-    "id": "game-20270130-137",
-    "slug": "game-20270130-137",
+    "id": "game-2027-01-30-c-b-pizarro-blanco-campus-avila-colmenar-viejo-b-junior-masculino",
+    "slug": "game-2027-01-30-c-b-pizarro-blanco-campus-avila-colmenar-viejo-b-junior-masculino",
     "date": "2027-01-30",
     "time": "12:00",
     "status": "Próximo",
@@ -3357,11 +3370,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 140
+    "weight": 31220270130120047
   },
   {
-    "id": "game-20270207-138",
-    "slug": "game-20270207-138",
+    "id": "game-2027-02-07-colmenar-viejo-b-basalcor-rm-junior-masculino",
+    "slug": "game-2027-02-07-colmenar-viejo-b-basalcor-rm-junior-masculino",
     "date": "2027-02-07",
     "time": "12:00",
     "status": "Próximo",
@@ -3381,11 +3394,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 141
+    "weight": 31220270207120053
   },
   {
-    "id": "game-20270213-139",
-    "slug": "game-20270213-139",
+    "id": "game-2027-02-13-valcude-alcobendas-10-colmenar-viejo-b-junior-masculino",
+    "slug": "game-2027-02-13-valcude-alcobendas-10-colmenar-viejo-b-junior-masculino",
     "date": "2027-02-13",
     "time": "12:00",
     "status": "Próximo",
@@ -3405,11 +3418,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 142
+    "weight": 31220270213120029
   },
   {
-    "id": "game-20270221-140",
-    "slug": "game-20270221-140",
+    "id": "game-2027-02-21-colmenar-viejo-b-liceo-frances-10-junior-masculino",
+    "slug": "game-2027-02-21-colmenar-viejo-b-liceo-frances-10-junior-masculino",
     "date": "2027-02-21",
     "time": "12:00",
     "status": "Próximo",
@@ -3429,11 +3442,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 143
+    "weight": 31220270221120020
   },
   {
-    "id": "game-20270227-141",
-    "slug": "game-20270227-141",
+    "id": "game-2027-02-27-innova-tsn-leganes-b-colmenar-viejo-b-junior-masculino",
+    "slug": "game-2027-02-27-innova-tsn-leganes-b-colmenar-viejo-b-junior-masculino",
     "date": "2027-02-27",
     "time": "12:00",
     "status": "Próximo",
@@ -3453,11 +3466,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 144
+    "weight": 31220270227120095
   },
   {
-    "id": "game-20270307-142",
-    "slug": "game-20270307-142",
+    "id": "game-2027-03-07-colmenar-viejo-b-vicalvaro-baloncesto-cde-junior-masculino",
+    "slug": "game-2027-03-07-colmenar-viejo-b-vicalvaro-baloncesto-cde-junior-masculino",
     "date": "2027-03-07",
     "time": "12:00",
     "status": "Próximo",
@@ -3477,11 +3490,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 145
+    "weight": 31220270307120003
   },
   {
-    "id": "game-20270314-143",
-    "slug": "game-20270314-143",
+    "id": "game-2027-03-14-colmenar-viejo-b-valcude-alcobendas-09-junior-masculino",
+    "slug": "game-2027-03-14-colmenar-viejo-b-valcude-alcobendas-09-junior-masculino",
     "date": "2027-03-14",
     "time": "12:00",
     "status": "Próximo",
@@ -3501,11 +3514,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 146
+    "weight": 31220270314120057
   },
   {
-    "id": "game-20270321-144",
-    "slug": "game-20270321-144",
+    "id": "game-2027-03-21-c-b-villa-de-valdemoro-c-colmenar-viejo-b-junior-masculino",
+    "slug": "game-2027-03-21-c-b-villa-de-valdemoro-c-colmenar-viejo-b-junior-masculino",
     "date": "2027-03-21",
     "time": "12:00",
     "status": "Próximo",
@@ -3525,11 +3538,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 147
+    "weight": 31220270321120081
   },
   {
-    "id": "game-20270404-145",
-    "slug": "game-20270404-145",
+    "id": "game-2027-04-04-colmenar-viejo-b-vallekas-basket-b-junior-masculino",
+    "slug": "game-2027-04-04-colmenar-viejo-b-vallekas-basket-b-junior-masculino",
     "date": "2027-04-04",
     "time": "12:00",
     "status": "Próximo",
@@ -3549,11 +3562,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 148
+    "weight": 31220270404120016
   },
   {
-    "id": "game-20261001-146",
-    "slug": "game-20261001-146",
+    "id": "game-2026-10-01-colmenar-viejo-c-43-junior-masculino",
+    "slug": "game-2026-10-01-colmenar-viejo-c-43-junior-masculino",
     "date": "2026-10-01",
     "time": "12:00",
     "status": "Próximo",
@@ -3573,11 +3586,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 149
+    "weight": 31320261001120026
   },
   {
-    "id": "game-20261004-147",
-    "slug": "game-20261004-147",
+    "id": "game-2026-10-04-mirasur-school-parque-europa-colmenar-viejo-c-junior-masculino",
+    "slug": "game-2026-10-04-mirasur-school-parque-europa-colmenar-viejo-c-junior-masculino",
     "date": "2026-10-04",
     "time": "12:00",
     "status": "Próximo",
@@ -3597,11 +3610,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 150
+    "weight": 31320261004120078
   },
   {
-    "id": "game-20261004-147",
-    "slug": "game-20261004-147",
+    "id": "game-2026-10-04-mirasur-school-parque-europa-colmenar-viejo-c-junior-masculino",
+    "slug": "game-2026-10-04-mirasur-school-parque-europa-colmenar-viejo-c-junior-masculino",
     "date": "2026-10-04",
     "time": "12:00",
     "status": "Próximo",
@@ -3621,11 +3634,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 151
+    "weight": 31320261004120078
   },
   {
-    "id": "game-20261010-148",
-    "slug": "game-20261010-148",
+    "id": "game-2026-10-10-cb-pozuelo-b-colmenar-viejo-c-junior-masculino",
+    "slug": "game-2026-10-10-cb-pozuelo-b-colmenar-viejo-c-junior-masculino",
     "date": "2026-10-10",
     "time": "16:30",
     "status": "Próximo",
@@ -3645,11 +3658,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 152
+    "weight": 31320261010163013
   },
   {
-    "id": "game-20261018-149",
-    "slug": "game-20261018-149",
+    "id": "game-2026-10-18-colmenar-viejo-c-colegio-claret-madrid-blanco-junior-masculino",
+    "slug": "game-2026-10-18-colmenar-viejo-c-colegio-claret-madrid-blanco-junior-masculino",
     "date": "2026-10-18",
     "time": "12:00",
     "status": "Próximo",
@@ -3669,11 +3682,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 153
+    "weight": 31320261018120054
   },
   {
-    "id": "game-20261025-150",
-    "slug": "game-20261025-150",
+    "id": "game-2026-10-25-maravillas-colmenar-viejo-c-junior-masculino",
+    "slug": "game-2026-10-25-maravillas-colmenar-viejo-c-junior-masculino",
     "date": "2026-10-25",
     "time": "12:00",
     "status": "Próximo",
@@ -3693,11 +3706,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 154
+    "weight": 31320261025120021
   },
   {
-    "id": "game-20261108-151",
-    "slug": "game-20261108-151",
+    "id": "game-2026-11-08-colmenar-viejo-c-bt-aquinas-junior-masculino",
+    "slug": "game-2026-11-08-colmenar-viejo-c-bt-aquinas-junior-masculino",
     "date": "2026-11-08",
     "time": "12:00",
     "status": "Próximo",
@@ -3717,11 +3730,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 155
+    "weight": 31320261108120070
   },
   {
-    "id": "game-20261114-152",
-    "slug": "game-20261114-152",
+    "id": "game-2026-11-14-basket-aranjuez-c-colmenar-viejo-c-junior-masculino",
+    "slug": "game-2026-11-14-basket-aranjuez-c-colmenar-viejo-c-junior-masculino",
     "date": "2026-11-14",
     "time": "12:00",
     "status": "Próximo",
@@ -3741,11 +3754,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 156
+    "weight": 31320261114120080
   },
   {
-    "id": "game-20261122-153",
-    "slug": "game-20261122-153",
+    "id": "game-2026-11-22-colmenar-viejo-c-miramadrid-club-deportivo-basico-amarillo-junior-masculino",
+    "slug": "game-2026-11-22-colmenar-viejo-c-miramadrid-club-deportivo-basico-amarillo-junior-masculino",
     "date": "2026-11-22",
     "time": "12:00",
     "status": "Próximo",
@@ -3765,7 +3778,7 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 157
+    "weight": 31320261122120003
   },
   {
     "id": "game-2026-11-28-adc-san-fermin-colmenar-viejo-c-junior-masculino",
@@ -3789,11 +3802,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 158
+    "weight": 31320261128170027
   },
   {
-    "id": "game-20261213-155",
-    "slug": "game-20261213-155",
+    "id": "game-2026-12-13-colmenar-viejo-c-mejorada-2012-c-b-junior-masculino",
+    "slug": "game-2026-12-13-colmenar-viejo-c-mejorada-2012-c-b-junior-masculino",
     "date": "2026-12-13",
     "time": "12:00",
     "status": "Próximo",
@@ -3813,11 +3826,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 159
+    "weight": 31320261213120026
   },
   {
-    "id": "game-20261219-156",
-    "slug": "game-20261219-156",
+    "id": "game-2026-12-19-tac-tec-tenis-c-d-e-colmenar-viejo-c-junior-masculino",
+    "slug": "game-2026-12-19-tac-tec-tenis-c-d-e-colmenar-viejo-c-junior-masculino",
     "date": "2026-12-19",
     "time": "13:00",
     "status": "Próximo",
@@ -3837,11 +3850,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 160
+    "weight": 31320261219130053
   },
   {
-    "id": "game-20270116-157",
-    "slug": "game-20270116-157",
+    "id": "game-2027-01-16-baloncesto-86-la-salle-b-colmenar-viejo-c-junior-masculino",
+    "slug": "game-2027-01-16-baloncesto-86-la-salle-b-colmenar-viejo-c-junior-masculino",
     "date": "2027-01-16",
     "time": "13:00",
     "status": "Próximo",
@@ -3861,11 +3874,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 161
+    "weight": 31320270116130059
   },
   {
-    "id": "game-20270124-158",
-    "slug": "game-20270124-158",
+    "id": "game-2027-01-24-colmenar-viejo-c-mirasur-school-parque-europa-junior-masculino",
+    "slug": "game-2027-01-24-colmenar-viejo-c-mirasur-school-parque-europa-junior-masculino",
     "date": "2027-01-24",
     "time": "12:00",
     "status": "Próximo",
@@ -3885,11 +3898,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 162
+    "weight": 31320270124120080
   },
   {
-    "id": "game-20270131-159",
-    "slug": "game-20270131-159",
+    "id": "game-2027-01-31-colmenar-viejo-c-cb-pozuelo-b-junior-masculino",
+    "slug": "game-2027-01-31-colmenar-viejo-c-cb-pozuelo-b-junior-masculino",
     "date": "2027-01-31",
     "time": "12:00",
     "status": "Próximo",
@@ -3909,11 +3922,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 163
+    "weight": 31320270131120018
   },
   {
-    "id": "game-20270206-160",
-    "slug": "game-20270206-160",
+    "id": "game-2027-02-06-colegio-claret-madrid-blanco-colmenar-viejo-c-junior-masculino",
+    "slug": "game-2027-02-06-colegio-claret-madrid-blanco-colmenar-viejo-c-junior-masculino",
     "date": "2027-02-06",
     "time": "12:00",
     "status": "Próximo",
@@ -3933,11 +3946,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 164
+    "weight": 31320270206120030
   },
   {
-    "id": "game-20270214-161",
-    "slug": "game-20270214-161",
+    "id": "game-2027-02-14-colmenar-viejo-c-maravillas-junior-masculino",
+    "slug": "game-2027-02-14-colmenar-viejo-c-maravillas-junior-masculino",
     "date": "2027-02-14",
     "time": "12:00",
     "status": "Próximo",
@@ -3957,11 +3970,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 165
+    "weight": 31320270214120075
   },
   {
-    "id": "game-20270220-162",
-    "slug": "game-20270220-162",
+    "id": "game-2027-02-20-bt-aquinas-colmenar-viejo-c-junior-masculino",
+    "slug": "game-2027-02-20-bt-aquinas-colmenar-viejo-c-junior-masculino",
     "date": "2027-02-20",
     "time": "12:00",
     "status": "Próximo",
@@ -3981,11 +3994,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 166
+    "weight": 31320270220120088
   },
   {
-    "id": "game-20270228-163",
-    "slug": "game-20270228-163",
+    "id": "game-2027-02-28-colmenar-viejo-c-basket-aranjuez-c-junior-masculino",
+    "slug": "game-2027-02-28-colmenar-viejo-c-basket-aranjuez-c-junior-masculino",
     "date": "2027-02-28",
     "time": "12:00",
     "status": "Próximo",
@@ -4005,11 +4018,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 167
+    "weight": 31320270228120044
   },
   {
-    "id": "game-20270306-164",
-    "slug": "game-20270306-164",
+    "id": "game-2027-03-06-miramadrid-club-deportivo-basico-amarillo-colmenar-viejo-c-junior-masculino",
+    "slug": "game-2027-03-06-miramadrid-club-deportivo-basico-amarillo-colmenar-viejo-c-junior-masculino",
     "date": "2027-03-06",
     "time": "12:00",
     "status": "Próximo",
@@ -4029,7 +4042,7 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 168
+    "weight": 31320270306120050
   },
   {
     "id": "game-2027-03-14-colmenar-viejo-c-adc-san-fermin-junior-masculino",
@@ -4053,11 +4066,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 169
+    "weight": 31320270314120036
   },
   {
-    "id": "game-20270320-166",
-    "slug": "game-20270320-166",
+    "id": "game-2027-03-20-mejorada-2012-c-b-colmenar-viejo-c-junior-masculino",
+    "slug": "game-2027-03-20-mejorada-2012-c-b-colmenar-viejo-c-junior-masculino",
     "date": "2027-03-20",
     "time": "16:30",
     "status": "Próximo",
@@ -4077,11 +4090,11 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 170
+    "weight": 31320270320163023
   },
   {
-    "id": "game-20270404-167",
-    "slug": "game-20270404-167",
+    "id": "game-2027-04-04-colmenar-viejo-c-tac-tec-tenis-c-d-e-junior-masculino",
+    "slug": "game-2027-04-04-colmenar-viejo-c-tac-tec-tenis-c-d-e-junior-masculino",
     "date": "2027-04-04",
     "time": "12:00",
     "status": "Próximo",
@@ -4101,31 +4114,44 @@
     "category": "Junior",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 171
+    "weight": 31320270404120078
   },
   {
-    "id": "game-20261003-168",
-    "slug": "game-20261003-168",
+    "id": "game-2026-10-03-fenix-basket-club-boadilla-colmenar-viejo-junior-femenino",
+    "slug": "game-2026-10-03-fenix-basket-club-boadilla-colmenar-viejo-junior-femenino",
     "date": "2026-10-03",
-    "time": "13:00",
-    "status": "Próximo",
+    "time": "12:00",
+    "status": "Finalizado",
     "home": "FENIX BASKET CLUB BOADILLA",
     "home_slug": "fenix-basket-club-boadilla",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 63,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-junior-femenino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
-    "venue": "IES ISABEL LA CATOLICA, PABELLON CRISTOBAL COLON, 12, Boadilla del Monte",
-    "venue_slug": "ies-isabel-la-catolica-pabellon-cristobal-colon-12-boadilla-del-monte",
-    "venue_title": "IES ISABEL LA CATOLICA",
-    "venue_address": "PABELLON CRISTOBAL COLON, 12, Boadilla del Monte",
+    "away_score": 31,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "category": "Junior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 172
+    "weight": 32020261003120048
   },
   {
     "id": "game-2026-10-18-colmenar-viejo-estudiantes-international-school-b-junior-femenino",
@@ -4149,7 +4175,7 @@
     "category": "Junior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 173
+    "weight": 32020261018120046
   },
   {
     "id": "game-2026-10-24-movistar-estudiantes-anton-colmenar-viejo-junior-femenino",
@@ -4173,7 +4199,7 @@
     "category": "Junior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 174
+    "weight": 32020261024120005
   },
   {
     "id": "game-2026-11-08-colmenar-viejo-liceo-frances-junior-femenino",
@@ -4197,7 +4223,7 @@
     "category": "Junior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 175
+    "weight": 32020261108120060
   },
   {
     "id": "game-2026-11-15-colmenar-viejo-c-b-ciudad-de-mostoles-b-junior-femenino",
@@ -4221,7 +4247,7 @@
     "category": "Junior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 176
+    "weight": 32020261115120096
   },
   {
     "id": "game-2026-11-21-cabrini-a-p-a-verde-colmenar-viejo-junior-femenino",
@@ -4245,7 +4271,7 @@
     "category": "Junior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 177
+    "weight": 32020261121120019
   },
   {
     "id": "game-2026-11-29-colmenar-viejo-fm-gestiona-c-b-villa-de-valdemoro-b-junior-femenino",
@@ -4269,7 +4295,7 @@
     "category": "Junior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 178
+    "weight": 32020261129120066
   },
   {
     "id": "game-2026-12-12-irlandesas-2-colmenar-viejo-junior-femenino",
@@ -4293,7 +4319,7 @@
     "category": "Junior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 179
+    "weight": 32020261212120050
   },
   {
     "id": "game-2026-12-20-colmenar-viejo-aravaca-basket-c-d-e-junior-femenino",
@@ -4317,7 +4343,7 @@
     "category": "Junior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 180
+    "weight": 32020261220120071
   },
   {
     "id": "game-2027-01-17-colmenar-viejo-fenix-basket-club-boadilla-junior-femenino",
@@ -4341,7 +4367,7 @@
     "category": "Junior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 181
+    "weight": 32020270117120086
   },
   {
     "id": "game-2027-01-23-estudiantes-international-school-b-colmenar-viejo-junior-femenino",
@@ -4365,7 +4391,7 @@
     "category": "Junior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 182
+    "weight": 32020270123120091
   },
   {
     "id": "game-2027-01-31-colmenar-viejo-movistar-estudiantes-anton-junior-femenino",
@@ -4389,7 +4415,7 @@
     "category": "Junior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 183
+    "weight": 32020270131120045
   },
   {
     "id": "game-2027-02-06-liceo-frances-colmenar-viejo-junior-femenino",
@@ -4413,7 +4439,7 @@
     "category": "Junior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 184
+    "weight": 32020270206120043
   },
   {
     "id": "game-2027-02-13-c-b-ciudad-de-mostoles-b-colmenar-viejo-junior-femenino",
@@ -4437,7 +4463,7 @@
     "category": "Junior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 185
+    "weight": 32020270213120050
   },
   {
     "id": "game-2027-02-21-colmenar-viejo-cabrini-a-p-a-verde-junior-femenino",
@@ -4461,7 +4487,7 @@
     "category": "Junior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 186
+    "weight": 32020270221120085
   },
   {
     "id": "game-2027-02-28-fm-gestiona-c-b-villa-de-valdemoro-b-colmenar-viejo-junior-femenino",
@@ -4485,7 +4511,7 @@
     "category": "Junior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 187
+    "weight": 32020270228120078
   },
   {
     "id": "game-2027-03-07-colmenar-viejo-irlandesas-2-junior-femenino",
@@ -4509,7 +4535,7 @@
     "category": "Junior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 188
+    "weight": 32020270307120052
   },
   {
     "id": "game-2027-03-13-aravaca-basket-c-d-e-colmenar-viejo-junior-femenino",
@@ -4533,23 +4559,36 @@
     "category": "Junior",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 189
+    "weight": 32020270313120009
   },
   {
-    "id": "game-20261003-190",
-    "slug": "game-20261003-190",
+    "id": "game-2026-10-03-alameda-de-osuna-verde-colmenar-viejo-a-cadete-masculino",
+    "slug": "game-2026-10-03-alameda-de-osuna-verde-colmenar-viejo-a-cadete-masculino",
     "date": "2026-10-03",
     "time": "12:00",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "ALAMEDA DE OSUNA VERDE",
     "home_slug": "alameda-de-osuna-verde",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 66,
     "away": "COLMENAR VIEJO A",
     "away_slug": "colmenar-viejo-a-cadete-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 58,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -4557,35 +4596,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 190
+    "weight": 41120261003120037
   },
   {
-    "id": "game-20261003-190",
-    "slug": "game-20261003-190",
-    "date": "2026-10-03",
-    "time": "16:30",
-    "status": "Próximo",
-    "home": "ALAMEDA DE OSUNA VERDE",
-    "home_slug": "alameda-de-osuna-verde",
-    "home_logo": "images/teams/rival.png",
-    "home_score": null,
-    "away": "COLMENAR VIEJO A",
-    "away_slug": "colmenar-viejo-a-cadete-masculino",
-    "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
-    "venue": "VILLA DE MADRID, PABELLON CALLE BREZOS, 4, Madrid",
-    "venue_slug": "villa-de-madrid-pabellon-calle-brezos-4-madrid",
-    "venue_title": "VILLA DE MADRID",
-    "venue_address": "PABELLON CALLE BREZOS, 4, Madrid",
-    "category": "Cadete",
-    "gender": "masculino",
-    "mvp": "-",
-    "weight": 191
-  },
-  {
-    "id": "game-20261018-191",
-    "slug": "game-20261018-191",
+    "id": "game-2026-10-18-colmenar-viejo-a-brains-arturo-soria-cadete-masculino",
+    "slug": "game-2026-10-18-colmenar-viejo-a-brains-arturo-soria-cadete-masculino",
     "date": "2026-10-18",
     "time": "12:00",
     "status": "Próximo",
@@ -4605,11 +4620,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 192
+    "weight": 41120261018120095
   },
   {
-    "id": "game-20261024-192",
-    "slug": "game-20261024-192",
+    "id": "game-2026-10-24-movistar-estudiantes-winslow-colmenar-viejo-a-cadete-masculino",
+    "slug": "game-2026-10-24-movistar-estudiantes-winslow-colmenar-viejo-a-cadete-masculino",
     "date": "2026-10-24",
     "time": "12:00",
     "status": "Próximo",
@@ -4629,11 +4644,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 193
+    "weight": 41120261024120072
   },
   {
-    "id": "game-20261108-193",
-    "slug": "game-20261108-193",
+    "id": "game-2026-11-08-colmenar-viejo-a-parque-cataluna-torrejon-amarillo-cadete-masculino",
+    "slug": "game-2026-11-08-colmenar-viejo-a-parque-cataluna-torrejon-amarillo-cadete-masculino",
     "date": "2026-11-08",
     "time": "12:00",
     "status": "Próximo",
@@ -4653,11 +4668,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 194
+    "weight": 41120261108120037
   },
   {
-    "id": "game-20261114-194",
-    "slug": "game-20261114-194",
+    "id": "game-2026-11-14-distrito-carabanchel-a-colmenar-viejo-a-cadete-masculino",
+    "slug": "game-2026-11-14-distrito-carabanchel-a-colmenar-viejo-a-cadete-masculino",
     "date": "2026-11-14",
     "time": "12:00",
     "status": "Próximo",
@@ -4677,11 +4692,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 195
+    "weight": 41120261114120030
   },
   {
-    "id": "game-20261122-195",
-    "slug": "game-20261122-195",
+    "id": "game-2026-11-22-colmenar-viejo-a-san-viator-c-cadete-masculino",
+    "slug": "game-2026-11-22-colmenar-viejo-a-san-viator-c-cadete-masculino",
     "date": "2026-11-22",
     "time": "12:00",
     "status": "Próximo",
@@ -4701,11 +4716,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 196
+    "weight": 41120261122120056
   },
   {
-    "id": "game-20261128-196",
-    "slug": "game-20261128-196",
+    "id": "game-2026-11-28-arganzuela-centro-b-colmenar-viejo-a-cadete-masculino",
+    "slug": "game-2026-11-28-arganzuela-centro-b-colmenar-viejo-a-cadete-masculino",
     "date": "2026-11-28",
     "time": "09:15",
     "status": "Próximo",
@@ -4725,11 +4740,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 197
+    "weight": 41120261128091500
   },
   {
-    "id": "game-20261213-197",
-    "slug": "game-20261213-197",
+    "id": "game-2026-12-13-colmenar-viejo-a-baloncesto-alcala-2011-cadete-masculino",
+    "slug": "game-2026-12-13-colmenar-viejo-a-baloncesto-alcala-2011-cadete-masculino",
     "date": "2026-12-13",
     "time": "12:00",
     "status": "Próximo",
@@ -4749,11 +4764,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 198
+    "weight": 41120261213120007
   },
   {
-    "id": "game-20261219-198",
-    "slug": "game-20261219-198",
+    "id": "game-2026-12-19-olimpico-64-colmenar-viejo-a-cadete-masculino",
+    "slug": "game-2026-12-19-olimpico-64-colmenar-viejo-a-cadete-masculino",
     "date": "2026-12-19",
     "time": "12:00",
     "status": "Próximo",
@@ -4773,11 +4788,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 199
+    "weight": 41120261219120001
   },
   {
-    "id": "game-20270117-199",
-    "slug": "game-20270117-199",
+    "id": "game-2027-01-17-colmenar-viejo-a-buen-consejo-11-cadete-masculino",
+    "slug": "game-2027-01-17-colmenar-viejo-a-buen-consejo-11-cadete-masculino",
     "date": "2027-01-17",
     "time": "12:00",
     "status": "Próximo",
@@ -4797,11 +4812,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 200
+    "weight": 41120270117120096
   },
   {
-    "id": "game-20270123-200",
-    "slug": "game-20270123-200",
+    "id": "game-2027-01-23-jya-fotovoltaica-cb-navalcarnero-a-colmenar-viejo-a-cadete-masculino",
+    "slug": "game-2027-01-23-jya-fotovoltaica-cb-navalcarnero-a-colmenar-viejo-a-cadete-masculino",
     "date": "2027-01-23",
     "time": "12:00",
     "status": "Próximo",
@@ -4821,11 +4836,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 201
+    "weight": 41120270123120059
   },
   {
-    "id": "game-20270131-201",
-    "slug": "game-20270131-201",
+    "id": "game-2027-01-31-colmenar-viejo-a-alameda-de-osuna-verde-cadete-masculino",
+    "slug": "game-2027-01-31-colmenar-viejo-a-alameda-de-osuna-verde-cadete-masculino",
     "date": "2027-01-31",
     "time": "12:00",
     "status": "Próximo",
@@ -4845,11 +4860,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 202
+    "weight": 41120270131120058
   },
   {
-    "id": "game-20270206-202",
-    "slug": "game-20270206-202",
+    "id": "game-2027-02-06-brains-arturo-soria-colmenar-viejo-a-cadete-masculino",
+    "slug": "game-2027-02-06-brains-arturo-soria-colmenar-viejo-a-cadete-masculino",
     "date": "2027-02-06",
     "time": "12:00",
     "status": "Próximo",
@@ -4869,11 +4884,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 203
+    "weight": 41120270206120058
   },
   {
-    "id": "game-20270214-203",
-    "slug": "game-20270214-203",
+    "id": "game-2027-02-14-colmenar-viejo-a-movistar-estudiantes-winslow-cadete-masculino",
+    "slug": "game-2027-02-14-colmenar-viejo-a-movistar-estudiantes-winslow-cadete-masculino",
     "date": "2027-02-14",
     "time": "12:00",
     "status": "Próximo",
@@ -4893,11 +4908,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 204
+    "weight": 41120270214120072
   },
   {
-    "id": "game-20270220-204",
-    "slug": "game-20270220-204",
+    "id": "game-2027-02-20-parque-cataluna-torrejon-amarillo-colmenar-viejo-a-cadete-masculino",
+    "slug": "game-2027-02-20-parque-cataluna-torrejon-amarillo-colmenar-viejo-a-cadete-masculino",
     "date": "2027-02-20",
     "time": "12:00",
     "status": "Próximo",
@@ -4917,11 +4932,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 205
+    "weight": 41120270220120081
   },
   {
-    "id": "game-20270228-205",
-    "slug": "game-20270228-205",
+    "id": "game-2027-02-28-colmenar-viejo-a-distrito-carabanchel-a-cadete-masculino",
+    "slug": "game-2027-02-28-colmenar-viejo-a-distrito-carabanchel-a-cadete-masculino",
     "date": "2027-02-28",
     "time": "12:00",
     "status": "Próximo",
@@ -4941,11 +4956,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 206
+    "weight": 41120270228120079
   },
   {
-    "id": "game-20270306-206",
-    "slug": "game-20270306-206",
+    "id": "game-2027-03-06-san-viator-c-colmenar-viejo-a-cadete-masculino",
+    "slug": "game-2027-03-06-san-viator-c-colmenar-viejo-a-cadete-masculino",
     "date": "2027-03-06",
     "time": "09:30",
     "status": "Próximo",
@@ -4965,11 +4980,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 207
+    "weight": 41120270306093020
   },
   {
-    "id": "game-20270314-207",
-    "slug": "game-20270314-207",
+    "id": "game-2027-03-14-colmenar-viejo-a-arganzuela-centro-b-cadete-masculino",
+    "slug": "game-2027-03-14-colmenar-viejo-a-arganzuela-centro-b-cadete-masculino",
     "date": "2027-03-14",
     "time": "12:00",
     "status": "Próximo",
@@ -4989,11 +5004,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 208
+    "weight": 41120270314120032
   },
   {
-    "id": "game-20270403-208",
-    "slug": "game-20270403-208",
+    "id": "game-2027-04-03-baloncesto-alcala-2011-colmenar-viejo-a-cadete-masculino",
+    "slug": "game-2027-04-03-baloncesto-alcala-2011-colmenar-viejo-a-cadete-masculino",
     "date": "2027-04-03",
     "time": "12:00",
     "status": "Próximo",
@@ -5013,11 +5028,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 209
+    "weight": 41120270403120033
   },
   {
-    "id": "game-20270411-209",
-    "slug": "game-20270411-209",
+    "id": "game-2027-04-11-colmenar-viejo-a-olimpico-64-cadete-masculino",
+    "slug": "game-2027-04-11-colmenar-viejo-a-olimpico-64-cadete-masculino",
     "date": "2027-04-11",
     "time": "12:00",
     "status": "Próximo",
@@ -5037,11 +5052,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 210
+    "weight": 41120270411120017
   },
   {
-    "id": "game-20270417-210",
-    "slug": "game-20270417-210",
+    "id": "game-2027-04-17-buen-consejo-11-colmenar-viejo-a-cadete-masculino",
+    "slug": "game-2027-04-17-buen-consejo-11-colmenar-viejo-a-cadete-masculino",
     "date": "2027-04-17",
     "time": "12:00",
     "status": "Próximo",
@@ -5061,11 +5076,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 211
+    "weight": 41120270417120010
   },
   {
-    "id": "game-20270425-211",
-    "slug": "game-20270425-211",
+    "id": "game-2027-04-25-colmenar-viejo-a-jya-fotovoltaica-cb-navalcarnero-a-cadete-masculino",
+    "slug": "game-2027-04-25-colmenar-viejo-a-jya-fotovoltaica-cb-navalcarnero-a-cadete-masculino",
     "date": "2027-04-25",
     "time": "12:00",
     "status": "Próximo",
@@ -5085,11 +5100,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 212
+    "weight": 41120270425120092
   },
   {
-    "id": "game-20261017-213",
-    "slug": "game-20261017-213",
+    "id": "game-2026-10-17-colmenar-viejo-b-baloncesto-paracuellos-azul-cadete-masculino",
+    "slug": "game-2026-10-17-colmenar-viejo-b-baloncesto-paracuellos-azul-cadete-masculino",
     "date": "2026-10-17",
     "time": "12:00",
     "status": "Próximo",
@@ -5109,11 +5124,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 213
+    "weight": 41220261017120087
   },
   {
-    "id": "game-20261024-216",
-    "slug": "game-20261024-216",
+    "id": "game-2026-10-24-liceo-frances-2012-colmenar-viejo-b-cadete-masculino",
+    "slug": "game-2026-10-24-liceo-frances-2012-colmenar-viejo-b-cadete-masculino",
     "date": "2026-10-24",
     "time": "12:00",
     "status": "Próximo",
@@ -5133,11 +5148,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 214
+    "weight": 41220261024120007
   },
   {
-    "id": "game-20261107-217",
-    "slug": "game-20261107-217",
+    "id": "game-2026-11-07-colmenar-viejo-b-estudio-b-cadete-masculino",
+    "slug": "game-2026-11-07-colmenar-viejo-b-estudio-b-cadete-masculino",
     "date": "2026-11-07",
     "time": "12:00",
     "status": "Próximo",
@@ -5157,11 +5172,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 215
+    "weight": 41220261107120029
   },
   {
-    "id": "game-20261114-220",
-    "slug": "game-20261114-220",
+    "id": "game-2026-11-14-colmenar-viejo-b-innova-tsn-leganes-2012-b-cadete-masculino",
+    "slug": "game-2026-11-14-colmenar-viejo-b-innova-tsn-leganes-2012-b-cadete-masculino",
     "date": "2026-11-14",
     "time": "12:00",
     "status": "Próximo",
@@ -5181,11 +5196,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 216
+    "weight": 41220261114120075
   },
   {
-    "id": "game-20261121-221",
-    "slug": "game-20261121-221",
+    "id": "game-2026-11-21-ha-basket-a-colmenar-viejo-b-cadete-masculino",
+    "slug": "game-2026-11-21-ha-basket-a-colmenar-viejo-b-cadete-masculino",
     "date": "2026-11-21",
     "time": "12:00",
     "status": "Próximo",
@@ -5205,11 +5220,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 217
+    "weight": 41220261121120060
   },
   {
-    "id": "game-20261128-224",
-    "slug": "game-20261128-224",
+    "id": "game-2026-11-28-colmenar-viejo-b-oroquieta-espinillo-c-d-e-cadete-masculino",
+    "slug": "game-2026-11-28-colmenar-viejo-b-oroquieta-espinillo-c-d-e-cadete-masculino",
     "date": "2026-11-28",
     "time": "12:00",
     "status": "Próximo",
@@ -5229,11 +5244,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 218
+    "weight": 41220261128120048
   },
   {
-    "id": "game-20261212-225",
-    "slug": "game-20261212-225",
+    "id": "game-2026-12-12-mejorada-2012-c-b-colmenar-viejo-b-cadete-masculino",
+    "slug": "game-2026-12-12-mejorada-2012-c-b-colmenar-viejo-b-cadete-masculino",
     "date": "2026-12-12",
     "time": "13:00",
     "status": "Próximo",
@@ -5253,11 +5268,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 219
+    "weight": 41220261212130064
   },
   {
-    "id": "game-20261219-228",
-    "slug": "game-20261219-228",
+    "id": "game-2026-12-19-colmenar-viejo-b-arganzuela-centro-blanco-cadete-masculino",
+    "slug": "game-2026-12-19-colmenar-viejo-b-arganzuela-centro-blanco-cadete-masculino",
     "date": "2026-12-19",
     "time": "12:00",
     "status": "Próximo",
@@ -5277,11 +5292,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 220
+    "weight": 41220261219120090
   },
   {
-    "id": "game-20270116-229",
-    "slug": "game-20270116-229",
+    "id": "game-2027-01-16-triple-chamberi-colmenar-viejo-b-cadete-masculino",
+    "slug": "game-2027-01-16-triple-chamberi-colmenar-viejo-b-cadete-masculino",
     "date": "2027-01-16",
     "time": "10:30",
     "status": "Próximo",
@@ -5301,11 +5316,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 221
+    "weight": 41220270116103028
   },
   {
-    "id": "game-20270123-232",
-    "slug": "game-20270123-232",
+    "id": "game-2027-01-23-colmenar-viejo-b-baloncesto-daganzo-12-isuzu-revein-cadete-masculino",
+    "slug": "game-2027-01-23-colmenar-viejo-b-baloncesto-daganzo-12-isuzu-revein-cadete-masculino",
     "date": "2027-01-23",
     "time": "12:00",
     "status": "Próximo",
@@ -5325,11 +5340,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 222
+    "weight": 41220270123120009
   },
   {
-    "id": "game-20270130-233",
-    "slug": "game-20270130-233",
+    "id": "game-2027-01-30-colmenar-viejo-b-colmenar-viejo-c-cadete-masculino",
+    "slug": "game-2027-01-30-colmenar-viejo-b-colmenar-viejo-c-cadete-masculino",
     "date": "2027-01-30",
     "time": "12:00",
     "status": "Próximo",
@@ -5349,11 +5364,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 223
+    "weight": 41220270130120023
   },
   {
-    "id": "game-20270206-234",
-    "slug": "game-20270206-234",
+    "id": "game-2027-02-06-baloncesto-paracuellos-azul-colmenar-viejo-b-cadete-masculino",
+    "slug": "game-2027-02-06-baloncesto-paracuellos-azul-colmenar-viejo-b-cadete-masculino",
     "date": "2027-02-06",
     "time": "18:00",
     "status": "Próximo",
@@ -5373,11 +5388,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 224
+    "weight": 41220270206180091
   },
   {
-    "id": "game-20270213-237",
-    "slug": "game-20270213-237",
+    "id": "game-2027-02-13-colmenar-viejo-b-liceo-frances-2012-cadete-masculino",
+    "slug": "game-2027-02-13-colmenar-viejo-b-liceo-frances-2012-cadete-masculino",
     "date": "2027-02-13",
     "time": "12:00",
     "status": "Próximo",
@@ -5397,11 +5412,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 225
+    "weight": 41220270213120099
   },
   {
-    "id": "game-20270220-238",
-    "slug": "game-20270220-238",
+    "id": "game-2027-02-20-estudio-b-colmenar-viejo-b-cadete-masculino",
+    "slug": "game-2027-02-20-estudio-b-colmenar-viejo-b-cadete-masculino",
     "date": "2027-02-20",
     "time": "12:00",
     "status": "Próximo",
@@ -5421,11 +5436,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 226
+    "weight": 41220270220120003
   },
   {
-    "id": "game-20270227-241",
-    "slug": "game-20270227-241",
+    "id": "game-2027-02-27-innova-tsn-leganes-2012-b-colmenar-viejo-b-cadete-masculino",
+    "slug": "game-2027-02-27-innova-tsn-leganes-2012-b-colmenar-viejo-b-cadete-masculino",
     "date": "2027-02-27",
     "time": "12:00",
     "status": "Próximo",
@@ -5445,11 +5460,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 227
+    "weight": 41220270227120058
   },
   {
-    "id": "game-20270306-242",
-    "slug": "game-20270306-242",
+    "id": "game-2027-03-06-colmenar-viejo-b-ha-basket-a-cadete-masculino",
+    "slug": "game-2027-03-06-colmenar-viejo-b-ha-basket-a-cadete-masculino",
     "date": "2027-03-06",
     "time": "12:00",
     "status": "Próximo",
@@ -5469,11 +5484,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 228
+    "weight": 41220270306120024
   },
   {
-    "id": "game-20270313-245",
-    "slug": "game-20270313-245",
+    "id": "game-2027-03-13-oroquieta-espinillo-c-d-e-colmenar-viejo-b-cadete-masculino",
+    "slug": "game-2027-03-13-oroquieta-espinillo-c-d-e-colmenar-viejo-b-cadete-masculino",
     "date": "2027-03-13",
     "time": "12:00",
     "status": "Próximo",
@@ -5493,11 +5508,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 229
+    "weight": 41220270313120015
   },
   {
-    "id": "game-20270403-246",
-    "slug": "game-20270403-246",
+    "id": "game-2027-04-03-colmenar-viejo-b-mejorada-2012-c-b-cadete-masculino",
+    "slug": "game-2027-04-03-colmenar-viejo-b-mejorada-2012-c-b-cadete-masculino",
     "date": "2027-04-03",
     "time": "12:00",
     "status": "Próximo",
@@ -5517,11 +5532,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 230
+    "weight": 41220270403120031
   },
   {
-    "id": "game-20270410-249",
-    "slug": "game-20270410-249",
+    "id": "game-2027-04-10-arganzuela-centro-blanco-colmenar-viejo-b-cadete-masculino",
+    "slug": "game-2027-04-10-arganzuela-centro-blanco-colmenar-viejo-b-cadete-masculino",
     "date": "2027-04-10",
     "time": "11:00",
     "status": "Próximo",
@@ -5541,11 +5556,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 231
+    "weight": 41220270410110077
   },
   {
-    "id": "game-20270417-250",
-    "slug": "game-20270417-250",
+    "id": "game-2027-04-17-colmenar-viejo-b-triple-chamberi-cadete-masculino",
+    "slug": "game-2027-04-17-colmenar-viejo-b-triple-chamberi-cadete-masculino",
     "date": "2027-04-17",
     "time": "12:00",
     "status": "Próximo",
@@ -5565,11 +5580,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 232
+    "weight": 41220270417120099
   },
   {
-    "id": "game-20270424-253",
-    "slug": "game-20270424-253",
+    "id": "game-2027-04-24-baloncesto-daganzo-12-isuzu-revein-colmenar-viejo-b-cadete-masculino",
+    "slug": "game-2027-04-24-baloncesto-daganzo-12-isuzu-revein-colmenar-viejo-b-cadete-masculino",
     "date": "2027-04-24",
     "time": "12:00",
     "status": "Próximo",
@@ -5589,47 +5604,60 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 233
+    "weight": 41220270424120091
   },
   {
-    "id": "game-20261003-212",
-    "slug": "game-20261003-212",
-    "date": "2026-10-03",
+    "id": "game-2026-10-01-colmenar-viejo-c-28-cadete-masculino",
+    "slug": "game-2026-10-01-colmenar-viejo-c-28-cadete-masculino",
+    "date": "2026-10-01",
     "time": "12:00",
     "status": "Próximo",
     "home": "COLMENAR VIEJO C",
     "home_slug": "colmenar-viejo-c-cadete-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
     "home_score": null,
-    "away": "COLMENAR VIEJO B",
-    "away_slug": "colmenar-viejo-b-cadete-masculino",
-    "away_logo": "images/teams/cbcolmenar.png",
+    "away": "28",
+    "away_slug": "28",
+    "away_logo": "images/teams/rival.png",
     "away_score": null,
     "quarters": null,
-    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
-    "venue_title": "JUAN ANTONIO SAMARANCH",
-    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue": "COLMENAR VIEJO B",
+    "venue_slug": "colmenar-viejo-b",
+    "venue_title": "COLMENAR VIEJO B",
+    "venue_address": "COLMENAR VIEJO B",
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 234
+    "weight": 41320261001120062
   },
   {
-    "id": "game-20261003-212",
-    "slug": "game-20261003-212",
+    "id": "game-2026-10-03-colmenar-viejo-c-colmenar-viejo-b-cadete-masculino",
+    "slug": "game-2026-10-03-colmenar-viejo-c-colmenar-viejo-b-cadete-masculino",
     "date": "2026-10-03",
-    "time": "16:00",
-    "status": "Próximo",
+    "time": "12:00",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO C",
     "home_slug": "colmenar-viejo-c-cadete-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 28,
     "away": "COLMENAR VIEJO B",
     "away_slug": "colmenar-viejo-b-cadete-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 100,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -5637,11 +5665,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 235
+    "weight": 41320261003120094
   },
   {
-    "id": "game-20261017-214",
-    "slug": "game-20261017-214",
+    "id": "game-2026-10-17-innova-tsn-leganes-2012-b-colmenar-viejo-c-cadete-masculino",
+    "slug": "game-2026-10-17-innova-tsn-leganes-2012-b-colmenar-viejo-c-cadete-masculino",
     "date": "2026-10-17",
     "time": "12:00",
     "status": "Próximo",
@@ -5661,11 +5689,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 236
+    "weight": 41320261017120008
   },
   {
-    "id": "game-20261024-215",
-    "slug": "game-20261024-215",
+    "id": "game-2026-10-24-colmenar-viejo-c-ha-basket-a-cadete-masculino",
+    "slug": "game-2026-10-24-colmenar-viejo-c-ha-basket-a-cadete-masculino",
     "date": "2026-10-24",
     "time": "12:00",
     "status": "Próximo",
@@ -5685,11 +5713,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 237
+    "weight": 41320261024120055
   },
   {
-    "id": "game-20261107-218",
-    "slug": "game-20261107-218",
+    "id": "game-2026-11-07-oroquieta-espinillo-c-d-e-colmenar-viejo-c-cadete-masculino",
+    "slug": "game-2026-11-07-oroquieta-espinillo-c-d-e-colmenar-viejo-c-cadete-masculino",
     "date": "2026-11-07",
     "time": "12:00",
     "status": "Próximo",
@@ -5709,11 +5737,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 238
+    "weight": 41320261107120010
   },
   {
-    "id": "game-20261114-219",
-    "slug": "game-20261114-219",
+    "id": "game-2026-11-14-colmenar-viejo-c-mejorada-2012-c-b-cadete-masculino",
+    "slug": "game-2026-11-14-colmenar-viejo-c-mejorada-2012-c-b-cadete-masculino",
     "date": "2026-11-14",
     "time": "12:00",
     "status": "Próximo",
@@ -5733,11 +5761,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 239
+    "weight": 41320261114120096
   },
   {
-    "id": "game-20261121-222",
-    "slug": "game-20261121-222",
+    "id": "game-2026-11-21-arganzuela-centro-blanco-colmenar-viejo-c-cadete-masculino",
+    "slug": "game-2026-11-21-arganzuela-centro-blanco-colmenar-viejo-c-cadete-masculino",
     "date": "2026-11-21",
     "time": "09:15",
     "status": "Próximo",
@@ -5757,11 +5785,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 240
+    "weight": 41320261121091517
   },
   {
-    "id": "game-20261128-223",
-    "slug": "game-20261128-223",
+    "id": "game-2026-11-28-colmenar-viejo-c-triple-chamberi-cadete-masculino",
+    "slug": "game-2026-11-28-colmenar-viejo-c-triple-chamberi-cadete-masculino",
     "date": "2026-11-28",
     "time": "12:00",
     "status": "Próximo",
@@ -5781,11 +5809,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 241
+    "weight": 41320261128120028
   },
   {
-    "id": "game-20261212-226",
-    "slug": "game-20261212-226",
+    "id": "game-2026-12-12-baloncesto-daganzo-12-isuzu-revein-colmenar-viejo-c-cadete-masculino",
+    "slug": "game-2026-12-12-baloncesto-daganzo-12-isuzu-revein-colmenar-viejo-c-cadete-masculino",
     "date": "2026-12-12",
     "time": "12:00",
     "status": "Próximo",
@@ -5805,11 +5833,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 242
+    "weight": 41320261212120087
   },
   {
-    "id": "game-20261219-227",
-    "slug": "game-20261219-227",
+    "id": "game-2026-12-19-estudio-b-colmenar-viejo-c-cadete-masculino",
+    "slug": "game-2026-12-19-estudio-b-colmenar-viejo-c-cadete-masculino",
     "date": "2026-12-19",
     "time": "12:00",
     "status": "Próximo",
@@ -5829,11 +5857,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 243
+    "weight": 41320261219120087
   },
   {
-    "id": "game-20270116-230",
-    "slug": "game-20270116-230",
+    "id": "game-2027-01-16-colmenar-viejo-c-baloncesto-paracuellos-azul-cadete-masculino",
+    "slug": "game-2027-01-16-colmenar-viejo-c-baloncesto-paracuellos-azul-cadete-masculino",
     "date": "2027-01-16",
     "time": "12:00",
     "status": "Próximo",
@@ -5853,11 +5881,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 244
+    "weight": 41320270116120000
   },
   {
-    "id": "game-20270123-231",
-    "slug": "game-20270123-231",
+    "id": "game-2027-01-23-liceo-frances-2012-colmenar-viejo-c-cadete-masculino",
+    "slug": "game-2027-01-23-liceo-frances-2012-colmenar-viejo-c-cadete-masculino",
     "date": "2027-01-23",
     "time": "12:00",
     "status": "Próximo",
@@ -5877,11 +5905,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 245
+    "weight": 41320270123120087
   },
   {
-    "id": "game-20270206-235",
-    "slug": "game-20270206-235",
+    "id": "game-2027-02-06-colmenar-viejo-c-innova-tsn-leganes-2012-b-cadete-masculino",
+    "slug": "game-2027-02-06-colmenar-viejo-c-innova-tsn-leganes-2012-b-cadete-masculino",
     "date": "2027-02-06",
     "time": "12:00",
     "status": "Próximo",
@@ -5901,11 +5929,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 246
+    "weight": 41320270206120057
   },
   {
-    "id": "game-20270213-236",
-    "slug": "game-20270213-236",
+    "id": "game-2027-02-13-ha-basket-a-colmenar-viejo-c-cadete-masculino",
+    "slug": "game-2027-02-13-ha-basket-a-colmenar-viejo-c-cadete-masculino",
     "date": "2027-02-13",
     "time": "12:00",
     "status": "Próximo",
@@ -5925,11 +5953,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 247
+    "weight": 41320270213120091
   },
   {
-    "id": "game-20270220-239",
-    "slug": "game-20270220-239",
+    "id": "game-2027-02-20-colmenar-viejo-c-oroquieta-espinillo-c-d-e-cadete-masculino",
+    "slug": "game-2027-02-20-colmenar-viejo-c-oroquieta-espinillo-c-d-e-cadete-masculino",
     "date": "2027-02-20",
     "time": "12:00",
     "status": "Próximo",
@@ -5949,11 +5977,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 248
+    "weight": 41320270220120077
   },
   {
-    "id": "game-20270227-240",
-    "slug": "game-20270227-240",
+    "id": "game-2027-02-27-mejorada-2012-c-b-colmenar-viejo-c-cadete-masculino",
+    "slug": "game-2027-02-27-mejorada-2012-c-b-colmenar-viejo-c-cadete-masculino",
     "date": "2027-02-27",
     "time": "13:00",
     "status": "Próximo",
@@ -5973,11 +6001,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 249
+    "weight": 41320270227130071
   },
   {
-    "id": "game-20270306-243",
-    "slug": "game-20270306-243",
+    "id": "game-2027-03-06-colmenar-viejo-c-arganzuela-centro-blanco-cadete-masculino",
+    "slug": "game-2027-03-06-colmenar-viejo-c-arganzuela-centro-blanco-cadete-masculino",
     "date": "2027-03-06",
     "time": "12:00",
     "status": "Próximo",
@@ -5997,11 +6025,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 250
+    "weight": 41320270306120064
   },
   {
-    "id": "game-20270313-244",
-    "slug": "game-20270313-244",
+    "id": "game-2027-03-13-triple-chamberi-colmenar-viejo-c-cadete-masculino",
+    "slug": "game-2027-03-13-triple-chamberi-colmenar-viejo-c-cadete-masculino",
     "date": "2027-03-13",
     "time": "10:30",
     "status": "Próximo",
@@ -6021,11 +6049,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 251
+    "weight": 41320270313103066
   },
   {
-    "id": "game-20270403-247",
-    "slug": "game-20270403-247",
+    "id": "game-2027-04-03-colmenar-viejo-c-baloncesto-daganzo-12-isuzu-revein-cadete-masculino",
+    "slug": "game-2027-04-03-colmenar-viejo-c-baloncesto-daganzo-12-isuzu-revein-cadete-masculino",
     "date": "2027-04-03",
     "time": "12:00",
     "status": "Próximo",
@@ -6045,11 +6073,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 252
+    "weight": 41320270403120034
   },
   {
-    "id": "game-20270410-248",
-    "slug": "game-20270410-248",
+    "id": "game-2027-04-10-colmenar-viejo-c-estudio-b-cadete-masculino",
+    "slug": "game-2027-04-10-colmenar-viejo-c-estudio-b-cadete-masculino",
     "date": "2027-04-10",
     "time": "12:00",
     "status": "Próximo",
@@ -6069,11 +6097,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 253
+    "weight": 41320270410120057
   },
   {
-    "id": "game-20270417-251",
-    "slug": "game-20270417-251",
+    "id": "game-2027-04-17-baloncesto-paracuellos-azul-colmenar-viejo-c-cadete-masculino",
+    "slug": "game-2027-04-17-baloncesto-paracuellos-azul-colmenar-viejo-c-cadete-masculino",
     "date": "2027-04-17",
     "time": "18:00",
     "status": "Próximo",
@@ -6093,11 +6121,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 254
+    "weight": 41320270417180063
   },
   {
-    "id": "game-20270424-252",
-    "slug": "game-20270424-252",
+    "id": "game-2027-04-24-colmenar-viejo-c-liceo-frances-2012-cadete-masculino",
+    "slug": "game-2027-04-24-colmenar-viejo-c-liceo-frances-2012-cadete-masculino",
     "date": "2027-04-24",
     "time": "12:00",
     "status": "Próximo",
@@ -6117,11 +6145,11 @@
     "category": "Cadete",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 255
+    "weight": 41320270424120032
   },
   {
-    "id": "game-20261017-254",
-    "slug": "game-20261017-254",
+    "id": "game-2026-10-17-colmenar-viejo-distrito-carabanchel-b-cadete-femenino",
+    "slug": "game-2026-10-17-colmenar-viejo-distrito-carabanchel-b-cadete-femenino",
     "date": "2026-10-17",
     "time": "12:00",
     "status": "Próximo",
@@ -6141,11 +6169,11 @@
     "category": "Cadete",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 256
+    "weight": 42020261017120073
   },
   {
-    "id": "game-20261024-255",
-    "slug": "game-20261024-255",
+    "id": "game-2026-10-24-alameda-de-osuna-verde-colmenar-viejo-cadete-femenino",
+    "slug": "game-2026-10-24-alameda-de-osuna-verde-colmenar-viejo-cadete-femenino",
     "date": "2026-10-24",
     "time": "12:00",
     "status": "Próximo",
@@ -6165,11 +6193,11 @@
     "category": "Cadete",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 257
+    "weight": 42020261024120020
   },
   {
-    "id": "game-20261107-256",
-    "slug": "game-20261107-256",
+    "id": "game-2026-11-07-basket-aranjuez-negro-colmenar-viejo-cadete-femenino",
+    "slug": "game-2026-11-07-basket-aranjuez-negro-colmenar-viejo-cadete-femenino",
     "date": "2026-11-07",
     "time": "12:00",
     "status": "Próximo",
@@ -6189,11 +6217,11 @@
     "category": "Cadete",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 258
+    "weight": 42020261107120036
   },
   {
-    "id": "game-20261114-257",
-    "slug": "game-20261114-257",
+    "id": "game-2026-11-14-colmenar-viejo-pilaristas-b-cadete-femenino",
+    "slug": "game-2026-11-14-colmenar-viejo-pilaristas-b-cadete-femenino",
     "date": "2026-11-14",
     "time": "12:00",
     "status": "Próximo",
@@ -6213,11 +6241,11 @@
     "category": "Cadete",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 259
+    "weight": 42020261114120000
   },
   {
-    "id": "game-20261121-258",
-    "slug": "game-20261121-258",
+    "id": "game-2026-11-21-cb-navalcarnero-colmenar-viejo-cadete-femenino",
+    "slug": "game-2026-11-21-cb-navalcarnero-colmenar-viejo-cadete-femenino",
     "date": "2026-11-21",
     "time": "12:00",
     "status": "Próximo",
@@ -6237,11 +6265,11 @@
     "category": "Cadete",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 260
+    "weight": 42020261121120093
   },
   {
-    "id": "game-20261128-259",
-    "slug": "game-20261128-259",
+    "id": "game-2026-11-28-colmenar-viejo-veritas-pozuelo-negro-cadete-femenino",
+    "slug": "game-2026-11-28-colmenar-viejo-veritas-pozuelo-negro-cadete-femenino",
     "date": "2026-11-28",
     "time": "12:00",
     "status": "Próximo",
@@ -6261,11 +6289,11 @@
     "category": "Cadete",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 261
+    "weight": 42020261128120090
   },
   {
-    "id": "game-20261212-260",
-    "slug": "game-20261212-260",
+    "id": "game-2026-12-12-u-b-femenino-humanes-amarillo-colmenar-viejo-cadete-femenino",
+    "slug": "game-2026-12-12-u-b-femenino-humanes-amarillo-colmenar-viejo-cadete-femenino",
     "date": "2026-12-12",
     "time": "12:00",
     "status": "Próximo",
@@ -6285,11 +6313,11 @@
     "category": "Cadete",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 262
+    "weight": 42020261212120096
   },
   {
-    "id": "game-20270116-261",
-    "slug": "game-20270116-261",
+    "id": "game-2027-01-16-colmenar-viejo-c-b-getafe-a-cadete-femenino",
+    "slug": "game-2027-01-16-colmenar-viejo-c-b-getafe-a-cadete-femenino",
     "date": "2027-01-16",
     "time": "12:00",
     "status": "Próximo",
@@ -6309,11 +6337,11 @@
     "category": "Cadete",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 263
+    "weight": 42020270116120069
   },
   {
-    "id": "game-20270123-262",
-    "slug": "game-20270123-262",
+    "id": "game-2027-01-23-movistar-estudiantes-palomares-colmenar-viejo-cadete-femenino",
+    "slug": "game-2027-01-23-movistar-estudiantes-palomares-colmenar-viejo-cadete-femenino",
     "date": "2027-01-23",
     "time": "12:00",
     "status": "Próximo",
@@ -6333,11 +6361,11 @@
     "category": "Cadete",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 264
+    "weight": 42020270123120034
   },
   {
-    "id": "game-20270130-263",
-    "slug": "game-20270130-263",
+    "id": "game-2027-01-30-distrito-carabanchel-b-colmenar-viejo-cadete-femenino",
+    "slug": "game-2027-01-30-distrito-carabanchel-b-colmenar-viejo-cadete-femenino",
     "date": "2027-01-30",
     "time": "12:00",
     "status": "Próximo",
@@ -6357,11 +6385,11 @@
     "category": "Cadete",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 265
+    "weight": 42020270130120024
   },
   {
-    "id": "game-20270206-264",
-    "slug": "game-20270206-264",
+    "id": "game-2027-02-06-colmenar-viejo-alameda-de-osuna-verde-cadete-femenino",
+    "slug": "game-2027-02-06-colmenar-viejo-alameda-de-osuna-verde-cadete-femenino",
     "date": "2027-02-06",
     "time": "12:00",
     "status": "Próximo",
@@ -6381,11 +6409,11 @@
     "category": "Cadete",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 266
+    "weight": 42020270206120004
   },
   {
-    "id": "game-20270220-265",
-    "slug": "game-20270220-265",
+    "id": "game-2027-02-20-colmenar-viejo-basket-aranjuez-negro-cadete-femenino",
+    "slug": "game-2027-02-20-colmenar-viejo-basket-aranjuez-negro-cadete-femenino",
     "date": "2027-02-20",
     "time": "12:00",
     "status": "Próximo",
@@ -6405,11 +6433,11 @@
     "category": "Cadete",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 267
+    "weight": 42020270220120021
   },
   {
-    "id": "game-20270227-266",
-    "slug": "game-20270227-266",
+    "id": "game-2027-02-27-pilaristas-b-colmenar-viejo-cadete-femenino",
+    "slug": "game-2027-02-27-pilaristas-b-colmenar-viejo-cadete-femenino",
     "date": "2027-02-27",
     "time": "12:00",
     "status": "Próximo",
@@ -6429,11 +6457,11 @@
     "category": "Cadete",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 268
+    "weight": 42020270227120061
   },
   {
-    "id": "game-20270306-267",
-    "slug": "game-20270306-267",
+    "id": "game-2027-03-06-colmenar-viejo-cb-navalcarnero-cadete-femenino",
+    "slug": "game-2027-03-06-colmenar-viejo-cb-navalcarnero-cadete-femenino",
     "date": "2027-03-06",
     "time": "12:00",
     "status": "Próximo",
@@ -6453,11 +6481,11 @@
     "category": "Cadete",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 269
+    "weight": 42020270306120072
   },
   {
-    "id": "game-20270313-268",
-    "slug": "game-20270313-268",
+    "id": "game-2027-03-13-veritas-pozuelo-negro-colmenar-viejo-cadete-femenino",
+    "slug": "game-2027-03-13-veritas-pozuelo-negro-colmenar-viejo-cadete-femenino",
     "date": "2027-03-13",
     "time": "12:00",
     "status": "Próximo",
@@ -6477,11 +6505,11 @@
     "category": "Cadete",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 270
+    "weight": 42020270313120088
   },
   {
-    "id": "game-20270403-269",
-    "slug": "game-20270403-269",
+    "id": "game-2027-04-03-colmenar-viejo-u-b-femenino-humanes-amarillo-cadete-femenino",
+    "slug": "game-2027-04-03-colmenar-viejo-u-b-femenino-humanes-amarillo-cadete-femenino",
     "date": "2027-04-03",
     "time": "12:00",
     "status": "Próximo",
@@ -6501,11 +6529,11 @@
     "category": "Cadete",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 271
+    "weight": 42020270403120073
   },
   {
-    "id": "game-20270411-270",
-    "slug": "game-20270411-270",
+    "id": "game-2027-04-11-c-b-getafe-a-colmenar-viejo-cadete-femenino",
+    "slug": "game-2027-04-11-c-b-getafe-a-colmenar-viejo-cadete-femenino",
     "date": "2027-04-11",
     "time": "12:00",
     "status": "Próximo",
@@ -6525,11 +6553,11 @@
     "category": "Cadete",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 272
+    "weight": 42020270411120026
   },
   {
-    "id": "game-20270417-271",
-    "slug": "game-20270417-271",
+    "id": "game-2027-04-17-colmenar-viejo-movistar-estudiantes-palomares-cadete-femenino",
+    "slug": "game-2027-04-17-colmenar-viejo-movistar-estudiantes-palomares-cadete-femenino",
     "date": "2027-04-17",
     "time": "12:00",
     "status": "Próximo",
@@ -6549,11 +6577,11 @@
     "category": "Cadete",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 273
+    "weight": 42020270417120027
   },
   {
-    "id": "game-20261003-272",
-    "slug": "game-20261003-272",
+    "id": "game-2026-10-03-cabrini-a-p-a-colmenar-viejo-a-infantil-masculino",
+    "slug": "game-2026-10-03-cabrini-a-p-a-colmenar-viejo-a-infantil-masculino",
     "date": "2026-10-03",
     "time": "12:00",
     "status": "Finalizado",
@@ -6586,11 +6614,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 274
+    "weight": 51120261003120035
   },
   {
-    "id": "game-20261017-273",
-    "slug": "game-20261017-273",
+    "id": "game-2026-10-17-colmenar-viejo-a-c-b-las-rozas-c-infantil-masculino",
+    "slug": "game-2026-10-17-colmenar-viejo-a-c-b-las-rozas-c-infantil-masculino",
     "date": "2026-10-17",
     "time": "12:00",
     "status": "Próximo",
@@ -6610,11 +6638,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 275
+    "weight": 51120261017120008
   },
   {
-    "id": "game-20261024-274",
-    "slug": "game-20261024-274",
+    "id": "game-2026-10-24-colmenar-viejo-a-c-b-alcorcon-infantil-masculino",
+    "slug": "game-2026-10-24-colmenar-viejo-a-c-b-alcorcon-infantil-masculino",
     "date": "2026-10-24",
     "time": "12:00",
     "status": "Próximo",
@@ -6634,11 +6662,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 276
+    "weight": 51120261024120080
   },
   {
-    "id": "game-20261107-275",
-    "slug": "game-20261107-275",
+    "id": "game-2026-11-07-cb-pozuelo-colmenar-viejo-a-infantil-masculino",
+    "slug": "game-2026-11-07-cb-pozuelo-colmenar-viejo-a-infantil-masculino",
     "date": "2026-11-07",
     "time": "12:00",
     "status": "Próximo",
@@ -6658,11 +6686,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 277
+    "weight": 51120261107120007
   },
   {
-    "id": "game-20261114-276",
-    "slug": "game-20261114-276",
+    "id": "game-2026-11-14-colmenar-viejo-a-gaudem-c-d-e-a-infantil-masculino",
+    "slug": "game-2026-11-14-colmenar-viejo-a-gaudem-c-d-e-a-infantil-masculino",
     "date": "2026-11-14",
     "time": "12:00",
     "status": "Próximo",
@@ -6682,11 +6710,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 278
+    "weight": 51120261114120097
   },
   {
-    "id": "game-20261121-277",
-    "slug": "game-20261121-277",
+    "id": "game-2026-11-21-prodet-pozuelo-c-d-e-colmenar-viejo-a-infantil-masculino",
+    "slug": "game-2026-11-21-prodet-pozuelo-c-d-e-colmenar-viejo-a-infantil-masculino",
     "date": "2026-11-21",
     "time": "16:30",
     "status": "Próximo",
@@ -6706,11 +6734,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 279
+    "weight": 51120261121163048
   },
   {
-    "id": "game-20261128-278",
-    "slug": "game-20261128-278",
+    "id": "game-2026-11-28-colmenar-viejo-a-basket-aranjuez-negro-infantil-masculino",
+    "slug": "game-2026-11-28-colmenar-viejo-a-basket-aranjuez-negro-infantil-masculino",
     "date": "2026-11-28",
     "time": "12:00",
     "status": "Próximo",
@@ -6730,11 +6758,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 280
+    "weight": 51120261128120069
   },
   {
-    "id": "game-20261212-279",
-    "slug": "game-20261212-279",
+    "id": "game-2026-12-12-estudio-b-colmenar-viejo-a-infantil-masculino",
+    "slug": "game-2026-12-12-estudio-b-colmenar-viejo-a-infantil-masculino",
     "date": "2026-12-12",
     "time": "12:00",
     "status": "Próximo",
@@ -6754,11 +6782,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 281
+    "weight": 51120261212120049
   },
   {
-    "id": "game-20261219-280",
-    "slug": "game-20261219-280",
+    "id": "game-2026-12-19-colmenar-viejo-a-c-d-v-infantil-masculino",
+    "slug": "game-2026-12-19-colmenar-viejo-a-c-d-v-infantil-masculino",
     "date": "2026-12-19",
     "time": "12:00",
     "status": "Próximo",
@@ -6778,11 +6806,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 282
+    "weight": 51120261219120088
   },
   {
-    "id": "game-20270116-281",
-    "slug": "game-20270116-281",
+    "id": "game-2027-01-16-san-agustin-del-guadalix-colmenar-viejo-a-infantil-masculino",
+    "slug": "game-2027-01-16-san-agustin-del-guadalix-colmenar-viejo-a-infantil-masculino",
     "date": "2027-01-16",
     "time": "12:00",
     "status": "Próximo",
@@ -6802,11 +6830,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 283
+    "weight": 51120270116120062
   },
   {
-    "id": "game-20270123-282",
-    "slug": "game-20270123-282",
+    "id": "game-2027-01-23-colmenar-viejo-a-baloncesto-daganzo-isuzu-revein-infantil-masculino",
+    "slug": "game-2027-01-23-colmenar-viejo-a-baloncesto-daganzo-isuzu-revein-infantil-masculino",
     "date": "2027-01-23",
     "time": "12:00",
     "status": "Próximo",
@@ -6826,11 +6854,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 284
+    "weight": 51120270123120021
   },
   {
-    "id": "game-20270130-283",
-    "slug": "game-20270130-283",
+    "id": "game-2027-01-30-colmenar-viejo-a-cabrini-a-p-a-infantil-masculino",
+    "slug": "game-2027-01-30-colmenar-viejo-a-cabrini-a-p-a-infantil-masculino",
     "date": "2027-01-30",
     "time": "12:00",
     "status": "Próximo",
@@ -6850,11 +6878,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 285
+    "weight": 51120270130120087
   },
   {
-    "id": "game-20270206-284",
-    "slug": "game-20270206-284",
+    "id": "game-2027-02-06-c-b-las-rozas-c-colmenar-viejo-a-infantil-masculino",
+    "slug": "game-2027-02-06-c-b-las-rozas-c-colmenar-viejo-a-infantil-masculino",
     "date": "2027-02-06",
     "time": "12:00",
     "status": "Próximo",
@@ -6874,11 +6902,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 286
+    "weight": 51120270206120087
   },
   {
-    "id": "game-20270213-285",
-    "slug": "game-20270213-285",
+    "id": "game-2027-02-13-c-b-alcorcon-colmenar-viejo-a-infantil-masculino",
+    "slug": "game-2027-02-13-c-b-alcorcon-colmenar-viejo-a-infantil-masculino",
     "date": "2027-02-13",
     "time": "12:00",
     "status": "Próximo",
@@ -6898,11 +6926,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 287
+    "weight": 51120270213120067
   },
   {
-    "id": "game-20270220-286",
-    "slug": "game-20270220-286",
+    "id": "game-2027-02-20-colmenar-viejo-a-cb-pozuelo-infantil-masculino",
+    "slug": "game-2027-02-20-colmenar-viejo-a-cb-pozuelo-infantil-masculino",
     "date": "2027-02-20",
     "time": "12:00",
     "status": "Próximo",
@@ -6922,11 +6950,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 288
+    "weight": 51120270220120069
   },
   {
-    "id": "game-20270227-287",
-    "slug": "game-20270227-287",
+    "id": "game-2027-02-27-gaudem-c-d-e-a-colmenar-viejo-a-infantil-masculino",
+    "slug": "game-2027-02-27-gaudem-c-d-e-a-colmenar-viejo-a-infantil-masculino",
     "date": "2027-02-27",
     "time": "12:00",
     "status": "Próximo",
@@ -6946,11 +6974,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 289
+    "weight": 51120270227120071
   },
   {
-    "id": "game-20270306-288",
-    "slug": "game-20270306-288",
+    "id": "game-2027-03-06-colmenar-viejo-a-prodet-pozuelo-c-d-e-infantil-masculino",
+    "slug": "game-2027-03-06-colmenar-viejo-a-prodet-pozuelo-c-d-e-infantil-masculino",
     "date": "2027-03-06",
     "time": "12:00",
     "status": "Próximo",
@@ -6970,11 +6998,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 290
+    "weight": 51120270306120003
   },
   {
-    "id": "game-20270313-289",
-    "slug": "game-20270313-289",
+    "id": "game-2027-03-13-basket-aranjuez-negro-colmenar-viejo-a-infantil-masculino",
+    "slug": "game-2027-03-13-basket-aranjuez-negro-colmenar-viejo-a-infantil-masculino",
     "date": "2027-03-13",
     "time": "12:00",
     "status": "Próximo",
@@ -6994,11 +7022,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 291
+    "weight": 51120270313120078
   },
   {
-    "id": "game-20270403-290",
-    "slug": "game-20270403-290",
+    "id": "game-2027-04-03-colmenar-viejo-a-estudio-b-infantil-masculino",
+    "slug": "game-2027-04-03-colmenar-viejo-a-estudio-b-infantil-masculino",
     "date": "2027-04-03",
     "time": "12:00",
     "status": "Próximo",
@@ -7018,11 +7046,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 292
+    "weight": 51120270403120029
   },
   {
-    "id": "game-20270410-291",
-    "slug": "game-20270410-291",
+    "id": "game-2027-04-10-c-d-v-colmenar-viejo-a-infantil-masculino",
+    "slug": "game-2027-04-10-c-d-v-colmenar-viejo-a-infantil-masculino",
     "date": "2027-04-10",
     "time": "15:30",
     "status": "Próximo",
@@ -7042,11 +7070,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 293
+    "weight": 51120270410153023
   },
   {
-    "id": "game-20270417-292",
-    "slug": "game-20270417-292",
+    "id": "game-2027-04-17-colmenar-viejo-a-san-agustin-del-guadalix-infantil-masculino",
+    "slug": "game-2027-04-17-colmenar-viejo-a-san-agustin-del-guadalix-infantil-masculino",
     "date": "2027-04-17",
     "time": "12:00",
     "status": "Próximo",
@@ -7066,11 +7094,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 294
+    "weight": 51120270417120015
   },
   {
-    "id": "game-20270424-293",
-    "slug": "game-20270424-293",
+    "id": "game-2027-04-24-baloncesto-daganzo-isuzu-revein-colmenar-viejo-a-infantil-masculino",
+    "slug": "game-2027-04-24-baloncesto-daganzo-isuzu-revein-colmenar-viejo-a-infantil-masculino",
     "date": "2027-04-24",
     "time": "12:00",
     "status": "Próximo",
@@ -7090,11 +7118,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 295
+    "weight": 51120270424120009
   },
   {
-    "id": "game-20261017-294",
-    "slug": "game-20261017-294",
+    "id": "game-2026-10-17-colmenar-viejo-b-estudiantes-international-school-a-infantil-masculino",
+    "slug": "game-2026-10-17-colmenar-viejo-b-estudiantes-international-school-a-infantil-masculino",
     "date": "2026-10-17",
     "time": "12:00",
     "status": "Próximo",
@@ -7114,11 +7142,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 296
+    "weight": 51220261017120075
   },
   {
-    "id": "game-20261024-295",
-    "slug": "game-20261024-295",
+    "id": "game-2026-10-24-dental-company-ciempobasket-colmenar-viejo-b-infantil-masculino",
+    "slug": "game-2026-10-24-dental-company-ciempobasket-colmenar-viejo-b-infantil-masculino",
     "date": "2026-10-24",
     "time": "12:00",
     "status": "Próximo",
@@ -7138,11 +7166,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 297
+    "weight": 51220261024120068
   },
   {
-    "id": "game-20261107-296",
-    "slug": "game-20261107-296",
+    "id": "game-2026-11-07-colmenar-viejo-b-severo-torrejon-infantil-masculino",
+    "slug": "game-2026-11-07-colmenar-viejo-b-severo-torrejon-infantil-masculino",
     "date": "2026-11-07",
     "time": "12:00",
     "status": "Próximo",
@@ -7162,11 +7190,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 298
+    "weight": 51220261107120058
   },
   {
-    "id": "game-20261114-297",
-    "slug": "game-20261114-297",
+    "id": "game-2026-11-14-la-torre-de-hortaleza-colmenar-viejo-b-infantil-masculino",
+    "slug": "game-2026-11-14-la-torre-de-hortaleza-colmenar-viejo-b-infantil-masculino",
     "date": "2026-11-14",
     "time": "12:00",
     "status": "Próximo",
@@ -7186,11 +7214,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 299
+    "weight": 51220261114120063
   },
   {
-    "id": "game-20261121-298",
-    "slug": "game-20261121-298",
+    "id": "game-2026-11-21-colmenar-viejo-b-singer-basket-tucutucu-pf-infantil-masculino",
+    "slug": "game-2026-11-21-colmenar-viejo-b-singer-basket-tucutucu-pf-infantil-masculino",
     "date": "2026-11-21",
     "time": "12:00",
     "status": "Próximo",
@@ -7210,11 +7238,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 300
+    "weight": 51220261121120033
   },
   {
-    "id": "game-20261128-299",
-    "slug": "game-20261128-299",
+    "id": "game-2026-11-28-aravaca-basket-amarillo-colmenar-viejo-b-infantil-masculino",
+    "slug": "game-2026-11-28-aravaca-basket-amarillo-colmenar-viejo-b-infantil-masculino",
     "date": "2026-11-28",
     "time": "12:00",
     "status": "Próximo",
@@ -7234,11 +7262,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 301
+    "weight": 51220261128120062
   },
   {
-    "id": "game-20261212-300",
-    "slug": "game-20261212-300",
+    "id": "game-2026-12-12-colmenar-viejo-b-opticlass-raices-mostoles-infantil-masculino",
+    "slug": "game-2026-12-12-colmenar-viejo-b-opticlass-raices-mostoles-infantil-masculino",
     "date": "2026-12-12",
     "time": "12:00",
     "status": "Próximo",
@@ -7258,11 +7286,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 302
+    "weight": 51220261212120079
   },
   {
-    "id": "game-20270116-301",
-    "slug": "game-20270116-301",
+    "id": "game-2027-01-16-maravillas-colmenar-viejo-b-infantil-masculino",
+    "slug": "game-2027-01-16-maravillas-colmenar-viejo-b-infantil-masculino",
     "date": "2027-01-16",
     "time": "12:00",
     "status": "Próximo",
@@ -7282,11 +7310,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 303
+    "weight": 51220270116120090
   },
   {
-    "id": "game-20270123-302",
-    "slug": "game-20270123-302",
+    "id": "game-2027-01-23-colmenar-viejo-b-sagrada-familia-jorge-juan-infantil-masculino",
+    "slug": "game-2027-01-23-colmenar-viejo-b-sagrada-familia-jorge-juan-infantil-masculino",
     "date": "2027-01-23",
     "time": "12:00",
     "status": "Próximo",
@@ -7306,11 +7334,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 304
+    "weight": 51220270123120072
   },
   {
-    "id": "game-20270130-303",
-    "slug": "game-20270130-303",
+    "id": "game-2027-01-30-estudiantes-international-school-a-colmenar-viejo-b-infantil-masculino",
+    "slug": "game-2027-01-30-estudiantes-international-school-a-colmenar-viejo-b-infantil-masculino",
     "date": "2027-01-30",
     "time": "12:00",
     "status": "Próximo",
@@ -7330,11 +7358,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 305
+    "weight": 51220270130120086
   },
   {
-    "id": "game-20270206-304",
-    "slug": "game-20270206-304",
+    "id": "game-2027-02-06-colmenar-viejo-b-dental-company-ciempobasket-infantil-masculino",
+    "slug": "game-2027-02-06-colmenar-viejo-b-dental-company-ciempobasket-infantil-masculino",
     "date": "2027-02-06",
     "time": "12:00",
     "status": "Próximo",
@@ -7354,11 +7382,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 306
+    "weight": 51220270206120081
   },
   {
-    "id": "game-20270220-305",
-    "slug": "game-20270220-305",
+    "id": "game-2027-02-20-severo-torrejon-colmenar-viejo-b-infantil-masculino",
+    "slug": "game-2027-02-20-severo-torrejon-colmenar-viejo-b-infantil-masculino",
     "date": "2027-02-20",
     "time": "12:00",
     "status": "Próximo",
@@ -7378,11 +7406,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 307
+    "weight": 51220270220120082
   },
   {
-    "id": "game-20270227-306",
-    "slug": "game-20270227-306",
+    "id": "game-2027-02-27-colmenar-viejo-b-la-torre-de-hortaleza-infantil-masculino",
+    "slug": "game-2027-02-27-colmenar-viejo-b-la-torre-de-hortaleza-infantil-masculino",
     "date": "2027-02-27",
     "time": "12:00",
     "status": "Próximo",
@@ -7402,11 +7430,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 308
+    "weight": 51220270227120012
   },
   {
-    "id": "game-20270306-307",
-    "slug": "game-20270306-307",
+    "id": "game-2027-03-06-singer-basket-tucutucu-pf-colmenar-viejo-b-infantil-masculino",
+    "slug": "game-2027-03-06-singer-basket-tucutucu-pf-colmenar-viejo-b-infantil-masculino",
     "date": "2027-03-06",
     "time": "12:00",
     "status": "Próximo",
@@ -7426,11 +7454,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 309
+    "weight": 51220270306120084
   },
   {
-    "id": "game-20270313-308",
-    "slug": "game-20270313-308",
+    "id": "game-2027-03-13-colmenar-viejo-b-aravaca-basket-amarillo-infantil-masculino",
+    "slug": "game-2027-03-13-colmenar-viejo-b-aravaca-basket-amarillo-infantil-masculino",
     "date": "2027-03-13",
     "time": "12:00",
     "status": "Próximo",
@@ -7450,11 +7478,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 310
+    "weight": 51220270313120051
   },
   {
-    "id": "game-20270403-309",
-    "slug": "game-20270403-309",
+    "id": "game-2027-04-03-opticlass-raices-mostoles-colmenar-viejo-b-infantil-masculino",
+    "slug": "game-2027-04-03-opticlass-raices-mostoles-colmenar-viejo-b-infantil-masculino",
     "date": "2027-04-03",
     "time": "12:00",
     "status": "Próximo",
@@ -7474,11 +7502,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 311
+    "weight": 51220270403120053
   },
   {
-    "id": "game-20270410-310",
-    "slug": "game-20270410-310",
+    "id": "game-2027-04-10-colmenar-viejo-b-maravillas-infantil-masculino",
+    "slug": "game-2027-04-10-colmenar-viejo-b-maravillas-infantil-masculino",
     "date": "2027-04-10",
     "time": "12:00",
     "status": "Próximo",
@@ -7498,11 +7526,11 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 312
+    "weight": 51220270410120029
   },
   {
-    "id": "game-20270417-311",
-    "slug": "game-20270417-311",
+    "id": "game-2027-04-17-sagrada-familia-jorge-juan-colmenar-viejo-b-infantil-masculino",
+    "slug": "game-2027-04-17-sagrada-familia-jorge-juan-colmenar-viejo-b-infantil-masculino",
     "date": "2027-04-17",
     "time": "12:00",
     "status": "Próximo",
@@ -7522,7 +7550,7 @@
     "category": "Infantil",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 313
+    "weight": 51220270417120011
   },
   {
     "id": "game-2026-10-10-colmenar-viejo-negro-colmenar-viejo-blanco-alevin-masculino",
@@ -7546,7 +7574,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 314
+    "weight": 61020261010123029
   },
   {
     "id": "game-2026-10-10-la-paz-c-d-colmenar-viejo-alevin-masculino",
@@ -7570,7 +7598,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 315
+    "weight": 61020261010140022
   },
   {
     "id": "game-2026-10-17-colmenar-viejo-cd-caldeiro-alevin-masculino",
@@ -7594,7 +7622,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 316
+    "weight": 61020261017120063
   },
   {
     "id": "game-2026-10-17-colmenar-viejo-blanco-movistar-estudiantes-niang-alevin-masculino",
@@ -7618,7 +7646,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 317
+    "weight": 61020261017120041
   },
   {
     "id": "game-2026-10-17-villanueva-de-la-canada-colmenar-viejo-negro-alevin-masculino",
@@ -7642,7 +7670,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 318
+    "weight": 61020261017120093
   },
   {
     "id": "game-2026-10-24-c-b-getafe-b-colmenar-viejo-negro-alevin-masculino",
@@ -7666,7 +7694,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 319
+    "weight": 61020261024120059
   },
   {
     "id": "game-2026-10-24-colegio-el-prado-colmenar-viejo-blanco-alevin-masculino",
@@ -7690,7 +7718,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 320
+    "weight": 61020261024120089
   },
   {
     "id": "game-2026-10-24-ensanche-de-vallecas-b-colmenar-viejo-alevin-masculino",
@@ -7707,14 +7735,14 @@
     "away_logo": "images/teams/cbcolmenar.png",
     "away_score": null,
     "quarters": null,
-    "venue": "JUAN DE DIOS ROMÁN, POLIDEPORTIVO (TECHADO) C/ JOSÉ GUTIÉRREZ MAROTO, 34, Madrid",
-    "venue_slug": "juan-de-dios-roman-polideportivo-techado-c-jose-gutierrez-maroto-34-madrid",
+    "venue": "JUAN DE DIOS ROMÁN, POLIDEPORTIVO C/ JOSÉ GUTIÉRREZ MAROTO, 34, Madrid",
+    "venue_slug": "juan-de-dios-roman-polideportivo-c-jose-gutierrez-maroto-34-madrid",
     "venue_title": "JUAN DE DIOS ROMÁN",
-    "venue_address": "POLIDEPORTIVO (TECHADO) C/ JOSÉ GUTIÉRREZ MAROTO, 34, Madrid",
+    "venue_address": "POLIDEPORTIVO C/ JOSÉ GUTIÉRREZ MAROTO, 34, Madrid",
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 321
+    "weight": 61020261024170076
   },
   {
     "id": "game-2026-11-07-c-b-getafe-b-colmenar-viejo-blanco-alevin-masculino",
@@ -7738,7 +7766,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 322
+    "weight": 61020261107120036
   },
   {
     "id": "game-2026-11-07-colmenar-viejo-negro-movistar-estudiantes-niang-alevin-masculino",
@@ -7762,7 +7790,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 323
+    "weight": 61020261107120041
   },
   {
     "id": "game-2026-11-08-descansa-colmenar-viejo-alevin-masculino",
@@ -7786,7 +7814,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 324
+    "weight": 61020261108120025
   },
   {
     "id": "game-2026-11-14-colmenar-viejo-arroyomolinos-c-b-a-alevin-masculino",
@@ -7810,7 +7838,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 325
+    "weight": 61020261114120096
   },
   {
     "id": "game-2026-11-14-colegio-el-prado-colmenar-viejo-negro-alevin-masculino",
@@ -7834,7 +7862,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 326
+    "weight": 61020261114120098
   },
   {
     "id": "game-2026-11-14-colmenar-viejo-blanco-villanueva-de-la-canada-alevin-masculino",
@@ -7858,7 +7886,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 327
+    "weight": 61020261114120034
   },
   {
     "id": "game-2026-11-21-colmenar-viejo-la-paz-c-d-alevin-masculino",
@@ -7882,7 +7910,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 328
+    "weight": 61020261121120027
   },
   {
     "id": "game-2026-11-21-colmenar-viejo-blanco-colmenar-viejo-negro-alevin-masculino",
@@ -7906,7 +7934,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 329
+    "weight": 61020261121120021
   },
   {
     "id": "game-2026-11-28-cd-caldeiro-colmenar-viejo-alevin-masculino",
@@ -7930,7 +7958,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 330
+    "weight": 61020261128120088
   },
   {
     "id": "game-2026-11-28-movistar-estudiantes-niang-colmenar-viejo-blanco-alevin-masculino",
@@ -7954,7 +7982,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 331
+    "weight": 61020261128120093
   },
   {
     "id": "game-2026-11-28-colmenar-viejo-negro-villanueva-de-la-canada-alevin-masculino",
@@ -7978,7 +8006,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 332
+    "weight": 61020261128120083
   },
   {
     "id": "game-2026-12-12-colmenar-viejo-ensanche-de-vallecas-b-alevin-masculino",
@@ -8002,7 +8030,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 333
+    "weight": 61020261212120058
   },
   {
     "id": "game-2026-12-12-colmenar-viejo-negro-c-b-getafe-b-alevin-masculino",
@@ -8026,7 +8054,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 334
+    "weight": 61020261212120084
   },
   {
     "id": "game-2026-12-12-colmenar-viejo-blanco-colegio-el-prado-alevin-masculino",
@@ -8050,7 +8078,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 335
+    "weight": 61020261212120066
   },
   {
     "id": "game-2026-12-19-colmenar-viejo-descansa-alevin-masculino",
@@ -8074,7 +8102,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 336
+    "weight": 61020261219120062
   },
   {
     "id": "game-2026-12-19-colmenar-viejo-blanco-c-b-getafe-b-alevin-masculino",
@@ -8098,7 +8126,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 337
+    "weight": 61020261219120049
   },
   {
     "id": "game-2026-12-19-movistar-estudiantes-niang-colmenar-viejo-negro-alevin-masculino",
@@ -8122,7 +8150,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 338
+    "weight": 61020261219120018
   },
   {
     "id": "game-2027-01-16-arroyomolinos-c-b-a-colmenar-viejo-alevin-masculino",
@@ -8146,7 +8174,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 339
+    "weight": 61020270116120020
   },
   {
     "id": "game-2027-01-16-colmenar-viejo-negro-colegio-el-prado-alevin-masculino",
@@ -8170,7 +8198,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 340
+    "weight": 61020270116120091
   },
   {
     "id": "game-2027-01-16-villanueva-de-la-canada-colmenar-viejo-blanco-alevin-masculino",
@@ -8194,7 +8222,7 @@
     "category": "Alevín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 341
+    "weight": 61020270116120065
   },
   {
     "id": "game-2026-10-10-baloncesto-rivas-sureste-c-colmenar-viejo-alevin-femenino",
@@ -8218,7 +8246,7 @@
     "category": "Alevín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 342
+    "weight": 62020261010093025
   },
   {
     "id": "game-2026-10-17-colmenar-viejo-isaac-newton-a-alevin-femenino",
@@ -8242,7 +8270,7 @@
     "category": "Alevín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 343
+    "weight": 62020261017120043
   },
   {
     "id": "game-2026-10-17-colmenar-viejo-basket-aranjuez-rubiocar-alevin-femenino",
@@ -8266,7 +8294,7 @@
     "category": "Alevín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 344
+    "weight": 62020261017120097
   },
   {
     "id": "game-2026-10-24-c-b-las-rozas-a-colmenar-viejo-alevin-femenino",
@@ -8290,7 +8318,7 @@
     "category": "Alevín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 345
+    "weight": 62020261024120089
   },
   {
     "id": "game-2026-10-24-c-d-i-rozasbasket-colmenar-viejo-alevin-femenino",
@@ -8314,7 +8342,7 @@
     "category": "Alevín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 346
+    "weight": 62020261024120042
   },
   {
     "id": "game-2026-11-07-colmenar-viejo-uros-de-rivas-b-alevin-femenino",
@@ -8338,7 +8366,7 @@
     "category": "Alevín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 347
+    "weight": 62020261107120015
   },
   {
     "id": "game-2026-11-07-buen-consejo-blanco-colmenar-viejo-alevin-femenino",
@@ -8362,7 +8390,7 @@
     "category": "Alevín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 348
+    "weight": 62020261107120048
   },
   {
     "id": "game-2026-11-08-lions-basket-arroyomolinos-a-colmenar-viejo-alevin-femenino",
@@ -8386,7 +8414,7 @@
     "category": "Alevín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 349
+    "weight": 62020261108130049
   },
   {
     "id": "game-2026-11-14-parla-basquet-2015-colmenar-viejo-alevin-femenino",
@@ -8410,7 +8438,7 @@
     "category": "Alevín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 350
+    "weight": 62020261114120070
   },
   {
     "id": "game-2026-11-14-colmenar-viejo-el-valle-c-d-b-alevin-femenino",
@@ -8434,7 +8462,7 @@
     "category": "Alevín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 351
+    "weight": 62020261114120042
   },
   {
     "id": "game-2026-11-21-colmenar-viejo-lions-basket-arroyomolinos-a-alevin-femenino",
@@ -8458,7 +8486,7 @@
     "category": "Alevín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 352
+    "weight": 62020261121120055
   },
   {
     "id": "game-2026-11-21-colmenar-viejo-baloncesto-rivas-sureste-c-alevin-femenino",
@@ -8482,7 +8510,7 @@
     "category": "Alevín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 353
+    "weight": 62020261121120033
   },
   {
     "id": "game-2026-11-28-isaac-newton-a-colmenar-viejo-alevin-femenino",
@@ -8506,7 +8534,7 @@
     "category": "Alevín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 354
+    "weight": 62020261128120021
   },
   {
     "id": "game-2026-11-28-basket-aranjuez-rubiocar-colmenar-viejo-alevin-femenino",
@@ -8530,7 +8558,7 @@
     "category": "Alevín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 355
+    "weight": 62020261128120024
   },
   {
     "id": "game-2026-12-12-colmenar-viejo-c-b-las-rozas-a-alevin-femenino",
@@ -8554,7 +8582,7 @@
     "category": "Alevín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 356
+    "weight": 62020261212120012
   },
   {
     "id": "game-2026-12-12-colmenar-viejo-c-d-i-rozasbasket-alevin-femenino",
@@ -8578,7 +8606,7 @@
     "category": "Alevín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 357
+    "weight": 62020261212120042
   },
   {
     "id": "game-2026-12-19-uros-de-rivas-b-colmenar-viejo-alevin-femenino",
@@ -8602,7 +8630,7 @@
     "category": "Alevín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 358
+    "weight": 62020261219120054
   },
   {
     "id": "game-2026-12-19-colmenar-viejo-buen-consejo-blanco-alevin-femenino",
@@ -8626,7 +8654,7 @@
     "category": "Alevín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 359
+    "weight": 62020261219120001
   },
   {
     "id": "game-2027-01-16-colmenar-viejo-parla-basquet-2015-alevin-femenino",
@@ -8650,7 +8678,7 @@
     "category": "Alevín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 360
+    "weight": 62020270116120082
   },
   {
     "id": "game-2027-01-16-el-valle-c-d-b-colmenar-viejo-alevin-femenino",
@@ -8674,7 +8702,7 @@
     "category": "Alevín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 361
+    "weight": 62020270116120090
   },
   {
     "id": "game-2026-10-10-colmenar-viejo-villanueva-de-la-canada-benjamin-masculino",
@@ -8698,7 +8726,7 @@
     "category": "Benjamín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 362
+    "weight": 71020261010104550
   },
   {
     "id": "game-2026-10-10-colegio-el-prado-colmenar-viejo-benjamin-masculino",
@@ -8722,7 +8750,7 @@
     "category": "Benjamín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 363
+    "weight": 71020261010111576
   },
   {
     "id": "game-2026-10-17-buen-consejo-colmenar-viejo-benjamin-masculino",
@@ -8746,7 +8774,7 @@
     "category": "Benjamín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 364
+    "weight": 71020261017120098
   },
   {
     "id": "game-2026-10-17-colmenar-viejo-tres-cantos-a-benjamin-masculino",
@@ -8770,7 +8798,7 @@
     "category": "Benjamín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 365
+    "weight": 71020261017120055
   },
   {
     "id": "game-2026-10-24-mirasur-school-colmenar-viejo-benjamin-masculino",
@@ -8794,7 +8822,7 @@
     "category": "Benjamín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 366
+    "weight": 71020261024120091
   },
   {
     "id": "game-2026-10-24-tres-cantos-b-colmenar-viejo-benjamin-masculino",
@@ -8818,7 +8846,7 @@
     "category": "Benjamín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 367
+    "weight": 71020261024120013
   },
   {
     "id": "game-2026-11-07-colmenar-viejo-adc-boadilla-benjamin-masculino",
@@ -8842,7 +8870,7 @@
     "category": "Benjamín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 368
+    "weight": 71020261107120081
   },
   {
     "id": "game-2026-11-07-virgen-de-mirasierra-colmenar-viejo-benjamin-masculino",
@@ -8866,7 +8894,7 @@
     "category": "Benjamín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 369
+    "weight": 71020261107120057
   },
   {
     "id": "game-2026-11-14-madrid-fsm-c-d-b-colmenar-viejo-benjamin-masculino",
@@ -8890,7 +8918,7 @@
     "category": "Benjamín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 370
+    "weight": 71020261114120013
   },
   {
     "id": "game-2026-11-14-colmenar-viejo-piratas-soto-basket-benjamin-masculino",
@@ -8914,7 +8942,7 @@
     "category": "Benjamín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 371
+    "weight": 71020261114120010
   },
   {
     "id": "game-2026-11-21-villanueva-de-la-canada-colmenar-viejo-benjamin-masculino",
@@ -8938,7 +8966,7 @@
     "category": "Benjamín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 372
+    "weight": 71020261121120024
   },
   {
     "id": "game-2026-11-21-colmenar-viejo-colegio-el-prado-benjamin-masculino",
@@ -8962,7 +8990,7 @@
     "category": "Benjamín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 373
+    "weight": 71020261121120040
   },
   {
     "id": "game-2026-11-28-colmenar-viejo-buen-consejo-benjamin-masculino",
@@ -8986,7 +9014,7 @@
     "category": "Benjamín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 374
+    "weight": 71020261128120006
   },
   {
     "id": "game-2026-11-28-tres-cantos-a-colmenar-viejo-benjamin-masculino",
@@ -9010,7 +9038,7 @@
     "category": "Benjamín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 375
+    "weight": 71020261128120005
   },
   {
     "id": "game-2026-12-12-colmenar-viejo-mirasur-school-benjamin-masculino",
@@ -9034,7 +9062,7 @@
     "category": "Benjamín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 376
+    "weight": 71020261212120088
   },
   {
     "id": "game-2026-12-12-colmenar-viejo-tres-cantos-b-benjamin-masculino",
@@ -9058,7 +9086,7 @@
     "category": "Benjamín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 377
+    "weight": 71020261212120087
   },
   {
     "id": "game-2026-12-19-adc-boadilla-colmenar-viejo-benjamin-masculino",
@@ -9082,7 +9110,7 @@
     "category": "Benjamín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 378
+    "weight": 71020261219120071
   },
   {
     "id": "game-2026-12-19-colmenar-viejo-virgen-de-mirasierra-benjamin-masculino",
@@ -9106,7 +9134,7 @@
     "category": "Benjamín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 379
+    "weight": 71020261219120044
   },
   {
     "id": "game-2027-01-16-colmenar-viejo-madrid-fsm-c-d-b-benjamin-masculino",
@@ -9130,7 +9158,7 @@
     "category": "Benjamín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 380
+    "weight": 71020270116120011
   },
   {
     "id": "game-2027-01-16-piratas-soto-basket-colmenar-viejo-benjamin-masculino",
@@ -9154,7 +9182,7 @@
     "category": "Benjamín",
     "gender": "masculino",
     "mvp": "-",
-    "weight": 381
+    "weight": 71020270116120073
   },
   {
     "id": "game-2026-10-10-cabrini-a-p-a-colmenar-viejo-benjamin-femenino",
@@ -9178,7 +9206,7 @@
     "category": "Benjamín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 382
+    "weight": 72020261010093096
   },
   {
     "id": "game-2026-10-17-colmenar-viejo-movistar-estudiantes-soler-benjamin-femenino",
@@ -9202,7 +9230,7 @@
     "category": "Benjamín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 383
+    "weight": 72020261017120005
   },
   {
     "id": "game-2026-10-24-veritas-pozuelo-colmenar-viejo-benjamin-femenino",
@@ -9226,7 +9254,7 @@
     "category": "Benjamín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 384
+    "weight": 72020261024120010
   },
   {
     "id": "game-2026-11-07-colmenar-viejo-innova-tsn-leganes-benjamin-femenino",
@@ -9250,7 +9278,7 @@
     "category": "Benjamín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 385
+    "weight": 72020261107120095
   },
   {
     "id": "game-2026-11-14-liceo-frances-nico-colmenar-viejo-benjamin-femenino",
@@ -9274,7 +9302,7 @@
     "category": "Benjamín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 386
+    "weight": 72020261114120080
   },
   {
     "id": "game-2026-11-21-colmenar-viejo-cabrini-a-p-a-benjamin-femenino",
@@ -9298,7 +9326,7 @@
     "category": "Benjamín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 387
+    "weight": 72020261121120089
   },
   {
     "id": "game-2026-11-28-movistar-estudiantes-soler-colmenar-viejo-benjamin-femenino",
@@ -9322,7 +9350,7 @@
     "category": "Benjamín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 388
+    "weight": 72020261128120098
   },
   {
     "id": "game-2026-12-12-colmenar-viejo-veritas-pozuelo-benjamin-femenino",
@@ -9346,7 +9374,7 @@
     "category": "Benjamín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 389
+    "weight": 72020261212120012
   },
   {
     "id": "game-2026-12-19-innova-tsn-leganes-colmenar-viejo-benjamin-femenino",
@@ -9370,7 +9398,7 @@
     "category": "Benjamín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 390
+    "weight": 72020261219120077
   },
   {
     "id": "game-2027-01-16-colmenar-viejo-liceo-frances-nico-benjamin-femenino",
@@ -9394,6 +9422,6 @@
     "category": "Benjamín",
     "gender": "femenino",
     "mvp": "-",
-    "weight": 391
+    "weight": 72020270116120032
   }
 ]

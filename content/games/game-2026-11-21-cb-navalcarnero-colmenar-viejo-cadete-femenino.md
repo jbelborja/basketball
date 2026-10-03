@@ -1,0 +1,25 @@
+---
+title: "CB NAVALCARNERO VS COLMENAR VIEJO"
+date: 2026-11-21T12:00:00
+time: "12:00"
+team1: "CB NAVALCARNERO"
+team1_slug: "cb-navalcarnero"
+team1_logo: "images/teams/rival.png"
+team1_score: null
+team2: "COLMENAR VIEJO"
+team2_slug: "colmenar-viejo-cadete-femenino"
+team2_logo: "images/teams/cbcolmenar.png"
+team2_score: null
+status: "Pr\u00f3ximo"
+venue: "LA ESTACION, PABELLON MUNICIPAL RIO EBRO, S/N, Navalcarnero"
+venue_slug: "la-estacion-pabellon-municipal-rio-ebro-s-n-navalcarnero"
+venue_title: "LA ESTACION"
+venue_address: "PABELLON MUNICIPAL RIO EBRO, S/N, Navalcarnero"
+category: "Cadete"
+gender: "femenino"
+uid: "game-2026-11-21-cb-navalcarnero-colmenar-viejo-cadete-femenino"
+slug: "game-2026-11-21-cb-navalcarnero-colmenar-viejo-cadete-femenino"
+weight: 42020261121120093
+---
+
+Encuentro correspondiente a la categoría Cadete (femenino) entre **CB NAVALCARNERO** y **COLMENAR VIEJO**.

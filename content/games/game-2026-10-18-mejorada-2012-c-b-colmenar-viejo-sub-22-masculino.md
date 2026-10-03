@@ -1,0 +1,25 @@
+---
+title: "MEJORADA 2012 C.B. VS COLMENAR VIEJO"
+date: 2026-10-18T10:00:00
+time: "10:00"
+team1: "MEJORADA 2012 C.B."
+team1_slug: "mejorada-2012-c-b"
+team1_logo: "images/teams/rival.png"
+team1_score: null
+team2: "COLMENAR VIEJO"
+team2_slug: "colmenar-viejo-sub-22-masculino"
+team2_logo: "images/teams/cbcolmenar.png"
+team2_score: null
+status: "Pr\u00f3ximo"
+venue: "MEJORADA, PABELLON MPAL. JOAN MIRO, S/N, Mejorada del Campo"
+venue_slug: "mejorada-pabellon-mpal-joan-miro-s-n-mejorada-del-campo"
+venue_title: "MEJORADA"
+venue_address: "PABELLON MPAL. JOAN MIRO, S/N, Mejorada del Campo"
+category: "Sub 22"
+gender: "masculino"
+uid: "game-2026-10-18-mejorada-2012-c-b-colmenar-viejo-sub-22-masculino"
+slug: "game-2026-10-18-mejorada-2012-c-b-colmenar-viejo-sub-22-masculino"
+weight: 21020261018100062
+---
+
+Encuentro correspondiente a la categoría Sub 22 (masculino) entre **MEJORADA 2012 C.B.** y **COLMENAR VIEJO**.

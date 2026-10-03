@@ -16,11 +16,19 @@
     <div class="absolute inset-0 bg-cover bg-center opacity-10 pointer-events-none" style="background-image: url('{{ "images/games/game-banner.jpg" | relURL }}')"></div>
 
     <!-- Match Metadata Bar -->
+    {{ $cat := .Params.category }}
+    {{ $gen := .Params.gender }}
+    {{ $leagues := where (where .Site.Data.classification "category" $cat) "gender" $gen }}
     <div class="relative z-10 px-6 py-4 border-b border-slate-800 flex flex-wrap items-center justify-between gap-3 bg-slate-950/60">
-      <div class="flex items-center gap-2">
+      <div class="flex flex-wrap items-center gap-2">
         <span class="text-xs font-bold uppercase tracking-wider text-orange-400">
           {{ .Params.category }} {{ .Params.gender }}
         </span>
+        {{ range $leagues }}
+        <span class="text-xs px-2.5 py-1 rounded-full bg-slate-800/60 text-slate-400 border border-slate-700/60" title="{{ .league_title }}">
+          🏆 {{ .league_title }}
+        </span>
+        {{ end }}
         <span class="text-slate-600">·</span>
         <span class="text-xs text-slate-300 font-medium capitalize">
           📅 {{ .Date | time.Format ":date_long" }}

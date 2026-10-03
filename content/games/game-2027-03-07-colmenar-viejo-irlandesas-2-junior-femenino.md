@@ -19,7 +19,7 @@ category: "Junior"
 gender: "femenino"
 uid: "game-2027-03-07-colmenar-viejo-irlandesas-2-junior-femenino"
 slug: "game-2027-03-07-colmenar-viejo-irlandesas-2-junior-femenino"
-weight: 188
+weight: 32020270307120052
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **COLMENAR VIEJO** y **IRLANDESAS 2**.

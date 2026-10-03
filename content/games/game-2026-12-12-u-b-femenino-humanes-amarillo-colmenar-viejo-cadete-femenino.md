@@ -1,0 +1,25 @@
+---
+title: "U.B. FEMENINO HUMANES AMARILLO VS COLMENAR VIEJO"
+date: 2026-12-12T12:00:00
+time: "12:00"
+team1: "U.B. FEMENINO HUMANES AMARILLO"
+team1_slug: "u-b-femenino-humanes-amarillo"
+team1_logo: "images/teams/rival.png"
+team1_score: null
+team2: "COLMENAR VIEJO"
+team2_slug: "colmenar-viejo-cadete-femenino"
+team2_logo: "images/teams/cbcolmenar.png"
+team2_score: null
+status: "Pr\u00f3ximo"
+venue: "CAMPOHERMOSO, PABELLON VALDEHONDILLO, 3, Humanes de Madrid"
+venue_slug: "campohermoso-pabellon-valdehondillo-3-humanes-de-madrid"
+venue_title: "CAMPOHERMOSO"
+venue_address: "PABELLON VALDEHONDILLO, 3, Humanes de Madrid"
+category: "Cadete"
+gender: "femenino"
+uid: "game-2026-12-12-u-b-femenino-humanes-amarillo-colmenar-viejo-cadete-femenino"
+slug: "game-2026-12-12-u-b-femenino-humanes-amarillo-colmenar-viejo-cadete-femenino"
+weight: 42020261212120096
+---
+
+Encuentro correspondiente a la categoría Cadete (femenino) entre **U.B. FEMENINO HUMANES AMARILLO** y **COLMENAR VIEJO**.

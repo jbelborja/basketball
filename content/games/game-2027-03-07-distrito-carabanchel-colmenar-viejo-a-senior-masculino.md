@@ -1,0 +1,25 @@
+---
+title: "DISTRITO CARABANCHEL VS COLMENAR VIEJO A"
+date: 2027-03-07T12:00:00
+time: "12:00"
+team1: "DISTRITO CARABANCHEL"
+team1_slug: "distrito-carabanchel"
+team1_logo: "images/teams/rival.png"
+team1_score: null
+team2: "COLMENAR VIEJO A"
+team2_slug: "colmenar-viejo-a-senior-masculino"
+team2_logo: "images/teams/cbcolmenar.png"
+team2_score: null
+status: "Pr\u00f3ximo"
+venue: "FRANCISCO FERNANDEZ OCHOA, PABELLON DE LAS 14 OLIVAS, S/N, Madrid"
+venue_slug: "francisco-fernandez-ochoa-pabellon-de-las-14-olivas-s-n-madrid"
+venue_title: "FRANCISCO FERNANDEZ OCHOA"
+venue_address: "PABELLON DE LAS 14 OLIVAS, S/N, Madrid"
+category: "Senior"
+gender: "masculino"
+uid: "game-2027-03-07-distrito-carabanchel-colmenar-viejo-a-senior-masculino"
+slug: "game-2027-03-07-distrito-carabanchel-colmenar-viejo-a-senior-masculino"
+weight: 11120270307120070
+---
+
+Encuentro correspondiente a la categoría Senior (masculino) entre **DISTRITO CARABANCHEL** y **COLMENAR VIEJO A**.

@@ -19,7 +19,7 @@ category: "Alev\u00edn"
 gender: "masculino"
 uid: "game-2026-12-19-movistar-estudiantes-niang-colmenar-viejo-negro-alevin-masculino"
 slug: "game-2026-12-19-movistar-estudiantes-niang-colmenar-viejo-negro-alevin-masculino"
-weight: 338
+weight: 61020261219120018
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **MOVISTAR ESTUDIANTES NIANG** y **COLMENAR VIEJO NEGRO**.

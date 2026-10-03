@@ -1,0 +1,25 @@
+---
+title: "BALONCESTO PARACUELLOS AZUL VS COLMENAR VIEJO B"
+date: 2027-02-06T18:00:00
+time: "18:00"
+team1: "BALONCESTO PARACUELLOS AZUL"
+team1_slug: "baloncesto-paracuellos-azul"
+team1_logo: "images/teams/rival.png"
+team1_score: null
+team2: "COLMENAR VIEJO B"
+team2_slug: "colmenar-viejo-b-cadete-masculino"
+team2_logo: "images/teams/cbcolmenar.png"
+team2_score: null
+status: "Pr\u00f3ximo"
+venue: "VIRGEN DE LA RIVERA, SALA ESCOLAR CAMINO RADAR, 1, Paracuellos de Jarama"
+venue_slug: "virgen-de-la-rivera-sala-escolar-camino-radar-1-paracuellos-de-jarama"
+venue_title: "VIRGEN DE LA RIVERA"
+venue_address: "SALA ESCOLAR CAMINO RADAR, 1, Paracuellos de Jarama"
+category: "Cadete"
+gender: "masculino"
+uid: "game-2027-02-06-baloncesto-paracuellos-azul-colmenar-viejo-b-cadete-masculino"
+slug: "game-2027-02-06-baloncesto-paracuellos-azul-colmenar-viejo-b-cadete-masculino"
+weight: 41220270206180091
+---
+
+Encuentro correspondiente a la categoría Cadete (masculino) entre **BALONCESTO PARACUELLOS AZUL** y **COLMENAR VIEJO B**.
