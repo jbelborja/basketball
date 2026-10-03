@@ -17,6 +17,7 @@ venue_title: "JUAN DE AUSTRIA"
 venue_address: "PABELLON (PISTA CENTRAL) JOSE CABALLERO, S/N, Alcal\u00e1 de Henares"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
 uid: "game-2026-10-04-ricopia-funbal-alcala-cbja-colmenar-viejo-b-junior-masculino"
 slug: "game-2026-10-04-ricopia-funbal-alcala-cbja-colmenar-viejo-b-junior-masculino"
 weight: 31220261004150002

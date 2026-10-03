@@ -17,6 +17,7 @@ venue_title: "ANTONIO DIAZ MIGUEL"
 venue_address: "PDVO. MPAL. JOAQUIN DICENTA, 1, Madrid"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-10-11-cis-university-tres-cantos-colmenar-viejo-a-senior-masculino"
 slug: "game-2026-10-11-cis-university-tres-cantos-colmenar-viejo-a-senior-masculino"
 weight: 11120261011133041

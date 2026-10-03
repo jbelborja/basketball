@@ -91,25 +91,7 @@
     </div>
   </section>
 
-  <!-- QUICK STATS COUNTERS -->
-  <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
-    <div class="bg-slate-900 border border-slate-800 rounded-2xl p-5 text-center hover:border-slate-700 transition">
-      <div class="text-3xl sm:text-4xl font-sports font-bold text-orange-400">{{ len .Site.Data.teams }}</div>
-      <div class="text-xs uppercase tracking-wider font-semibold text-slate-400 mt-1">Equipos Federados</div>
-    </div>
-    <div class="bg-slate-900 border border-slate-800 rounded-2xl p-5 text-center hover:border-slate-700 transition">
-      <div class="text-3xl sm:text-4xl font-sports font-bold text-blue-400">{{ len .Site.Data.players }}</div>
-      <div class="text-xs uppercase tracking-wider font-semibold text-slate-400 mt-1">Jugadores Cantera</div>
-    </div>
-    <div class="bg-slate-900 border border-slate-800 rounded-2xl p-5 text-center hover:border-slate-700 transition">
-      <div class="text-3xl sm:text-4xl font-sports font-bold text-emerald-400">{{ len .Site.Data.games }}</div>
-      <div class="text-xs uppercase tracking-wider font-semibold text-slate-400 mt-1">Partidos Programados</div>
-    </div>
-    <div class="bg-slate-900 border border-slate-800 rounded-2xl p-5 text-center hover:border-slate-700 transition">
-      <div class="text-3xl sm:text-4xl font-sports font-bold text-amber-400">{{ len .Site.Data.classification }}</div>
-      <div class="text-xs uppercase tracking-wider font-semibold text-slate-400 mt-1">Rivales en Tabla</div>
-    </div>
-  </div>
+
 
   <!-- LATEST RESULT HIGHLIGHT & RECENT GAMES -->
   <section class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
@@ -239,7 +221,7 @@
     </div>
 
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-      {{ range first 6 .Site.Data.teams }}
+      {{ range .Site.Data.teams }}
       <div class="group bg-slate-900 border border-slate-800 rounded-3xl overflow-hidden hover:border-slate-700 transition-all duration-300 shadow-lg hover:shadow-orange-500/5 hover:-translate-y-1">
         <div class="relative bg-gradient-to-br from-slate-950 via-slate-900 to-slate-800 p-6 flex justify-center items-center overflow-hidden border-b border-slate-800/80">
           <div class="absolute inset-0 bg-orange-500/5 group-hover:bg-orange-500/10 transition"></div>

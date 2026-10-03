@@ -17,6 +17,7 @@ venue_title: "IDB VICTORIA HERNANDEZ CONSENSO"
 venue_address: "5, Madrid"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2026-11-07-oroquieta-espinillo-c-d-e-colmenar-viejo-c-cadete-masculino"
 slug: "game-2026-11-07-oroquieta-espinillo-c-d-e-colmenar-viejo-c-cadete-masculino"
 weight: 41320261107120010

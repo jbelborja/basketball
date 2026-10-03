@@ -17,6 +17,7 @@ venue_title: "LA SALLE"
 venue_address: "INSTITUCION (Descubierto) BLAS CABRERA, 50, Madrid"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 5\u00aa DIVISION - GRUPO PAR"
 uid: "game-2027-01-16-baloncesto-86-la-salle-b-colmenar-viejo-c-junior-masculino"
 slug: "game-2027-01-16-baloncesto-86-la-salle-b-colmenar-viejo-c-junior-masculino"
 weight: 31320270116130059

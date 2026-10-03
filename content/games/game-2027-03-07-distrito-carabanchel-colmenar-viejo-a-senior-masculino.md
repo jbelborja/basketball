@@ -17,6 +17,7 @@ venue_title: "FRANCISCO FERNANDEZ OCHOA"
 venue_address: "PABELLON DE LAS 14 OLIVAS, S/N, Madrid"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-03-07-distrito-carabanchel-colmenar-viejo-a-senior-masculino"
 slug: "game-2027-03-07-distrito-carabanchel-colmenar-viejo-a-senior-masculino"
 weight: 11120270307120070

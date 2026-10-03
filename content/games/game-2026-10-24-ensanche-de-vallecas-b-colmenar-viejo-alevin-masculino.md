@@ -17,6 +17,7 @@ venue_title: "JUAN DE DIOS ROM\u00c1N"
 venue_address: "POLIDEPORTIVO C/ JOS\u00c9 GUTI\u00c9RREZ MAROTO, 34, Madrid"
 category: "Alev\u00edn"
 gender: "masculino"
+league_title: "Alv Mas 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 7"
 uid: "game-2026-10-24-ensanche-de-vallecas-b-colmenar-viejo-alevin-masculino"
 slug: "game-2026-10-24-ensanche-de-vallecas-b-colmenar-viejo-alevin-masculino"
 weight: 61020261024170076

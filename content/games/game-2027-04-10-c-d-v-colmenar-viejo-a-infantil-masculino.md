@@ -17,6 +17,7 @@ venue_title: "PALOMERAS"
 venue_address: "PDVO. MPAL. TRANVIA DE ARGANDA, S/N, Madrid"
 category: "Infantil"
 gender: "masculino"
+league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-04-10-c-d-v-colmenar-viejo-a-infantil-masculino"
 slug: "game-2027-04-10-c-d-v-colmenar-viejo-a-infantil-masculino"
 weight: 51120270410153023

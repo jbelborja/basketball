@@ -17,6 +17,7 @@ venue_title: "MOVISTAR ACADEMY MAGARI\u00d1OS"
 venue_address: "PABELLON SERRANO, 129, Madrid"
 category: "Cadete"
 gender: "femenino"
+league_title: "Cadete Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 2"
 uid: "game-2027-01-23-movistar-estudiantes-palomares-colmenar-viejo-cadete-femenino"
 slug: "game-2027-01-23-movistar-estudiantes-palomares-colmenar-viejo-cadete-femenino"
 weight: 42020270123120034

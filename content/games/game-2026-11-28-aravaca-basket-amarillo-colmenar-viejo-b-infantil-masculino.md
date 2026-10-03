@@ -17,6 +17,7 @@ venue_title: "COLEGIO BERNADETTE"
 venue_address: "PABELLON CALLE SANTA BERNARDITA, 1, Aravaca"
 category: "Infantil"
 gender: "masculino"
+league_title: "Infantil Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-11-28-aravaca-basket-amarillo-colmenar-viejo-b-infantil-masculino"
 slug: "game-2026-11-28-aravaca-basket-amarillo-colmenar-viejo-b-infantil-masculino"
 weight: 51220261128120062

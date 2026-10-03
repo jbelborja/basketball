@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Alev\u00edn"
 gender: "masculino"
+league_title: "Alv Mas 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9"
 uid: "game-2027-01-16-colmenar-viejo-negro-colegio-el-prado-alevin-masculino"
 slug: "game-2027-01-16-colmenar-viejo-negro-colegio-el-prado-alevin-masculino"
 weight: 61020270116120091

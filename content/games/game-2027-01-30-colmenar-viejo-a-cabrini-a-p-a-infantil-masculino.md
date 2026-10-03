@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Infantil"
 gender: "masculino"
+league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-01-30-colmenar-viejo-a-cabrini-a-p-a-infantil-masculino"
 slug: "game-2027-01-30-colmenar-viejo-a-cabrini-a-p-a-infantil-masculino"
 weight: 51120270130120087

@@ -17,6 +17,7 @@ venue_title: "CARLOS SASTRE"
 venue_address: "PABELLON FRANCISCO LARGO CABALLERO, 1, Legan\u00e9s"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2026-10-17-innova-tsn-leganes-2012-b-colmenar-viejo-c-cadete-masculino"
 slug: "game-2026-10-17-innova-tsn-leganes-2012-b-colmenar-viejo-c-cadete-masculino"
 weight: 41320261017120008

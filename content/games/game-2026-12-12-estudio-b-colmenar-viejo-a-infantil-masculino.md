@@ -17,6 +17,7 @@ venue_title: "PACO HERNANDEZ"
 venue_address: "PABELLON VALDELINARES, 7, Aravaca"
 category: "Infantil"
 gender: "masculino"
+league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-12-12-estudio-b-colmenar-viejo-a-infantil-masculino"
 slug: "game-2026-12-12-estudio-b-colmenar-viejo-a-infantil-masculino"
 weight: 51120261212120049

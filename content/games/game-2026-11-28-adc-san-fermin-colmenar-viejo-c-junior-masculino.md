@@ -17,6 +17,7 @@ venue_title: "LA CAJA MAGICA INDOOR NORTE Pista 3 CAMINO DE PERALES"
 venue_address: "23, Madrid"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 5\u00aa DIVISION - GRUPO PAR"
 uid: "game-2026-11-28-adc-san-fermin-colmenar-viejo-c-junior-masculino"
 slug: "game-2026-11-28-adc-san-fermin-colmenar-viejo-c-junior-masculino"
 weight: 31320261128170027

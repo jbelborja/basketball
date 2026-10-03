@@ -17,6 +17,7 @@ venue_title: "LICEO FRANCES"
 venue_address: "PABELLON COLEGIO AVDA. DE LOS MADRO\u00d1OS frente n\u00ba 42, Madrid"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2026-10-24-liceo-frances-2012-colmenar-viejo-b-cadete-masculino"
 slug: "game-2026-10-24-liceo-frances-2012-colmenar-viejo-b-cadete-masculino"
 weight: 41220261024120007

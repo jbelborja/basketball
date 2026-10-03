@@ -17,6 +17,7 @@ venue_title: "CABRINI"
 venue_address: "COLEGIO (Semicubierto) STA. FRANCISCA JAVIER CABRINI esquina C/ Sic\u00e9lidas, Madrid"
 category: "Sub 22"
 gender: "masculino"
+league_title: "Sub 22 Masc. BRONCE - PRIMERA 1\u00aa DIVISION - GRUPO 1"
 uid: "game-2027-02-21-cabrini-a-p-a-colmenar-viejo-sub-22-masculino"
 slug: "game-2027-02-21-cabrini-a-p-a-colmenar-viejo-sub-22-masculino"
 weight: 21020270221120081

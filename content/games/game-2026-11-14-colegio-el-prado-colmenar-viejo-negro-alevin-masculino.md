@@ -17,6 +17,7 @@ venue_title: "EL PRADO"
 venue_address: "PABELLON COLEGIO COSTA BRAVA, 4, Madrid"
 category: "Alev\u00edn"
 gender: "masculino"
+league_title: "Alv Mas 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9"
 uid: "game-2026-11-14-colegio-el-prado-colmenar-viejo-negro-alevin-masculino"
 slug: "game-2026-11-14-colegio-el-prado-colmenar-viejo-negro-alevin-masculino"
 weight: 61020261114120098

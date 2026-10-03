@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Infantil"
 gender: "masculino"
+league_title: "Infantil Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-10-17-colmenar-viejo-b-estudiantes-international-school-a-infantil-masculino"
 slug: "game-2026-10-17-colmenar-viejo-b-estudiantes-international-school-a-infantil-masculino"
 weight: 51220261017120075

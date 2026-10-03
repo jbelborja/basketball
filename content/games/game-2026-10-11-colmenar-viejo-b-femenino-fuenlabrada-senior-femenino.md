@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2026-10-11-colmenar-viejo-b-femenino-fuenlabrada-senior-femenino"
 slug: "game-2026-10-11-colmenar-viejo-b-femenino-fuenlabrada-senior-femenino"
 weight: 12220261011120049

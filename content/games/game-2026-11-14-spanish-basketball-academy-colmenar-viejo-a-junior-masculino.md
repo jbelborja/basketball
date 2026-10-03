@@ -17,6 +17,7 @@ venue_title: "SBA ARENA FRAGUAS"
 venue_address: "26, Alcorc\u00f3n"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-11-14-spanish-basketball-academy-colmenar-viejo-a-junior-masculino"
 slug: "game-2026-11-14-spanish-basketball-academy-colmenar-viejo-a-junior-masculino"
 weight: 31120261114100051

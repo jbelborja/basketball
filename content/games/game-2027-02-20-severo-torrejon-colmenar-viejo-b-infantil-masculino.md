@@ -17,6 +17,7 @@ venue_title: "SEVERO OCHOA"
 venue_address: "C.E.I.P. LONDRES, 7-9, Torrej\u00f3n de Ardoz"
 category: "Infantil"
 gender: "masculino"
+league_title: "Infantil Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-02-20-severo-torrejon-colmenar-viejo-b-infantil-masculino"
 slug: "game-2027-02-20-severo-torrejon-colmenar-viejo-b-infantil-masculino"
 weight: 51220270220120082

@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-11-22-colmenar-viejo-a-san-viator-c-cadete-masculino"
 slug: "game-2026-11-22-colmenar-viejo-a-san-viator-c-cadete-masculino"
 weight: 41120261122120056

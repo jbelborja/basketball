@@ -1,19 +1,37 @@
 #!/usr/bin/env python3
 """
-Script de extracción de datos de la FBM para el CB Colmenar Viejo.
-Lee la página oficial de resultados del club en la FBM:
-https://www.fbm.es/resultados-club-6881/colmenar-viejo-cb
+Script de extracción de datos de la FBM para cualquier club.
+
+Uso:
+  python3 scrape_fbm.py [opciones]
+
+Ejemplos:
+  # Club por defecto (CB Colmenar Viejo)
+  python3 scrape_fbm.py
+
+  # Otro club
+  python3 scrape_fbm.py \\
+      --club-id 1234 \\
+      --club-slug "otro-club-cb" \\
+      --club-name "Otro Club CB" \\
+      --club-keyword "otro" \\
+      --club-logo "images/teams/otroclub.png" \\
+      --club-coach "Entrenador Otro Club" \\
+      --club-venue "Pabellón Municipal" \\
+      --club-venue-address "Calle Principal 1, Ciudad" \\
+      --club-founded 2000
 
 Genera y actualiza los archivos JSON en data/:
-- teams.json
-- classification.json
-- games.json
-- players.json (vacío, sin jugadores de ejemplo)
+  - teams.json
+  - classification.json
+  - games.json
+  - players.json
 
-Y genera los archivos Markdown correspondientes en content/:
-- content/teams/*.md
-- content/games/*.md
-- content/players/_index.md
+Y genera los archivos Markdown en content/:
+  - content/teams/*.md
+  - content/games/*.md
+  - content/venues/*.md
+  - content/players/_index.md
 """
 
 import os
@@ -22,14 +40,80 @@ import re
 import json
 import hashlib
 import shutil
+import argparse
 import urllib.request
 import urllib.parse
 from datetime import datetime
 
-FBM_URL = "https://www.fbm.es/resultados-club-6881/colmenar-viejo-cb"
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 CONTENT_DIR = os.path.join(BASE_DIR, "content")
+
+# ── Club configuration (populated by parse_args()) ──────────────────────────
+CFG = {}
+
+
+def parse_args():
+    """Parse CLI arguments and populate the global CFG dict."""
+    parser = argparse.ArgumentParser(
+        description="Extrae datos de un club desde la web de la FBM."
+    )
+    parser.add_argument(
+        "--club-id", default="6881",
+        help="ID numérico del club en la FBM (por defecto: 6881 — CB Colmenar Viejo)"
+    )
+    parser.add_argument(
+        "--club-slug", default="colmenar-viejo-cb",
+        help="Slug del club en la URL de la FBM (por defecto: colmenar-viejo-cb)"
+    )
+    parser.add_argument(
+        "--club-name", default="CB Colmenar Viejo",
+        help="Nombre completo del club (por defecto: CB Colmenar Viejo)"
+    )
+    parser.add_argument(
+        "--club-keyword", default="colmenar",
+        help="Palabra clave para identificar equipos propios en el marcador (por defecto: colmenar)"
+    )
+    parser.add_argument(
+        "--club-logo", default="images/teams/cbcolmenar.png",
+        help="Ruta a la imagen del logo del club (por defecto: images/teams/cbcolmenar.png)"
+    )
+    parser.add_argument(
+        "--rival-logo", default="images/teams/rival.png",
+        help="Ruta a la imagen del logo de los rivales (por defecto: images/teams/rival.png)"
+    )
+    parser.add_argument(
+        "--club-coach", default="Entrenador CB Colmenar",
+        help="Nombre del entrenador por defecto (por defecto: Entrenador CB Colmenar)"
+    )
+    parser.add_argument(
+        "--club-venue", default="Pabellón Juan Antonio Samaranch",
+        help="Nombre del pabellón local (por defecto: Pabellón Juan Antonio Samaranch)"
+    )
+    parser.add_argument(
+        "--club-venue-address", default="JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+        help="Dirección del pabellón local; se usa como pabellón de reserva si no hay pabellón en el partido"
+    )
+    parser.add_argument(
+        "--club-founded", type=int, default=1985,
+        help="Año de fundación del club (por defecto: 1985)"
+    )
+    args = parser.parse_args()
+
+    fbm_url = f"https://www.fbm.es/resultados-club-{args.club_id}/{args.club_slug}"
+
+    CFG["url"]             = fbm_url
+    CFG["id"]              = args.club_id
+    CFG["slug"]            = args.club_slug
+    CFG["name"]            = args.club_name
+    CFG["keyword"]         = args.club_keyword.lower()
+    CFG["logo"]            = args.club_logo
+    CFG["rival_logo"]      = args.rival_logo
+    CFG["coach"]           = args.club_coach
+    CFG["venue"]           = args.club_venue
+    CFG["venue_address"]   = args.club_venue_address
+    CFG["founded"]         = args.club_founded
+    return args
 
 # Matches a bare score like "72 - 65" or "72–65" (used to detect finished-game rows)
 SCORE_RE    = re.compile(r"^\s*\d{1,3}\s*[-–]\s*\d{1,3}\s*$")
@@ -139,7 +223,7 @@ def parse_category_gender(title):
 
 def fetch_html():
     req = urllib.request.Request(
-        FBM_URL,
+        CFG["url"],
         headers={
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
         },
@@ -261,16 +345,17 @@ def parse_fbm_data(html):
                             if pj > max_pj:
                                 max_pj = pj
 
-                            if "colmenar" in team_name.lower():
+                            if CFG["keyword"] in team_name.lower():
                                 colmenar_team = team_name
 
                             t_slug = slugify(f"{team_name}-{category}-{gender}")
 
+                            is_own = CFG["keyword"] in team_name.lower()
                             standing_entry = {
                                 "position": pos,
                                 "team": team_name,
                                 "slug": t_slug,
-                                "logo": f"images/teams/{'cbcolmenar' if 'colmenar' in team_name.lower() else 'rival'}.png",
+                                "logo": CFG["logo"] if is_own else CFG["rival_logo"],
                                 "pj": pj,
                                 "v": pg,
                                 "d": pp,
@@ -284,21 +369,21 @@ def parse_fbm_data(html):
                             }
                             table_teams.append(standing_entry)
 
-                            if "colmenar" in team_name.lower():
+                            if is_own:
                                 if t_slug not in all_teams:
                                     all_teams[t_slug] = {
                                         "name": team_name,
                                         "slug": t_slug,
                                         "category": category,
                                         "gender": gender,
-                                        "logo": "images/teams/cbcolmenar.png",
-                                        "coach": "Entrenador CB Colmenar",
-                                        "venue": "Pabellón Juan Antonio Samaranch",
-                                        "established": 1985,
+                                        "logo": CFG["logo"],
+                                        "coach": CFG["coach"],
+                                        "venue": CFG["venue"],
+                                        "established": CFG["founded"],
                                         "wins": pg,
                                         "losses": pp,
                                         "league_position": pos,
-                                        "description": f"Equipo {team_name} del CB Colmenar Viejo compitiendo en la categoría {category} {gender}.",
+                                        "description": f"Equipo {team_name} del {CFG['name']} compitiendo en la categoría {category} {gender}.",
                                     }
                         except (ValueError, IndexError):
                             continue
@@ -378,7 +463,7 @@ def parse_fbm_data(html):
                     if not home or not away:
                         continue
 
-                    if "COLMENAR" in home.upper() or "COLMENAR" in away.upper():
+                    if CFG["keyword"] in home.lower() or CFG["keyword"] in away.lower():
                         date_str = "2026-10-01"
                         time_str = "12:00"
                         date_match = re.search(r"(\d{2}/\d{2}/\d{4})", date_time_raw)
@@ -412,7 +497,6 @@ def parse_fbm_data(html):
                                 away_score = int(score_match.group(2))
                                 status = "Finalizado"
 
-
                         nat_key = _game_natural_key(date_str, home, away, category, gender)
                         if nat_key in existing_ids:
                             g_id = existing_ids[nat_key]["id"]
@@ -421,14 +505,13 @@ def parse_fbm_data(html):
                             g_id = _make_game_id(date_str, home, away, category, gender)
                             g_slug = g_id
 
+                        home_slug = slugify(f"{home}-{category}-{gender}") if CFG["keyword"] in home.lower() else slugify(home)
+                        away_slug = slugify(f"{away}-{category}-{gender}") if CFG["keyword"] in away.lower() else slugify(away)
 
-                        home_slug = slugify(f"{home}-{category}-{gender}") if "colmenar" in home.lower() else slugify(home)
-                        away_slug = slugify(f"{away}-{category}-{gender}") if "colmenar" in away.lower() else slugify(away)
-
-                        raw_venue = venue or "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
-                        v_slug = slugify(raw_venue)
-                        parts = [p.strip() for p in raw_venue.split(",") if p.strip()]
-                        v_title = parts[0] if parts else raw_venue
+                        raw_venue = venue or CFG["venue_address"]
+                        v_slug = slugify(raw_venue) if raw_venue else "unknown"
+                        parts = [p.strip() for p in raw_venue.split(",")] if raw_venue else ["Pabellón Desconocido"]
+                        v_title = parts[0]
                         v_address = ", ".join(parts[1:]) if len(parts) >= 2 else raw_venue
 
                         q = urllib.parse.quote(raw_venue)
@@ -455,11 +538,11 @@ def parse_fbm_data(html):
                             "status": status,
                             "home": home,
                             "home_slug": home_slug,
-                            "home_logo": "images/teams/cbcolmenar.png" if "colmenar" in home.lower() else "images/teams/rival.png",
+                            "home_logo": CFG["logo"] if CFG["keyword"] in home.lower() else CFG["rival_logo"],
                             "home_score": home_score,
                             "away": away,
                             "away_slug": away_slug,
-                            "away_logo": "images/teams/cbcolmenar.png" if "colmenar" in away.lower() else "images/teams/rival.png",
+                            "away_logo": CFG["logo"] if CFG["keyword"] in away.lower() else CFG["rival_logo"],
                             "away_score": away_score,
                             "quarters": {"home": [18, 20, 19, 21], "away": [15, 18, 22, 19]} if status == "Finalizado" else None,
                             "venue": raw_venue,
@@ -468,12 +551,13 @@ def parse_fbm_data(html):
                             "venue_address": v_address,
                             "category": category,
                             "gender": gender,
+                            "league_title": comp_title,
                             "mvp": "-",
                         }
                         all_games.append(game_entry)
 
                         for colm_team in [home, away]:
-                            if "colmenar" in colm_team.lower():
+                            if CFG["keyword"] in colm_team.lower():
                                 c_slug = slugify(f"{colm_team}-{category}-{gender}")
                                 if c_slug not in all_teams:
                                     all_teams[c_slug] = {
@@ -481,14 +565,14 @@ def parse_fbm_data(html):
                                         "slug": c_slug,
                                         "category": category,
                                         "gender": gender,
-                                        "logo": "images/teams/cbcolmenar.png",
-                                        "coach": "Entrenador CB Colmenar",
-                                        "venue": "Pabellón Juan Antonio Samaranch",
-                                        "established": 1985,
+                                        "logo": CFG["logo"],
+                                        "coach": CFG["coach"],
+                                        "venue": CFG["venue"],
+                                        "established": CFG["founded"],
                                         "wins": 1 if (status == "Finalizado" and ((colm_team == home and home_score > away_score) or (colm_team == away and away_score > home_score))) else 0,
                                         "losses": 1 if (status == "Finalizado" and ((colm_team == home and home_score < away_score) or (colm_team == away and away_score < home_score))) else 0,
                                         "league_position": 1,
-                                        "description": f"Equipo {colm_team} del CB Colmenar Viejo en la categoría {category} {gender}.",
+                                        "description": f"Equipo {colm_team} del {CFG['name']} en la categoría {category} {gender}.",
                                     }
 
     # Sort Teams
@@ -539,7 +623,7 @@ def parse_fbm_data(html):
         g_w = 1 if str(g.get("gender", "")).lower() == "masculino" else 2
         colm_name = (
             g.get("home", "")
-            if "colmenar" in g.get("home", "").lower()
+            if CFG["keyword"] in g.get("home", "").lower()
             else g.get("away", "")
         )
         l_w = get_team_letter_weight(colm_name)
@@ -559,7 +643,7 @@ def parse_fbm_data(html):
         g_w = 1 if str(g.get("gender", "")).lower() == "masculino" else 2
         colm_name = (
             g.get("home", "")
-            if "colmenar" in g.get("home", "").lower()
+            if CFG["keyword"] in g.get("home", "").lower()
             else g.get("away", "")
         )
         l_w = get_team_letter_weight(colm_name)
@@ -627,7 +711,7 @@ def generate_markdown_content(teams, games, venues, players):
     # Generar content/teams/
     teams_dir = os.path.join(CONTENT_DIR, "teams")
     with open(os.path.join(teams_dir, "_index.md"), "w", encoding="utf-8") as f:
-        f.write("---\ntitle: \"Equipos del CB Colmenar Viejo\"\n---\n")
+        f.write(f"---\ntitle: \"Equipos del {CFG['name']}\"\n---\n")
 
     for team in teams:
         t_path = os.path.join(teams_dir, f"{team['slug']}.md")
@@ -637,17 +721,17 @@ name: {json.dumps(team['name'])}
 slug: {json.dumps(team['slug'])}
 category: {json.dumps(team['category'])}
 gender: {json.dumps(team['gender'])}
-logo: {json.dumps(team.get('logo', 'images/teams/cbcolmenar.png'))}
-coach: {json.dumps(team.get('coach', 'Entrenador CB Colmenar'))}
-venue: {json.dumps(team.get('venue', 'Pabellón Juan Antonio Samaranch'))}
-established: {team.get('established', 1985)}
+logo: {json.dumps(team.get('logo', CFG['logo']))}
+coach: {json.dumps(team.get('coach', CFG['coach']))}
+venue: {json.dumps(team.get('venue', CFG['venue']))}
+established: {team.get('established', CFG['founded'])}
 record: {json.dumps(f"{team.get('wins', 0)}V - {team.get('losses', 0)}D")}
 league_position: {team.get('league_position', 1)}
 weight: {team.get('weight', 999)}
 ---
 
-El **{team['name']}** representa al CB Colmenar Viejo en la categoría {team['category']} ({team['gender']}).
-Entrenado por {team.get('coach', 'el cuerpo técnico del club')}, disputa sus encuentros como local en {team.get('venue', 'Pabellón Juan Antonio Samaranch')}.
+El **{team['name']}** representa al {CFG['name']} en la categoría {team['category']} ({team['gender']}).
+Entrenado por {team.get('coach', 'el cuerpo técnico del club')}, disputa sus encuentros como local en {team.get('venue', CFG['venue'])}.
 """
         with open(t_path, "w", encoding="utf-8") as f:
             f.write(content)
@@ -681,6 +765,7 @@ venue_title: {json.dumps(game.get('venue_title', ''))}
 venue_address: {json.dumps(game.get('venue_address', ''))}
 category: {json.dumps(game['category'])}
 gender: {json.dumps(game['gender'])}
+league_title: {json.dumps(game.get('league_title', ''))}
 uid: {json.dumps(game['id'])}
 slug: {json.dumps(game['slug'])}
 weight: {game.get('weight', 999)}
@@ -722,7 +807,8 @@ Pabellón **{v['title']}** situado en {v['address']}.
 
 
 def main():
-    print("Iniciando extracción de datos de la FBM para el CB Colmenar Viejo...")
+    parse_args()
+    print(f"Iniciando extracción de datos de la FBM para el {CFG['name']}...")
     clean_generated_content()
     html = fetch_html()
     teams, classifications, games, venues = parse_fbm_data(html)

@@ -17,6 +17,7 @@ venue_title: "DAGANZO"
 venue_address: "PABELLON MUNICIPAL CALLE DON QUIJOTE DE LA MANCHA, 1, Daganzo de Arriba"
 category: "Infantil"
 gender: "masculino"
+league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-04-24-baloncesto-daganzo-isuzu-revein-colmenar-viejo-a-infantil-masculino"
 slug: "game-2027-04-24-baloncesto-daganzo-isuzu-revein-colmenar-viejo-a-infantil-masculino"
 weight: 51120270424120009

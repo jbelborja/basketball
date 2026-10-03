@@ -17,6 +17,7 @@ venue_title: "ALFREDO ESPINIELLA"
 venue_address: "PABELLON (PISTA CENTRAL) COMUNIDAD DE LA RIOJA, 4, Rozas de Madrid, Las"
 category: "Infantil"
 gender: "masculino"
+league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-02-06-c-b-las-rozas-c-colmenar-viejo-a-infantil-masculino"
 slug: "game-2027-02-06-c-b-las-rozas-c-colmenar-viejo-a-infantil-masculino"
 weight: 51120270206120087

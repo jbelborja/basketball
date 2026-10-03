@@ -17,6 +17,7 @@ venue_title: "ANGEL LUIS RUBIO"
 venue_address: "PABELLON CRUZ VERDE, S/N, Ciempozuelos"
 category: "Infantil"
 gender: "masculino"
+league_title: "Infantil Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-10-24-dental-company-ciempobasket-colmenar-viejo-b-infantil-masculino"
 slug: "game-2026-10-24-dental-company-ciempobasket-colmenar-viejo-b-infantil-masculino"
 weight: 51220261024120068

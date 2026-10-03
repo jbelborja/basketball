@@ -17,6 +17,7 @@ venue_title: "PALOMERAS"
 venue_address: "PDVO. MPAL. TRANVIA DE ARGANDA, S/N, Madrid"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-03-21-c-d-v-colmenar-viejo-a-senior-masculino"
 slug: "game-2027-03-21-c-d-v-colmenar-viejo-a-senior-masculino"
 weight: 11120270321163028

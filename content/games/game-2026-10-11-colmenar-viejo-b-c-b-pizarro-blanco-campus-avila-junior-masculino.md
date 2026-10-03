@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
 uid: "game-2026-10-11-colmenar-viejo-b-c-b-pizarro-blanco-campus-avila-junior-masculino"
 slug: "game-2026-10-11-colmenar-viejo-b-c-b-pizarro-blanco-campus-avila-junior-masculino"
 weight: 31220261011100048

@@ -17,6 +17,7 @@ venue_title: "SANTIAGO APOSTOL"
 venue_address: "PDVO. MPAL. CALLE DEL POLIDEPORTIVO, S/N, Villanueva de la Ca\u00f1ada"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-02-06-villanueva-de-la-canada-colmenar-viejo-a-junior-masculino"
 slug: "game-2027-02-06-villanueva-de-la-canada-colmenar-viejo-a-junior-masculino"
 weight: 31120270206120087

@@ -17,6 +17,7 @@ venue_title: "JOYFE"
 venue_address: "PABELLON COLEGIO VITAL AZA, 65, Madrid"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-02-14-colegio-joyfe-colmenar-viejo-a-senior-masculino"
 slug: "game-2027-02-14-colegio-joyfe-colmenar-viejo-a-senior-masculino"
 weight: 11120270214120051

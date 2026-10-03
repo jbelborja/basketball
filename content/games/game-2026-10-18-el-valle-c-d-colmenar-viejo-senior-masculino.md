@@ -17,6 +17,7 @@ venue_title: "EL VALLE LAS TABLAS"
 venue_address: "PABELLON COLEGIO CEBREIRO, 2, Madrid"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-10-18-el-valle-c-d-colmenar-viejo-senior-masculino"
 slug: "game-2026-10-18-el-valle-c-d-colmenar-viejo-senior-masculino"
 weight: 11020261018130093

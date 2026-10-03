@@ -17,6 +17,7 @@ venue_title: "LOS CANTOS"
 venue_address: "PABELLON CENTRAL LOS CANTOS, 28, Alcorc\u00f3n"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-10-25-automatic-club-baloncesto-alcorcon-colmenar-viejo-a-senior-masculino"
 slug: "game-2026-10-25-automatic-club-baloncesto-alcorcon-colmenar-viejo-a-senior-masculino"
 weight: 11120261025120083

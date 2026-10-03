@@ -17,6 +17,7 @@ venue_title: "EL PRADO"
 venue_address: "COLEGIO (PISTA EXTERIOR) COSTA BRAVA, 4, Madrid"
 category: "Benjam\u00edn"
 gender: "masculino"
+league_title: "Benj Mas 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 4"
 uid: "game-2026-10-10-colegio-el-prado-colmenar-viejo-benjamin-masculino"
 slug: "game-2026-10-10-colegio-el-prado-colmenar-viejo-benjamin-masculino"
 weight: 71020261010111576

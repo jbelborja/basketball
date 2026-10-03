@@ -17,6 +17,7 @@ venue_title: "BRAINS LA MORALEJA"
 venue_address: "COLEGIO LA SALVIA, 48, Alcobendas"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-02-20-brains-moraleja-b-colmenar-viejo-a-junior-masculino"
 slug: "game-2027-02-20-brains-moraleja-b-colmenar-viejo-a-junior-masculino"
 weight: 31120270220120033

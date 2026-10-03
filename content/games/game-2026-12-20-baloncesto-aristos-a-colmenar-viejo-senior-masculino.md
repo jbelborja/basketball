@@ -17,6 +17,7 @@ venue_title: "ANDRES CASADO"
 venue_address: "PABELLON AVDA. JUAN CARLOS I, 12, Getafe"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-12-20-baloncesto-aristos-a-colmenar-viejo-senior-masculino"
 slug: "game-2026-12-20-baloncesto-aristos-a-colmenar-viejo-senior-masculino"
 weight: 11020261220120042

@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Junior"
 gender: "femenino"
+league_title: "Junior Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 5"
 uid: "game-2026-10-18-colmenar-viejo-estudiantes-international-school-b-junior-femenino"
 slug: "game-2026-10-18-colmenar-viejo-estudiantes-international-school-b-junior-femenino"
 weight: 32020261018120046

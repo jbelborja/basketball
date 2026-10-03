@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-01-24-colmenar-viejo-a-cis-university-tres-cantos-senior-masculino"
 slug: "game-2027-01-24-colmenar-viejo-a-cis-university-tres-cantos-senior-masculino"
 weight: 11120270124120039

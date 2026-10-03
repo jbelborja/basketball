@@ -17,6 +17,7 @@ venue_title: "BUEN CONSEJO"
 venue_address: "PABELLON COLEGIO BEATRIZ DE BOBADILLA, S/N, Madrid"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-04-17-buen-consejo-11-colmenar-viejo-a-cadete-masculino"
 slug: "game-2027-04-17-buen-consejo-11-colmenar-viejo-a-cadete-masculino"
 weight: 41120270417120010

@@ -17,6 +17,7 @@ venue_title: "EL TRIGAL"
 venue_address: "PABELLON LOGRO\u00d1O, 4, Fuenlabrada"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2027-01-24-femenino-fuenlabrada-colmenar-viejo-b-senior-femenino"
 slug: "game-2027-01-24-femenino-fuenlabrada-colmenar-viejo-b-senior-femenino"
 weight: 12220270124120057

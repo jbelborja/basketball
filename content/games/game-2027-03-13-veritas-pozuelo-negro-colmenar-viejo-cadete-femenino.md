@@ -17,6 +17,7 @@ venue_title: "VERITAS"
 venue_address: "PABELLON INSTITUTO (PISTA CENTRAL) AVDA. RADIO TELEVISION, 2, Pozuelo de Alarc\u00f3n"
 category: "Cadete"
 gender: "femenino"
+league_title: "Cadete Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 2"
 uid: "game-2027-03-13-veritas-pozuelo-negro-colmenar-viejo-cadete-femenino"
 slug: "game-2027-03-13-veritas-pozuelo-negro-colmenar-viejo-cadete-femenino"
 weight: 42020270313120088

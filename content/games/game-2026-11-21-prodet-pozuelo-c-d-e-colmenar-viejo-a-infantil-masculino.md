@@ -17,6 +17,7 @@ venue_title: "ANGEL LLORENTE"
 venue_address: "PABELLON AVDA. DE BULARAS, 4, Pozuelo de Alarc\u00f3n"
 category: "Infantil"
 gender: "masculino"
+league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-11-21-prodet-pozuelo-c-d-e-colmenar-viejo-a-infantil-masculino"
 slug: "game-2026-11-21-prodet-pozuelo-c-d-e-colmenar-viejo-a-infantil-masculino"
 weight: 51120261121163048

@@ -17,6 +17,7 @@ venue_title: "ANGEL NIETO"
 venue_address: "COMPLEJO DPTIVO. MPAL. CRTA. POZUELO-BOADILLA Km. 4, Boadilla del Monte"
 category: "Benjam\u00edn"
 gender: "masculino"
+league_title: "Benj Mas 2\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 11"
 uid: "game-2026-12-19-adc-boadilla-colmenar-viejo-benjamin-masculino"
 slug: "game-2026-12-19-adc-boadilla-colmenar-viejo-benjamin-masculino"
 weight: 71020261219120071

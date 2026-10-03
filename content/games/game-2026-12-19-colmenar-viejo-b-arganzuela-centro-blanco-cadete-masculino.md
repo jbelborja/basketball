@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2026-12-19-colmenar-viejo-b-arganzuela-centro-blanco-cadete-masculino"
 slug: "game-2026-12-19-colmenar-viejo-b-arganzuela-centro-blanco-cadete-masculino"
 weight: 41220261219120090

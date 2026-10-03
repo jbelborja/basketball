@@ -17,6 +17,7 @@ venue_title: "JUAN DE LA CIERVA"
 venue_address: "PABELLON PISTA CENTRAL AV. ESPA\u00d1A, 90, Getafe"
 category: "Cadete"
 gender: "femenino"
+league_title: "Cadete Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 2"
 uid: "game-2027-04-11-c-b-getafe-a-colmenar-viejo-cadete-femenino"
 slug: "game-2027-04-11-c-b-getafe-a-colmenar-viejo-cadete-femenino"
 weight: 42020270411120026

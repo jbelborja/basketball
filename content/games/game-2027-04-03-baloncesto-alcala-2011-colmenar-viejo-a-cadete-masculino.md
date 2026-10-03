@@ -17,6 +17,7 @@ venue_title: "ESPARTALES"
 venue_address: "CIUDAD DEPORTIVA VILLAMALEA, S/N esquina AVDA. JESUITAS, Alcal\u00e1 de Henares"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-04-03-baloncesto-alcala-2011-colmenar-viejo-a-cadete-masculino"
 slug: "game-2027-04-03-baloncesto-alcala-2011-colmenar-viejo-a-cadete-masculino"
 weight: 41120270403120033

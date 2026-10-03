@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Benjam\u00edn"
 gender: "femenino"
+league_title: "Benj F.2\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6"
 uid: "game-2026-12-12-colmenar-viejo-veritas-pozuelo-benjamin-femenino"
 slug: "game-2026-12-12-colmenar-viejo-veritas-pozuelo-benjamin-femenino"
 weight: 72020261212120012

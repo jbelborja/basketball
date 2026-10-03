@@ -17,6 +17,7 @@ venue_title: "LA CANTUE\u00d1A"
 venue_address: "PABELLON CALLE PROLONGACION CUENCA, 6A, Parla"
 category: "Alev\u00edn"
 gender: "femenino"
+league_title: "Alv Fem 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13"
 uid: "game-2026-11-14-parla-basquet-2015-colmenar-viejo-alevin-femenino"
 slug: "game-2026-11-14-parla-basquet-2015-colmenar-viejo-alevin-femenino"
 weight: 62020261114120070

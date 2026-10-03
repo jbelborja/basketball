@@ -17,6 +17,7 @@ venue_title: "CARLOS SASTRE"
 venue_address: "PABELLON FRANCISCO LARGO CABALLERO, 1, Legan\u00e9s"
 category: "Benjam\u00edn"
 gender: "femenino"
+league_title: "Benj F.2\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6"
 uid: "game-2026-12-19-innova-tsn-leganes-colmenar-viejo-benjamin-femenino"
 slug: "game-2026-12-19-innova-tsn-leganes-colmenar-viejo-benjamin-femenino"
 weight: 72020261219120077

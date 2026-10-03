@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2027-01-16-colmenar-viejo-c-baloncesto-paracuellos-azul-cadete-masculino"
 slug: "game-2027-01-16-colmenar-viejo-c-baloncesto-paracuellos-azul-cadete-masculino"
 weight: 41320270116120000

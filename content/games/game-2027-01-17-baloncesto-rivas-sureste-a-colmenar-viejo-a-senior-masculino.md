@@ -17,6 +17,7 @@ venue_title: "PARQUE DEL SURESTE"
 venue_address: "PABELLON (PISTA CENTRAL) MIRADOR Frente al n\u00ba 25, Rivas-Vaciamadrid"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-01-17-baloncesto-rivas-sureste-a-colmenar-viejo-a-senior-masculino"
 slug: "game-2027-01-17-baloncesto-rivas-sureste-a-colmenar-viejo-a-senior-masculino"
 weight: 11120270117120060

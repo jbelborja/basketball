@@ -17,6 +17,7 @@ venue_title: "PEPE DOMAICA"
 venue_address: "PABELLON (PISTA CENTRAL) PLAZA ELIPTICA, 2, Madrid"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-03-06-san-viator-c-colmenar-viejo-a-cadete-masculino"
 slug: "game-2027-03-06-san-viator-c-colmenar-viejo-a-cadete-masculino"
 weight: 41120270306093020

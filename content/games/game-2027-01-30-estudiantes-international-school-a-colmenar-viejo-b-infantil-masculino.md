@@ -17,6 +17,7 @@ venue_title: "ESTUDIANTES INTERNATIONAL SCHOOL"
 venue_address: "PABELLON C/ CASTIELLO DE JACA, 20, Madrid"
 category: "Infantil"
 gender: "masculino"
+league_title: "Infantil Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-01-30-estudiantes-international-school-a-colmenar-viejo-b-infantil-masculino"
 slug: "game-2027-01-30-estudiantes-international-school-a-colmenar-viejo-b-infantil-masculino"
 weight: 51220270130120086

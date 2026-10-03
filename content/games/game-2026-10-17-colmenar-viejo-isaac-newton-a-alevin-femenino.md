@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Alev\u00edn"
 gender: "femenino"
+league_title: "Alv Fem 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13"
 uid: "game-2026-10-17-colmenar-viejo-isaac-newton-a-alevin-femenino"
 slug: "game-2026-10-17-colmenar-viejo-isaac-newton-a-alevin-femenino"
 weight: 62020261017120043

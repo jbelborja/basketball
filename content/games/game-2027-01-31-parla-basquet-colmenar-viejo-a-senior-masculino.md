@@ -17,6 +17,7 @@ venue_title: "FRANCISCO JAVIER CASTILLEJO"
 venue_address: "PABELLON AVDA. ESCUELA PUBLICA, S/N, Parla"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-01-31-parla-basquet-colmenar-viejo-a-senior-masculino"
 slug: "game-2027-01-31-parla-basquet-colmenar-viejo-a-senior-masculino"
 weight: 11120270131120052

@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Alev\u00edn"
 gender: "femenino"
+league_title: "Alv Fem 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13"
 uid: "game-2027-01-16-colmenar-viejo-parla-basquet-2015-alevin-femenino"
 slug: "game-2027-01-16-colmenar-viejo-parla-basquet-2015-alevin-femenino"
 weight: 62020270116120082

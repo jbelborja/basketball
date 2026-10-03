@@ -17,6 +17,7 @@ venue_title: "SALESIANOS CARABANCHEL"
 venue_address: "PABELLON COLEGIO RONDA DON BOSCO, 3, Madrid"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2027-01-31-arganzuela-centro-colmenar-viejo-b-senior-femenino"
 slug: "game-2027-01-31-arganzuela-centro-colmenar-viejo-b-senior-femenino"
 weight: 12220270131110034

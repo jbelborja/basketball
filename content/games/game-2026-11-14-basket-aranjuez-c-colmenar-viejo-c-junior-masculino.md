@@ -17,6 +17,7 @@ venue_title: "LAS OLIVAS"
 venue_address: "CIUDAD DEPORTIVA C/ JUAN DE HERRERA, 1, Aranjuez"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 5\u00aa DIVISION - GRUPO PAR"
 uid: "game-2026-11-14-basket-aranjuez-c-colmenar-viejo-c-junior-masculino"
 slug: "game-2026-11-14-basket-aranjuez-c-colmenar-viejo-c-junior-masculino"
 weight: 31320261114120080

@@ -17,6 +17,7 @@ venue_title: "VIRGEN DE MIRASIERRA"
 venue_address: "COLEGIO CALLE PE\u00d1A DORADA, 2, Madrid"
 category: "Benjam\u00edn"
 gender: "masculino"
+league_title: "Benj Mas 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 4"
 uid: "game-2026-11-07-virgen-de-mirasierra-colmenar-viejo-benjamin-masculino"
 slug: "game-2026-11-07-virgen-de-mirasierra-colmenar-viejo-benjamin-masculino"
 weight: 71020261107120057

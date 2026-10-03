@@ -17,6 +17,7 @@ venue_title: "LICEO FRANCES"
 venue_address: "PABELLON COLEGIO AVDA. DE LOS MADRO\u00d1OS frente n\u00ba 42, Madrid"
 category: "Junior"
 gender: "femenino"
+league_title: "Junior Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 5"
 uid: "game-2027-02-06-liceo-frances-colmenar-viejo-junior-femenino"
 slug: "game-2027-02-06-liceo-frances-colmenar-viejo-junior-femenino"
 weight: 32020270206120043

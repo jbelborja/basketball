@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-12-20-colmenar-viejo-a-c-b-alcorcon-a-junior-masculino"
 slug: "game-2026-12-20-colmenar-viejo-a-c-b-alcorcon-a-junior-masculino"
 weight: 31120261220120011

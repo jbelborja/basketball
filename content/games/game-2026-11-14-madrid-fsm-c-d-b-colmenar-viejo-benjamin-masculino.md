@@ -17,6 +17,7 @@ venue_title: "COLEGIO MADRID FUNDACION SANTA MARIA AVDA. DE LOS MADRO\u00d1OS es
 venue_address: "Madrid"
 category: "Benjam\u00edn"
 gender: "masculino"
+league_title: "Benj Mas 2\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 11"
 uid: "game-2026-11-14-madrid-fsm-c-d-b-colmenar-viejo-benjamin-masculino"
 slug: "game-2026-11-14-madrid-fsm-c-d-b-colmenar-viejo-benjamin-masculino"
 weight: 71020261114120013

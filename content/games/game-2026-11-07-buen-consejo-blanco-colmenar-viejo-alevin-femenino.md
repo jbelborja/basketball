@@ -17,6 +17,7 @@ venue_title: "BUEN CONSEJO"
 venue_address: "PABELLON COLEGIO BEATRIZ DE BOBADILLA, S/N, Madrid"
 category: "Alev\u00edn"
 gender: "femenino"
+league_title: "Alv Fem 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 8"
 uid: "game-2026-11-07-buen-consejo-blanco-colmenar-viejo-alevin-femenino"
 slug: "game-2026-11-07-buen-consejo-blanco-colmenar-viejo-alevin-femenino"
 weight: 62020261107120048

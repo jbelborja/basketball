@@ -17,6 +17,7 @@ venue_title: "LA SALLE MARAVILLAS"
 venue_address: "PABELLON COLEGIO JOAQUIN COSTA, 21, Madrid"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 5\u00aa DIVISION - GRUPO PAR"
 uid: "game-2026-10-25-maravillas-colmenar-viejo-c-junior-masculino"
 slug: "game-2026-10-25-maravillas-colmenar-viejo-c-junior-masculino"
 weight: 31320261025120021

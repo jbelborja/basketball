@@ -17,6 +17,7 @@ venue_title: "LA MASO"
 venue_address: "PABELLON Calle de La Mas\u00f3, 80, Madrid"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-03-06-isaac-newton-colmenar-viejo-a-senior-femenino"
 slug: "game-2027-03-06-isaac-newton-colmenar-viejo-a-senior-femenino"
 weight: 12120270306120086

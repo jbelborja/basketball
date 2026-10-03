@@ -17,6 +17,7 @@ venue_title: "CARLOS SASTRE"
 venue_address: "PABELLON FRANCISCO LARGO CABALLERO, 1, Legan\u00e9s"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
 uid: "game-2027-02-27-innova-tsn-leganes-b-colmenar-viejo-b-junior-masculino"
 slug: "game-2027-02-27-innova-tsn-leganes-b-colmenar-viejo-b-junior-masculino"
 weight: 31220270227120095

@@ -17,6 +17,7 @@ venue_title: "JUAN DE AUSTRIA"
 venue_address: "PABELLON (PISTA CENTRAL) JOSE CABALLERO, S/N, Alcal\u00e1 de Henares"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-02-28-ricopia-funbal-alcala-cbja-colmenar-viejo-senior-masculino"
 slug: "game-2027-02-28-ricopia-funbal-alcala-cbja-colmenar-viejo-senior-masculino"
 weight: 11020270228120025

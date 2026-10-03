@@ -17,6 +17,7 @@ venue_title: "EL PRADO"
 venue_address: "PABELLON COLEGIO COSTA BRAVA, 4, Madrid"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-10-10-colegio-el-prado-colmenar-viejo-a-junior-masculino"
 slug: "game-2026-10-10-colegio-el-prado-colmenar-viejo-a-junior-masculino"
 weight: 31120261010130053

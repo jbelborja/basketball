@@ -17,6 +17,7 @@ venue_title: "PRINCIPE FELIPE"
 venue_address: "I.E.S. FINISTERRE, 60, Madrid"
 category: "Infantil"
 gender: "masculino"
+league_title: "Infantil Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-03-06-singer-basket-tucutucu-pf-colmenar-viejo-b-infantil-masculino"
 slug: "game-2027-03-06-singer-basket-tucutucu-pf-colmenar-viejo-b-infantil-masculino"
 weight: 51220270306120084

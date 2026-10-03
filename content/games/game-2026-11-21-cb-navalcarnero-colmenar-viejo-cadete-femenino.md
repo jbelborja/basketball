@@ -17,6 +17,7 @@ venue_title: "LA ESTACION"
 venue_address: "PABELLON MUNICIPAL RIO EBRO, S/N, Navalcarnero"
 category: "Cadete"
 gender: "femenino"
+league_title: "Cadete Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 2"
 uid: "game-2026-11-21-cb-navalcarnero-colmenar-viejo-cadete-femenino"
 slug: "game-2026-11-21-cb-navalcarnero-colmenar-viejo-cadete-femenino"
 weight: 42020261121120093

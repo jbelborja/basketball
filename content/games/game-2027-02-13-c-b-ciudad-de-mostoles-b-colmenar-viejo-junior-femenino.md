@@ -17,6 +17,7 @@ venue_title: "LOS ROSALES"
 venue_address: "PABELLON (PISTA CENTRAL) LILAS, S/N (Frente n\u00ba 7), M\u00f3stoles"
 category: "Junior"
 gender: "femenino"
+league_title: "Junior Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 5"
 uid: "game-2027-02-13-c-b-ciudad-de-mostoles-b-colmenar-viejo-junior-femenino"
 slug: "game-2027-02-13-c-b-ciudad-de-mostoles-b-colmenar-viejo-junior-femenino"
 weight: 32020270213120050

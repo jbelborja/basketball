@@ -17,6 +17,7 @@ venue_title: "FEMENINO ALCORCON"
 venue_address: "FEMENINO ALCORCON"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-10-01-colmenar-viejo-a-58-senior-femenino"
 slug: "game-2026-10-01-colmenar-viejo-a-58-senior-femenino"
 weight: 12120261001120058

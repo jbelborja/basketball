@@ -17,6 +17,7 @@ venue_title: "LAS ERAS"
 venue_address: "PABELLON LAS ERAS, S/N, Hoyo de Manzanares"
 category: "Sub 22"
 gender: "masculino"
+league_title: "Sub 22 Masc. BRONCE - PRIMERA 1\u00aa DIVISION - GRUPO 1"
 uid: "game-2026-12-13-basket-hoyo-de-manzanares-colmenar-viejo-sub-22-masculino"
 slug: "game-2026-12-13-basket-hoyo-de-manzanares-colmenar-viejo-sub-22-masculino"
 weight: 21020261213120052

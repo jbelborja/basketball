@@ -17,6 +17,7 @@ venue_title: "CORAZONISTAS"
 venue_address: "PABELLON COLEGIO calle GUATEMALA, 11, Madrid"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2026-11-15-corazonistas-colmenar-viejo-b-senior-femenino"
 slug: "game-2026-11-15-corazonistas-colmenar-viejo-b-senior-femenino"
 weight: 12220261115120032

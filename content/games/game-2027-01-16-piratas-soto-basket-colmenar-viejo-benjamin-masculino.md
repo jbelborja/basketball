@@ -17,6 +17,7 @@ venue_title: "SOTO DEL REAL"
 venue_address: "PABELLON EL EGIDILLO, S/N, Soto del Real"
 category: "Benjam\u00edn"
 gender: "masculino"
+league_title: "Benj Mas 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 4"
 uid: "game-2027-01-16-piratas-soto-basket-colmenar-viejo-benjamin-masculino"
 slug: "game-2027-01-16-piratas-soto-basket-colmenar-viejo-benjamin-masculino"
 weight: 71020270116120073

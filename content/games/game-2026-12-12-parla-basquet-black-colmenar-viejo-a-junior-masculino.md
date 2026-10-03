@@ -17,6 +17,7 @@ venue_title: "MIGUEL DELIBES"
 venue_address: "C.P. FELIPE II, 15 (entrada por Jaime I El Conquistador), Parla"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-12-12-parla-basquet-black-colmenar-viejo-a-junior-masculino"
 slug: "game-2026-12-12-parla-basquet-black-colmenar-viejo-a-junior-masculino"
 weight: 31120261212120015

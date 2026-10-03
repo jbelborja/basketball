@@ -17,6 +17,7 @@ venue_title: "MOVISTAR ACADEMY MAGARI\u00d1OS"
 venue_address: "PABELLON SERRANO, 129, Madrid"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-03-06-movistar-estudiantes-diaz-miguel-colmenar-viejo-a-junior-masculino"
 slug: "game-2027-03-06-movistar-estudiantes-diaz-miguel-colmenar-viejo-a-junior-masculino"
 weight: 31120270306120011

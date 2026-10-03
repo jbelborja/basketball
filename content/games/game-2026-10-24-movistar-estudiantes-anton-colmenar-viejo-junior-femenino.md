@@ -17,6 +17,7 @@ venue_title: "MOVISTAR ACADEMY MAGARI\u00d1OS"
 venue_address: "PABELLON SERRANO, 129, Madrid"
 category: "Junior"
 gender: "femenino"
+league_title: "Junior Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 5"
 uid: "game-2026-10-24-movistar-estudiantes-anton-colmenar-viejo-junior-femenino"
 slug: "game-2026-10-24-movistar-estudiantes-anton-colmenar-viejo-junior-femenino"
 weight: 32020261024120005

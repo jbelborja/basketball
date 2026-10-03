@@ -17,6 +17,7 @@ venue_title: "PARQUE HENARES"
 venue_address: "PABELLON calle VITORIA, S/N, San Fernando de Henares"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-03-13-baloncesto-san-fernando-09-colmenar-viejo-a-junior-masculino"
 slug: "game-2027-03-13-baloncesto-san-fernando-09-colmenar-viejo-a-junior-masculino"
 weight: 31120270313120038

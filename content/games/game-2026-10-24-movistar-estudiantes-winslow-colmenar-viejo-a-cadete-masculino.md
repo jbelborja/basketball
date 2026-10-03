@@ -17,6 +17,7 @@ venue_title: "MOVISTAR ACADEMY MAGARI\u00d1OS"
 venue_address: "PABELLON SERRANO, 129, Madrid"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-10-24-movistar-estudiantes-winslow-colmenar-viejo-a-cadete-masculino"
 slug: "game-2026-10-24-movistar-estudiantes-winslow-colmenar-viejo-a-cadete-masculino"
 weight: 41120261024120072

@@ -17,6 +17,7 @@ venue_title: "PABELL\u00d3N PTVO. VEGA RETUENGA CAMINO DE LAS ERAS"
 venue_address: "20, Villalbilla"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 5\u00aa DIVISION - GRUPO PAR"
 uid: "game-2026-12-19-tac-tec-tenis-c-d-e-colmenar-viejo-c-junior-masculino"
 slug: "game-2026-12-19-tac-tec-tenis-c-d-e-colmenar-viejo-c-junior-masculino"
 weight: 31320261219130053

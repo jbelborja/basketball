@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
 uid: "game-2026-11-15-colmenar-viejo-b-innova-tsn-leganes-b-junior-masculino"
 slug: "game-2026-11-15-colmenar-viejo-b-innova-tsn-leganes-b-junior-masculino"
 weight: 31220261115120049

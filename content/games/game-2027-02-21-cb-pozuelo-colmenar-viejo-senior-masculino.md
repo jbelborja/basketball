@@ -17,6 +17,7 @@ venue_title: "EL TORREON"
 venue_address: "PABELLON CAMINO DE LAS HUERTAS, 38, Pozuelo de Alarc\u00f3n"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-02-21-cb-pozuelo-colmenar-viejo-senior-masculino"
 slug: "game-2027-02-21-cb-pozuelo-colmenar-viejo-senior-masculino"
 weight: 11020270221120079

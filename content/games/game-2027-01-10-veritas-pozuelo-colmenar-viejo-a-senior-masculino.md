@@ -17,6 +17,7 @@ venue_title: "VERITAS"
 venue_address: "PABELLON INSTITUTO (PISTA CENTRAL) AVDA. RADIO TELEVISION, 2, Pozuelo de Alarc\u00f3n"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-01-10-veritas-pozuelo-colmenar-viejo-a-senior-masculino"
 slug: "game-2027-01-10-veritas-pozuelo-colmenar-viejo-a-senior-masculino"
 weight: 11120270110200010

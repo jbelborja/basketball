@@ -17,6 +17,7 @@ venue_title: "LICEO FRANCES"
 venue_address: "PABELLON COLEGIO AVDA. DE LOS MADRO\u00d1OS frente n\u00ba 42, Madrid"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
 uid: "game-2026-11-07-liceo-frances-10-colmenar-viejo-b-junior-masculino"
 slug: "game-2026-11-07-liceo-frances-10-colmenar-viejo-b-junior-masculino"
 weight: 31220261107120066

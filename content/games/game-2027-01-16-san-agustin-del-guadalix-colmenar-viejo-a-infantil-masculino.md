@@ -17,6 +17,7 @@ venue_title: "SAN AGUSTIN GUADALIX"
 venue_address: "PABELLON JULIAN BERRENDERO, S/N, San Agust\u00edn de Guadalix"
 category: "Infantil"
 gender: "masculino"
+league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-01-16-san-agustin-del-guadalix-colmenar-viejo-a-infantil-masculino"
 slug: "game-2027-01-16-san-agustin-del-guadalix-colmenar-viejo-a-infantil-masculino"
 weight: 51120270116120062

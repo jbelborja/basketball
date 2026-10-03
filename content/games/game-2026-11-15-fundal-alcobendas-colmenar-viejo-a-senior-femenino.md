@@ -17,6 +17,7 @@ venue_title: "ANTELA PARADA"
 venue_address: "PABELLON (PISTA CENTRAL) FRANCISCO CHICO MENDES, 8, Alcobendas"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-11-15-fundal-alcobendas-colmenar-viejo-a-senior-femenino"
 slug: "game-2026-11-15-fundal-alcobendas-colmenar-viejo-a-senior-femenino"
 weight: 12120261115180013

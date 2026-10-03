@@ -17,6 +17,7 @@ venue_title: "AMANECER"
 venue_address: "CLUB DEPORTIVO AVDA. PABLO IGLESIAS, 6, Alcorc\u00f3n"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
 uid: "game-2026-10-17-basalcor-rm-colmenar-viejo-b-junior-masculino"
 slug: "game-2026-10-17-basalcor-rm-colmenar-viejo-b-junior-masculino"
 weight: 31220261017120083

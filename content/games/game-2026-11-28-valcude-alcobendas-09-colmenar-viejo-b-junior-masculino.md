@@ -17,6 +17,7 @@ venue_title: "DISTRITO CENTRO"
 venue_address: "PABELLON AVDA. OLIMPICA, 22 (pasaje), Alcobendas"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
 uid: "game-2026-11-28-valcude-alcobendas-09-colmenar-viejo-b-junior-masculino"
 slug: "game-2026-11-28-valcude-alcobendas-09-colmenar-viejo-b-junior-masculino"
 weight: 31220261128120011

@@ -17,6 +17,7 @@ venue_title: "VERITAS POZUELO"
 venue_address: "VERITAS POZUELO"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-10-01-colmenar-viejo-a-75-senior-femenino"
 slug: "game-2026-10-01-colmenar-viejo-a-75-senior-femenino"
 weight: 12120261001120040

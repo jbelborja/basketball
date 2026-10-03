@@ -17,6 +17,7 @@ venue_title: "IRLANDESAS"
 venue_address: "COLEGIO (Descubierto) BEGONIA, 257, Alcobendas"
 category: "Junior"
 gender: "femenino"
+league_title: "Junior Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 5"
 uid: "game-2026-12-12-irlandesas-2-colmenar-viejo-junior-femenino"
 slug: "game-2026-12-12-irlandesas-2-colmenar-viejo-junior-femenino"
 weight: 32020261212120050

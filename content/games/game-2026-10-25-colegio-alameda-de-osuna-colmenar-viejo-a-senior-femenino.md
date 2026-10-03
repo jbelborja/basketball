@@ -17,6 +17,7 @@ venue_title: "ALAMEDA DE OSUNA"
 venue_address: "PABELLON COLEGIO CALLE LA RIOJA, 1, Madrid"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-10-25-colegio-alameda-de-osuna-colmenar-viejo-a-senior-femenino"
 slug: "game-2026-10-25-colegio-alameda-de-osuna-colmenar-viejo-a-senior-femenino"
 weight: 12120261025120087

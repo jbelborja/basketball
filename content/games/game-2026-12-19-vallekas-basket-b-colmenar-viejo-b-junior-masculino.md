@@ -17,6 +17,7 @@ venue_title: "ZAZUAR"
 venue_address: "COLEGIO ZAZUAR, 17, Madrid"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
 uid: "game-2026-12-19-vallekas-basket-b-colmenar-viejo-b-junior-masculino"
 slug: "game-2026-12-19-vallekas-basket-b-colmenar-viejo-b-junior-masculino"
 weight: 31220261219091529

@@ -17,6 +17,7 @@ venue_title: "FUENTE DEL PALOMAR"
 venue_address: "CEIP CAMILO JOSE CELA, 2, Alcorc\u00f3n"
 category: "Infantil"
 gender: "masculino"
+league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-02-13-c-b-alcorcon-colmenar-viejo-a-infantil-masculino"
 slug: "game-2027-02-13-c-b-alcorcon-colmenar-viejo-a-infantil-masculino"
 weight: 51120270213120067

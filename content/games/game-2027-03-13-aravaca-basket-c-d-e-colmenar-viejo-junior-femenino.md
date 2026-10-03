@@ -17,6 +17,7 @@ venue_title: "COLEGIO BERNADETTE"
 venue_address: "PABELLON CALLE SANTA BERNARDITA, 1, Aravaca"
 category: "Junior"
 gender: "femenino"
+league_title: "Junior Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 5"
 uid: "game-2027-03-13-aravaca-basket-c-d-e-colmenar-viejo-junior-femenino"
 slug: "game-2027-03-13-aravaca-basket-c-d-e-colmenar-viejo-junior-femenino"
 weight: 32020270313120009

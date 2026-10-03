@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-02-28-colmenar-viejo-a-spanish-basketball-academy-junior-masculino"
 slug: "game-2027-02-28-colmenar-viejo-a-spanish-basketball-academy-junior-masculino"
 weight: 31120270228120080

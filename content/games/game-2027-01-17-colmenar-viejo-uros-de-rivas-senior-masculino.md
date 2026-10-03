@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-01-17-colmenar-viejo-uros-de-rivas-senior-masculino"
 slug: "game-2027-01-17-colmenar-viejo-uros-de-rivas-senior-masculino"
 weight: 11020270117120081

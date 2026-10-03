@@ -17,6 +17,7 @@ venue_title: "SAN BLAS"
 venue_address: "PABELLON CIRCULAR CALLE ARCOS DE JALON, 59, Madrid"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-02-07-cesur-distrito-olimpico-colmenar-viejo-a-senior-femenino"
 slug: "game-2027-02-07-cesur-distrito-olimpico-colmenar-viejo-a-senior-femenino"
 weight: 12120270207120094

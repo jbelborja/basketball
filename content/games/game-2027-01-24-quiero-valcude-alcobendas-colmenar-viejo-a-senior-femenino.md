@@ -17,6 +17,7 @@ venue_title: "AMAYA VALDEMORO"
 venue_address: "PABELLON CRTA. ALCOBENDAS-BARAJAS, Km. 1, 200, Alcobendas"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-01-24-quiero-valcude-alcobendas-colmenar-viejo-a-senior-femenino"
 slug: "game-2027-01-24-quiero-valcude-alcobendas-colmenar-viejo-a-senior-femenino"
 weight: 12120270124120022

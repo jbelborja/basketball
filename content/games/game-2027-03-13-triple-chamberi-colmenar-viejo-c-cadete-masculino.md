@@ -17,6 +17,7 @@ venue_title: "SANTO ANGEL DE LA GUARDA"
 venue_address: "PABELLON COLEGIO EDUARDO TERAN, 8, Madrid"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2027-03-13-triple-chamberi-colmenar-viejo-c-cadete-masculino"
 slug: "game-2027-03-13-triple-chamberi-colmenar-viejo-c-cadete-masculino"
 weight: 41320270313103066

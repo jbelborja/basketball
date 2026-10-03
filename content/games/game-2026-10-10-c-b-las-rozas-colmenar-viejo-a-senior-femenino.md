@@ -17,6 +17,7 @@ venue_title: "ALFREDO ESPINIELLA"
 venue_address: "PABELLON (PISTA CENTRAL) COMUNIDAD DE LA RIOJA, 4, Rozas de Madrid, Las"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-10-10-c-b-las-rozas-colmenar-viejo-a-senior-femenino"
 slug: "game-2026-10-10-c-b-las-rozas-colmenar-viejo-a-senior-femenino"
 weight: 12120261010163074

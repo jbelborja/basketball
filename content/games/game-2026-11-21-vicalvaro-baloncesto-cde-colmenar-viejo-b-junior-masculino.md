@@ -17,6 +17,7 @@ venue_title: "FAUSTINA VALLADOLID"
 venue_address: "PABELLON LADERA DE LOS ALMENDROS, 2, Madrid"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
 uid: "game-2026-11-21-vicalvaro-baloncesto-cde-colmenar-viejo-b-junior-masculino"
 slug: "game-2026-11-21-vicalvaro-baloncesto-cde-colmenar-viejo-b-junior-masculino"
 weight: 31220261121133080

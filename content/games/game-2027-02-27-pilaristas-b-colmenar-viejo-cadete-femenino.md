@@ -17,6 +17,7 @@ venue_title: "PILARISTAS"
 venue_address: "COLEGIO CASTELLO, 56, Madrid"
 category: "Cadete"
 gender: "femenino"
+league_title: "Cadete Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 2"
 uid: "game-2027-02-27-pilaristas-b-colmenar-viejo-cadete-femenino"
 slug: "game-2027-02-27-pilaristas-b-colmenar-viejo-cadete-femenino"
 weight: 42020270227120061

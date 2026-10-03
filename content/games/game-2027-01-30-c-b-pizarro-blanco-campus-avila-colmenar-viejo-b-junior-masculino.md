@@ -17,6 +17,7 @@ venue_title: "VICENTE DEL BOSQUE"
 venue_address: "CDM (Descubierto) AVDA. MONFORTE DE LEMOS, 13, Madrid"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
 uid: "game-2027-01-30-c-b-pizarro-blanco-campus-avila-colmenar-viejo-b-junior-masculino"
 slug: "game-2027-01-30-c-b-pizarro-blanco-campus-avila-colmenar-viejo-b-junior-masculino"
 weight: 31220270130120047

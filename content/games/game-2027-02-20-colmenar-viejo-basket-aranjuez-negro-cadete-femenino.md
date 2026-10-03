@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Cadete"
 gender: "femenino"
+league_title: "Cadete Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 2"
 uid: "game-2027-02-20-colmenar-viejo-basket-aranjuez-negro-cadete-femenino"
 slug: "game-2027-02-20-colmenar-viejo-basket-aranjuez-negro-cadete-femenino"
 weight: 42020270220120021

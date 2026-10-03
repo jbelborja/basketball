@@ -17,6 +17,7 @@ venue_title: "LA MASO"
 venue_address: "PABELLON Calle de La Mas\u00f3, 80, Madrid"
 category: "Alev\u00edn"
 gender: "femenino"
+league_title: "Alv Fem 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13"
 uid: "game-2026-11-28-isaac-newton-a-colmenar-viejo-alevin-femenino"
 slug: "game-2026-11-28-isaac-newton-a-colmenar-viejo-alevin-femenino"
 weight: 62020261128120021

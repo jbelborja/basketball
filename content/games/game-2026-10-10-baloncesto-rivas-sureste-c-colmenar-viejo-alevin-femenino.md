@@ -17,6 +17,7 @@ venue_title: "PARQUE DEL SURESTE"
 venue_address: "Pista 1 MIRADOR Frente al n\u00ba 25, Rivas-Vaciamadrid"
 category: "Alev\u00edn"
 gender: "femenino"
+league_title: "Alv Fem 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 8"
 uid: "game-2026-10-10-baloncesto-rivas-sureste-c-colmenar-viejo-alevin-femenino"
 slug: "game-2026-10-10-baloncesto-rivas-sureste-c-colmenar-viejo-alevin-femenino"
 weight: 62020261010093025

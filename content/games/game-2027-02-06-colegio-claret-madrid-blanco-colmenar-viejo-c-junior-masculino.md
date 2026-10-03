@@ -17,6 +17,7 @@ venue_title: "CLARET"
 venue_address: "PABELLON COLEGIO CLARA DEL REY, 6, Madrid"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 5\u00aa DIVISION - GRUPO PAR"
 uid: "game-2027-02-06-colegio-claret-madrid-blanco-colmenar-viejo-c-junior-masculino"
 slug: "game-2027-02-06-colegio-claret-madrid-blanco-colmenar-viejo-c-junior-masculino"
 weight: 31320270206120030

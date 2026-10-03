@@ -17,6 +17,7 @@ venue_title: "FELIPE REYES"
 venue_address: "PABELLON PISTA CENTRAL AV. ESPA\u00d1A, 90, Getafe"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2027-02-28-c-b-getafe-colmenar-viejo-b-senior-femenino"
 slug: "game-2027-02-28-c-b-getafe-colmenar-viejo-b-senior-femenino"
 weight: 12220270228120095

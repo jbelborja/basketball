@@ -17,6 +17,7 @@ venue_title: "EL VALLE LAS TABLAS"
 venue_address: "PABELLON COLEGIO CEBREIRO, 2, Madrid"
 category: "Alev\u00edn"
 gender: "femenino"
+league_title: "Alv Fem 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 8"
 uid: "game-2027-01-16-el-valle-c-d-b-colmenar-viejo-alevin-femenino"
 slug: "game-2027-01-16-el-valle-c-d-b-colmenar-viejo-alevin-femenino"
 weight: 62020270116120090

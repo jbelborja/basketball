@@ -17,6 +17,7 @@ venue_title: "ALFREDO ESPINIELLA"
 venue_address: "PABELLON (PISTA CENTRAL) COMUNIDAD DE LA RIOJA, 4, Rozas de Madrid, Las"
 category: "Alev\u00edn"
 gender: "femenino"
+league_title: "Alv Fem 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13"
 uid: "game-2026-10-24-c-b-las-rozas-a-colmenar-viejo-alevin-femenino"
 slug: "game-2026-10-24-c-b-las-rozas-a-colmenar-viejo-alevin-femenino"
 weight: 62020261024120089

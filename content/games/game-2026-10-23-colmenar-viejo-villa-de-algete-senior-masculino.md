@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-10-23-colmenar-viejo-villa-de-algete-senior-masculino"
 slug: "game-2026-10-23-colmenar-viejo-villa-de-algete-senior-masculino"
 weight: 11020261023203029

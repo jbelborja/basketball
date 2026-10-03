@@ -17,6 +17,7 @@ venue_title: "TORREJON DE LA CALZADA"
 venue_address: "PABELLON CAMINO DE CUBAS, S/N, Torrej\u00f3n de la Calzada"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
 uid: "game-2027-01-16-torrejon-de-la-calzada-emb-colmenar-viejo-b-junior-masculino"
 slug: "game-2027-01-16-torrejon-de-la-calzada-emb-colmenar-viejo-b-junior-masculino"
 weight: 31220270116120080

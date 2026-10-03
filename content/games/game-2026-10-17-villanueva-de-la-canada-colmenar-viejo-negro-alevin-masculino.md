@@ -17,6 +17,7 @@ venue_title: "SANTIAGO APOSTOL"
 venue_address: "PDVO. MPAL. CALLE DEL POLIDEPORTIVO, S/N, Villanueva de la Ca\u00f1ada"
 category: "Alev\u00edn"
 gender: "masculino"
+league_title: "Alv Mas 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9"
 uid: "game-2026-10-17-villanueva-de-la-canada-colmenar-viejo-negro-alevin-masculino"
 slug: "game-2026-10-17-villanueva-de-la-canada-colmenar-viejo-negro-alevin-masculino"
 weight: 61020261017120093

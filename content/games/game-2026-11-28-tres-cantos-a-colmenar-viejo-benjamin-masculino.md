@@ -17,6 +17,7 @@ venue_title: "LA LUZ"
 venue_address: "PABELLON PISTA 3 AVENIDA DE LA LUZ, 6, Tres Cantos"
 category: "Benjam\u00edn"
 gender: "masculino"
+league_title: "Benj Mas 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 4"
 uid: "game-2026-11-28-tres-cantos-a-colmenar-viejo-benjamin-masculino"
 slug: "game-2026-11-28-tres-cantos-a-colmenar-viejo-benjamin-masculino"
 weight: 71020261128120005

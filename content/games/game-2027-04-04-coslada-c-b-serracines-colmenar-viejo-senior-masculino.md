@@ -17,6 +17,7 @@ venue_title: "C.E.I.P. SERRACINES"
 venue_address: "PABELLON ROMERAL, 15, Serracines"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-04-04-coslada-c-b-serracines-colmenar-viejo-senior-masculino"
 slug: "game-2027-04-04-coslada-c-b-serracines-colmenar-viejo-senior-masculino"
 weight: 11020270404120033

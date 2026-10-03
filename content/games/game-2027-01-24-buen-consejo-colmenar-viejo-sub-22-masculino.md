@@ -17,6 +17,7 @@ venue_title: "BUEN CONSEJO"
 venue_address: "PABELLON COLEGIO BEATRIZ DE BOBADILLA, S/N, Madrid"
 category: "Sub 22"
 gender: "masculino"
+league_title: "Sub 22 Masc. BRONCE - PRIMERA 1\u00aa DIVISION - GRUPO 1"
 uid: "game-2027-01-24-buen-consejo-colmenar-viejo-sub-22-masculino"
 slug: "game-2027-01-24-buen-consejo-colmenar-viejo-sub-22-masculino"
 weight: 21020270124120002

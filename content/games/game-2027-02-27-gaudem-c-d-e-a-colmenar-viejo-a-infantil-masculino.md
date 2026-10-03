@@ -17,6 +17,7 @@ venue_title: "GAUDEM"
 venue_address: "PABELLON COLEGIO PLAYA DE BARLOVENTO, 14, Madrid"
 category: "Infantil"
 gender: "masculino"
+league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-02-27-gaudem-c-d-e-a-colmenar-viejo-a-infantil-masculino"
 slug: "game-2027-02-27-gaudem-c-d-e-a-colmenar-viejo-a-infantil-masculino"
 weight: 51120270227120071

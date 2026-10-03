@@ -17,6 +17,7 @@ venue_title: "ABACO"
 venue_address: "PABELLON COLEGIO AVDA. DE LA PESETA, 8, Madrid"
 category: "Sub 22"
 gender: "masculino"
+league_title: "Sub 22 Masc. BRONCE - PRIMERA 1\u00aa DIVISION - GRUPO 1"
 uid: "game-2026-11-22-abaco-colmenar-viejo-sub-22-masculino"
 slug: "game-2026-11-22-abaco-colmenar-viejo-sub-22-masculino"
 weight: 21020261122120017

@@ -17,6 +17,7 @@ venue_title: "MEJORADA"
 venue_address: "PABELLON MPAL. JOAN MIRO, S/N, Mejorada del Campo"
 category: "Sub 22"
 gender: "masculino"
+league_title: "Sub 22 Masc. BRONCE - PRIMERA 1\u00aa DIVISION - GRUPO 1"
 uid: "game-2026-10-18-mejorada-2012-c-b-colmenar-viejo-sub-22-masculino"
 slug: "game-2026-10-18-mejorada-2012-c-b-colmenar-viejo-sub-22-masculino"
 weight: 21020261018100062

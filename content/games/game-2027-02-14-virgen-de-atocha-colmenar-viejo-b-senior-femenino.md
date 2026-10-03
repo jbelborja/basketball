@@ -17,6 +17,7 @@ venue_title: "CAMPO POR DETERMINAR ..."
 venue_address: "Madrid"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2027-02-14-virgen-de-atocha-colmenar-viejo-b-senior-femenino"
 slug: "game-2027-02-14-virgen-de-atocha-colmenar-viejo-b-senior-femenino"
 weight: 12220270214120020

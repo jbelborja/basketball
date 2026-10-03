@@ -17,6 +17,7 @@ venue_title: "DULCE CHACON"
 venue_address: "PABELLON FEDERICA MONTSENY, 3, Rivas-Vaciamadrid"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-10-04-uros-de-rivas-colmenar-viejo-senior-masculino"
 slug: "game-2026-10-04-uros-de-rivas-colmenar-viejo-senior-masculino"
 weight: 11020261004203024

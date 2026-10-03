@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2027-02-13-colmenar-viejo-b-liceo-frances-2012-cadete-masculino"
 slug: "game-2027-02-13-colmenar-viejo-b-liceo-frances-2012-cadete-masculino"
 weight: 41220270213120099

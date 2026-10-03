@@ -17,6 +17,7 @@ venue_title: ". RONDA DEL SUR"
 venue_address: "46, Arganda del Rey"
 category: "Alev\u00edn"
 gender: "masculino"
+league_title: "Alv Mas 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 7"
 uid: "game-2026-11-08-descansa-colmenar-viejo-alevin-masculino"
 slug: "game-2026-11-08-descansa-colmenar-viejo-alevin-masculino"
 weight: 61020261108120025

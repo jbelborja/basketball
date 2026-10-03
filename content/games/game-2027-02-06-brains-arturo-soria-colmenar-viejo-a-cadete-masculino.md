@@ -17,6 +17,7 @@ venue_title: "BRAINS ARTURO SORIA"
 venue_address: "COLEGIO MARIA LOMBILLO, 5, Madrid"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-02-06-brains-arturo-soria-colmenar-viejo-a-cadete-masculino"
 slug: "game-2027-02-06-brains-arturo-soria-colmenar-viejo-a-cadete-masculino"
 weight: 41120270206120058

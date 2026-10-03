@@ -17,6 +17,7 @@ venue_title: "SAN BLAS"
 venue_address: "PABELLON CIRCULAR CALLE ARCOS DE JALON, 59, Madrid"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-12-13-cesur-distrito-olimpico-colmenar-viejo-a-senior-masculino"
 slug: "game-2026-12-13-cesur-distrito-olimpico-colmenar-viejo-a-senior-masculino"
 weight: 11120261213120000

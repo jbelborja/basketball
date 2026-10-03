@@ -17,6 +17,7 @@ venue_title: "PEPE DOMAICA"
 venue_address: "PABELLON (PISTA CENTRAL) PLAZA ELIPTICA, 2, Madrid"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2027-03-14-san-viator-la-maluca-colmenar-viejo-b-senior-femenino"
 slug: "game-2027-03-14-san-viator-la-maluca-colmenar-viejo-b-senior-femenino"
 weight: 12220270314130020

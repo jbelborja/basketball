@@ -17,6 +17,7 @@ venue_title: "COLMENAR VIEJO B"
 venue_address: "COLMENAR VIEJO B"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2026-10-01-colmenar-viejo-c-28-cadete-masculino"
 slug: "game-2026-10-01-colmenar-viejo-c-28-cadete-masculino"
 weight: 41320261001120062

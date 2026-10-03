@@ -17,6 +17,7 @@ venue_title: "MEJORADA"
 venue_address: "PABELLON MPAL. JOAN MIRO, S/N, Mejorada del Campo"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2026-12-12-mejorada-2012-c-b-colmenar-viejo-b-cadete-masculino"
 slug: "game-2026-12-12-mejorada-2012-c-b-colmenar-viejo-b-cadete-masculino"
 weight: 41220261212130064

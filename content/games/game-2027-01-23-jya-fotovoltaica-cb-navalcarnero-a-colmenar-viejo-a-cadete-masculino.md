@@ -17,6 +17,7 @@ venue_title: "LA ESTACION"
 venue_address: "PABELLON MUNICIPAL RIO EBRO, S/N, Navalcarnero"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-01-23-jya-fotovoltaica-cb-navalcarnero-a-colmenar-viejo-a-cadete-masculino"
 slug: "game-2027-01-23-jya-fotovoltaica-cb-navalcarnero-a-colmenar-viejo-a-cadete-masculino"
 weight: 41120270123120059

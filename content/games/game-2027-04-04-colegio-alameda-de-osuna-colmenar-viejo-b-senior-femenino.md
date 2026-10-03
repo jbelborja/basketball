@@ -17,6 +17,7 @@ venue_title: "ALAMEDA DE OSUNA"
 venue_address: "PABELLON COLEGIO CALLE LA RIOJA, 1, Madrid"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2027-04-04-colegio-alameda-de-osuna-colmenar-viejo-b-senior-femenino"
 slug: "game-2027-04-04-colegio-alameda-de-osuna-colmenar-viejo-b-senior-femenino"
 weight: 12220270404120009

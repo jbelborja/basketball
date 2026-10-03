@@ -17,6 +17,7 @@ venue_title: "SUPERA"
 venue_address: "PABELLON AVDA. DE LOS PLANETAS, 42, Parla"
 category: "Alev\u00edn"
 gender: "masculino"
+league_title: "Alv Mas 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 7"
 uid: "game-2026-10-10-la-paz-c-d-colmenar-viejo-alevin-masculino"
 slug: "game-2026-10-10-la-paz-c-d-colmenar-viejo-alevin-masculino"
 weight: 61020261010140022

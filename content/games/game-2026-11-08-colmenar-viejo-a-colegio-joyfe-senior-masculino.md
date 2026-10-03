@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-11-08-colmenar-viejo-a-colegio-joyfe-senior-masculino"
 slug: "game-2026-11-08-colmenar-viejo-a-colegio-joyfe-senior-masculino"
 weight: 11120261108120004

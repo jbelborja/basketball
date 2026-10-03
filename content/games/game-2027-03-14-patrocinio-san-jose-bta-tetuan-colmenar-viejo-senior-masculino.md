@@ -17,6 +17,7 @@ venue_title: "ANTONIO DIAZ MIGUEL"
 venue_address: "PDVO. MPAL. JOAQUIN DICENTA, 1, Madrid"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-03-14-patrocinio-san-jose-bta-tetuan-colmenar-viejo-senior-masculino"
 slug: "game-2027-03-14-patrocinio-san-jose-bta-tetuan-colmenar-viejo-senior-masculino"
 weight: 11020270314120005

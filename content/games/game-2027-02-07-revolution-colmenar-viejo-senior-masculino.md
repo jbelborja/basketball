@@ -17,6 +17,7 @@ venue_title: "ALUCHE"
 venue_address: "PDVO. MPAL. AVDA. DE LAS AGUILAS, 14, Madrid"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-02-07-revolution-colmenar-viejo-senior-masculino"
 slug: "game-2027-02-07-revolution-colmenar-viejo-senior-masculino"
 weight: 11020270207120025

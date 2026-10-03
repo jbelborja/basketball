@@ -17,6 +17,7 @@ venue_title: "LA MASO"
 venue_address: "PABELLON Calle de La Mas\u00f3, 80, Madrid"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2026-10-04-isaac-newton-colmenar-viejo-b-senior-femenino"
 slug: "game-2026-10-04-isaac-newton-colmenar-viejo-b-senior-femenino"
 weight: 12220261004090086

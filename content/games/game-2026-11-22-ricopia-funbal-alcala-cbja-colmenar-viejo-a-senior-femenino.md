@@ -17,6 +17,7 @@ venue_title: "JUAN DE AUSTRIA"
 venue_address: "PABELLON (PISTA CENTRAL) JOSE CABALLERO, S/N, Alcal\u00e1 de Henares"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-11-22-ricopia-funbal-alcala-cbja-colmenar-viejo-a-senior-femenino"
 slug: "game-2026-11-22-ricopia-funbal-alcala-cbja-colmenar-viejo-a-senior-femenino"
 weight: 12120261122120065

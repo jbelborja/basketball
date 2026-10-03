@@ -17,6 +17,7 @@ venue_title: "PIO BAROJA"
 venue_address: "PABELLON C.E.I.P. CAMINO CARRASQUILLAS, frente n\u00ba 3, M\u00f3stoles"
 category: "Infantil"
 gender: "masculino"
+league_title: "Infantil Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-04-03-opticlass-raices-mostoles-colmenar-viejo-b-infantil-masculino"
 slug: "game-2027-04-03-opticlass-raices-mostoles-colmenar-viejo-b-infantil-masculino"
 weight: 51220270403120053

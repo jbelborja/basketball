@@ -17,6 +17,7 @@ venue_title: "WILFRED AGBONAVBARE"
 venue_address: "PABELLON C/ REGUERA DE TOMATEROS, 39, Madrid"
 category: "Sub 22"
 gender: "masculino"
+league_title: "Sub 22 Masc. BRONCE - PRIMERA 1\u00aa DIVISION - GRUPO 1"
 uid: "game-2027-02-07-vallekas-basket-colmenar-viejo-sub-22-masculino"
 slug: "game-2027-02-07-vallekas-basket-colmenar-viejo-sub-22-masculino"
 weight: 21020270207170018

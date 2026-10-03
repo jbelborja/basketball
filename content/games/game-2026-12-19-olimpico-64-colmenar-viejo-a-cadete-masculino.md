@@ -17,6 +17,7 @@ venue_title: "SAGE 2000"
 venue_address: "PABELLON ESCALONA, 59, Madrid"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-12-19-olimpico-64-colmenar-viejo-a-cadete-masculino"
 slug: "game-2026-12-19-olimpico-64-colmenar-viejo-a-cadete-masculino"
 weight: 41120261219120001

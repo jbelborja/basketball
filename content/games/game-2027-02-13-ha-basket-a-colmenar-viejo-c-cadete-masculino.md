@@ -17,6 +17,7 @@ venue_title: "ARGANZUELA"
 venue_address: "CENTRO INTEGRADO C/ PALOS DE LA FRONTERA, 40, Madrid"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2027-02-13-ha-basket-a-colmenar-viejo-c-cadete-masculino"
 slug: "game-2027-02-13-ha-basket-a-colmenar-viejo-c-cadete-masculino"
 weight: 41320270213120091

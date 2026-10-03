@@ -17,6 +17,7 @@ venue_title: "MIRAMADRID"
 venue_address: "PABELLON COLEGIO MAR CASPIO, 21, Paracuellos de Jarama"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 5\u00aa DIVISION - GRUPO PAR"
 uid: "game-2027-03-06-miramadrid-club-deportivo-basico-amarillo-colmenar-viejo-c-junior-masculino"
 slug: "game-2027-03-06-miramadrid-club-deportivo-basico-amarillo-colmenar-viejo-c-junior-masculino"
 weight: 31320270306120050

@@ -17,6 +17,7 @@ venue_title: "LOS MOSQUITOS"
 venue_address: "PABELLON SANTANDER, 110, Arroyomolinos"
 category: "Alev\u00edn"
 gender: "masculino"
+league_title: "Alv Mas 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 7"
 uid: "game-2027-01-16-arroyomolinos-c-b-a-colmenar-viejo-alevin-masculino"
 slug: "game-2027-01-16-arroyomolinos-c-b-a-colmenar-viejo-alevin-masculino"
 weight: 61020270116120020

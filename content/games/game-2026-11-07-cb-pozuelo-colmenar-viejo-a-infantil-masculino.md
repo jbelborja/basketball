@@ -17,6 +17,7 @@ venue_title: "GERARDO DIEGO"
 venue_address: "I.E.S. IRLANDA, S/N, Pozuelo de Alarc\u00f3n"
 category: "Infantil"
 gender: "masculino"
+league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-11-07-cb-pozuelo-colmenar-viejo-a-infantil-masculino"
 slug: "game-2026-11-07-cb-pozuelo-colmenar-viejo-a-infantil-masculino"
 weight: 51120261107120007

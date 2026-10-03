@@ -17,6 +17,7 @@ venue_title: "VERITAS"
 venue_address: "PABELLON INSTITUTO (PISTA CENTRAL) AVDA. RADIO TELEVISION, 2, Pozuelo de Alarc\u00f3n"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-12-19-veritas-pozuelo-colmenar-viejo-a-senior-femenino"
 slug: "game-2026-12-19-veritas-pozuelo-colmenar-viejo-a-senior-femenino"
 weight: 12120261219180099

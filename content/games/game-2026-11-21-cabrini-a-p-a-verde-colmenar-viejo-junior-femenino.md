@@ -17,6 +17,7 @@ venue_title: "CABRINI"
 venue_address: "COLEGIO (Semicubierto) STA. FRANCISCA JAVIER CABRINI esquina C/ Sic\u00e9lidas, Madrid"
 category: "Junior"
 gender: "femenino"
+league_title: "Junior Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 5"
 uid: "game-2026-11-21-cabrini-a-p-a-verde-colmenar-viejo-junior-femenino"
 slug: "game-2026-11-21-cabrini-a-p-a-verde-colmenar-viejo-junior-femenino"
 weight: 32020261121120019

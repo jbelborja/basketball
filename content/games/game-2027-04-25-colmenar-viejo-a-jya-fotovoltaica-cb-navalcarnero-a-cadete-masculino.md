@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-04-25-colmenar-viejo-a-jya-fotovoltaica-cb-navalcarnero-a-cadete-masculino"
 slug: "game-2027-04-25-colmenar-viejo-a-jya-fotovoltaica-cb-navalcarnero-a-cadete-masculino"
 weight: 41120270425120092

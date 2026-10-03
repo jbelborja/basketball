@@ -17,6 +17,7 @@ venue_title: "PARQUE DE CATALU\u00d1A"
 venue_address: "CLUB DEPORTIVO CALLE HILADOS, 2, Torrej\u00f3n de Ardoz"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-02-20-parque-cataluna-torrejon-amarillo-colmenar-viejo-a-cadete-masculino"
 slug: "game-2027-02-20-parque-cataluna-torrejon-amarillo-colmenar-viejo-a-cadete-masculino"
 weight: 41120270220120081

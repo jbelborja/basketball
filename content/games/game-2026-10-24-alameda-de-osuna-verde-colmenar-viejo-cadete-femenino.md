@@ -17,6 +17,7 @@ venue_title: "VILLA DE MADRID"
 venue_address: "PABELLON CALLE BREZOS, 4, Madrid"
 category: "Cadete"
 gender: "femenino"
+league_title: "Cadete Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 2"
 uid: "game-2026-10-24-alameda-de-osuna-verde-colmenar-viejo-cadete-femenino"
 slug: "game-2026-10-24-alameda-de-osuna-verde-colmenar-viejo-cadete-femenino"
 weight: 42020261024120020

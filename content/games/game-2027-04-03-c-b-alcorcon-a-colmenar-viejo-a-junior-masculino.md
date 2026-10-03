@@ -17,6 +17,7 @@ venue_title: "LOS CANTOS"
 venue_address: "PABELLON PISTA 5 LOS CANTOS, 28, Alcorc\u00f3n"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-04-03-c-b-alcorcon-a-colmenar-viejo-a-junior-masculino"
 slug: "game-2027-04-03-c-b-alcorcon-a-colmenar-viejo-a-junior-masculino"
 weight: 31120270403120070

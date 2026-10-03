@@ -17,6 +17,7 @@ venue_title: "FRANCISCO FERNANDEZ OCHOA"
 venue_address: "PABELLON DE LAS 14 OLIVAS, S/N, Madrid"
 category: "Cadete"
 gender: "femenino"
+league_title: "Cadete Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 2"
 uid: "game-2027-01-30-distrito-carabanchel-b-colmenar-viejo-cadete-femenino"
 slug: "game-2027-01-30-distrito-carabanchel-b-colmenar-viejo-cadete-femenino"
 weight: 42020270130120024

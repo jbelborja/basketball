@@ -17,6 +17,7 @@ venue_title: "DUQUE DE ALGETE"
 venue_address: "PABELLON CAMINO VEREDA DE LA LOBERA, S/N, Algete"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-01-24-villa-de-algete-colmenar-viejo-senior-masculino"
 slug: "game-2027-01-24-villa-de-algete-colmenar-viejo-senior-masculino"
 weight: 11020270124190006

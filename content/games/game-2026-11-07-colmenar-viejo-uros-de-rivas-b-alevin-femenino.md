@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Alev\u00edn"
 gender: "femenino"
+league_title: "Alv Fem 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13"
 uid: "game-2026-11-07-colmenar-viejo-uros-de-rivas-b-alevin-femenino"
 slug: "game-2026-11-07-colmenar-viejo-uros-de-rivas-b-alevin-femenino"
 weight: 62020261107120015

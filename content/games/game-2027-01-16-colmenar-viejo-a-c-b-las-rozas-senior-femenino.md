@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-01-16-colmenar-viejo-a-c-b-las-rozas-senior-femenino"
 slug: "game-2027-01-16-colmenar-viejo-a-c-b-las-rozas-senior-femenino"
 weight: 12120270116120073

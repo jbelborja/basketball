@@ -46,28 +46,28 @@
   </div>
 
   <!-- MAIN NAVIGATION -->
-  <header class="bg-slate-900/95 backdrop-blur-md border-b border-slate-800 sticky top-0 z-50">
+  <header class="relative bg-slate-900/95 backdrop-blur-md border-b border-slate-800 sticky top-0 z-50">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex items-center justify-between h-20">
         
         <!-- Brand Logo & Title -->
-        <a href="{{ "" | relURL }}" class="flex items-center gap-3 group min-w-0">
+        <a href="{{ "" | relURL }}" class="flex items-center gap-3 group flex-shrink-0 whitespace-nowrap">
           <div class="relative flex-shrink-0">
             <img src="{{ "images/teams/cbcolmenar.png" | relURL }}" alt="CB Colmenar Viejo" class="h-12 w-12 rounded-full object-cover ring-2 ring-orange-500 ring-offset-2 ring-offset-slate-900 group-hover:scale-105 transition-transform duration-300 shadow-lg shadow-orange-500/20"/>
             <span class="absolute -bottom-1 -right-1 bg-orange-500 text-[9px] font-extrabold px-1.5 py-0.2 rounded text-white font-sports uppercase tracking-wider">CB</span>
           </div>
-          <div class="min-w-0 overflow-hidden">
-            <div class="font-sports text-lg sm:text-2xl font-bold tracking-wider uppercase text-white group-hover:text-orange-400 transition truncate">
+          <div>
+            <div class="font-sports text-lg sm:text-2xl font-bold tracking-wider uppercase text-white group-hover:text-orange-400 transition">
               CB COLMENAR VIEJO
             </div>
-            <div class="text-[11px] font-semibold tracking-widest uppercase text-slate-400 truncate">
+            <div class="text-[11px] font-semibold tracking-widest uppercase text-slate-400">
               Pasión · Esfuerzo · Victoria
             </div>
           </div>
         </a>
 
         <!-- Desktop Menu Links -->
-        <nav class="hidden md:flex items-center gap-1 lg:gap-2">
+        <nav class="hidden xl:flex items-center gap-1 xl:gap-2">
           <a href="{{ "" | relURL }}" class="px-3.5 py-2 rounded-lg text-sm font-semibold text-slate-300 hover:text-white hover:bg-slate-800/80 transition {{ if eq .RelPermalink "/" }}text-orange-400 bg-slate-800/60 font-bold{{ end }}">
             Inicio
           </a>
@@ -86,18 +86,18 @@
         </nav>
 
         <!-- Right Filters & Category Selects -->
-        <div class="hidden lg:flex items-center gap-3">
+        <div class="hidden xl:flex items-center gap-3">
           <div class="flex items-center gap-1.5 bg-slate-800/70 p-1 rounded-xl border border-slate-700/60 text-xs">
-            <select id="filter-category" class="bg-slate-900 border-0 rounded-lg text-slate-200 py-1 px-2.5 font-medium focus:ring-1 focus:ring-orange-500 cursor-pointer">
-              <option value="all">Todas las Categorías</option>
-              {{ range .Site.Params.categories }}
-              <option value="{{ . }}">{{ . }}</option>
-              {{ end }}
-            </select>
-            <select id="filter-gender" class="bg-slate-900 border-0 rounded-lg text-slate-200 py-1 px-2.5 font-medium focus:ring-1 focus:ring-orange-500 cursor-pointer capitalize">
-              <option value="all">Todos los Géneros</option>
-              {{ range .Site.Params.genders }}
-              <option value="{{ . }}">{{ . }}</option>
+            <select id="filter-team" class="bg-slate-900 border-0 rounded-lg text-slate-200 py-1 px-2.5 font-medium focus:ring-1 focus:ring-orange-500 cursor-pointer capitalize">
+              <option value="all">Todos los Equipos</option>
+              {{ $uniqueTeams := slice }}
+              {{ range .Site.Data.teams }}
+                {{ $teamKey := printf "%s|%s" (lower .category) (lower .gender) }}
+                {{ $teamDisplay := printf "%s %s" .category .gender }}
+                {{ if not (in $uniqueTeams $teamKey) }}
+                  {{ $uniqueTeams = $uniqueTeams | append $teamKey }}
+                  <option value="{{ $teamKey }}">{{ $teamDisplay }}</option>
+                {{ end }}
               {{ end }}
             </select>
           </div>
@@ -109,9 +109,14 @@
         </div>
 
         <!-- Mobile menu button -->
-        <button type="button" id="mobile-menu-btn" class="md:hidden p-2 rounded-lg text-slate-400 hover:text-white hover:bg-slate-800 focus:outline-none" aria-label="Abrir menú">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <button type="button" id="mobile-menu-btn" class="xl:hidden p-2 rounded-lg text-slate-400 hover:text-white hover:bg-slate-800 focus:outline-none" aria-label="Toggle menú">
+          <!-- Icon when menu is closed (Hamburger) -->
+          <svg id="icon-menu-open" class="w-6 h-6 block" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+          </svg>
+          <!-- Icon when menu is open (X) -->
+          <svg id="icon-menu-close" class="w-6 h-6 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
           </svg>
         </button>
 
@@ -119,7 +124,7 @@
     </div>
 
     <!-- Mobile Dropdown -->
-    <div id="mobile-menu" class="hidden md:hidden border-t border-slate-800 bg-slate-900 px-4 pt-3 pb-6 space-y-2">
+    <div id="mobile-menu" class="hidden xl:hidden absolute top-full left-0 w-full border-b border-slate-800 bg-slate-900/95 backdrop-blur-md shadow-2xl px-4 pt-3 pb-6 space-y-2">
       <a href="{{ "" | relURL }}" class="block px-3 py-2 rounded-lg text-base font-semibold text-slate-200 hover:bg-slate-800">Inicio</a>
       <a href="{{ "games/" | relURL }}" class="nav-calendar-link block px-3 py-2 rounded-lg text-base font-semibold text-slate-200 hover:bg-slate-800">Calendario</a>
       <a href="{{ "classification/" | relURL }}" class="block px-3 py-2 rounded-lg text-base font-semibold text-slate-200 hover:bg-slate-800">Clasificación</a>
@@ -129,16 +134,16 @@
       <!-- Mobile Filters -->
       <div class="pt-3 mt-1 border-t border-slate-800 space-y-2">
         <p class="px-3 text-[11px] font-bold uppercase tracking-wider text-slate-500">Filtrar por</p>
-        <select id="filter-category-mobile" class="w-full bg-slate-800 border border-slate-700 rounded-xl text-slate-200 py-2 px-3 text-sm font-medium focus:ring-1 focus:ring-orange-500 cursor-pointer">
-          <option value="all">Todas las Categorías</option>
-          {{ range .Site.Params.categories }}
-          <option value="{{ . }}">{{ . }}</option>
-          {{ end }}
-        </select>
-        <select id="filter-gender-mobile" class="w-full bg-slate-800 border border-slate-700 rounded-xl text-slate-200 py-2 px-3 text-sm font-medium focus:ring-1 focus:ring-orange-500 cursor-pointer capitalize">
-          <option value="all">Todos los Géneros</option>
-          {{ range .Site.Params.genders }}
-          <option value="{{ . }}">{{ . }}</option>
+        <select id="filter-team-mobile" class="w-full bg-slate-800 border border-slate-700 rounded-xl text-slate-200 py-2 px-3 text-sm font-medium focus:ring-1 focus:ring-orange-500 cursor-pointer capitalize">
+          <option value="all">Todos los Equipos</option>
+          {{ $uniqueTeamsMobile := slice }}
+          {{ range .Site.Data.teams }}
+            {{ $teamKey := printf "%s|%s" (lower .category) (lower .gender) }}
+            {{ $teamDisplay := printf "%s %s" .category .gender }}
+            {{ if not (in $uniqueTeamsMobile $teamKey) }}
+              {{ $uniqueTeamsMobile = $uniqueTeamsMobile | append $teamKey }}
+              <option value="{{ $teamKey }}">{{ $teamDisplay }}</option>
+            {{ end }}
           {{ end }}
         </select>
       </div>
@@ -206,38 +211,81 @@
     /* ── Mobile menu toggle ── */
     const btn = document.getElementById('mobile-menu-btn');
     const menu = document.getElementById('mobile-menu');
-    if (btn && menu) {
-      btn.addEventListener('click', () => menu.classList.toggle('hidden'));
+    const iconOpen = document.getElementById('icon-menu-open');
+    const iconClose = document.getElementById('icon-menu-close');
+
+    function closeMobileMenu() {
+      if (menu) menu.classList.add('hidden');
+      if (iconOpen && iconClose) {
+        iconOpen.classList.remove('hidden');
+        iconOpen.classList.add('block');
+        iconClose.classList.remove('block');
+        iconClose.classList.add('hidden');
+      }
+    }
+    function openMobileMenu() {
+      if (menu) menu.classList.remove('hidden');
+      if (iconOpen && iconClose) {
+        iconOpen.classList.remove('block');
+        iconOpen.classList.add('hidden');
+        iconClose.classList.remove('hidden');
+        iconClose.classList.add('block');
+      }
+    }
+    function isMobileMenuOpen() {
+      return menu && !menu.classList.contains('hidden');
     }
 
+    if (btn && menu) {
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        if (isMobileMenuOpen()) { closeMobileMenu(); } else { openMobileMenu(); }
+      });
+    }
+
+    /* Auto-close when viewport reaches desktop size (xl = 1280px) */
+    window.addEventListener('resize', () => {
+      if (window.innerWidth >= 1280) closeMobileMenu();
+    });
+
+    /* Close when clicking outside the header */
+    document.addEventListener('click', (e) => {
+      if (isMobileMenuOpen() && !e.target.closest('header')) {
+        closeMobileMenu();
+      }
+    });
+
     /* ── Persistent global filters ── */
-    const STORAGE_KEY_CAT = 'cbcv_filter_category';
-    const STORAGE_KEY_GEN = 'cbcv_filter_gender';
+    const STORAGE_KEY_TEAM = 'cbcv_filter_team';
 
     document.addEventListener('DOMContentLoaded', () => {
-      const catSelect       = document.getElementById('filter-category');
-      const genSelect       = document.getElementById('filter-gender');
-      const catSelectMobile = document.getElementById('filter-category-mobile');
-      const genSelectMobile = document.getElementById('filter-gender-mobile');
+      const teamSelect       = document.getElementById('filter-team');
+      const teamSelectMobile = document.getElementById('filter-team-mobile');
       const statSelect      = document.getElementById('filter-status');
 
       /* ── Restore persisted values (localStorage wins over URL params) ── */
       const urlParams = new URLSearchParams(window.location.search);
 
-      function restoreSelect(el, storageKey, urlParamKey) {
+      const urlCat = urlParams.get('category');
+      const urlGen = urlParams.get('gender');
+      let urlTeam = null;
+      if (urlCat && urlGen) {
+        urlTeam = `${urlCat.toLowerCase()}|${urlGen.toLowerCase()}`;
+      } else if (urlParams.get('team')) {
+        urlTeam = urlParams.get('team');
+      }
+
+      function restoreSelect(el, storageKey, urlVal) {
         if (!el) return;
         const stored = localStorage.getItem(storageKey);
-        const fromUrl = urlParams.get(urlParamKey);
-        const val = fromUrl || stored || 'all';
+        const val = urlVal || stored || 'all';
         if (val && el.querySelector(`option[value="${val}"]`)) {
           el.value = val;
         }
       }
 
-      restoreSelect(catSelect,       STORAGE_KEY_CAT, 'category');
-      restoreSelect(genSelect,       STORAGE_KEY_GEN, 'gender');
-      restoreSelect(catSelectMobile, STORAGE_KEY_CAT, 'category');
-      restoreSelect(genSelectMobile, STORAGE_KEY_GEN, 'gender');
+      restoreSelect(teamSelect,       STORAGE_KEY_TEAM, urlTeam);
+      restoreSelect(teamSelectMobile, STORAGE_KEY_TEAM, urlTeam);
 
       if (statSelect && urlParams.has('status')) {
         statSelect.value = urlParams.get('status');
@@ -264,11 +312,14 @@
 
       /* ── Keep the calendar nav-link URL in sync ── */
       function updateNavLinks() {
-        const cat = catSelect ? catSelect.value : 'all';
-        const gen = genSelect ? genSelect.value : 'all';
+        const team = teamSelect ? teamSelect.value : 'all';
         const params = new URLSearchParams();
-        if (cat && cat !== 'all') params.set('category', cat);
-        if (gen && gen !== 'all') params.set('gender', gen);
+        if (team && team !== 'all') {
+            const [cat, gen] = team.split('|');
+            params.set('category', cat);
+            params.set('gender', gen);
+            params.set('team', team);
+        }
         const qs = params.toString();
         const base = "{{ "games/" | relURL }}";
         document.querySelectorAll('.nav-calendar-link').forEach(a => {
@@ -278,19 +329,28 @@
 
       /* ── Core filter function — works on any page ── */
       function applyFilters() {
-        const cat  = (catSelect  ? catSelect.value  : 'all').toLowerCase().trim();
-        const gen  = (genSelect  ? genSelect.value  : 'all').toLowerCase().trim();
+        const teamVal = (teamSelect ? teamSelect.value : 'all').trim();
         const stat = (statSelect ? statSelect.value : 'all').toLowerCase().trim();
 
         /* Persist to localStorage */
-        if (catSelect) localStorage.setItem(STORAGE_KEY_CAT, catSelect.value);
-        if (genSelect) localStorage.setItem(STORAGE_KEY_GEN, genSelect.value);
+        if (teamSelect) localStorage.setItem(STORAGE_KEY_TEAM, teamSelect.value);
 
         /* Update URL params without navigation */
         const currentUrl = new URL(window.location);
-        cat  !== 'all' ? currentUrl.searchParams.set('category', catSelect.value) : currentUrl.searchParams.delete('category');
-        gen  !== 'all' ? currentUrl.searchParams.set('gender',   genSelect.value) : currentUrl.searchParams.delete('gender');
-        stat !== 'all' ? currentUrl.searchParams.set('status',   statSelect ? statSelect.value : '') : currentUrl.searchParams.delete('status');
+        
+        let cat = 'all', gen = 'all';
+        if (teamVal !== 'all') {
+            [cat, gen] = teamVal.split('|');
+            currentUrl.searchParams.set('category', cat);
+            currentUrl.searchParams.set('gender', gen);
+            currentUrl.searchParams.set('team', teamVal);
+        } else {
+            currentUrl.searchParams.delete('category');
+            currentUrl.searchParams.delete('gender');
+            currentUrl.searchParams.delete('team');
+        }
+
+        stat !== 'all' ? currentUrl.searchParams.set('status', statSelect ? statSelect.value : '') : currentUrl.searchParams.delete('status');
         window.history.replaceState({}, '', currentUrl);
 
         updateNavLinks();
@@ -298,6 +358,7 @@
         /* Show/hide filterable elements on the current page */
         const items = document.querySelectorAll('[data-category]');
         let visible = 0;
+
         items.forEach(el => {
           const elCat  = (el.getAttribute('data-category') || '').toLowerCase().trim();
           const elGen  = (el.getAttribute('data-gender')   || '').toLowerCase().trim();
@@ -313,7 +374,7 @@
 
         const empty = document.getElementById('filter-empty-state');
         if (empty) {
-          const isFiltered = cat !== 'all' || gen !== 'all' || stat !== 'all';
+          const isFiltered = teamVal !== 'all' || stat !== 'all';
           empty.classList.toggle('hidden', !(visible === 0 && isFiltered));
         }
       }
@@ -329,36 +390,20 @@
       });
 
       /* ── Wire up desktop selects ── */
-      let _lastCat = catSelect ? catSelect.value : 'all';
-      let _lastGen = genSelect ? genSelect.value : 'all';
-
-      if (catSelect) catSelect.addEventListener('change', () => {
-        if (catSelect.value === _lastCat) return;
-        _lastCat = catSelect.value;
-        syncPair(catSelect, catSelectMobile);
-        applyFilters();
-      });
-      if (genSelect) genSelect.addEventListener('change', () => {
-        if (genSelect.value === _lastGen) return;
-        _lastGen = genSelect.value;
-        syncPair(genSelect, genSelectMobile);
+      let _lastTeam = teamSelect ? teamSelect.value : 'all';
+      if (teamSelect) teamSelect.addEventListener('change', () => {
+        if (teamSelect.value === _lastTeam) return;
+        _lastTeam = teamSelect.value;
+        syncPair(teamSelect, teamSelectMobile);
         applyFilters();
       });
 
       /* ── Wire up mobile selects ── */
-      let _lastCatMobile = catSelectMobile ? catSelectMobile.value : 'all';
-      let _lastGenMobile = genSelectMobile ? genSelectMobile.value : 'all';
-
-      if (catSelectMobile) catSelectMobile.addEventListener('change', () => {
-        if (catSelectMobile.value === _lastCatMobile) return;
-        _lastCatMobile = catSelectMobile.value;
-        syncPair(catSelectMobile, catSelect);
-        applyFilters();
-      });
-      if (genSelectMobile) genSelectMobile.addEventListener('change', () => {
-        if (genSelectMobile.value === _lastGenMobile) return;
-        _lastGenMobile = genSelectMobile.value;
-        syncPair(genSelectMobile, genSelect);
+      let _lastTeamMobile = teamSelectMobile ? teamSelectMobile.value : 'all';
+      if (teamSelectMobile) teamSelectMobile.addEventListener('change', () => {
+        if (teamSelectMobile.value === _lastTeamMobile) return;
+        _lastTeamMobile = teamSelectMobile.value;
+        syncPair(teamSelectMobile, teamSelect);
         applyFilters();
       });
 

@@ -17,6 +17,7 @@ venue_title: "FRANCISCO FERNANDEZ OCHOA"
 venue_address: "PABELLON DE LAS 14 OLIVAS, S/N, Madrid"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-11-14-distrito-carabanchel-a-colmenar-viejo-a-cadete-masculino"
 slug: "game-2026-11-14-distrito-carabanchel-a-colmenar-viejo-a-cadete-masculino"
 weight: 41120261114120030

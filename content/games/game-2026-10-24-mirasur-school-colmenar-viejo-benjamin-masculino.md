@@ -17,6 +17,7 @@ venue_title: "MIRASUR"
 venue_address: "PABELLON COLEGIO PABLO GARGALLO, 1, Pinto"
 category: "Benjam\u00edn"
 gender: "masculino"
+league_title: "Benj Mas 2\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 11"
 uid: "game-2026-10-24-mirasur-school-colmenar-viejo-benjamin-masculino"
 slug: "game-2026-10-24-mirasur-school-colmenar-viejo-benjamin-masculino"
 weight: 71020261024120091

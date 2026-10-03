@@ -17,6 +17,7 @@ venue_title: "JUAN DE LA CIERVA"
 venue_address: "PABELLON PISTA CENTRAL AV. ESPA\u00d1A, 90, Getafe"
 category: "Alev\u00edn"
 gender: "masculino"
+league_title: "Alv Mas 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9"
 uid: "game-2026-11-07-c-b-getafe-b-colmenar-viejo-blanco-alevin-masculino"
 slug: "game-2026-11-07-c-b-getafe-b-colmenar-viejo-blanco-alevin-masculino"
 weight: 61020261107120036

@@ -17,6 +17,7 @@ venue_title: "LOS ROSALES"
 venue_address: "PABELLON (PISTA CENTRAL) LILAS, S/N (Frente n\u00ba 7), M\u00f3stoles"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-11-08-grupo-bursan-c-b-ciudad-de-mostoles-colmenar-viejo-senior-masculino"
 slug: "game-2026-11-08-grupo-bursan-c-b-ciudad-de-mostoles-colmenar-viejo-senior-masculino"
 weight: 11020261108120009

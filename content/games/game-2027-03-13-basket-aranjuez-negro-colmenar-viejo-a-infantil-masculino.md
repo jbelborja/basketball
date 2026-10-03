@@ -17,6 +17,7 @@ venue_title: "LAS OLIVAS"
 venue_address: "CIUDAD DEPORTIVA C/ JUAN DE HERRERA, 1, Aranjuez"
 category: "Infantil"
 gender: "masculino"
+league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-03-13-basket-aranjuez-negro-colmenar-viejo-a-infantil-masculino"
 slug: "game-2027-03-13-basket-aranjuez-negro-colmenar-viejo-a-infantil-masculino"
 weight: 51120270313120078

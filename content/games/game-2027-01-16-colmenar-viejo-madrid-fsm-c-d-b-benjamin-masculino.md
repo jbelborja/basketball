@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Benjam\u00edn"
 gender: "masculino"
+league_title: "Benj Mas 2\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 11"
 uid: "game-2027-01-16-colmenar-viejo-madrid-fsm-c-d-b-benjamin-masculino"
 slug: "game-2027-01-16-colmenar-viejo-madrid-fsm-c-d-b-benjamin-masculino"
 weight: 71020270116120011

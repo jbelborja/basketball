@@ -17,6 +17,7 @@ venue_title: "LA LUZ"
 venue_address: "PABELLON PISTA 3 AVENIDA DE LA LUZ, 6, Tres Cantos"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2026-12-20-moveup-tres-cantos-colmenar-viejo-b-senior-femenino"
 slug: "game-2026-12-20-moveup-tres-cantos-colmenar-viejo-b-senior-femenino"
 weight: 12220261220120087

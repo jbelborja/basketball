@@ -929,6 +929,42 @@
       },
       {
         "position": 3,
+        "team": "CABRINI A.P.A. VERDE",
+        "slug": "cabrini-a-p-a-verde-junior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 1,
+        "d": 0,
+        "pf": 48,
+        "pc": 38,
+        "dif": "+10",
+        "points": 2,
+        "streak": [
+          "V"
+        ],
+        "category": "Junior",
+        "gender": "femenino"
+      },
+      {
+        "position": 4,
+        "team": "IRLANDESAS 2",
+        "slug": "irlandesas-2-junior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 0,
+        "d": 1,
+        "pf": 38,
+        "pc": 48,
+        "dif": "-10",
+        "points": 1,
+        "streak": [
+          "D"
+        ],
+        "category": "Junior",
+        "gender": "femenino"
+      },
+      {
+        "position": 5,
         "team": "COLMENAR VIEJO",
         "slug": "colmenar-viejo-junior-femenino",
         "logo": "images/teams/cbcolmenar.png",
@@ -946,7 +982,7 @@
         "gender": "femenino"
       },
       {
-        "position": 4,
+        "position": 6,
         "team": "ESTUDIANTES INTERNATIONAL SCHOOL \"B\"",
         "slug": "estudiantes-international-school-b-junior-femenino",
         "logo": "images/teams/rival.png",
@@ -964,7 +1000,7 @@
         "gender": "femenino"
       },
       {
-        "position": 5,
+        "position": 7,
         "team": "ARAVACA BASKET C.D.E.",
         "slug": "aravaca-basket-c-d-e-junior-femenino",
         "logo": "images/teams/rival.png",
@@ -980,7 +1016,7 @@
         "gender": "femenino"
       },
       {
-        "position": 6,
+        "position": 8,
         "team": "C.B. CIUDAD DE MÓSTOLES \"B\"",
         "slug": "c-b-ciudad-de-mostoles-b-junior-femenino",
         "logo": "images/teams/rival.png",
@@ -996,7 +1032,7 @@
         "gender": "femenino"
       },
       {
-        "position": 7,
+        "position": 9,
         "team": "FM GESTIONA C.B. VILLA DE VALDEMORO \"B\"",
         "slug": "fm-gestiona-c-b-villa-de-valdemoro-b-junior-femenino",
         "logo": "images/teams/rival.png",
@@ -1012,41 +1048,9 @@
         "gender": "femenino"
       },
       {
-        "position": 8,
-        "team": "CABRINI A.P.A. VERDE",
-        "slug": "cabrini-a-p-a-verde-junior-femenino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
-        "category": "Junior",
-        "gender": "femenino"
-      },
-      {
-        "position": 9,
+        "position": 10,
         "team": "LICEO FRANCES",
         "slug": "liceo-frances-junior-femenino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
-        "category": "Junior",
-        "gender": "femenino"
-      },
-      {
-        "position": 10,
-        "team": "IRLANDESAS 2",
-        "slug": "irlandesas-2-junior-femenino",
         "logo": "images/teams/rival.png",
         "pj": 0,
         "v": 0,
@@ -1293,6 +1297,24 @@
     "teams": [
       {
         "position": 1,
+        "team": "BALONCESTO PARACUELLOS AZUL",
+        "slug": "baloncesto-paracuellos-azul-cadete-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 1,
+        "d": 0,
+        "pf": 115,
+        "pc": 13,
+        "dif": "+102",
+        "points": 2,
+        "streak": [
+          "V"
+        ],
+        "category": "Cadete",
+        "gender": "masculino"
+      },
+      {
+        "position": 2,
         "team": "COLMENAR VIEJO B",
         "slug": "colmenar-viejo-b-cadete-masculino",
         "logo": "images/teams/cbcolmenar.png",
@@ -1310,7 +1332,7 @@
         "gender": "masculino"
       },
       {
-        "position": 2,
+        "position": 3,
         "team": "TRIPLE CHAMBERI",
         "slug": "triple-chamberi-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -1328,7 +1350,7 @@
         "gender": "masculino"
       },
       {
-        "position": 3,
+        "position": 4,
         "team": "BALONCESTO DAGANZO 12 ISUZU REVEIN",
         "slug": "baloncesto-daganzo-12-isuzu-revein-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -1346,7 +1368,7 @@
         "gender": "masculino"
       },
       {
-        "position": 4,
+        "position": 5,
         "team": "ARGANZUELA CENTRO BLANCO",
         "slug": "arganzuela-centro-blanco-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -1364,7 +1386,7 @@
         "gender": "masculino"
       },
       {
-        "position": 5,
+        "position": 6,
         "team": "MEJORADA 2012 C.B.",
         "slug": "mejorada-2012-c-b-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -1382,7 +1404,7 @@
         "gender": "masculino"
       },
       {
-        "position": 6,
+        "position": 7,
         "team": "ESTUDIO B",
         "slug": "estudio-b-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -1400,7 +1422,7 @@
         "gender": "masculino"
       },
       {
-        "position": 7,
+        "position": 8,
         "team": "OROQUIETA ESPINILLO C.D.E.",
         "slug": "oroquieta-espinillo-c-d-e-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -1418,7 +1440,7 @@
         "gender": "masculino"
       },
       {
-        "position": 8,
+        "position": 9,
         "team": "INNOVA-TSN LEGANÉS 2012 \"B\"",
         "slug": "innova-tsn-leganes-2012-b-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -1436,7 +1458,7 @@
         "gender": "masculino"
       },
       {
-        "position": 9,
+        "position": 10,
         "team": "HA BASKET \"A\"",
         "slug": "ha-basket-a-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -1454,7 +1476,7 @@
         "gender": "masculino"
       },
       {
-        "position": 10,
+        "position": 11,
         "team": "COLMENAR VIEJO C",
         "slug": "colmenar-viejo-c-cadete-masculino",
         "logo": "images/teams/cbcolmenar.png",
@@ -1472,34 +1494,20 @@
         "gender": "masculino"
       },
       {
-        "position": 11,
-        "team": "BALONCESTO PARACUELLOS AZUL",
-        "slug": "baloncesto-paracuellos-azul-cadete-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
-        "category": "Cadete",
-        "gender": "masculino"
-      },
-      {
         "position": 12,
         "team": "LICEO FRANCES 2012",
         "slug": "liceo-frances-2012-cadete-masculino",
         "logo": "images/teams/rival.png",
-        "pj": 0,
+        "pj": 1,
         "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
+        "d": 1,
+        "pf": 13,
+        "pc": 115,
+        "dif": "-102",
+        "points": 1,
+        "streak": [
+          "D"
+        ],
         "category": "Cadete",
         "gender": "masculino"
       }

@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2027-01-17-colmenar-viejo-b-isaac-newton-senior-femenino"
 slug: "game-2027-01-17-colmenar-viejo-b-isaac-newton-senior-femenino"
 weight: 12220270117120022

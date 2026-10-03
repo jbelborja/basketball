@@ -17,6 +17,7 @@ venue_title: "SAGRADA FAMILIA JORGE JUAN"
 venue_address: "COLEGIO CALLE JORGE JUAN, 165, Madrid"
 category: "Infantil"
 gender: "masculino"
+league_title: "Infantil Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-04-17-sagrada-familia-jorge-juan-colmenar-viejo-b-infantil-masculino"
 slug: "game-2027-04-17-sagrada-familia-jorge-juan-colmenar-viejo-b-infantil-masculino"
 weight: 51220270417120011

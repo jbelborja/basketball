@@ -17,6 +17,7 @@ venue_title: "MEJORADA"
 venue_address: "PABELLON MPAL. JOAN MIRO, S/N, Mejorada del Campo"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 5\u00aa DIVISION - GRUPO PAR"
 uid: "game-2027-03-20-mejorada-2012-c-b-colmenar-viejo-c-junior-masculino"
 slug: "game-2027-03-20-mejorada-2012-c-b-colmenar-viejo-c-junior-masculino"
 weight: 31320270320163023

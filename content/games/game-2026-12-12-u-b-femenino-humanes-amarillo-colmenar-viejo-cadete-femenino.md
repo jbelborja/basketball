@@ -17,6 +17,7 @@ venue_title: "CAMPOHERMOSO"
 venue_address: "PABELLON VALDEHONDILLO, 3, Humanes de Madrid"
 category: "Cadete"
 gender: "femenino"
+league_title: "Cadete Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 2"
 uid: "game-2026-12-12-u-b-femenino-humanes-amarillo-colmenar-viejo-cadete-femenino"
 slug: "game-2026-12-12-u-b-femenino-humanes-amarillo-colmenar-viejo-cadete-femenino"
 weight: 42020261212120096

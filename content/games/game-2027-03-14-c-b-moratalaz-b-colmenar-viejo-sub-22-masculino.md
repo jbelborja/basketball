@@ -17,6 +17,7 @@ venue_title: "JOSE LUIS FERNANDEZ CANO"
 venue_address: "PABELLON HACIENDA DE PAVONES, 223, Madrid"
 category: "Sub 22"
 gender: "masculino"
+league_title: "Sub 22 Masc. BRONCE - PRIMERA 1\u00aa DIVISION - GRUPO 1"
 uid: "game-2027-03-14-c-b-moratalaz-b-colmenar-viejo-sub-22-masculino"
 slug: "game-2027-03-14-c-b-moratalaz-b-colmenar-viejo-sub-22-masculino"
 weight: 21020270314120019

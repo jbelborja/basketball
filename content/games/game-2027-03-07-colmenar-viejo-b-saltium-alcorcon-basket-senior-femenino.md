@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2027-03-07-colmenar-viejo-b-saltium-alcorcon-basket-senior-femenino"
 slug: "game-2027-03-07-colmenar-viejo-b-saltium-alcorcon-basket-senior-femenino"
 weight: 12220270307120022

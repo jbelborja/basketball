@@ -17,6 +17,7 @@ venue_title: "AVERROES"
 venue_address: "PABELLON CEIP AVENIDA DE FRANCIA, 163 (entrada por C/ Suiza), Arroyomolinos"
 category: "Alev\u00edn"
 gender: "femenino"
+league_title: "Alv Fem 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13"
 uid: "game-2026-11-08-lions-basket-arroyomolinos-a-colmenar-viejo-alevin-femenino"
 slug: "game-2026-11-08-lions-basket-arroyomolinos-a-colmenar-viejo-alevin-femenino"
 weight: 62020261108130049

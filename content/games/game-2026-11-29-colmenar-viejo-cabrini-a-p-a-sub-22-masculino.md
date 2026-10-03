@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Sub 22"
 gender: "masculino"
+league_title: "Sub 22 Masc. BRONCE - PRIMERA 1\u00aa DIVISION - GRUPO 1"
 uid: "game-2026-11-29-colmenar-viejo-cabrini-a-p-a-sub-22-masculino"
 slug: "game-2026-11-29-colmenar-viejo-cabrini-a-p-a-sub-22-masculino"
 weight: 21020261129120034

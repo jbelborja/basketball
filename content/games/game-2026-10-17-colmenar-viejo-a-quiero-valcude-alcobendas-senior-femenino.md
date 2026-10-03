@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-10-17-colmenar-viejo-a-quiero-valcude-alcobendas-senior-femenino"
 slug: "game-2026-10-17-colmenar-viejo-a-quiero-valcude-alcobendas-senior-femenino"
 weight: 12120261017120031

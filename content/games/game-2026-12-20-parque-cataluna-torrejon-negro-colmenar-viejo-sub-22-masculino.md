@@ -17,6 +17,7 @@ venue_title: "PARQUE DE CATALU\u00d1A"
 venue_address: "CLUB DEPORTIVO CALLE HILADOS, 2, Torrej\u00f3n de Ardoz"
 category: "Sub 22"
 gender: "masculino"
+league_title: "Sub 22 Masc. BRONCE - PRIMERA 1\u00aa DIVISION - GRUPO 1"
 uid: "game-2026-12-20-parque-cataluna-torrejon-negro-colmenar-viejo-sub-22-masculino"
 slug: "game-2026-12-20-parque-cataluna-torrejon-negro-colmenar-viejo-sub-22-masculino"
 weight: 21020261220120051

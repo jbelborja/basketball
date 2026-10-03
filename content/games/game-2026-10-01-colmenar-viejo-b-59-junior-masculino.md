@@ -17,6 +17,7 @@ venue_title: "TORREJON DE LA CALZADA EMB"
 venue_address: "TORREJON DE LA CALZADA EMB"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
 uid: "game-2026-10-01-colmenar-viejo-b-59-junior-masculino"
 slug: "game-2026-10-01-colmenar-viejo-b-59-junior-masculino"
 weight: 31220261001120098

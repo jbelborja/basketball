@@ -17,6 +17,7 @@ venue_title: "FRANCISCO FERNANDEZ OCHOA"
 venue_address: "PABELLON DE LAS 14 OLIVAS, S/N, Madrid"
 category: "Sub 22"
 gender: "masculino"
+league_title: "Sub 22 Masc. BRONCE - PRIMERA 1\u00aa DIVISION - GRUPO 1"
 uid: "game-2026-11-08-distrito-carabanchel-a-colmenar-viejo-sub-22-masculino"
 slug: "game-2026-11-08-distrito-carabanchel-a-colmenar-viejo-sub-22-masculino"
 weight: 21020261108120085

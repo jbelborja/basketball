@@ -17,6 +17,7 @@ venue_title: "VIRGEN DE LA RIVERA"
 venue_address: "SALA ESCOLAR CAMINO RADAR, 1, Paracuellos de Jarama"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2027-02-06-baloncesto-paracuellos-azul-colmenar-viejo-b-cadete-masculino"
 slug: "game-2027-02-06-baloncesto-paracuellos-azul-colmenar-viejo-b-cadete-masculino"
 weight: 41220270206180091

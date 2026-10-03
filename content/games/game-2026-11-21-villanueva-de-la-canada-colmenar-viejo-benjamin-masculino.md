@@ -17,6 +17,7 @@ venue_title: "SANTIAGO APOSTOL"
 venue_address: "PDVO. MPAL. CALLE DEL POLIDEPORTIVO, S/N, Villanueva de la Ca\u00f1ada"
 category: "Benjam\u00edn"
 gender: "masculino"
+league_title: "Benj Mas 2\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 11"
 uid: "game-2026-11-21-villanueva-de-la-canada-colmenar-viejo-benjamin-masculino"
 slug: "game-2026-11-21-villanueva-de-la-canada-colmenar-viejo-benjamin-masculino"
 weight: 71020261121120024

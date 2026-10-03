@@ -17,6 +17,7 @@ venue_title: "PILARISTAS"
 venue_address: "PABELLON COLEGIO AYALA, 47, Madrid"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-10-25-pilaristas-colmenar-viejo-a-junior-masculino"
 slug: "game-2026-10-25-pilaristas-colmenar-viejo-a-junior-masculino"
 weight: 31120261025120082

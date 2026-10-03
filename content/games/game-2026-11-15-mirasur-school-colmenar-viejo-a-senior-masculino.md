@@ -17,6 +17,7 @@ venue_title: "MIRASUR"
 venue_address: "PABELLON COLEGIO PABLO GARGALLO, 1, Pinto"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-11-15-mirasur-school-colmenar-viejo-a-senior-masculino"
 slug: "game-2026-11-15-mirasur-school-colmenar-viejo-a-senior-masculino"
 weight: 11120261115120099

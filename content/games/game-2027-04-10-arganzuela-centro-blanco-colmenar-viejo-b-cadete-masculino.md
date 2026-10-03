@@ -17,6 +17,7 @@ venue_title: "SALESIANOS CARABANCHEL"
 venue_address: "SEMICUBIERTA RONDA DON BOSCO, 3, Madrid"
 category: "Cadete"
 gender: "masculino"
+league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2027-04-10-arganzuela-centro-blanco-colmenar-viejo-b-cadete-masculino"
 slug: "game-2027-04-10-arganzuela-centro-blanco-colmenar-viejo-b-cadete-masculino"
 weight: 41220270410110077

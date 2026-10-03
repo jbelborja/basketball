@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Benjam\u00edn"
 gender: "femenino"
+league_title: "Benj F.2\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6"
 uid: "game-2027-01-16-colmenar-viejo-liceo-frances-nico-benjamin-femenino"
 slug: "game-2027-01-16-colmenar-viejo-liceo-frances-nico-benjamin-femenino"
 weight: 72020270116120032

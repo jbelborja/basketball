@@ -17,6 +17,7 @@ venue_title: "I.E.S. FEDERICO GARCIA LORCA CALLE GIMNASIO"
 venue_address: "1-3, Rozas de Madrid, Las"
 category: "Alev\u00edn"
 gender: "femenino"
+league_title: "Alv Fem 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 8"
 uid: "game-2026-10-24-c-d-i-rozasbasket-colmenar-viejo-alevin-femenino"
 slug: "game-2026-10-24-c-d-i-rozasbasket-colmenar-viejo-alevin-femenino"
 weight: 62020261024120042

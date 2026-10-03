@@ -17,6 +17,7 @@ venue_title: "LOS ALMENDROS"
 venue_address: "PABELLON AIGUES TORTES, S/N, Rivas-Vaciamadrid"
 category: "Senior"
 gender: "femenino"
+league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2026-10-25-uros-de-rivas-colmenar-viejo-b-senior-femenino"
 slug: "game-2026-10-25-uros-de-rivas-colmenar-viejo-b-senior-femenino"
 weight: 12220261025120057

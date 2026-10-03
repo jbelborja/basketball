@@ -17,6 +17,7 @@ venue_title: "MARIA DE VILLOTA"
 venue_address: "PABELLON ARROYO DE LOS VIALES, 4, Torrelodones"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-11-29-san-ignacio-torrelodones-colmenar-viejo-senior-masculino"
 slug: "game-2026-11-29-san-ignacio-torrelodones-colmenar-viejo-senior-masculino"
 weight: 11020261129120070

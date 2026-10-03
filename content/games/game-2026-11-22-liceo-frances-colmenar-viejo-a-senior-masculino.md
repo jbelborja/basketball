@@ -17,6 +17,7 @@ venue_title: "LICEO FRANCES"
 venue_address: "PABELLON COLEGIO AVDA. DE LOS MADRO\u00d1OS frente n\u00ba 42, Madrid"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-11-22-liceo-frances-colmenar-viejo-a-senior-masculino"
 slug: "game-2026-11-22-liceo-frances-colmenar-viejo-a-senior-masculino"
 weight: 11120261122120083

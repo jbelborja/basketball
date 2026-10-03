@@ -17,6 +17,7 @@ venue_title: "BALONCESTO 86 LA SALLE \"B\""
 venue_address: "BALONCESTO 86 LA SALLE \"B\""
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 5\u00aa DIVISION - GRUPO PAR"
 uid: "game-2026-10-01-colmenar-viejo-c-43-junior-masculino"
 slug: "game-2026-10-01-colmenar-viejo-c-43-junior-masculino"
 weight: 31320261001120026

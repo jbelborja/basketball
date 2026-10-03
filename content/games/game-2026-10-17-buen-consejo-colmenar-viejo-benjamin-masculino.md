@@ -17,6 +17,7 @@ venue_title: "BUEN CONSEJO"
 venue_address: "PABELLON COLEGIO BEATRIZ DE BOBADILLA, S/N, Madrid"
 category: "Benjam\u00edn"
 gender: "masculino"
+league_title: "Benj Mas 2\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 11"
 uid: "game-2026-10-17-buen-consejo-colmenar-viejo-benjamin-masculino"
 slug: "game-2026-10-17-buen-consejo-colmenar-viejo-benjamin-masculino"
 weight: 71020261017120098

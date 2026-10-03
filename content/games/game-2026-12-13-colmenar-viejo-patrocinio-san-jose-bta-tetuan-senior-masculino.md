@@ -17,6 +17,7 @@ venue_title: "JUAN ANTONIO SAMARANCH"
 venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 category: "Senior"
 gender: "masculino"
+league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-12-13-colmenar-viejo-patrocinio-san-jose-bta-tetuan-senior-masculino"
 slug: "game-2026-12-13-colmenar-viejo-patrocinio-san-jose-bta-tetuan-senior-masculino"
 weight: 11020261213120039

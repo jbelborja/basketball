@@ -17,6 +17,7 @@ venue_title: "JESUS ESPA\u00d1A"
 venue_address: "PABELLON (PISTA CENTRAL) NEPTUNO, 4, Valdemoro"
 category: "Junior"
 gender: "masculino"
+league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
 uid: "game-2027-03-21-c-b-villa-de-valdemoro-c-colmenar-viejo-b-junior-masculino"
 slug: "game-2027-03-21-c-b-villa-de-valdemoro-c-colmenar-viejo-b-junior-masculino"
 weight: 31220270321120081
