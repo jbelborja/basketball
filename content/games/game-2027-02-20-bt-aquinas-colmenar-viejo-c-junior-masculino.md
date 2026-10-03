@@ -1,7 +1,7 @@
 ---
 title: "BT AQUINAS VS COLMENAR VIEJO C"
-date: 2027-02-20T12:00:00
-time: "12:00"
+date: 2027-02-20T00:00:00
+time: ""
 team1: "BT AQUINAS"
 team1_slug: "bt-aquinas"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 5\u00aa DIVISION - GRUPO PAR"
 uid: "game-2027-02-20-bt-aquinas-colmenar-viejo-c-junior-masculino"
 slug: "game-2027-02-20-bt-aquinas-colmenar-viejo-c-junior-masculino"
-weight: 31320270220120088
+weight: 31320270220000088
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **BT AQUINAS** y **COLMENAR VIEJO C**.

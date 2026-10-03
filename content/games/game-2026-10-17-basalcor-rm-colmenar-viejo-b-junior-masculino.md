@@ -1,7 +1,7 @@
 ---
 title: "BASALCOR RM VS COLMENAR VIEJO B"
-date: 2026-10-17T12:00:00
-time: "12:00"
+date: 2026-10-17T00:00:00
+time: ""
 team1: "BASALCOR RM"
 team1_slug: "basalcor-rm"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
 uid: "game-2026-10-17-basalcor-rm-colmenar-viejo-b-junior-masculino"
 slug: "game-2026-10-17-basalcor-rm-colmenar-viejo-b-junior-masculino"
-weight: 31220261017120083
+weight: 31220261017000083
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **BASALCOR RM** y **COLMENAR VIEJO B**.

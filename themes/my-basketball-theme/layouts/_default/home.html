@@ -106,7 +106,7 @@
 
       <div class="flex items-center justify-between border-b border-slate-800 pb-4 mb-6">
         <div>
-          <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Competición FBM</span>
+          <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Competición Oficial</span>
           <h2 class="font-sports text-2xl text-white font-bold">{{ $lastGame.category }} {{ $lastGame.gender }}</h2>
         </div>
         <span class="inline-flex items-center px-2.5 py-1 rounded-full text-xs font-bold {{ if eq $lastGame.status "Finalizado" }}bg-emerald-500/20 text-emerald-400 border border-emerald-500/30{{ else }}bg-blue-500/20 text-blue-400 border border-blue-500/30{{ end }}">
@@ -164,7 +164,7 @@
     <div class="lg:col-span-5 bg-slate-900 border border-slate-800 rounded-3xl p-6 sm:p-8 shadow-xl">
       <div class="flex items-center justify-between border-b border-slate-800 pb-4 mb-6">
         <div>
-          <span class="text-xs font-bold uppercase tracking-wider text-orange-400">{{ if $firstLeague }}{{ $firstLeague.league_title }}{{ else }}Federación Baloncesto Madrid{{ end }}</span>
+          <span class="text-xs font-bold uppercase tracking-wider text-orange-400">{{ if $firstLeague }}{{ $firstLeague.league_title }}{{ else }}Competición Oficial{{ end }}</span>
           <h2 class="font-sports text-2xl text-white font-bold">Clasificación</h2>
         </div>
         <a href="{{ "classification/" | relURL }}" class="text-xs font-bold text-slate-400 hover:text-white transition">
@@ -257,55 +257,6 @@
     </div>
   </section>
 
-  {{ if .Site.Data.players }}
-  <!-- FEATURED PLAYERS -->
-  <section class="space-y-6">
-    <div class="flex flex-col sm:flex-row sm:items-end justify-between gap-2 border-b border-slate-800 pb-4">
-      <div>
-        <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Cantera & Formación</span>
-        <h2 class="font-sports text-3xl sm:text-4xl text-white font-bold uppercase tracking-tight">Jugadores Destacados</h2>
-      </div>
-      <a href="{{ "players/" | relURL }}" class="text-sm font-bold text-slate-400 hover:text-orange-400 transition">
-        Ver plantilla completa →
-      </a>
-    </div>
-
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-      {{ range first 4 .Site.Data.players }}
-      <div class="group bg-slate-900 border border-slate-800 rounded-3xl overflow-hidden hover:border-slate-700 transition-all duration-300 shadow-lg hover:-translate-y-1">
-        <!-- Player Photo Container -->
-        <div class="relative h-60 bg-slate-950 overflow-hidden">
-          <img src="{{ .photo | relURL }}" alt="{{ .name }}" class="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500"/>
-          <div class="absolute inset-0 bg-gradient-to-t from-slate-900 via-transparent to-transparent"></div>
-          
-          <!-- Jersey Number Floating Badge -->
-          <div class="absolute top-4 right-4 bg-orange-500 text-white font-sports text-xl font-bold w-10 h-10 rounded-xl flex items-center justify-center shadow-lg shadow-orange-500/40">
-            #{{ .number }}
-          </div>
-
-          <!-- Position Tag -->
-          <div class="absolute bottom-3 left-4">
-            <span class="px-2.5 py-1 rounded-lg text-[10px] font-bold bg-slate-900/90 text-slate-200 border border-slate-700 uppercase tracking-wider">
-              {{ .position }}
-            </span>
-          </div>
-        </div>
-
-        <div class="p-5 space-y-4">
-          <div>
-            <h3 class="font-sports text-xl text-white font-bold group-hover:text-orange-400 transition truncate">{{ .name }}</h3>
-            <p class="text-xs text-slate-400 truncate">{{ .team }}</p>
-          </div>
-
-          <a href="{{ (printf "players/%s/" .slug) | relURL }}" class="block text-center w-full bg-slate-800 hover:bg-slate-700 text-white font-bold text-xs uppercase tracking-wider py-2 rounded-xl transition">
-            Ver Ficha
-          </a>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  </section>
-  {{ end }}
 
   <!-- CLUB ANNOUNCEMENTS -->
   <section class="space-y-6">
@@ -317,14 +268,14 @@
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
       <article class="bg-slate-900 border border-slate-800 rounded-3xl p-6 space-y-4 hover:border-slate-700 transition">
         <div class="flex items-center justify-between text-xs text-slate-400">
-          <span class="text-orange-400 font-bold uppercase">Sincronización FBM</span>
+          <span class="text-orange-400 font-bold uppercase">Sincronización Oficial</span>
           <time>Semanal</time>
         </div>
         <h3 class="font-sports text-xl text-white font-bold hover:text-orange-400 transition cursor-pointer">
-          Calendario y Clasificaciones Oficiales FBM
+          Calendario y Clasificaciones Oficiales
         </h3>
         <p class="text-sm text-slate-400 leading-relaxed">
-          Resultados y actas actualizadas directamente desde la Federación de Baloncesto de Madrid para todas nuestras categorías.
+          Resultados y actas actualizadas directamente desde la competición oficial para todas nuestras categorías.
         </p>
         <a href="{{ "games/" | relURL }}" class="inline-block text-xs font-bold text-orange-400 hover:text-orange-300">Consultar partidos →</a>
       </article>

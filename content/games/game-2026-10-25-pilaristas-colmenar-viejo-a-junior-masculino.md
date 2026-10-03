@@ -1,7 +1,7 @@
 ---
 title: "PILARISTAS VS COLMENAR VIEJO A"
-date: 2026-10-25T12:00:00
-time: "12:00"
+date: 2026-10-25T00:00:00
+time: ""
 team1: "PILARISTAS"
 team1_slug: "pilaristas"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-10-25-pilaristas-colmenar-viejo-a-junior-masculino"
 slug: "game-2026-10-25-pilaristas-colmenar-viejo-a-junior-masculino"
-weight: 31120261025120082
+weight: 31120261025000082
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **PILARISTAS** y **COLMENAR VIEJO A**.

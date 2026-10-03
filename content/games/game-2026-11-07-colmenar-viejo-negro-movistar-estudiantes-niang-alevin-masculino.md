@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO NEGRO VS MOVISTAR ESTUDIANTES NIANG"
-date: 2026-11-07T12:00:00
-time: "12:00"
+date: 2026-11-07T00:00:00
+time: ""
 team1: "COLMENAR VIEJO NEGRO"
 team1_slug: "colmenar-viejo-negro-alevin-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Alv Mas 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9"
 uid: "game-2026-11-07-colmenar-viejo-negro-movistar-estudiantes-niang-alevin-masculino"
 slug: "game-2026-11-07-colmenar-viejo-negro-movistar-estudiantes-niang-alevin-masculino"
-weight: 61020261107120041
+weight: 61020261107000041
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **COLMENAR VIEJO NEGRO** y **MOVISTAR ESTUDIANTES NIANG**.

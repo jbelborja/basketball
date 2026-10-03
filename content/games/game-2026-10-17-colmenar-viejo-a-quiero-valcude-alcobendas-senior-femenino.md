@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A VS QUIERO VALCUDE ALCOBENDAS"
-date: 2026-10-17T12:00:00
-time: "12:00"
+date: 2026-10-17T00:00:00
+time: ""
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-senior-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-10-17-colmenar-viejo-a-quiero-valcude-alcobendas-senior-femenino"
 slug: "game-2026-10-17-colmenar-viejo-a-quiero-valcude-alcobendas-senior-femenino"
-weight: 12120261017120031
+weight: 12120261017000031
 ---
 
 Encuentro correspondiente a la categoría Senior (femenino) entre **COLMENAR VIEJO A** y **QUIERO VALCUDE ALCOBENDAS**.

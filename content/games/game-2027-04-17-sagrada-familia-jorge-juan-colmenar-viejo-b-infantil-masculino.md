@@ -1,7 +1,7 @@
 ---
 title: "SAGRADA FAMILIA JORGE JUAN VS COLMENAR VIEJO B"
-date: 2027-04-17T12:00:00
-time: "12:00"
+date: 2027-04-17T00:00:00
+time: ""
 team1: "SAGRADA FAMILIA JORGE JUAN"
 team1_slug: "sagrada-familia-jorge-juan"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-04-17-sagrada-familia-jorge-juan-colmenar-viejo-b-infantil-masculino"
 slug: "game-2027-04-17-sagrada-familia-jorge-juan-colmenar-viejo-b-infantil-masculino"
-weight: 51220270417120011
+weight: 51220270417000011
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **SAGRADA FAMILIA JORGE JUAN** y **COLMENAR VIEJO B**.

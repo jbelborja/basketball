@@ -1,7 +1,7 @@
 ---
 title: "HA BASKET \"A\" VS COLMENAR VIEJO C"
-date: 2027-02-13T12:00:00
-time: "12:00"
+date: 2027-02-13T00:00:00
+time: ""
 team1: "HA BASKET \"A\""
 team1_slug: "ha-basket-a"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2027-02-13-ha-basket-a-colmenar-viejo-c-cadete-masculino"
 slug: "game-2027-02-13-ha-basket-a-colmenar-viejo-c-cadete-masculino"
-weight: 41320270213120091
+weight: 41320270213000091
 ---
 
 Encuentro correspondiente a la categoría Cadete (masculino) entre **HA BASKET "A"** y **COLMENAR VIEJO C**.

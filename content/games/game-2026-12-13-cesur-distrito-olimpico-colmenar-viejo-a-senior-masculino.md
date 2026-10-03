@@ -1,7 +1,7 @@
 ---
 title: "CESUR DISTRITO OLIMPICO VS COLMENAR VIEJO A"
-date: 2026-12-13T12:00:00
-time: "12:00"
+date: 2026-12-13T00:00:00
+time: ""
 team1: "CESUR DISTRITO OLIMPICO"
 team1_slug: "cesur-distrito-olimpico"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-12-13-cesur-distrito-olimpico-colmenar-viejo-a-senior-masculino"
 slug: "game-2026-12-13-cesur-distrito-olimpico-colmenar-viejo-a-senior-masculino"
-weight: 11120261213120000
+weight: 11120261213000000
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **CESUR DISTRITO OLIMPICO** y **COLMENAR VIEJO A**.

@@ -1,7 +1,7 @@
 ---
 title: "C.B. ALCORCON \"A\" VS COLMENAR VIEJO A"
-date: 2027-04-03T12:00:00
-time: "12:00"
+date: 2027-04-03T00:00:00
+time: ""
 team1: "C.B. ALCORCON \"A\""
 team1_slug: "c-b-alcorcon-a"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-04-03-c-b-alcorcon-a-colmenar-viejo-a-junior-masculino"
 slug: "game-2027-04-03-c-b-alcorcon-a-colmenar-viejo-a-junior-masculino"
-weight: 31120270403120070
+weight: 31120270403000070
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **C.B. ALCORCON "A"** y **COLMENAR VIEJO A**.

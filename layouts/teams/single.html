@@ -68,14 +68,14 @@
 
       <div class="pt-4 border-t border-slate-800 space-y-3">
         <h4 class="text-xs font-bold uppercase tracking-wider text-orange-400">Próximo Compromiso</h4>
-        {{ $teamName := .Title }}
-        {{ $nextMatch := index (where (where .Site.Data.games "status" "Próximo") "home" $teamName) 0 }}
+        {{ $teamSlug := .Params.slug }}
+        {{ $nextMatch := index (where (where .Site.Data.games "status" "Próximo") "home_slug" $teamSlug) 0 }}
         {{ if not $nextMatch }}
-          {{ $nextMatch = index (where (where .Site.Data.games "status" "Próximo") "away" $teamName) 0 }}
+          {{ $nextMatch = index (where (where .Site.Data.games "status" "Próximo") "away_slug" $teamSlug) 0 }}
         {{ end }}
         {{ if $nextMatch }}
         <div class="bg-slate-950 p-4 rounded-2xl border border-slate-800">
-          <p class="text-xs text-slate-400">📅 {{ $nextMatch.date }} · {{ $nextMatch.time }}</p>
+          <p class="text-xs text-slate-400">📅 {{ $nextMatch.date }}{{ with $nextMatch.time }} · 🕒 {{ . }}{{ end }}</p>
           <p class="font-bold text-white text-sm mt-1">{{ $nextMatch.home }} vs {{ $nextMatch.away }}</p>
           <p class="text-xs text-slate-500 mt-1">📍 {{ $nextMatch.venue }}</p>
           <a href="{{ (printf "games/%s/" $nextMatch.slug) | relURL }}" class="inline-block mt-2 text-xs font-bold text-orange-400 hover:underline">Ver detalles →</a>
@@ -88,54 +88,78 @@
       </div>
     </div>
 
-    <!-- Team Roster / Plantilla (2 cols) -->
+    <!-- Team Calendar / Calendario (2 cols) -->
     <div class="lg:col-span-2 bg-slate-900 border border-slate-800 rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
       <div class="flex items-center justify-between border-b border-slate-800 pb-4">
         <div>
-          <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Jugadores Convocados</span>
-          <h3 class="font-sports text-2xl text-white font-bold uppercase tracking-wider">Plantilla Oficial</h3>
+          <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Temporada 2026/27</span>
+          <h3 class="font-sports text-2xl text-white font-bold uppercase tracking-wider">Calendario de Partidos</h3>
         </div>
-        <span class="text-xs text-slate-400 font-semibold">Temporada 2026/27</span>
+        <a href="{{ "games/" | relURL }}" class="text-xs text-slate-400 font-bold hover:text-orange-400 transition">Ver todo →</a>
       </div>
 
-      <!-- Player Cards Grid -->
-      <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-        {{ $currentTeamName := .Title }}
-        {{ $currentTeamSlug := .Params.slug }}
-        {{ range .Site.Data.players }}
-          {{ if or (eq .team $currentTeamName) (eq .team_slug $currentTeamSlug) }}
-          <div class="group bg-slate-950/80 border border-slate-800 hover:border-slate-700 rounded-2xl p-4 transition duration-200 flex items-center justify-between gap-4">
-            <div class="flex items-center gap-3">
-              <div class="relative">
-                <img src="{{ .photo | relURL }}" alt="{{ .name }}" class="w-14 h-14 rounded-xl object-cover object-top ring-2 ring-slate-800 group-hover:ring-orange-500 transition"/>
-                <span class="absolute -top-1.5 -left-1.5 bg-orange-500 text-white font-sports text-xs font-bold w-5 h-5 rounded-md flex items-center justify-center shadow">
-                  {{ .number }}
-                </span>
+      <!-- Games List -->
+      <div class="space-y-4 max-h-[600px] overflow-y-auto pr-2 scrollbar-thin scrollbar-thumb-slate-700 scrollbar-track-transparent">
+        {{ $teamName := .Title }}
+        {{ $teamSlug := .Params.slug }}
+        {{ $teamGames := slice }}
+        {{ range (where .Site.RegularPages "Section" "games").ByDate }}
+          {{ if or (eq .Params.team1_slug $teamSlug) (eq .Params.team2_slug $teamSlug) }}
+            {{ $teamGames = $teamGames | append . }}
+          {{ end }}
+        {{ end }}
+
+        {{ if len $teamGames }}
+          {{ range $teamGames }}
+          <div class="bg-slate-950/80 border border-slate-800 hover:border-slate-700 rounded-2xl p-4 sm:p-5 transition duration-200">
+            <div class="flex flex-wrap items-center justify-between gap-2 mb-3 border-b border-slate-800 pb-2">
+              <span class="text-[10px] text-slate-400 font-bold uppercase tracking-wider">
+                📅 {{ .Date.Format "02/01/2006" }} {{ with .Params.time }}· 🕒 {{ . }}{{ end }}
+              </span>
+              {{ if eq (lower .Params.status) "finalizado" }}
+                <span class="px-2 py-0.5 rounded-full text-[9px] font-bold bg-emerald-500/20 text-emerald-400 border border-emerald-500/30 uppercase">Finalizado</span>
+              {{ else }}
+                <span class="px-2 py-0.5 rounded-full text-[9px] font-bold bg-blue-500/20 text-blue-400 border border-blue-500/30 uppercase">Próximo</span>
+              {{ end }}
+            </div>
+
+            <div class="flex items-center justify-between gap-4">
+              <!-- Team 1 -->
+              <div class="flex-1 text-right flex flex-col sm:flex-row items-end sm:items-center justify-end gap-2">
+                <span class="font-sports text-sm sm:text-lg font-bold text-white leading-tight {{ if eq .Params.team1 $teamName }}text-orange-400{{ end }}">{{ .Params.team1 }}</span>
               </div>
-              <div>
-                <a href="{{ (printf "players/%s/" .slug) | relURL }}" class="font-sports text-lg font-bold text-white group-hover:text-orange-400 transition block">
-                  {{ .name }}
-                </a>
-                <span class="text-xs text-slate-400 uppercase font-semibold">{{ .position }}</span>
-                <span class="text-[11px] text-slate-500 block">{{ .height }} · {{ .age }} años</span>
+
+              <!-- Score / VS -->
+              <div class="flex-shrink-0 text-center px-3">
+                {{ if eq (lower .Params.status) "finalizado" }}
+                <div class="font-sports text-xl sm:text-2xl font-bold text-white tracking-wider bg-slate-900 px-3 py-1 rounded-xl border border-slate-800">
+                  <span class="{{ if gt .Params.team1_score .Params.team2_score }}text-orange-400{{ end }}">{{ .Params.team1_score }}</span>
+                  <span class="text-slate-600 mx-1">-</span>
+                  <span class="{{ if gt .Params.team2_score .Params.team1_score }}text-orange-400{{ end }}">{{ .Params.team2_score }}</span>
+                </div>
+                {{ else }}
+                <div class="font-sports text-lg sm:text-xl font-bold text-orange-400 bg-slate-900 px-3 py-1 rounded-xl border border-slate-800">VS</div>
+                {{ end }}
+              </div>
+
+              <!-- Team 2 -->
+              <div class="flex-1 text-left flex flex-col sm:flex-row items-start sm:items-center justify-start gap-2">
+                <span class="font-sports text-sm sm:text-lg font-bold text-white leading-tight {{ if eq .Params.team2 $teamName }}text-orange-400{{ end }}">{{ .Params.team2 }}</span>
               </div>
             </div>
 
-            <div class="text-right">
-              <span class="font-sports text-base font-bold text-orange-400 block">{{ .ppg }}</span>
-              <span class="text-[9px] uppercase tracking-wider text-slate-500 block">PTS/P</span>
+            <div class="mt-3 pt-3 border-t border-slate-800 flex items-center justify-between gap-3 text-xs">
+              <span class="text-slate-400 truncate flex-1">📍 {{ .Params.venue_title | default .Params.venue }}</span>
+              <a href="{{ .RelPermalink }}" class="text-orange-400 font-bold hover:underline flex-shrink-0">Detalle →</a>
             </div>
           </div>
           {{ end }}
+        {{ else }}
+          <div class="text-center p-8 bg-slate-950/80 rounded-2xl border border-slate-800 text-sm text-slate-400">
+            Aún no hay partidos programados para este equipo.
+          </div>
         {{ end }}
       </div>
-
-      <div class="pt-4 border-t border-slate-800 text-right">
-        <a href="{{ "players/" | relURL }}" class="text-xs font-bold text-orange-400 hover:text-orange-300 transition">
-          Ver todas las plantillas del club →
-        </a>
-      </div>
-
     </div>
 
   </div>

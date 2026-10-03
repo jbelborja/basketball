@@ -1,7 +1,7 @@
 ---
 title: "OROQUIETA ESPINILLO C.D.E. VS COLMENAR VIEJO C"
-date: 2026-11-07T12:00:00
-time: "12:00"
+date: 2026-11-07T00:00:00
+time: ""
 team1: "OROQUIETA ESPINILLO C.D.E."
 team1_slug: "oroquieta-espinillo-c-d-e"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2026-11-07-oroquieta-espinillo-c-d-e-colmenar-viejo-c-cadete-masculino"
 slug: "game-2026-11-07-oroquieta-espinillo-c-d-e-colmenar-viejo-c-cadete-masculino"
-weight: 41320261107120010
+weight: 41320261107000010
 ---
 
 Encuentro correspondiente a la categoría Cadete (masculino) entre **OROQUIETA ESPINILLO C.D.E.** y **COLMENAR VIEJO C**.

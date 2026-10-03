@@ -1,7 +1,7 @@
 ---
 title: "CB POZUELO VS COLMENAR VIEJO"
-date: 2027-02-21T12:00:00
-time: "12:00"
+date: 2027-02-21T00:00:00
+time: ""
 team1: "CB POZUELO"
 team1_slug: "cb-pozuelo"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-02-21-cb-pozuelo-colmenar-viejo-senior-masculino"
 slug: "game-2027-02-21-cb-pozuelo-colmenar-viejo-senior-masculino"
-weight: 11020270221120079
+weight: 11020270221000079
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **CB POZUELO** y **COLMENAR VIEJO**.

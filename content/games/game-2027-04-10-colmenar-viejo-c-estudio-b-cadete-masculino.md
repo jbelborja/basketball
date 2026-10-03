@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO C VS ESTUDIO B"
-date: 2027-04-10T12:00:00
-time: "12:00"
+date: 2027-04-10T00:00:00
+time: ""
 team1: "COLMENAR VIEJO C"
 team1_slug: "colmenar-viejo-c-cadete-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2027-04-10-colmenar-viejo-c-estudio-b-cadete-masculino"
 slug: "game-2027-04-10-colmenar-viejo-c-estudio-b-cadete-masculino"
-weight: 41320270410120057
+weight: 41320270410000057
 ---
 
 Encuentro correspondiente a la categoría Cadete (masculino) entre **COLMENAR VIEJO C** y **ESTUDIO B**.

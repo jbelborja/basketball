@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A VS C.D.V."
-date: 2026-12-20T12:00:00
-time: "12:00"
+date: 2026-12-20T00:00:00
+time: ""
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-senior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-12-20-colmenar-viejo-a-c-d-v-senior-masculino"
 slug: "game-2026-12-20-colmenar-viejo-a-c-d-v-senior-masculino"
-weight: 11120261220120014
+weight: 11120261220000014
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **COLMENAR VIEJO A** y **C.D.V.**.

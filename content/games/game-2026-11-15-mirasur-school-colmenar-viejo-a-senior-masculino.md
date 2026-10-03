@@ -1,7 +1,7 @@
 ---
 title: "MIRASUR SCHOOL VS COLMENAR VIEJO A"
-date: 2026-11-15T12:00:00
-time: "12:00"
+date: 2026-11-15T00:00:00
+time: ""
 team1: "MIRASUR SCHOOL"
 team1_slug: "mirasur-school"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-11-15-mirasur-school-colmenar-viejo-a-senior-masculino"
 slug: "game-2026-11-15-mirasur-school-colmenar-viejo-a-senior-masculino"
-weight: 11120261115120099
+weight: 11120261115000099
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **MIRASUR SCHOOL** y **COLMENAR VIEJO A**.

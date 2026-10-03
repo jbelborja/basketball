@@ -1,7 +1,7 @@
 ---
 title: "JYA FOTOVOLTAICA CB NAVALCARNERO A VS COLMENAR VIEJO A"
-date: 2027-01-23T12:00:00
-time: "12:00"
+date: 2027-01-23T00:00:00
+time: ""
 team1: "JYA FOTOVOLTAICA CB NAVALCARNERO A"
 team1_slug: "jya-fotovoltaica-cb-navalcarnero-a"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Cadete Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-01-23-jya-fotovoltaica-cb-navalcarnero-a-colmenar-viejo-a-cadete-masculino"
 slug: "game-2027-01-23-jya-fotovoltaica-cb-navalcarnero-a-colmenar-viejo-a-cadete-masculino"
-weight: 41120270123120059
+weight: 41120270123000059
 ---
 
 Encuentro correspondiente a la categoría Cadete (masculino) entre **JYA FOTOVOLTAICA CB NAVALCARNERO A** y **COLMENAR VIEJO A**.

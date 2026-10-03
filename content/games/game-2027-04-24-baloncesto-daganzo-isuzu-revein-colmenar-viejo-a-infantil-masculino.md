@@ -1,7 +1,7 @@
 ---
 title: "BALONCESTO DAGANZO ISUZU REVEIN VS COLMENAR VIEJO A"
-date: 2027-04-24T12:00:00
-time: "12:00"
+date: 2027-04-24T00:00:00
+time: ""
 team1: "BALONCESTO DAGANZO ISUZU REVEIN"
 team1_slug: "baloncesto-daganzo-isuzu-revein"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-04-24-baloncesto-daganzo-isuzu-revein-colmenar-viejo-a-infantil-masculino"
 slug: "game-2027-04-24-baloncesto-daganzo-isuzu-revein-colmenar-viejo-a-infantil-masculino"
-weight: 51120270424120009
+weight: 51120270424000009
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **BALONCESTO DAGANZO ISUZU REVEIN** y **COLMENAR VIEJO A**.

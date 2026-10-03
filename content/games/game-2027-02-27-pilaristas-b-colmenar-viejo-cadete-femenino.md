@@ -1,7 +1,7 @@
 ---
 title: "PILARISTAS \"B\" VS COLMENAR VIEJO"
-date: 2027-02-27T12:00:00
-time: "12:00"
+date: 2027-02-27T00:00:00
+time: ""
 team1: "PILARISTAS \"B\""
 team1_slug: "pilaristas-b"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Cadete Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 2"
 uid: "game-2027-02-27-pilaristas-b-colmenar-viejo-cadete-femenino"
 slug: "game-2027-02-27-pilaristas-b-colmenar-viejo-cadete-femenino"
-weight: 42020270227120061
+weight: 42020270227000061
 ---
 
 Encuentro correspondiente a la categoría Cadete (femenino) entre **PILARISTAS "B"** y **COLMENAR VIEJO**.

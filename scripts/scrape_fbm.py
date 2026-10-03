@@ -232,7 +232,7 @@ def fetch_html():
         with urllib.request.urlopen(req) as response:
             return response.read().decode("utf-8", errors="ignore")
     except Exception as e:
-        print(f"Advertencia al conectar con la FBM ({e}). Intentando usar respaldo local...")
+        print(f"Advertencia al conectar ({e}). Intentando usar respaldo local...")
         cache_path = os.path.join(BASE_DIR, "scratch_fbm.html")
         if os.path.exists(cache_path):
             with open(cache_path, "r", encoding="utf-8") as f:
@@ -465,7 +465,7 @@ def parse_fbm_data(html):
 
                     if CFG["keyword"] in home.lower() or CFG["keyword"] in away.lower():
                         date_str = "2026-10-01"
-                        time_str = "12:00"
+                        time_str = ""
                         date_match = re.search(r"(\d{2}/\d{2}/\d{4})", date_time_raw)
                         if date_match:
                             try:
@@ -808,7 +808,7 @@ Pabellón **{v['title']}** situado en {v['address']}.
 
 def main():
     parse_args()
-    print(f"Iniciando extracción de datos de la FBM para el {CFG['name']}...")
+    print(f"Iniciando extracción de datos para el {CFG['name']}...")
     clean_generated_content()
     html = fetch_html()
     teams, classifications, games, venues = parse_fbm_data(html)

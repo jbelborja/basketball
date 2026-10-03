@@ -1,7 +1,7 @@
 ---
 title: "TRES CANTOS A VS COLMENAR VIEJO"
-date: 2026-11-28T12:00:00
-time: "12:00"
+date: 2026-11-28T00:00:00
+time: ""
 team1: "TRES CANTOS A"
 team1_slug: "tres-cantos-a"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Benj Mas 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 4"
 uid: "game-2026-11-28-tres-cantos-a-colmenar-viejo-benjamin-masculino"
 slug: "game-2026-11-28-tres-cantos-a-colmenar-viejo-benjamin-masculino"
-weight: 71020261128120005
+weight: 71020261128000005
 ---
 
 Encuentro correspondiente a la categoría Benjamín (masculino) entre **TRES CANTOS A** y **COLMENAR VIEJO**.

@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO C VS BT AQUINAS"
-date: 2026-11-08T12:00:00
-time: "12:00"
+date: 2026-11-08T00:00:00
+time: ""
 team1: "COLMENAR VIEJO C"
 team1_slug: "colmenar-viejo-c-junior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 5\u00aa DIVISION - GRUPO PAR"
 uid: "game-2026-11-08-colmenar-viejo-c-bt-aquinas-junior-masculino"
 slug: "game-2026-11-08-colmenar-viejo-c-bt-aquinas-junior-masculino"
-weight: 31320261108120070
+weight: 31320261108000070
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **COLMENAR VIEJO C** y **BT AQUINAS**.

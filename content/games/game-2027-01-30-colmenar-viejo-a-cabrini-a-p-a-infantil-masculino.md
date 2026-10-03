@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A VS CABRINI A.P.A."
-date: 2027-01-30T12:00:00
-time: "12:00"
+date: 2027-01-30T00:00:00
+time: ""
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-infantil-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-01-30-colmenar-viejo-a-cabrini-a-p-a-infantil-masculino"
 slug: "game-2027-01-30-colmenar-viejo-a-cabrini-a-p-a-infantil-masculino"
-weight: 51120270130120087
+weight: 51120270130000087
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **COLMENAR VIEJO A** y **CABRINI A.P.A.**.

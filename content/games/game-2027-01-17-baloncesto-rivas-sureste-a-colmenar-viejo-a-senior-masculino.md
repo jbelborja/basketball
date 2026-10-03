@@ -1,7 +1,7 @@
 ---
 title: "BALONCESTO RIVAS SURESTE A VS COLMENAR VIEJO A"
-date: 2027-01-17T12:00:00
-time: "12:00"
+date: 2027-01-17T00:00:00
+time: ""
 team1: "BALONCESTO RIVAS SURESTE A"
 team1_slug: "baloncesto-rivas-sureste-a"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-01-17-baloncesto-rivas-sureste-a-colmenar-viejo-a-senior-masculino"
 slug: "game-2027-01-17-baloncesto-rivas-sureste-a-colmenar-viejo-a-senior-masculino"
-weight: 11120270117120060
+weight: 11120270117000060
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **BALONCESTO RIVAS SURESTE A** y **COLMENAR VIEJO A**.

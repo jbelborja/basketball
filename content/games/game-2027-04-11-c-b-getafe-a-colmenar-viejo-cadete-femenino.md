@@ -1,7 +1,7 @@
 ---
 title: "C.B. GETAFE \"A\" VS COLMENAR VIEJO"
-date: 2027-04-11T12:00:00
-time: "12:00"
+date: 2027-04-11T00:00:00
+time: ""
 team1: "C.B. GETAFE \"A\""
 team1_slug: "c-b-getafe-a"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Cadete Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 2"
 uid: "game-2027-04-11-c-b-getafe-a-colmenar-viejo-cadete-femenino"
 slug: "game-2027-04-11-c-b-getafe-a-colmenar-viejo-cadete-femenino"
-weight: 42020270411120026
+weight: 42020270411000026
 ---
 
 Encuentro correspondiente a la categoría Cadete (femenino) entre **C.B. GETAFE "A"** y **COLMENAR VIEJO**.

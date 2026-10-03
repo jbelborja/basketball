@@ -35,13 +35,25 @@
         {{ end }}
       </div>
 
-      <div>
-        {{ if eq .Params.status "Finalizado" }}
-        <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-bold bg-emerald-500/20 text-emerald-400 border border-emerald-500/30">
+      <div class="flex items-center gap-2">
+        {{ if and (ne (lower .Params.status) "finalizado") .Params.time }}
+        {{ $calStart := .Date.Format "20060102T150405" }}
+        {{ $calEnd := (.Date.Add (time.ParseDuration "2h")).Format "20060102T150405" }}
+        {{ $calTitle := printf "%s vs %s" .Params.team1 .Params.team2 }}
+        {{ $calDesc := printf "Competición: %s\nCategoría: %s %s" .Params.league_title .Params.category .Params.gender }}
+        {{ $calLocation := .Params.venue_address | default .Params.venue }}
+        {{ $calUrl := printf "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%s&dates=%s/%s&details=%s&location=%s" ($calTitle | urlquery) $calStart $calEnd ($calDesc | urlquery) ($calLocation | urlquery) }}
+        <a href="{{ $calUrl }}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-1.5 bg-slate-800/80 hover:bg-slate-700 text-slate-200 hover:text-white font-bold text-xs uppercase tracking-wider px-3 py-1.5 rounded-full border border-slate-700 transition" title="Añadir a Google Calendar">
+          📅 Calendario
+        </a>
+        {{ end }}
+        
+        {{ if eq (lower .Params.status) "finalizado" }}
+        <span class="inline-flex items-center px-3 py-1.5 rounded-full text-xs font-bold bg-emerald-500/20 text-emerald-400 border border-emerald-500/30">
           FINALIZADO
         </span>
         {{ else }}
-        <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-bold bg-blue-500/20 text-blue-400 border border-blue-500/30">
+        <span class="inline-flex items-center px-3 py-1.5 rounded-full text-xs font-bold bg-blue-500/20 text-blue-400 border border-blue-500/30">
           PRÓXIMO ENCUENTRO
         </span>
         {{ end }}

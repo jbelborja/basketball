@@ -1,7 +1,7 @@
 ---
 title: "BALONCESTO DAGANZO 12 ISUZU REVEIN VS COLMENAR VIEJO C"
-date: 2026-12-12T12:00:00
-time: "12:00"
+date: 2026-12-12T00:00:00
+time: ""
 team1: "BALONCESTO DAGANZO 12 ISUZU REVEIN"
 team1_slug: "baloncesto-daganzo-12-isuzu-revein"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2026-12-12-baloncesto-daganzo-12-isuzu-revein-colmenar-viejo-c-cadete-masculino"
 slug: "game-2026-12-12-baloncesto-daganzo-12-isuzu-revein-colmenar-viejo-c-cadete-masculino"
-weight: 41320261212120087
+weight: 41320261212000087
 ---
 
 Encuentro correspondiente a la categoría Cadete (masculino) entre **BALONCESTO DAGANZO 12 ISUZU REVEIN** y **COLMENAR VIEJO C**.

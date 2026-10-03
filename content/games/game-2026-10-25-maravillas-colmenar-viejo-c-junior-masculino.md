@@ -1,7 +1,7 @@
 ---
 title: "MARAVILLAS VS COLMENAR VIEJO C"
-date: 2026-10-25T12:00:00
-time: "12:00"
+date: 2026-10-25T00:00:00
+time: ""
 team1: "MARAVILLAS"
 team1_slug: "maravillas"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 5\u00aa DIVISION - GRUPO PAR"
 uid: "game-2026-10-25-maravillas-colmenar-viejo-c-junior-masculino"
 slug: "game-2026-10-25-maravillas-colmenar-viejo-c-junior-masculino"
-weight: 31320261025120021
+weight: 31320261025000021
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **MARAVILLAS** y **COLMENAR VIEJO C**.

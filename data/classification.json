@@ -929,6 +929,24 @@
       },
       {
         "position": 3,
+        "team": "ARAVACA BASKET C.D.E.",
+        "slug": "aravaca-basket-c-d-e-junior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 1,
+        "d": 0,
+        "pf": 47,
+        "pc": 33,
+        "dif": "+14",
+        "points": 2,
+        "streak": [
+          "V"
+        ],
+        "category": "Junior",
+        "gender": "femenino"
+      },
+      {
+        "position": 4,
         "team": "CABRINI A.P.A. VERDE",
         "slug": "cabrini-a-p-a-verde-junior-femenino",
         "logo": "images/teams/rival.png",
@@ -946,7 +964,7 @@
         "gender": "femenino"
       },
       {
-        "position": 4,
+        "position": 5,
         "team": "IRLANDESAS 2",
         "slug": "irlandesas-2-junior-femenino",
         "logo": "images/teams/rival.png",
@@ -964,7 +982,25 @@
         "gender": "femenino"
       },
       {
-        "position": 5,
+        "position": 6,
+        "team": "C.B. CIUDAD DE MÓSTOLES \"B\"",
+        "slug": "c-b-ciudad-de-mostoles-b-junior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 0,
+        "d": 1,
+        "pf": 33,
+        "pc": 47,
+        "dif": "-14",
+        "points": 1,
+        "streak": [
+          "D"
+        ],
+        "category": "Junior",
+        "gender": "femenino"
+      },
+      {
+        "position": 7,
         "team": "COLMENAR VIEJO",
         "slug": "colmenar-viejo-junior-femenino",
         "logo": "images/teams/cbcolmenar.png",
@@ -982,7 +1018,7 @@
         "gender": "femenino"
       },
       {
-        "position": 6,
+        "position": 8,
         "team": "ESTUDIANTES INTERNATIONAL SCHOOL \"B\"",
         "slug": "estudiantes-international-school-b-junior-femenino",
         "logo": "images/teams/rival.png",
@@ -996,38 +1032,6 @@
         "streak": [
           "D"
         ],
-        "category": "Junior",
-        "gender": "femenino"
-      },
-      {
-        "position": 7,
-        "team": "ARAVACA BASKET C.D.E.",
-        "slug": "aravaca-basket-c-d-e-junior-femenino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
-        "category": "Junior",
-        "gender": "femenino"
-      },
-      {
-        "position": 8,
-        "team": "C.B. CIUDAD DE MÓSTOLES \"B\"",
-        "slug": "c-b-ciudad-de-mostoles-b-junior-femenino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
         "category": "Junior",
         "gender": "femenino"
       },

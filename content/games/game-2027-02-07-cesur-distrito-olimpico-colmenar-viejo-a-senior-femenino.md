@@ -1,7 +1,7 @@
 ---
 title: "CESUR DISTRITO OLIMPICO VS COLMENAR VIEJO A"
-date: 2027-02-07T12:00:00
-time: "12:00"
+date: 2027-02-07T00:00:00
+time: ""
 team1: "CESUR DISTRITO OLIMPICO"
 team1_slug: "cesur-distrito-olimpico"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-02-07-cesur-distrito-olimpico-colmenar-viejo-a-senior-femenino"
 slug: "game-2027-02-07-cesur-distrito-olimpico-colmenar-viejo-a-senior-femenino"
-weight: 12120270207120094
+weight: 12120270207000094
 ---
 
 Encuentro correspondiente a la categoría Senior (femenino) entre **CESUR DISTRITO OLIMPICO** y **COLMENAR VIEJO A**.

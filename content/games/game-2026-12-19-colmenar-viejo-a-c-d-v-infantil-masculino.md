@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A VS C.D.V."
-date: 2026-12-19T12:00:00
-time: "12:00"
+date: 2026-12-19T00:00:00
+time: ""
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-infantil-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-12-19-colmenar-viejo-a-c-d-v-infantil-masculino"
 slug: "game-2026-12-19-colmenar-viejo-a-c-d-v-infantil-masculino"
-weight: 51120261219120088
+weight: 51120261219000088
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **COLMENAR VIEJO A** y **C.D.V.**.

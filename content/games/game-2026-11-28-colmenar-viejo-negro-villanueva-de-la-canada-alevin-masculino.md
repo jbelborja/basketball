@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO NEGRO VS VILLANUEVA DE LA CA\u00d1ADA"
-date: 2026-11-28T12:00:00
-time: "12:00"
+date: 2026-11-28T00:00:00
+time: ""
 team1: "COLMENAR VIEJO NEGRO"
 team1_slug: "colmenar-viejo-negro-alevin-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Alv Mas 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9"
 uid: "game-2026-11-28-colmenar-viejo-negro-villanueva-de-la-canada-alevin-masculino"
 slug: "game-2026-11-28-colmenar-viejo-negro-villanueva-de-la-canada-alevin-masculino"
-weight: 61020261128120083
+weight: 61020261128000083
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **COLMENAR VIEJO NEGRO** y **VILLANUEVA DE LA CAÑADA**.

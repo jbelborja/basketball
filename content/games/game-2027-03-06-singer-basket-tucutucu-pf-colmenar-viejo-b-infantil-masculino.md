@@ -1,7 +1,7 @@
 ---
 title: "SINGER BASKET TUCUTUCU PF VS COLMENAR VIEJO B"
-date: 2027-03-06T12:00:00
-time: "12:00"
+date: 2027-03-06T00:00:00
+time: ""
 team1: "SINGER BASKET TUCUTUCU PF"
 team1_slug: "singer-basket-tucutucu-pf"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-03-06-singer-basket-tucutucu-pf-colmenar-viejo-b-infantil-masculino"
 slug: "game-2027-03-06-singer-basket-tucutucu-pf-colmenar-viejo-b-infantil-masculino"
-weight: 51220270306120084
+weight: 51220270306000084
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **SINGER BASKET TUCUTUCU PF** y **COLMENAR VIEJO B**.

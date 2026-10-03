@@ -1,7 +1,7 @@
 ---
 title: "BALONCESTO ARISTOS A VS COLMENAR VIEJO"
-date: 2026-12-20T12:00:00
-time: "12:00"
+date: 2026-12-20T00:00:00
+time: ""
 team1: "BALONCESTO ARISTOS A"
 team1_slug: "baloncesto-aristos-a"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-12-20-baloncesto-aristos-a-colmenar-viejo-senior-masculino"
 slug: "game-2026-12-20-baloncesto-aristos-a-colmenar-viejo-senior-masculino"
-weight: 11020261220120042
+weight: 11020261220000042
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **BALONCESTO ARISTOS A** y **COLMENAR VIEJO**.

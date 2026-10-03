@@ -1,7 +1,7 @@
 ---
 title: "BASKET ARANJUEZ RUBIOCAR VS COLMENAR VIEJO"
-date: 2026-11-28T12:00:00
-time: "12:00"
+date: 2026-11-28T00:00:00
+time: ""
 team1: "BASKET ARANJUEZ RUBIOCAR"
 team1_slug: "basket-aranjuez-rubiocar"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Alv Fem 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 8"
 uid: "game-2026-11-28-basket-aranjuez-rubiocar-colmenar-viejo-alevin-femenino"
 slug: "game-2026-11-28-basket-aranjuez-rubiocar-colmenar-viejo-alevin-femenino"
-weight: 62020261128120024
+weight: 62020261128000024
 ---
 
 Encuentro correspondiente a la categoría Alevín (femenino) entre **BASKET ARANJUEZ RUBIOCAR** y **COLMENAR VIEJO**.

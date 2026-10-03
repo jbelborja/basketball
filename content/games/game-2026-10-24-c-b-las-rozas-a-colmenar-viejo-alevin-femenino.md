@@ -1,7 +1,7 @@
 ---
 title: "C.B. LAS ROZAS \"A\" VS COLMENAR VIEJO"
-date: 2026-10-24T12:00:00
-time: "12:00"
+date: 2026-10-24T00:00:00
+time: ""
 team1: "C.B. LAS ROZAS \"A\""
 team1_slug: "c-b-las-rozas-a"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Alv Fem 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13"
 uid: "game-2026-10-24-c-b-las-rozas-a-colmenar-viejo-alevin-femenino"
 slug: "game-2026-10-24-c-b-las-rozas-a-colmenar-viejo-alevin-femenino"
-weight: 62020261024120089
+weight: 62020261024000089
 ---
 
 Encuentro correspondiente a la categoría Alevín (femenino) entre **C.B. LAS ROZAS "A"** y **COLMENAR VIEJO**.

@@ -1,7 +1,7 @@
 ---
 title: "REVOLUTION VS COLMENAR VIEJO"
-date: 2027-02-07T12:00:00
-time: "12:00"
+date: 2027-02-07T00:00:00
+time: ""
 team1: "REVOLUTION"
 team1_slug: "revolution"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-02-07-revolution-colmenar-viejo-senior-masculino"
 slug: "game-2027-02-07-revolution-colmenar-viejo-senior-masculino"
-weight: 11020270207120025
+weight: 11020270207000025
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **REVOLUTION** y **COLMENAR VIEJO**.

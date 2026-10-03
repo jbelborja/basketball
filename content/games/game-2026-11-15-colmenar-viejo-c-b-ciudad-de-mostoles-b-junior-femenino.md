@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS C.B. CIUDAD DE M\u00d3STOLES \"B\""
-date: 2026-11-15T12:00:00
-time: "12:00"
+date: 2026-11-15T00:00:00
+time: ""
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-junior-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Junior Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 5"
 uid: "game-2026-11-15-colmenar-viejo-c-b-ciudad-de-mostoles-b-junior-femenino"
 slug: "game-2026-11-15-colmenar-viejo-c-b-ciudad-de-mostoles-b-junior-femenino"
-weight: 32020261115120096
+weight: 32020261115000096
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **COLMENAR VIEJO** y **C.B. CIUDAD DE MÓSTOLES "B"**.

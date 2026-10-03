@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A VS AUTOMATIC CLUB BALONCESTO ALCORCON"
-date: 2027-02-07T12:00:00
-time: "12:00"
+date: 2027-02-07T00:00:00
+time: ""
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-senior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-02-07-colmenar-viejo-a-automatic-club-baloncesto-alcorcon-senior-masculino"
 slug: "game-2027-02-07-colmenar-viejo-a-automatic-club-baloncesto-alcorcon-senior-masculino"
-weight: 11120270207120006
+weight: 11120270207000006
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **COLMENAR VIEJO A** y **AUTOMATIC CLUB BALONCESTO ALCORCON**.

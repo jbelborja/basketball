@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A VS MIRASUR SCHOOL"
-date: 2027-02-21T12:00:00
-time: "12:00"
+date: 2027-02-21T00:00:00
+time: ""
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-senior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-02-21-colmenar-viejo-a-mirasur-school-senior-masculino"
 slug: "game-2027-02-21-colmenar-viejo-a-mirasur-school-senior-masculino"
-weight: 11120270221120069
+weight: 11120270221000069
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **COLMENAR VIEJO A** y **MIRASUR SCHOOL**.

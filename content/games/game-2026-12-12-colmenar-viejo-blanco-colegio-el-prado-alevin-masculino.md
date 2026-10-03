@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO BLANCO VS COLEGIO EL PRADO"
-date: 2026-12-12T12:00:00
-time: "12:00"
+date: 2026-12-12T00:00:00
+time: ""
 team1: "COLMENAR VIEJO BLANCO"
 team1_slug: "colmenar-viejo-blanco-alevin-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Alv Mas 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9"
 uid: "game-2026-12-12-colmenar-viejo-blanco-colegio-el-prado-alevin-masculino"
 slug: "game-2026-12-12-colmenar-viejo-blanco-colegio-el-prado-alevin-masculino"
-weight: 61020261212120066
+weight: 61020261212000066
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **COLMENAR VIEJO BLANCO** y **COLEGIO EL PRADO**.

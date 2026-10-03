@@ -1,7 +1,7 @@
 ---
 title: "BASKET HOYO DE MANZANARES VS COLMENAR VIEJO"
-date: 2026-12-13T12:00:00
-time: "12:00"
+date: 2026-12-13T00:00:00
+time: ""
 team1: "BASKET HOYO DE MANZANARES"
 team1_slug: "basket-hoyo-de-manzanares"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Sub 22 Masc. BRONCE - PRIMERA 1\u00aa DIVISION - GRUPO 1"
 uid: "game-2026-12-13-basket-hoyo-de-manzanares-colmenar-viejo-sub-22-masculino"
 slug: "game-2026-12-13-basket-hoyo-de-manzanares-colmenar-viejo-sub-22-masculino"
-weight: 21020261213120052
+weight: 21020261213000052
 ---
 
 Encuentro correspondiente a la categoría Sub 22 (masculino) entre **BASKET HOYO DE MANZANARES** y **COLMENAR VIEJO**.

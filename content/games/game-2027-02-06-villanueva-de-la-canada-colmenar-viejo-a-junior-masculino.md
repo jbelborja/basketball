@@ -1,7 +1,7 @@
 ---
 title: "VILLANUEVA DE LA CA\u00d1ADA VS COLMENAR VIEJO A"
-date: 2027-02-06T12:00:00
-time: "12:00"
+date: 2027-02-06T00:00:00
+time: ""
 team1: "VILLANUEVA DE LA CA\u00d1ADA"
 team1_slug: "villanueva-de-la-canada"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-02-06-villanueva-de-la-canada-colmenar-viejo-a-junior-masculino"
 slug: "game-2027-02-06-villanueva-de-la-canada-colmenar-viejo-a-junior-masculino"
-weight: 31120270206120087
+weight: 31120270206000087
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **VILLANUEVA DE LA CAÑADA** y **COLMENAR VIEJO A**.

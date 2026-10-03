@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS EL VALLE C.D. \"B\""
-date: 2026-11-14T12:00:00
-time: "12:00"
+date: 2026-11-14T00:00:00
+time: ""
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-alevin-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Alv Fem 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 8"
 uid: "game-2026-11-14-colmenar-viejo-el-valle-c-d-b-alevin-femenino"
 slug: "game-2026-11-14-colmenar-viejo-el-valle-c-d-b-alevin-femenino"
-weight: 62020261114120042
+weight: 62020261114000042
 ---
 
 Encuentro correspondiente a la categoría Alevín (femenino) entre **COLMENAR VIEJO** y **EL VALLE C.D. "B"**.

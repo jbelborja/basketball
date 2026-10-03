@@ -1,7 +1,7 @@
 ---
 title: "BUEN CONSEJO VS COLMENAR VIEJO"
-date: 2027-01-24T12:00:00
-time: "12:00"
+date: 2027-01-24T00:00:00
+time: ""
 team1: "BUEN CONSEJO"
 team1_slug: "buen-consejo"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Sub 22 Masc. BRONCE - PRIMERA 1\u00aa DIVISION - GRUPO 1"
 uid: "game-2027-01-24-buen-consejo-colmenar-viejo-sub-22-masculino"
 slug: "game-2027-01-24-buen-consejo-colmenar-viejo-sub-22-masculino"
-weight: 21020270124120002
+weight: 21020270124000002
 ---
 
 Encuentro correspondiente a la categoría Sub 22 (masculino) entre **BUEN CONSEJO** y **COLMENAR VIEJO**.

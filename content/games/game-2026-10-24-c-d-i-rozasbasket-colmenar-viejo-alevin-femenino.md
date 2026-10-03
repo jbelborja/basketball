@@ -1,7 +1,7 @@
 ---
 title: "C.D.I. ROZASBASKET VS COLMENAR VIEJO"
-date: 2026-10-24T12:00:00
-time: "12:00"
+date: 2026-10-24T00:00:00
+time: ""
 team1: "C.D.I. ROZASBASKET"
 team1_slug: "c-d-i-rozasbasket"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Alv Fem 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 8"
 uid: "game-2026-10-24-c-d-i-rozasbasket-colmenar-viejo-alevin-femenino"
 slug: "game-2026-10-24-c-d-i-rozasbasket-colmenar-viejo-alevin-femenino"
-weight: 62020261024120042
+weight: 62020261024000042
 ---
 
 Encuentro correspondiente a la categoría Alevín (femenino) entre **C.D.I. ROZASBASKET** y **COLMENAR VIEJO**.

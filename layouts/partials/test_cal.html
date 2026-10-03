@@ -1,0 +1,7 @@
+{{ $calStart := .Date.Format "20060102T150405" }}
+{{ $calEnd := (.Date.Add (time.ParseDuration "2h")).Format "20060102T150405" }}
+{{ $calTitle := printf "%s vs %s" .Params.team1 .Params.team2 }}
+{{ $calDesc := printf "Competición: %s" .Params.league_title }}
+{{ $calLocation := .Params.venue_address | default .Params.venue }}
+{{ $calUrl := printf "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%s&dates=%s/%s&details=%s&location=%s" ($calTitle | urlquery) $calStart $calEnd ($calDesc | urlquery) ($calLocation | urlquery) }}
+{{ $calUrl }}

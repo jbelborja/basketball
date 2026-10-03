@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS CB POZUELO"
-date: 2026-11-15T12:00:00
-time: "12:00"
+date: 2026-11-15T00:00:00
+time: ""
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-senior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-11-15-colmenar-viejo-cb-pozuelo-senior-masculino"
 slug: "game-2026-11-15-colmenar-viejo-cb-pozuelo-senior-masculino"
-weight: 11020261115120074
+weight: 11020261115000074
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **COLMENAR VIEJO** y **CB POZUELO**.

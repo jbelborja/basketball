@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO B VS UROS DE RIVAS"
-date: 2027-02-07T12:00:00
-time: "12:00"
+date: 2027-02-07T00:00:00
+time: ""
 team1: "COLMENAR VIEJO B"
 team1_slug: "colmenar-viejo-b-senior-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2027-02-07-colmenar-viejo-b-uros-de-rivas-senior-femenino"
 slug: "game-2027-02-07-colmenar-viejo-b-uros-de-rivas-senior-femenino"
-weight: 12220270207120055
+weight: 12220270207000055
 ---
 
 Encuentro correspondiente a la categoría Senior (femenino) entre **COLMENAR VIEJO B** y **UROS DE RIVAS**.

@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS LIONS BASKET ARROYOMOLINOS \"A\""
-date: 2026-11-21T12:00:00
-time: "12:00"
+date: 2026-11-21T00:00:00
+time: ""
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-alevin-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Alv Fem 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13"
 uid: "game-2026-11-21-colmenar-viejo-lions-basket-arroyomolinos-a-alevin-femenino"
 slug: "game-2026-11-21-colmenar-viejo-lions-basket-arroyomolinos-a-alevin-femenino"
-weight: 62020261121120055
+weight: 62020261121000055
 ---
 
 Encuentro correspondiente a la categoría Alevín (femenino) entre **COLMENAR VIEJO** y **LIONS BASKET ARROYOMOLINOS "A"**.

@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A VS COLEGIO ALAMEDA DE OSUNA"
-date: 2027-01-30T12:00:00
-time: "12:00"
+date: 2027-01-30T00:00:00
+time: ""
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-senior-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-01-30-colmenar-viejo-a-colegio-alameda-de-osuna-senior-femenino"
 slug: "game-2027-01-30-colmenar-viejo-a-colegio-alameda-de-osuna-senior-femenino"
-weight: 12120270130120098
+weight: 12120270130000098
 ---
 
 Encuentro correspondiente a la categoría Senior (femenino) entre **COLMENAR VIEJO A** y **COLEGIO ALAMEDA DE OSUNA**.

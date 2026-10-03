@@ -1,7 +1,7 @@
 ---
 title: "U.B. FEMENINO HUMANES AMARILLO VS COLMENAR VIEJO"
-date: 2026-12-12T12:00:00
-time: "12:00"
+date: 2026-12-12T00:00:00
+time: ""
 team1: "U.B. FEMENINO HUMANES AMARILLO"
 team1_slug: "u-b-femenino-humanes-amarillo"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Cadete Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 2"
 uid: "game-2026-12-12-u-b-femenino-humanes-amarillo-colmenar-viejo-cadete-femenino"
 slug: "game-2026-12-12-u-b-femenino-humanes-amarillo-colmenar-viejo-cadete-femenino"
-weight: 42020261212120096
+weight: 42020261212000096
 ---
 
 Encuentro correspondiente a la categoría Cadete (femenino) entre **U.B. FEMENINO HUMANES AMARILLO** y **COLMENAR VIEJO**.

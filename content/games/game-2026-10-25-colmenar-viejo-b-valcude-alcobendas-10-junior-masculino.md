@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO B VS VALCUDE ALCOBENDAS 10"
-date: 2026-10-25T12:00:00
-time: "12:00"
+date: 2026-10-25T00:00:00
+time: ""
 team1: "COLMENAR VIEJO B"
 team1_slug: "colmenar-viejo-b-junior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
 uid: "game-2026-10-25-colmenar-viejo-b-valcude-alcobendas-10-junior-masculino"
 slug: "game-2026-10-25-colmenar-viejo-b-valcude-alcobendas-10-junior-masculino"
-weight: 31220261025120000
+weight: 31220261025000000
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **COLMENAR VIEJO B** y **VALCUDE ALCOBENDAS 10**.

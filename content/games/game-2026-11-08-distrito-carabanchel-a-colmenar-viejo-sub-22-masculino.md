@@ -1,7 +1,7 @@
 ---
 title: "DISTRITO CARABANCHEL A VS COLMENAR VIEJO"
-date: 2026-11-08T12:00:00
-time: "12:00"
+date: 2026-11-08T00:00:00
+time: ""
 team1: "DISTRITO CARABANCHEL A"
 team1_slug: "distrito-carabanchel-a"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Sub 22 Masc. BRONCE - PRIMERA 1\u00aa DIVISION - GRUPO 1"
 uid: "game-2026-11-08-distrito-carabanchel-a-colmenar-viejo-sub-22-masculino"
 slug: "game-2026-11-08-distrito-carabanchel-a-colmenar-viejo-sub-22-masculino"
-weight: 21020261108120085
+weight: 21020261108000085
 ---
 
 Encuentro correspondiente a la categoría Sub 22 (masculino) entre **DISTRITO CARABANCHEL A** y **COLMENAR VIEJO**.

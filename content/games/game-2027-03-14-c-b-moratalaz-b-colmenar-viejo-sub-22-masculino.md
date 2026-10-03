@@ -1,7 +1,7 @@
 ---
 title: "C.B. MORATALAZ \"B\" VS COLMENAR VIEJO"
-date: 2027-03-14T12:00:00
-time: "12:00"
+date: 2027-03-14T00:00:00
+time: ""
 team1: "C.B. MORATALAZ \"B\""
 team1_slug: "c-b-moratalaz-b"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Sub 22 Masc. BRONCE - PRIMERA 1\u00aa DIVISION - GRUPO 1"
 uid: "game-2027-03-14-c-b-moratalaz-b-colmenar-viejo-sub-22-masculino"
 slug: "game-2027-03-14-c-b-moratalaz-b-colmenar-viejo-sub-22-masculino"
-weight: 21020270314120019
+weight: 21020270314000019
 ---
 
 Encuentro correspondiente a la categoría Sub 22 (masculino) entre **C.B. MORATALAZ "B"** y **COLMENAR VIEJO**.

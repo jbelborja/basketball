@@ -1,7 +1,7 @@
 ---
 title: "C.B. GETAFE VS COLMENAR VIEJO B"
-date: 2027-02-28T12:00:00
-time: "12:00"
+date: 2027-02-28T00:00:00
+time: ""
 team1: "C.B. GETAFE"
 team1_slug: "c-b-getafe"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2027-02-28-c-b-getafe-colmenar-viejo-b-senior-femenino"
 slug: "game-2027-02-28-c-b-getafe-colmenar-viejo-b-senior-femenino"
-weight: 12220270228120095
+weight: 12220270228000095
 ---
 
 Encuentro correspondiente a la categoría Senior (femenino) entre **C.B. GETAFE** y **COLMENAR VIEJO B**.

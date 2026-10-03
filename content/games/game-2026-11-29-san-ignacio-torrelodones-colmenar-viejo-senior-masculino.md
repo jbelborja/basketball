@@ -1,7 +1,7 @@
 ---
 title: "SAN IGNACIO TORRELODONES VS COLMENAR VIEJO"
-date: 2026-11-29T12:00:00
-time: "12:00"
+date: 2026-11-29T00:00:00
+time: ""
 team1: "SAN IGNACIO TORRELODONES"
 team1_slug: "san-ignacio-torrelodones"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-11-29-san-ignacio-torrelodones-colmenar-viejo-senior-masculino"
 slug: "game-2026-11-29-san-ignacio-torrelodones-colmenar-viejo-senior-masculino"
-weight: 11020261129120070
+weight: 11020261129000070
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **SAN IGNACIO TORRELODONES** y **COLMENAR VIEJO**.

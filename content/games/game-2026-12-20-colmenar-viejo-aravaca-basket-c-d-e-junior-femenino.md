@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS ARAVACA BASKET C.D.E."
-date: 2026-12-20T12:00:00
-time: "12:00"
+date: 2026-12-20T00:00:00
+time: ""
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-junior-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Junior Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 5"
 uid: "game-2026-12-20-colmenar-viejo-aravaca-basket-c-d-e-junior-femenino"
 slug: "game-2026-12-20-colmenar-viejo-aravaca-basket-c-d-e-junior-femenino"
-weight: 32020261220120071
+weight: 32020261220000071
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **COLMENAR VIEJO** y **ARAVACA BASKET C.D.E.**.

@@ -1,7 +1,7 @@
 ---
 title: "C.B. GETAFE \"B\" VS COLMENAR VIEJO BLANCO"
-date: 2026-11-07T12:00:00
-time: "12:00"
+date: 2026-11-07T00:00:00
+time: ""
 team1: "C.B. GETAFE \"B\""
 team1_slug: "c-b-getafe-b"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Alv Mas 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9"
 uid: "game-2026-11-07-c-b-getafe-b-colmenar-viejo-blanco-alevin-masculino"
 slug: "game-2026-11-07-c-b-getafe-b-colmenar-viejo-blanco-alevin-masculino"
-weight: 61020261107120036
+weight: 61020261107000036
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **C.B. GETAFE "B"** y **COLMENAR VIEJO BLANCO**.

@@ -1,7 +1,7 @@
 ---
 title: "LICEO FRANCES 2012 VS COLMENAR VIEJO B"
-date: 2026-10-24T12:00:00
-time: "12:00"
+date: 2026-10-24T00:00:00
+time: ""
 team1: "LICEO FRANCES 2012"
 team1_slug: "liceo-frances-2012"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2026-10-24-liceo-frances-2012-colmenar-viejo-b-cadete-masculino"
 slug: "game-2026-10-24-liceo-frances-2012-colmenar-viejo-b-cadete-masculino"
-weight: 41220261024120007
+weight: 41220261024000007
 ---
 
 Encuentro correspondiente a la categoría Cadete (masculino) entre **LICEO FRANCES 2012** y **COLMENAR VIEJO B**.

@@ -1,7 +1,7 @@
 ---
 title: "COLEGIO ALAMEDA DE OSUNA VS COLMENAR VIEJO B"
-date: 2027-04-04T12:00:00
-time: "12:00"
+date: 2027-04-04T00:00:00
+time: ""
 team1: "COLEGIO ALAMEDA DE OSUNA"
 team1_slug: "colegio-alameda-de-osuna"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2027-04-04-colegio-alameda-de-osuna-colmenar-viejo-b-senior-femenino"
 slug: "game-2027-04-04-colegio-alameda-de-osuna-colmenar-viejo-b-senior-femenino"
-weight: 12220270404120009
+weight: 12220270404000009
 ---
 
 Encuentro correspondiente a la categoría Senior (femenino) entre **COLEGIO ALAMEDA DE OSUNA** y **COLMENAR VIEJO B**.

@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO B VS BASALCOR RM"
-date: 2027-02-07T12:00:00
-time: "12:00"
+date: 2027-02-07T00:00:00
+time: ""
 team1: "COLMENAR VIEJO B"
 team1_slug: "colmenar-viejo-b-junior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
 uid: "game-2027-02-07-colmenar-viejo-b-basalcor-rm-junior-masculino"
 slug: "game-2027-02-07-colmenar-viejo-b-basalcor-rm-junior-masculino"
-weight: 31220270207120053
+weight: 31220270207000053
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **COLMENAR VIEJO B** y **BASALCOR RM**.

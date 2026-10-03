@@ -1,7 +1,7 @@
 ---
 title: "FENIX BASKET CLUB BOADILLA 63 - 31 COLMENAR VIEJO"
-date: 2026-10-03T12:00:00
-time: "12:00"
+date: 2026-10-03T00:00:00
+time: ""
 team1: "FENIX BASKET CLUB BOADILLA"
 team1_slug: "fenix-basket-club-boadilla"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Junior Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 5"
 uid: "game-2026-10-03-fenix-basket-club-boadilla-colmenar-viejo-junior-femenino"
 slug: "game-2026-10-03-fenix-basket-club-boadilla-colmenar-viejo-junior-femenino"
-weight: 32020261003120048
+weight: 32020261003000048
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **FENIX BASKET CLUB BOADILLA** y **COLMENAR VIEJO**.

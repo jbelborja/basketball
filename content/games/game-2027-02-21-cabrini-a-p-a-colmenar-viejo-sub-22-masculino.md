@@ -1,7 +1,7 @@
 ---
 title: "CABRINI A.P.A. VS COLMENAR VIEJO"
-date: 2027-02-21T12:00:00
-time: "12:00"
+date: 2027-02-21T00:00:00
+time: ""
 team1: "CABRINI A.P.A."
 team1_slug: "cabrini-a-p-a"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Sub 22 Masc. BRONCE - PRIMERA 1\u00aa DIVISION - GRUPO 1"
 uid: "game-2027-02-21-cabrini-a-p-a-colmenar-viejo-sub-22-masculino"
 slug: "game-2027-02-21-cabrini-a-p-a-colmenar-viejo-sub-22-masculino"
-weight: 21020270221120081
+weight: 21020270221000081
 ---
 
 Encuentro correspondiente a la categoría Sub 22 (masculino) entre **CABRINI A.P.A.** y **COLMENAR VIEJO**.

@@ -1,7 +1,7 @@
 ---
 title: "ISAAC NEWTON VS COLMENAR VIEJO A"
-date: 2027-03-06T12:00:00
-time: "12:00"
+date: 2027-03-06T00:00:00
+time: ""
 team1: "ISAAC NEWTON"
 team1_slug: "isaac-newton"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-03-06-isaac-newton-colmenar-viejo-a-senior-femenino"
 slug: "game-2027-03-06-isaac-newton-colmenar-viejo-a-senior-femenino"
-weight: 12120270306120086
+weight: 12120270306000086
 ---
 
 Encuentro correspondiente a la categoría Senior (femenino) entre **ISAAC NEWTON** y **COLMENAR VIEJO A**.

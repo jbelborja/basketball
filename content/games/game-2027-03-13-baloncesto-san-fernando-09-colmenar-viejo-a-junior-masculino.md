@@ -1,7 +1,7 @@
 ---
 title: "BALONCESTO SAN FERNANDO 09 VS COLMENAR VIEJO A"
-date: 2027-03-13T12:00:00
-time: "12:00"
+date: 2027-03-13T00:00:00
+time: ""
 team1: "BALONCESTO SAN FERNANDO 09"
 team1_slug: "baloncesto-san-fernando-09"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-03-13-baloncesto-san-fernando-09-colmenar-viejo-a-junior-masculino"
 slug: "game-2027-03-13-baloncesto-san-fernando-09-colmenar-viejo-a-junior-masculino"
-weight: 31120270313120038
+weight: 31120270313000038
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **BALONCESTO SAN FERNANDO 09** y **COLMENAR VIEJO A**.

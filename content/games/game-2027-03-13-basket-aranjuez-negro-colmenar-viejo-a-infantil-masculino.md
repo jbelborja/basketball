@@ -1,7 +1,7 @@
 ---
 title: "BASKET ARANJUEZ NEGRO VS COLMENAR VIEJO A"
-date: 2027-03-13T12:00:00
-time: "12:00"
+date: 2027-03-13T00:00:00
+time: ""
 team1: "BASKET ARANJUEZ NEGRO"
 team1_slug: "basket-aranjuez-negro"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-03-13-basket-aranjuez-negro-colmenar-viejo-a-infantil-masculino"
 slug: "game-2027-03-13-basket-aranjuez-negro-colmenar-viejo-a-infantil-masculino"
-weight: 51120270313120078
+weight: 51120270313000078
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **BASKET ARANJUEZ NEGRO** y **COLMENAR VIEJO A**.

@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A VS C.B. ALCORCON \"A\""
-date: 2026-12-20T12:00:00
-time: "12:00"
+date: 2026-12-20T00:00:00
+time: ""
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-junior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-12-20-colmenar-viejo-a-c-b-alcorcon-a-junior-masculino"
 slug: "game-2026-12-20-colmenar-viejo-a-c-b-alcorcon-a-junior-masculino"
-weight: 31120261220120011
+weight: 31120261220000011
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **COLMENAR VIEJO A** y **C.B. ALCORCON "A"**.

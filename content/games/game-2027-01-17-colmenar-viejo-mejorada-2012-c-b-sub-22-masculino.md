@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS MEJORADA 2012 C.B."
-date: 2027-01-17T12:00:00
-time: "12:00"
+date: 2027-01-17T00:00:00
+time: ""
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-sub-22-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Sub 22 Masc. BRONCE - PRIMERA 1\u00aa DIVISION - GRUPO 1"
 uid: "game-2027-01-17-colmenar-viejo-mejorada-2012-c-b-sub-22-masculino"
 slug: "game-2027-01-17-colmenar-viejo-mejorada-2012-c-b-sub-22-masculino"
-weight: 21020270117120010
+weight: 21020270117000010
 ---
 
 Encuentro correspondiente a la categoría Sub 22 (masculino) entre **COLMENAR VIEJO** y **MEJORADA 2012 C.B.**.

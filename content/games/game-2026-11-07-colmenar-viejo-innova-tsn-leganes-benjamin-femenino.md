@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS INNOVA-TSN LEGAN\u00c9S"
-date: 2026-11-07T12:00:00
-time: "12:00"
+date: 2026-11-07T00:00:00
+time: ""
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-benjamin-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Benj F.2\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6"
 uid: "game-2026-11-07-colmenar-viejo-innova-tsn-leganes-benjamin-femenino"
 slug: "game-2026-11-07-colmenar-viejo-innova-tsn-leganes-benjamin-femenino"
-weight: 72020261107120095
+weight: 72020261107000095
 ---
 
 Encuentro correspondiente a la categoría Benjamín (femenino) entre **COLMENAR VIEJO** y **INNOVA-TSN LEGANÉS**.

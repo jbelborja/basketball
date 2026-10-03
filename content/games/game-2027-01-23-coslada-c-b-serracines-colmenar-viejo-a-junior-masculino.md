@@ -1,7 +1,7 @@
 ---
 title: "COSLADA C.B. SERRACINES VS COLMENAR VIEJO A"
-date: 2027-01-23T12:00:00
-time: "12:00"
+date: 2027-01-23T00:00:00
+time: ""
 team1: "COSLADA C.B. SERRACINES"
 team1_slug: "coslada-c-b-serracines"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-01-23-coslada-c-b-serracines-colmenar-viejo-a-junior-masculino"
 slug: "game-2027-01-23-coslada-c-b-serracines-colmenar-viejo-a-junior-masculino"
-weight: 31120270123120077
+weight: 31120270123000077
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **COSLADA C.B. SERRACINES** y **COLMENAR VIEJO A**.

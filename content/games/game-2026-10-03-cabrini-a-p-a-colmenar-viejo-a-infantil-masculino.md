@@ -1,7 +1,7 @@
 ---
 title: "CABRINI A.P.A. 78 - 26 COLMENAR VIEJO A"
-date: 2026-10-03T12:00:00
-time: "12:00"
+date: 2026-10-03T00:00:00
+time: ""
 team1: "CABRINI A.P.A."
 team1_slug: "cabrini-a-p-a"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-10-03-cabrini-a-p-a-colmenar-viejo-a-infantil-masculino"
 slug: "game-2026-10-03-cabrini-a-p-a-colmenar-viejo-a-infantil-masculino"
-weight: 51120261003120035
+weight: 51120261003000035
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **CABRINI A.P.A.** y **COLMENAR VIEJO A**.

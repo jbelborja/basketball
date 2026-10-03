@@ -1,7 +1,7 @@
 ---
 title: "BASKET ARANJUEZ C VS COLMENAR VIEJO C"
-date: 2026-11-14T12:00:00
-time: "12:00"
+date: 2026-11-14T00:00:00
+time: ""
 team1: "BASKET ARANJUEZ C"
 team1_slug: "basket-aranjuez-c"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 5\u00aa DIVISION - GRUPO PAR"
 uid: "game-2026-11-14-basket-aranjuez-c-colmenar-viejo-c-junior-masculino"
 slug: "game-2026-11-14-basket-aranjuez-c-colmenar-viejo-c-junior-masculino"
-weight: 31320261114120080
+weight: 31320261114000080
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **BASKET ARANJUEZ C** y **COLMENAR VIEJO C**.

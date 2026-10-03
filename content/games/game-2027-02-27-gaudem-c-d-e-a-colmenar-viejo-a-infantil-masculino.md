@@ -1,7 +1,7 @@
 ---
 title: "GAUDEM C.D.E. \"A\" VS COLMENAR VIEJO A"
-date: 2027-02-27T12:00:00
-time: "12:00"
+date: 2027-02-27T00:00:00
+time: ""
 team1: "GAUDEM C.D.E. \"A\""
 team1_slug: "gaudem-c-d-e-a"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-02-27-gaudem-c-d-e-a-colmenar-viejo-a-infantil-masculino"
 slug: "game-2027-02-27-gaudem-c-d-e-a-colmenar-viejo-a-infantil-masculino"
-weight: 51120270227120071
+weight: 51120270227000071
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **GAUDEM C.D.E. "A"** y **COLMENAR VIEJO A**.

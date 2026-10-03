@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A VS PRODET POZUELO C.D.E."
-date: 2027-03-06T12:00:00
-time: "12:00"
+date: 2027-03-06T00:00:00
+time: ""
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-infantil-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-03-06-colmenar-viejo-a-prodet-pozuelo-c-d-e-infantil-masculino"
 slug: "game-2027-03-06-colmenar-viejo-a-prodet-pozuelo-c-d-e-infantil-masculino"
-weight: 51120270306120003
+weight: 51120270306000003
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **COLMENAR VIEJO A** y **PRODET POZUELO C.D.E.**.

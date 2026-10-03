@@ -1,7 +1,7 @@
 ---
 title: "LICEO FRANCES VS COLMENAR VIEJO A"
-date: 2026-11-22T12:00:00
-time: "12:00"
+date: 2026-11-22T00:00:00
+time: ""
 team1: "LICEO FRANCES"
 team1_slug: "liceo-frances"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-11-22-liceo-frances-colmenar-viejo-a-senior-masculino"
 slug: "game-2026-11-22-liceo-frances-colmenar-viejo-a-senior-masculino"
-weight: 11120261122120083
+weight: 11120261122000083
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **LICEO FRANCES** y **COLMENAR VIEJO A**.

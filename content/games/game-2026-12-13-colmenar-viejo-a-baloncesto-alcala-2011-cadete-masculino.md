@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A VS BALONCESTO ALCALA 2011"
-date: 2026-12-13T12:00:00
-time: "12:00"
+date: 2026-12-13T00:00:00
+time: ""
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-cadete-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Cadete Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-12-13-colmenar-viejo-a-baloncesto-alcala-2011-cadete-masculino"
 slug: "game-2026-12-13-colmenar-viejo-a-baloncesto-alcala-2011-cadete-masculino"
-weight: 41120261213120007
+weight: 41120261213000007
 ---
 
 Encuentro correspondiente a la categoría Cadete (masculino) entre **COLMENAR VIEJO A** y **BALONCESTO ALCALA 2011**.

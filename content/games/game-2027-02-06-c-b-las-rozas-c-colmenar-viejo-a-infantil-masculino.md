@@ -1,7 +1,7 @@
 ---
 title: "C.B. LAS ROZAS \"C\" VS COLMENAR VIEJO A"
-date: 2027-02-06T12:00:00
-time: "12:00"
+date: 2027-02-06T00:00:00
+time: ""
 team1: "C.B. LAS ROZAS \"C\""
 team1_slug: "c-b-las-rozas-c"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-02-06-c-b-las-rozas-c-colmenar-viejo-a-infantil-masculino"
 slug: "game-2027-02-06-c-b-las-rozas-c-colmenar-viejo-a-infantil-masculino"
-weight: 51120270206120087
+weight: 51120270206000087
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **C.B. LAS ROZAS "C"** y **COLMENAR VIEJO A**.

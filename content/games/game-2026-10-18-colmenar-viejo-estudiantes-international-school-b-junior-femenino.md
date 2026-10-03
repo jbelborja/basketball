@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS ESTUDIANTES INTERNATIONAL SCHOOL \"B\""
-date: 2026-10-18T12:00:00
-time: "12:00"
+date: 2026-10-18T00:00:00
+time: ""
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-junior-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Junior Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 5"
 uid: "game-2026-10-18-colmenar-viejo-estudiantes-international-school-b-junior-femenino"
 slug: "game-2026-10-18-colmenar-viejo-estudiantes-international-school-b-junior-femenino"
-weight: 32020261018120046
+weight: 32020261018000046
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **COLMENAR VIEJO** y **ESTUDIANTES INTERNATIONAL SCHOOL "B"**.

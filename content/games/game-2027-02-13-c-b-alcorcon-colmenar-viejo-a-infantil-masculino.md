@@ -1,7 +1,7 @@
 ---
 title: "C.B. ALCORCON VS COLMENAR VIEJO A"
-date: 2027-02-13T12:00:00
-time: "12:00"
+date: 2027-02-13T00:00:00
+time: ""
 team1: "C.B. ALCORCON"
 team1_slug: "c-b-alcorcon"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-02-13-c-b-alcorcon-colmenar-viejo-a-infantil-masculino"
 slug: "game-2027-02-13-c-b-alcorcon-colmenar-viejo-a-infantil-masculino"
-weight: 51120270213120067
+weight: 51120270213000067
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **C.B. ALCORCON** y **COLMENAR VIEJO A**.

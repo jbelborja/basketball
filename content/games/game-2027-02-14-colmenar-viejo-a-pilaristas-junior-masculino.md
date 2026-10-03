@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A VS PILARISTAS"
-date: 2027-02-14T12:00:00
-time: "12:00"
+date: 2027-02-14T00:00:00
+time: ""
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-junior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-02-14-colmenar-viejo-a-pilaristas-junior-masculino"
 slug: "game-2027-02-14-colmenar-viejo-a-pilaristas-junior-masculino"
-weight: 31120270214120071
+weight: 31120270214000071
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **COLMENAR VIEJO A** y **PILARISTAS**.

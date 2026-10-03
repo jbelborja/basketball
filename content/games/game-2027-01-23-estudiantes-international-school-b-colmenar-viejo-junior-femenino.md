@@ -1,7 +1,7 @@
 ---
 title: "ESTUDIANTES INTERNATIONAL SCHOOL \"B\" VS COLMENAR VIEJO"
-date: 2027-01-23T12:00:00
-time: "12:00"
+date: 2027-01-23T00:00:00
+time: ""
 team1: "ESTUDIANTES INTERNATIONAL SCHOOL \"B\""
 team1_slug: "estudiantes-international-school-b"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Junior Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 5"
 uid: "game-2027-01-23-estudiantes-international-school-b-colmenar-viejo-junior-femenino"
 slug: "game-2027-01-23-estudiantes-international-school-b-colmenar-viejo-junior-femenino"
-weight: 32020270123120091
+weight: 32020270123000091
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **ESTUDIANTES INTERNATIONAL SCHOOL "B"** y **COLMENAR VIEJO**.

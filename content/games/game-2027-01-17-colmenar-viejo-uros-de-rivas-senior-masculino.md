@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS UROS DE RIVAS"
-date: 2027-01-17T12:00:00
-time: "12:00"
+date: 2027-01-17T00:00:00
+time: ""
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-senior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-01-17-colmenar-viejo-uros-de-rivas-senior-masculino"
 slug: "game-2027-01-17-colmenar-viejo-uros-de-rivas-senior-masculino"
-weight: 11020270117120081
+weight: 11020270117000081
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **COLMENAR VIEJO** y **UROS DE RIVAS**.

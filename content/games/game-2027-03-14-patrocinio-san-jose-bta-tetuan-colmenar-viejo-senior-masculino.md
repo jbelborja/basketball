@@ -1,7 +1,7 @@
 ---
 title: "PATROCINIO SAN JOSE BTA TETU\u00c1N VS COLMENAR VIEJO"
-date: 2027-03-14T12:00:00
-time: "12:00"
+date: 2027-03-14T00:00:00
+time: ""
 team1: "PATROCINIO SAN JOSE BTA TETU\u00c1N"
 team1_slug: "patrocinio-san-jose-bta-tetuan"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-03-14-patrocinio-san-jose-bta-tetuan-colmenar-viejo-senior-masculino"
 slug: "game-2027-03-14-patrocinio-san-jose-bta-tetuan-colmenar-viejo-senior-masculino"
-weight: 11020270314120005
+weight: 11020270314000005
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **PATROCINIO SAN JOSE BTA TETUÁN** y **COLMENAR VIEJO**.

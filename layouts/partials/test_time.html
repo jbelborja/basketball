@@ -1,0 +1,3 @@
+{{ $start := .Date }}
+{{ $end := $start.Add (time.ParseDuration "2h") }}
+{{ $start.Format "20060102T150405" }}/{{ $end.Format "20060102T150405" }}

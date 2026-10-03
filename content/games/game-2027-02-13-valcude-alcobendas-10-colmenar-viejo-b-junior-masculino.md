@@ -1,7 +1,7 @@
 ---
 title: "VALCUDE ALCOBENDAS 10 VS COLMENAR VIEJO B"
-date: 2027-02-13T12:00:00
-time: "12:00"
+date: 2027-02-13T00:00:00
+time: ""
 team1: "VALCUDE ALCOBENDAS 10"
 team1_slug: "valcude-alcobendas-10"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
 uid: "game-2027-02-13-valcude-alcobendas-10-colmenar-viejo-b-junior-masculino"
 slug: "game-2027-02-13-valcude-alcobendas-10-colmenar-viejo-b-junior-masculino"
-weight: 31220270213120029
+weight: 31220270213000029
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **VALCUDE ALCOBENDAS 10** y **COLMENAR VIEJO B**.

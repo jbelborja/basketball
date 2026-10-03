@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO C VS TRIPLE CHAMBERI"
-date: 2026-11-28T12:00:00
-time: "12:00"
+date: 2026-11-28T00:00:00
+time: ""
 team1: "COLMENAR VIEJO C"
 team1_slug: "colmenar-viejo-c-cadete-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2026-11-28-colmenar-viejo-c-triple-chamberi-cadete-masculino"
 slug: "game-2026-11-28-colmenar-viejo-c-triple-chamberi-cadete-masculino"
-weight: 41320261128120028
+weight: 41320261128000028
 ---
 
 Encuentro correspondiente a la categoría Cadete (masculino) entre **COLMENAR VIEJO C** y **TRIPLE CHAMBERI**.

@@ -1,7 +1,7 @@
 ---
 title: "RICOPIA FUNBAL ALCALA CBJA VS COLMENAR VIEJO"
-date: 2027-02-28T12:00:00
-time: "12:00"
+date: 2027-02-28T00:00:00
+time: ""
 team1: "RICOPIA FUNBAL ALCALA CBJA"
 team1_slug: "ricopia-funbal-alcala-cbja"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-02-28-ricopia-funbal-alcala-cbja-colmenar-viejo-senior-masculino"
 slug: "game-2027-02-28-ricopia-funbal-alcala-cbja-colmenar-viejo-senior-masculino"
-weight: 11020270228120025
+weight: 11020270228000025
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **RICOPIA FUNBAL ALCALA CBJA** y **COLMENAR VIEJO**.

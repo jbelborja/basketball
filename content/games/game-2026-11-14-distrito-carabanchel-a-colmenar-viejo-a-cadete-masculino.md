@@ -1,7 +1,7 @@
 ---
 title: "DISTRITO CARABANCHEL A VS COLMENAR VIEJO A"
-date: 2026-11-14T12:00:00
-time: "12:00"
+date: 2026-11-14T00:00:00
+time: ""
 team1: "DISTRITO CARABANCHEL A"
 team1_slug: "distrito-carabanchel-a"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Cadete Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-11-14-distrito-carabanchel-a-colmenar-viejo-a-cadete-masculino"
 slug: "game-2026-11-14-distrito-carabanchel-a-colmenar-viejo-a-cadete-masculino"
-weight: 41120261114120030
+weight: 41120261114000030
 ---
 
 Encuentro correspondiente a la categoría Cadete (masculino) entre **DISTRITO CARABANCHEL A** y **COLMENAR VIEJO A**.

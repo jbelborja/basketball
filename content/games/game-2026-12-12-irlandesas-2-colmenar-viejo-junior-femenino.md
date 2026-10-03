@@ -1,7 +1,7 @@
 ---
 title: "IRLANDESAS 2 VS COLMENAR VIEJO"
-date: 2026-12-12T12:00:00
-time: "12:00"
+date: 2026-12-12T00:00:00
+time: ""
 team1: "IRLANDESAS 2"
 team1_slug: "irlandesas-2"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Junior Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 5"
 uid: "game-2026-12-12-irlandesas-2-colmenar-viejo-junior-femenino"
 slug: "game-2026-12-12-irlandesas-2-colmenar-viejo-junior-femenino"
-weight: 32020261212120050
+weight: 32020261212000050
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **IRLANDESAS 2** y **COLMENAR VIEJO**.

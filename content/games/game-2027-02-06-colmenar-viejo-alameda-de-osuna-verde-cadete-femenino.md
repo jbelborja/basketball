@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS ALAMEDA DE OSUNA VERDE"
-date: 2027-02-06T12:00:00
-time: "12:00"
+date: 2027-02-06T00:00:00
+time: ""
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-cadete-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Cadete Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 2"
 uid: "game-2027-02-06-colmenar-viejo-alameda-de-osuna-verde-cadete-femenino"
 slug: "game-2027-02-06-colmenar-viejo-alameda-de-osuna-verde-cadete-femenino"
-weight: 42020270206120004
+weight: 42020270206000004
 ---
 
 Encuentro correspondiente a la categoría Cadete (femenino) entre **COLMENAR VIEJO** y **ALAMEDA DE OSUNA VERDE**.

@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO B VS VICALVARO BALONCESTO CDE"
-date: 2027-03-07T12:00:00
-time: "12:00"
+date: 2027-03-07T00:00:00
+time: ""
 team1: "COLMENAR VIEJO B"
 team1_slug: "colmenar-viejo-b-junior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
 uid: "game-2027-03-07-colmenar-viejo-b-vicalvaro-baloncesto-cde-junior-masculino"
 slug: "game-2027-03-07-colmenar-viejo-b-vicalvaro-baloncesto-cde-junior-masculino"
-weight: 31220270307120003
+weight: 31220270307000003
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **COLMENAR VIEJO B** y **VICALVARO BALONCESTO CDE**.

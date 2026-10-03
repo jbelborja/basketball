@@ -1,7 +1,7 @@
 ---
 title: "VIRGEN DE ATOCHA VS COLMENAR VIEJO B"
-date: 2027-02-14T12:00:00
-time: "12:00"
+date: 2027-02-14T00:00:00
+time: ""
 team1: "VIRGEN DE ATOCHA"
 team1_slug: "virgen-de-atocha"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2027-02-14-virgen-de-atocha-colmenar-viejo-b-senior-femenino"
 slug: "game-2027-02-14-virgen-de-atocha-colmenar-viejo-b-senior-femenino"
-weight: 12220270214120020
+weight: 12220270214000020
 ---
 
 Encuentro correspondiente a la categoría Senior (femenino) entre **VIRGEN DE ATOCHA** y **COLMENAR VIEJO B**.

@@ -1,7 +1,7 @@
 ---
 title: "COSLADA C.B. SERRACINES VS COLMENAR VIEJO"
-date: 2027-04-04T12:00:00
-time: "12:00"
+date: 2027-04-04T00:00:00
+time: ""
 team1: "COSLADA C.B. SERRACINES"
 team1_slug: "coslada-c-b-serracines"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-04-04-coslada-c-b-serracines-colmenar-viejo-senior-masculino"
 slug: "game-2027-04-04-coslada-c-b-serracines-colmenar-viejo-senior-masculino"
-weight: 11020270404120033
+weight: 11020270404000033
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **COSLADA C.B. SERRACINES** y **COLMENAR VIEJO**.

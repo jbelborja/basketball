@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS MOVISTAR ESTUDIANTES ANTON"
-date: 2027-01-31T12:00:00
-time: "12:00"
+date: 2027-01-31T00:00:00
+time: ""
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-junior-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Junior Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 5"
 uid: "game-2027-01-31-colmenar-viejo-movistar-estudiantes-anton-junior-femenino"
 slug: "game-2027-01-31-colmenar-viejo-movistar-estudiantes-anton-junior-femenino"
-weight: 32020270131120045
+weight: 32020270131000045
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **COLMENAR VIEJO** y **MOVISTAR ESTUDIANTES ANTON**.

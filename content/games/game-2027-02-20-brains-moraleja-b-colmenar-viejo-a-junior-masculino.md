@@ -1,7 +1,7 @@
 ---
 title: "BRAINS MORALEJA B VS COLMENAR VIEJO A"
-date: 2027-02-20T12:00:00
-time: "12:00"
+date: 2027-02-20T00:00:00
+time: ""
 team1: "BRAINS MORALEJA B"
 team1_slug: "brains-moraleja-b"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-02-20-brains-moraleja-b-colmenar-viejo-a-junior-masculino"
 slug: "game-2027-02-20-brains-moraleja-b-colmenar-viejo-a-junior-masculino"
-weight: 31120270220120033
+weight: 31120270220000033
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **BRAINS MORALEJA B** y **COLMENAR VIEJO A**.

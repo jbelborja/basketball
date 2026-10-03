@@ -1,7 +1,7 @@
 ---
 title: "ARROYOMOLINOS C.B. \"A\" VS COLMENAR VIEJO"
-date: 2027-01-16T12:00:00
-time: "12:00"
+date: 2027-01-16T00:00:00
+time: ""
 team1: "ARROYOMOLINOS C.B. \"A\""
 team1_slug: "arroyomolinos-c-b-a"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Alv Mas 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 7"
 uid: "game-2027-01-16-arroyomolinos-c-b-a-colmenar-viejo-alevin-masculino"
 slug: "game-2027-01-16-arroyomolinos-c-b-a-colmenar-viejo-alevin-masculino"
-weight: 61020270116120020
+weight: 61020270116000020
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **ARROYOMOLINOS C.B. "A"** y **COLMENAR VIEJO**.

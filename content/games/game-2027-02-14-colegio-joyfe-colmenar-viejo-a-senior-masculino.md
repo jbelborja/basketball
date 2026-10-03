@@ -1,7 +1,7 @@
 ---
 title: "COLEGIO JOYFE VS COLMENAR VIEJO A"
-date: 2027-02-14T12:00:00
-time: "12:00"
+date: 2027-02-14T00:00:00
+time: ""
 team1: "COLEGIO JOYFE"
 team1_slug: "colegio-joyfe"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-02-14-colegio-joyfe-colmenar-viejo-a-senior-masculino"
 slug: "game-2027-02-14-colegio-joyfe-colmenar-viejo-a-senior-masculino"
-weight: 11120270214120051
+weight: 11120270214000051
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **COLEGIO JOYFE** y **COLMENAR VIEJO A**.

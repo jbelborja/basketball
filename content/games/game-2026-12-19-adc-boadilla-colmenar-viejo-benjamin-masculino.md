@@ -1,7 +1,7 @@
 ---
 title: "ADC BOADILLA VS COLMENAR VIEJO"
-date: 2026-12-19T12:00:00
-time: "12:00"
+date: 2026-12-19T00:00:00
+time: ""
 team1: "ADC BOADILLA"
 team1_slug: "adc-boadilla"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Benj Mas 2\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 11"
 uid: "game-2026-12-19-adc-boadilla-colmenar-viejo-benjamin-masculino"
 slug: "game-2026-12-19-adc-boadilla-colmenar-viejo-benjamin-masculino"
-weight: 71020261219120071
+weight: 71020261219000071
 ---
 
 Encuentro correspondiente a la categoría Benjamín (masculino) entre **ADC BOADILLA** y **COLMENAR VIEJO**.

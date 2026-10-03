@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A VS C.B. LAS ROZAS"
-date: 2027-01-16T12:00:00
-time: "12:00"
+date: 2027-01-16T00:00:00
+time: ""
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-senior-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-01-16-colmenar-viejo-a-c-b-las-rozas-senior-femenino"
 slug: "game-2027-01-16-colmenar-viejo-a-c-b-las-rozas-senior-femenino"
-weight: 12120270116120073
+weight: 12120270116000073
 ---
 
 Encuentro correspondiente a la categoría Senior (femenino) entre **COLMENAR VIEJO A** y **C.B. LAS ROZAS**.

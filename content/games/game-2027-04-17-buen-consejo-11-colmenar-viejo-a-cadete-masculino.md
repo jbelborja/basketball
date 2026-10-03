@@ -1,7 +1,7 @@
 ---
 title: "BUEN CONSEJO 11 VS COLMENAR VIEJO A"
-date: 2027-04-17T12:00:00
-time: "12:00"
+date: 2027-04-17T00:00:00
+time: ""
 team1: "BUEN CONSEJO 11"
 team1_slug: "buen-consejo-11"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Cadete Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-04-17-buen-consejo-11-colmenar-viejo-a-cadete-masculino"
 slug: "game-2027-04-17-buen-consejo-11-colmenar-viejo-a-cadete-masculino"
-weight: 41120270417120010
+weight: 41120270417000010
 ---
 
 Encuentro correspondiente a la categoría Cadete (masculino) entre **BUEN CONSEJO 11** y **COLMENAR VIEJO A**.

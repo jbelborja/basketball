@@ -1,7 +1,7 @@
 ---
 title: "ESTUDIO B VS COLMENAR VIEJO A"
-date: 2026-12-12T12:00:00
-time: "12:00"
+date: 2026-12-12T00:00:00
+time: ""
 team1: "ESTUDIO B"
 team1_slug: "estudio-b"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-12-12-estudio-b-colmenar-viejo-a-infantil-masculino"
 slug: "game-2026-12-12-estudio-b-colmenar-viejo-a-infantil-masculino"
-weight: 51120261212120049
+weight: 51120261212000049
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **ESTUDIO B** y **COLMENAR VIEJO A**.

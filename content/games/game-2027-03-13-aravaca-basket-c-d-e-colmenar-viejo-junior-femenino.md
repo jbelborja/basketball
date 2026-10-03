@@ -1,7 +1,7 @@
 ---
 title: "ARAVACA BASKET C.D.E. VS COLMENAR VIEJO"
-date: 2027-03-13T12:00:00
-time: "12:00"
+date: 2027-03-13T00:00:00
+time: ""
 team1: "ARAVACA BASKET C.D.E."
 team1_slug: "aravaca-basket-c-d-e"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Junior Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 5"
 uid: "game-2027-03-13-aravaca-basket-c-d-e-colmenar-viejo-junior-femenino"
 slug: "game-2027-03-13-aravaca-basket-c-d-e-colmenar-viejo-junior-femenino"
-weight: 32020270313120009
+weight: 32020270313000009
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **ARAVACA BASKET C.D.E.** y **COLMENAR VIEJO**.

@@ -1,7 +1,7 @@
 ---
 title: "DISTRITO CARABANCHEL VS COLMENAR VIEJO A"
-date: 2027-03-07T12:00:00
-time: "12:00"
+date: 2027-03-07T00:00:00
+time: ""
 team1: "DISTRITO CARABANCHEL"
 team1_slug: "distrito-carabanchel"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-03-07-distrito-carabanchel-colmenar-viejo-a-senior-masculino"
 slug: "game-2027-03-07-distrito-carabanchel-colmenar-viejo-a-senior-masculino"
-weight: 11120270307120070
+weight: 11120270307000070
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **DISTRITO CARABANCHEL** y **COLMENAR VIEJO A**.

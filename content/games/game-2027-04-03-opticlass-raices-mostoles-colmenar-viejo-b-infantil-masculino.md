@@ -1,7 +1,7 @@
 ---
 title: "OPTICLASS RA\u00cdCES M\u00d3STOLES VS COLMENAR VIEJO B"
-date: 2027-04-03T12:00:00
-time: "12:00"
+date: 2027-04-03T00:00:00
+time: ""
 team1: "OPTICLASS RA\u00cdCES M\u00d3STOLES"
 team1_slug: "opticlass-raices-mostoles"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-04-03-opticlass-raices-mostoles-colmenar-viejo-b-infantil-masculino"
 slug: "game-2027-04-03-opticlass-raices-mostoles-colmenar-viejo-b-infantil-masculino"
-weight: 51220270403120053
+weight: 51220270403000053
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **OPTICLASS RAÍCES MÓSTOLES** y **COLMENAR VIEJO B**.

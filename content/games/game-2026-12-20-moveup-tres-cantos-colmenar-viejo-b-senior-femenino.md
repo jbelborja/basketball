@@ -1,7 +1,7 @@
 ---
 title: "MOVEUP TRES CANTOS VS COLMENAR VIEJO B"
-date: 2026-12-20T12:00:00
-time: "12:00"
+date: 2026-12-20T00:00:00
+time: ""
 team1: "MOVEUP TRES CANTOS"
 team1_slug: "moveup-tres-cantos"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2026-12-20-moveup-tres-cantos-colmenar-viejo-b-senior-femenino"
 slug: "game-2026-12-20-moveup-tres-cantos-colmenar-viejo-b-senior-femenino"
-weight: 12220261220120087
+weight: 12220261220000087
 ---
 
 Encuentro correspondiente a la categoría Senior (femenino) entre **MOVEUP TRES CANTOS** y **COLMENAR VIEJO B**.

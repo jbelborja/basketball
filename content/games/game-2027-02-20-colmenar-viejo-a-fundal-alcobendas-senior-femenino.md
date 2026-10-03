@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A VS FUNDAL ALCOBENDAS"
-date: 2027-02-20T12:00:00
-time: "12:00"
+date: 2027-02-20T00:00:00
+time: ""
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-senior-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-02-20-colmenar-viejo-a-fundal-alcobendas-senior-femenino"
 slug: "game-2027-02-20-colmenar-viejo-a-fundal-alcobendas-senior-femenino"
-weight: 12120270220120030
+weight: 12120270220000030
 ---
 
 Encuentro correspondiente a la categoría Senior (femenino) entre **COLMENAR VIEJO A** y **FUNDAL ALCOBENDAS**.

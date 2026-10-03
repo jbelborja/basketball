@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO B VS C.B. GETAFE"
-date: 2026-11-22T12:00:00
-time: "12:00"
+date: 2026-11-22T00:00:00
+time: ""
 team1: "COLMENAR VIEJO B"
 team1_slug: "colmenar-viejo-b-senior-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2026-11-22-colmenar-viejo-b-c-b-getafe-senior-femenino"
 slug: "game-2026-11-22-colmenar-viejo-b-c-b-getafe-senior-femenino"
-weight: 12220261122120006
+weight: 12220261122000006
 ---
 
 Encuentro correspondiente a la categoría Senior (femenino) entre **COLMENAR VIEJO B** y **C.B. GETAFE**.

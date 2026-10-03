@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS GRUPO BURSAN C.B. CIUDAD DE M\u00d3STOLES"
-date: 2027-02-14T12:00:00
-time: "12:00"
+date: 2027-02-14T00:00:00
+time: ""
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-senior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2027-02-14-colmenar-viejo-grupo-bursan-c-b-ciudad-de-mostoles-senior-masculino"
 slug: "game-2027-02-14-colmenar-viejo-grupo-bursan-c-b-ciudad-de-mostoles-senior-masculino"
-weight: 11020270214120031
+weight: 11020270214000031
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **COLMENAR VIEJO** y **GRUPO BURSAN C.B. CIUDAD DE MÓSTOLES**.

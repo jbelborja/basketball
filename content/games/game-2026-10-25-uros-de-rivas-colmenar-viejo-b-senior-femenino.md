@@ -1,7 +1,7 @@
 ---
 title: "UROS DE RIVAS VS COLMENAR VIEJO B"
-date: 2026-10-25T12:00:00
-time: "12:00"
+date: 2026-10-25T00:00:00
+time: ""
 team1: "UROS DE RIVAS"
 team1_slug: "uros-de-rivas"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2026-10-25-uros-de-rivas-colmenar-viejo-b-senior-femenino"
 slug: "game-2026-10-25-uros-de-rivas-colmenar-viejo-b-senior-femenino"
-weight: 12220261025120057
+weight: 12220261025000057
 ---
 
 Encuentro correspondiente a la categoría Senior (femenino) entre **UROS DE RIVAS** y **COLMENAR VIEJO B**.

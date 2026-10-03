@@ -1,7 +1,7 @@
 ---
 title: "PARQUE CATALU\u00d1A TORREJ\u00d3N NEGRO VS COLMENAR VIEJO"
-date: 2026-12-20T12:00:00
-time: "12:00"
+date: 2026-12-20T00:00:00
+time: ""
 team1: "PARQUE CATALU\u00d1A TORREJ\u00d3N NEGRO"
 team1_slug: "parque-cataluna-torrejon-negro"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Sub 22 Masc. BRONCE - PRIMERA 1\u00aa DIVISION - GRUPO 1"
 uid: "game-2026-12-20-parque-cataluna-torrejon-negro-colmenar-viejo-sub-22-masculino"
 slug: "game-2026-12-20-parque-cataluna-torrejon-negro-colmenar-viejo-sub-22-masculino"
-weight: 21020261220120051
+weight: 21020261220000051
 ---
 
 Encuentro correspondiente a la categoría Sub 22 (masculino) entre **PARQUE CATALUÑA TORREJÓN NEGRO** y **COLMENAR VIEJO**.

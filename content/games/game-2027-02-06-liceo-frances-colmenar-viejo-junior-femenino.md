@@ -1,7 +1,7 @@
 ---
 title: "LICEO FRANCES VS COLMENAR VIEJO"
-date: 2027-02-06T12:00:00
-time: "12:00"
+date: 2027-02-06T00:00:00
+time: ""
 team1: "LICEO FRANCES"
 team1_slug: "liceo-frances"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Junior Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 5"
 uid: "game-2027-02-06-liceo-frances-colmenar-viejo-junior-femenino"
 slug: "game-2027-02-06-liceo-frances-colmenar-viejo-junior-femenino"
-weight: 32020270206120043
+weight: 32020270206000043
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **LICEO FRANCES** y **COLMENAR VIEJO**.

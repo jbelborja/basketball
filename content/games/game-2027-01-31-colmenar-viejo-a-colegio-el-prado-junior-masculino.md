@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A VS COLEGIO EL PRADO"
-date: 2027-01-31T12:00:00
-time: "12:00"
+date: 2027-01-31T00:00:00
+time: ""
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-junior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-01-31-colmenar-viejo-a-colegio-el-prado-junior-masculino"
 slug: "game-2027-01-31-colmenar-viejo-a-colegio-el-prado-junior-masculino"
-weight: 31120270131120074
+weight: 31120270131000074
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **COLMENAR VIEJO A** y **COLEGIO EL PRADO**.

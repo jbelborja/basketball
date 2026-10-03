@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO B VS SALTIUM ALCORC\u00d3N BASKET"
-date: 2027-03-07T12:00:00
-time: "12:00"
+date: 2027-03-07T00:00:00
+time: ""
 team1: "COLMENAR VIEJO B"
 team1_slug: "colmenar-viejo-b-senior-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2027-03-07-colmenar-viejo-b-saltium-alcorcon-basket-senior-femenino"
 slug: "game-2027-03-07-colmenar-viejo-b-saltium-alcorcon-basket-senior-femenino"
-weight: 12220270307120022
+weight: 12220270307000022
 ---
 
 Encuentro correspondiente a la categoría Senior (femenino) entre **COLMENAR VIEJO B** y **SALTIUM ALCORCÓN BASKET**.

@@ -1,7 +1,7 @@
 ---
 title: "MOVISTAR ESTUDIANTES DIAZ MIGUEL VS COLMENAR VIEJO A"
-date: 2027-03-06T12:00:00
-time: "12:00"
+date: 2027-03-06T00:00:00
+time: ""
 team1: "MOVISTAR ESTUDIANTES DIAZ MIGUEL"
 team1_slug: "movistar-estudiantes-diaz-miguel"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-03-06-movistar-estudiantes-diaz-miguel-colmenar-viejo-a-junior-masculino"
 slug: "game-2027-03-06-movistar-estudiantes-diaz-miguel-colmenar-viejo-a-junior-masculino"
-weight: 31120270306120011
+weight: 31120270306000011
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **MOVISTAR ESTUDIANTES DIAZ MIGUEL** y **COLMENAR VIEJO A**.

@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A VS CB POZUELO"
-date: 2027-02-20T12:00:00
-time: "12:00"
+date: 2027-02-20T00:00:00
+time: ""
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-infantil-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-02-20-colmenar-viejo-a-cb-pozuelo-infantil-masculino"
 slug: "game-2027-02-20-colmenar-viejo-a-cb-pozuelo-infantil-masculino"
-weight: 51120270220120069
+weight: 51120270220000069
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **COLMENAR VIEJO A** y **CB POZUELO**.

@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO B VS SINGER BASKET TUCUTUCU PF"
-date: 2026-11-21T12:00:00
-time: "12:00"
+date: 2026-11-21T00:00:00
+time: ""
 team1: "COLMENAR VIEJO B"
 team1_slug: "colmenar-viejo-b-infantil-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-11-21-colmenar-viejo-b-singer-basket-tucutucu-pf-infantil-masculino"
 slug: "game-2026-11-21-colmenar-viejo-b-singer-basket-tucutucu-pf-infantil-masculino"
-weight: 51220261121120033
+weight: 51220261121000033
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **COLMENAR VIEJO B** y **SINGER BASKET TUCUTUCU PF**.

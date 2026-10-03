@@ -4,7 +4,7 @@
   <!-- HEADER -->
   <div class="flex flex-col md:flex-row md:items-end justify-between gap-4 border-b border-slate-800 pb-6">
     <div>
-      <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Liga Regional Oficial FBM</span>
+      <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Liga Regional Oficial</span>
       <h1 class="font-sports text-3xl sm:text-5xl text-white font-bold uppercase tracking-tight">Tabla de Clasificación</h1>
       <p class="text-slate-400 text-sm mt-1">Consulta las posiciones oficiales, victorias, derrotas y dinámica de los grupos del CB Colmenar Viejo.</p>
     </div>
@@ -118,7 +118,7 @@
       <!-- Table Footer -->
       <div class="p-6 bg-slate-950/80 border-t border-slate-800 text-xs text-slate-400 flex flex-col sm:flex-row items-center justify-between gap-4">
         <div class="flex flex-wrap items-center gap-4">
-          <span class="flex items-center gap-2"><span class="w-3 h-3 rounded bg-slate-700"></span> Sistema de puntuación FBM: 2 puntos victoria, 1 punto derrota</span>
+          <span class="flex items-center gap-2"><span class="w-3 h-3 rounded bg-slate-700"></span> Sistema de puntuación oficial: 2 puntos victoria, 1 punto derrota</span>
         </div>
         <a href="{{ "games/" | relURL }}?category={{ .category }}&gender={{ .gender }}" class="text-orange-400 hover:text-orange-300 font-semibold transition">Consultar calendario de {{ .category }} {{ .gender }} →</a>
       </div>

@@ -1,7 +1,7 @@
 ---
 title: "BRAINS ARTURO SORIA VS COLMENAR VIEJO A"
-date: 2027-02-06T12:00:00
-time: "12:00"
+date: 2027-02-06T00:00:00
+time: ""
 team1: "BRAINS ARTURO SORIA"
 team1_slug: "brains-arturo-soria"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Cadete Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-02-06-brains-arturo-soria-colmenar-viejo-a-cadete-masculino"
 slug: "game-2027-02-06-brains-arturo-soria-colmenar-viejo-a-cadete-masculino"
-weight: 41120270206120058
+weight: 41120270206000058
 ---
 
 Encuentro correspondiente a la categoría Cadete (masculino) entre **BRAINS ARTURO SORIA** y **COLMENAR VIEJO A**.

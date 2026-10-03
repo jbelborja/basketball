@@ -1,7 +1,7 @@
 ---
 title: "VILLANUEVA DE LA CA\u00d1ADA VS COLMENAR VIEJO BLANCO"
-date: 2027-01-16T12:00:00
-time: "12:00"
+date: 2027-01-16T00:00:00
+time: ""
 team1: "VILLANUEVA DE LA CA\u00d1ADA"
 team1_slug: "villanueva-de-la-canada"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Alv Mas 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9"
 uid: "game-2027-01-16-villanueva-de-la-canada-colmenar-viejo-blanco-alevin-masculino"
 slug: "game-2027-01-16-villanueva-de-la-canada-colmenar-viejo-blanco-alevin-masculino"
-weight: 61020270116120065
+weight: 61020270116000065
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **VILLANUEVA DE LA CAÑADA** y **COLMENAR VIEJO BLANCO**.

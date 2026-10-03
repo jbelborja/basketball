@@ -1,7 +1,7 @@
 ---
 title: "PARLA BASQUET 2015 VS COLMENAR VIEJO"
-date: 2026-11-14T12:00:00
-time: "12:00"
+date: 2026-11-14T00:00:00
+time: ""
 team1: "PARLA BASQUET 2015"
 team1_slug: "parla-basquet-2015"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Alv Fem 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13"
 uid: "game-2026-11-14-parla-basquet-2015-colmenar-viejo-alevin-femenino"
 slug: "game-2026-11-14-parla-basquet-2015-colmenar-viejo-alevin-femenino"
-weight: 62020261114120070
+weight: 62020261114000070
 ---
 
 Encuentro correspondiente a la categoría Alevín (femenino) entre **PARLA BASQUET 2015** y **COLMENAR VIEJO**.

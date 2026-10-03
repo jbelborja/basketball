@@ -1,7 +1,7 @@
 ---
 title: "SEVERO TORREJON VS COLMENAR VIEJO B"
-date: 2027-02-20T12:00:00
-time: "12:00"
+date: 2027-02-20T00:00:00
+time: ""
 team1: "SEVERO TORREJON"
 team1_slug: "severo-torrejon"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-02-20-severo-torrejon-colmenar-viejo-b-infantil-masculino"
 slug: "game-2027-02-20-severo-torrejon-colmenar-viejo-b-infantil-masculino"
-weight: 51220270220120082
+weight: 51220270220000082
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **SEVERO TORREJON** y **COLMENAR VIEJO B**.

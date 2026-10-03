@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS PATROCINIO SAN JOSE BTA TETU\u00c1N"
-date: 2026-12-13T12:00:00
-time: "12:00"
+date: 2026-12-13T00:00:00
+time: ""
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-senior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-12-13-colmenar-viejo-patrocinio-san-jose-bta-tetuan-senior-masculino"
 slug: "game-2026-12-13-colmenar-viejo-patrocinio-san-jose-bta-tetuan-senior-masculino"
-weight: 11020261213120039
+weight: 11020261213000039
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **COLMENAR VIEJO** y **PATROCINIO SAN JOSE BTA TETUÁN**.

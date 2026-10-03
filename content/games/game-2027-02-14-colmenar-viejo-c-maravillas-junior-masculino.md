@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO C VS MARAVILLAS"
-date: 2027-02-14T12:00:00
-time: "12:00"
+date: 2027-02-14T00:00:00
+time: ""
 team1: "COLMENAR VIEJO C"
 team1_slug: "colmenar-viejo-c-junior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 5\u00aa DIVISION - GRUPO PAR"
 uid: "game-2027-02-14-colmenar-viejo-c-maravillas-junior-masculino"
 slug: "game-2027-02-14-colmenar-viejo-c-maravillas-junior-masculino"
-weight: 31320270214120075
+weight: 31320270214000075
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **COLMENAR VIEJO C** y **MARAVILLAS**.

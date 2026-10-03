@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A 75 - 46 VERITAS POZUELO"
-date: 2026-10-03T12:00:00
-time: "12:00"
+date: 2026-10-03T00:00:00
+time: ""
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-senior-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-10-03-colmenar-viejo-a-veritas-pozuelo-senior-femenino"
 slug: "game-2026-10-03-colmenar-viejo-a-veritas-pozuelo-senior-femenino"
-weight: 12120261003120023
+weight: 12120261003000023
 ---
 
 Encuentro correspondiente a la categoría Senior (femenino) entre **COLMENAR VIEJO A** y **VERITAS POZUELO**.

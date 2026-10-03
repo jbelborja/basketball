@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS MOVISTAR ESTUDIANTES PALOMARES"
-date: 2027-04-17T12:00:00
-time: "12:00"
+date: 2027-04-17T00:00:00
+time: ""
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-cadete-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Cadete Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 2"
 uid: "game-2027-04-17-colmenar-viejo-movistar-estudiantes-palomares-cadete-femenino"
 slug: "game-2027-04-17-colmenar-viejo-movistar-estudiantes-palomares-cadete-femenino"
-weight: 42020270417120027
+weight: 42020270417000027
 ---
 
 Encuentro correspondiente a la categoría Cadete (femenino) entre **COLMENAR VIEJO** y **MOVISTAR ESTUDIANTES PALOMARES**.

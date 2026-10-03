@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A VS SAN AGUSTIN DEL GUADALIX"
-date: 2027-04-17T12:00:00
-time: "12:00"
+date: 2027-04-17T00:00:00
+time: ""
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-infantil-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2027-04-17-colmenar-viejo-a-san-agustin-del-guadalix-infantil-masculino"
 slug: "game-2027-04-17-colmenar-viejo-a-san-agustin-del-guadalix-infantil-masculino"
-weight: 51120270417120015
+weight: 51120270417000015
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **COLMENAR VIEJO A** y **SAN AGUSTIN DEL GUADALIX**.

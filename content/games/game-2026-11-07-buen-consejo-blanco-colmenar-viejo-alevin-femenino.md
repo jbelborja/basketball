@@ -1,7 +1,7 @@
 ---
 title: "BUEN CONSEJO BLANCO VS COLMENAR VIEJO"
-date: 2026-11-07T12:00:00
-time: "12:00"
+date: 2026-11-07T00:00:00
+time: ""
 team1: "BUEN CONSEJO BLANCO"
 team1_slug: "buen-consejo-blanco"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Alv Fem 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 8"
 uid: "game-2026-11-07-buen-consejo-blanco-colmenar-viejo-alevin-femenino"
 slug: "game-2026-11-07-buen-consejo-blanco-colmenar-viejo-alevin-femenino"
-weight: 62020261107120048
+weight: 62020261107000048
 ---
 
 Encuentro correspondiente a la categoría Alevín (femenino) entre **BUEN CONSEJO BLANCO** y **COLMENAR VIEJO**.

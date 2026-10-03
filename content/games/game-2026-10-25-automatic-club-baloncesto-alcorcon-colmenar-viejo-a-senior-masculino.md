@@ -1,7 +1,7 @@
 ---
 title: "AUTOMATIC CLUB BALONCESTO ALCORCON VS COLMENAR VIEJO A"
-date: 2026-10-25T12:00:00
-time: "12:00"
+date: 2026-10-25T00:00:00
+time: ""
 team1: "AUTOMATIC CLUB BALONCESTO ALCORCON"
 team1_slug: "automatic-club-baloncesto-alcorcon"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-10-25-automatic-club-baloncesto-alcorcon-colmenar-viejo-a-senior-masculino"
 slug: "game-2026-10-25-automatic-club-baloncesto-alcorcon-colmenar-viejo-a-senior-masculino"
-weight: 11120261025120083
+weight: 11120261025000083
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **AUTOMATIC CLUB BALONCESTO ALCORCON** y **COLMENAR VIEJO A**.

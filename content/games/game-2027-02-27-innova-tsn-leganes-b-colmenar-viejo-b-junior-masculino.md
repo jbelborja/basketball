@@ -1,7 +1,7 @@
 ---
 title: "INNOVA-TSN LEGANES \"B\" VS COLMENAR VIEJO B"
-date: 2027-02-27T12:00:00
-time: "12:00"
+date: 2027-02-27T00:00:00
+time: ""
 team1: "INNOVA-TSN LEGANES \"B\""
 team1_slug: "innova-tsn-leganes-b"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
 uid: "game-2027-02-27-innova-tsn-leganes-b-colmenar-viejo-b-junior-masculino"
 slug: "game-2027-02-27-innova-tsn-leganes-b-colmenar-viejo-b-junior-masculino"
-weight: 31220270227120095
+weight: 31220270227000095
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **INNOVA-TSN LEGANES "B"** y **COLMENAR VIEJO B**.

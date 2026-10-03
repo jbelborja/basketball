@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A VS BALONCESTO SAN FERNANDO 09"
-date: 2026-11-29T12:00:00
-time: "12:00"
+date: 2026-11-29T00:00:00
+time: ""
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-junior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-11-29-colmenar-viejo-a-baloncesto-san-fernando-09-junior-masculino"
 slug: "game-2026-11-29-colmenar-viejo-a-baloncesto-san-fernando-09-junior-masculino"
-weight: 31120261129120094
+weight: 31120261129000094
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **COLMENAR VIEJO A** y **BALONCESTO SAN FERNANDO 09**.

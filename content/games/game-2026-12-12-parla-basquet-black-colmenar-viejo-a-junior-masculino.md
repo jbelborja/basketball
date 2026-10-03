@@ -1,7 +1,7 @@
 ---
 title: "PARLA BASQUET BLACK VS COLMENAR VIEJO A"
-date: 2026-12-12T12:00:00
-time: "12:00"
+date: 2026-12-12T00:00:00
+time: ""
 team1: "PARLA BASQUET BLACK"
 team1_slug: "parla-basquet-black"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-12-12-parla-basquet-black-colmenar-viejo-a-junior-masculino"
 slug: "game-2026-12-12-parla-basquet-black-colmenar-viejo-a-junior-masculino"
-weight: 31120261212120015
+weight: 31120261212000015
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **PARLA BASQUET BLACK** y **COLMENAR VIEJO A**.

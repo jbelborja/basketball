@@ -1,7 +1,7 @@
 ---
 title: "VERITAS POZUELO NEGRO VS COLMENAR VIEJO"
-date: 2027-03-13T12:00:00
-time: "12:00"
+date: 2027-03-13T00:00:00
+time: ""
 team1: "VERITAS POZUELO NEGRO"
 team1_slug: "veritas-pozuelo-negro"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Cadete Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 2"
 uid: "game-2027-03-13-veritas-pozuelo-negro-colmenar-viejo-cadete-femenino"
 slug: "game-2027-03-13-veritas-pozuelo-negro-colmenar-viejo-cadete-femenino"
-weight: 42020270313120088
+weight: 42020270313000088
 ---
 
 Encuentro correspondiente a la categoría Cadete (femenino) entre **VERITAS POZUELO NEGRO** y **COLMENAR VIEJO**.

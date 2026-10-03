@@ -1,7 +1,7 @@
 ---
 title: "CB NAVALCARNERO VS COLMENAR VIEJO"
-date: 2026-11-21T12:00:00
-time: "12:00"
+date: 2026-11-21T00:00:00
+time: ""
 team1: "CB NAVALCARNERO"
 team1_slug: "cb-navalcarnero"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Cadete Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 2"
 uid: "game-2026-11-21-cb-navalcarnero-colmenar-viejo-cadete-femenino"
 slug: "game-2026-11-21-cb-navalcarnero-colmenar-viejo-cadete-femenino"
-weight: 42020261121120093
+weight: 42020261121000093
 ---
 
 Encuentro correspondiente a la categoría Cadete (femenino) entre **CB NAVALCARNERO** y **COLMENAR VIEJO**.

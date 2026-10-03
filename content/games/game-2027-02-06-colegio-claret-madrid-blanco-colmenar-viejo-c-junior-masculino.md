@@ -1,7 +1,7 @@
 ---
 title: "COLEGIO CLARET MADRID ''BLANCO'' VS COLMENAR VIEJO C"
-date: 2027-02-06T12:00:00
-time: "12:00"
+date: 2027-02-06T00:00:00
+time: ""
 team1: "COLEGIO CLARET MADRID ''BLANCO''"
 team1_slug: "colegio-claret-madrid-blanco"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 5\u00aa DIVISION - GRUPO PAR"
 uid: "game-2027-02-06-colegio-claret-madrid-blanco-colmenar-viejo-c-junior-masculino"
 slug: "game-2027-02-06-colegio-claret-madrid-blanco-colmenar-viejo-c-junior-masculino"
-weight: 31320270206120030
+weight: 31320270206000030
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **COLEGIO CLARET MADRID ''BLANCO''** y **COLMENAR VIEJO C**.

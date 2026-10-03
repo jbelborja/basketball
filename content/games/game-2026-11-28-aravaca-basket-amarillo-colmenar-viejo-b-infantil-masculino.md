@@ -1,7 +1,7 @@
 ---
 title: "ARAVACA BASKET AMARILLO VS COLMENAR VIEJO B"
-date: 2026-11-28T12:00:00
-time: "12:00"
+date: 2026-11-28T00:00:00
+time: ""
 team1: "ARAVACA BASKET AMARILLO"
 team1_slug: "aravaca-basket-amarillo"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-11-28-aravaca-basket-amarillo-colmenar-viejo-b-infantil-masculino"
 slug: "game-2026-11-28-aravaca-basket-amarillo-colmenar-viejo-b-infantil-masculino"
-weight: 51220261128120062
+weight: 51220261128000062
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **ARAVACA BASKET AMARILLO** y **COLMENAR VIEJO B**.

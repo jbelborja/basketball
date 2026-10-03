@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO B VS TRIPLE CHAMBERI"
-date: 2027-04-17T12:00:00
-time: "12:00"
+date: 2027-04-17T00:00:00
+time: ""
 team1: "COLMENAR VIEJO B"
 team1_slug: "colmenar-viejo-b-cadete-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2027-04-17-colmenar-viejo-b-triple-chamberi-cadete-masculino"
 slug: "game-2027-04-17-colmenar-viejo-b-triple-chamberi-cadete-masculino"
-weight: 41220270417120099
+weight: 41220270417000099
 ---
 
 Encuentro correspondiente a la categoría Cadete (masculino) entre **COLMENAR VIEJO B** y **TRIPLE CHAMBERI**.
