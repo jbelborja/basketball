@@ -19,7 +19,7 @@ category: "Alev\u00edn"
 gender: "femenino"
 uid: "game-2026-11-28-basket-aranjuez-rubiocar-colmenar-viejo-alevin-femenino"
 slug: "game-2026-11-28-basket-aranjuez-rubiocar-colmenar-viejo-alevin-femenino"
-weight: 355
+weight: 62020261128120024
 ---
 
 Encuentro correspondiente a la categoría Alevín (femenino) entre **BASKET ARANJUEZ RUBIOCAR** y **COLMENAR VIEJO**.

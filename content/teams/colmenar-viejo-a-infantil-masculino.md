@@ -10,7 +10,7 @@ venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1985
 record: "0V - 1D"
 league_position: 1
-weight: 14
+weight: 511763
 ---
 
 El **COLMENAR VIEJO A** representa al CB Colmenar Viejo en la categoría Infantil (masculino).

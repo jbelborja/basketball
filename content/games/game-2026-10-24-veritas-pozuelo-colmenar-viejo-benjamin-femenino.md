@@ -19,7 +19,7 @@ category: "Benjam\u00edn"
 gender: "femenino"
 uid: "game-2026-10-24-veritas-pozuelo-colmenar-viejo-benjamin-femenino"
 slug: "game-2026-10-24-veritas-pozuelo-colmenar-viejo-benjamin-femenino"
-weight: 384
+weight: 72020261024120010
 ---
 
 Encuentro correspondiente a la categoría Benjamín (femenino) entre **VERITAS POZUELO** y **COLMENAR VIEJO**.

@@ -19,7 +19,7 @@ category: "Benjam\u00edn"
 gender: "masculino"
 uid: "game-2026-11-21-villanueva-de-la-canada-colmenar-viejo-benjamin-masculino"
 slug: "game-2026-11-21-villanueva-de-la-canada-colmenar-viejo-benjamin-masculino"
-weight: 372
+weight: 71020261121120024
 ---
 
 Encuentro correspondiente a la categoría Benjamín (masculino) entre **VILLANUEVA DE LA CAÑADA** y **COLMENAR VIEJO**.

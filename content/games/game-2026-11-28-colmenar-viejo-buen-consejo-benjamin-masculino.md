@@ -19,7 +19,7 @@ category: "Benjam\u00edn"
 gender: "masculino"
 uid: "game-2026-11-28-colmenar-viejo-buen-consejo-benjamin-masculino"
 slug: "game-2026-11-28-colmenar-viejo-buen-consejo-benjamin-masculino"
-weight: 374
+weight: 71020261128120006
 ---
 
 Encuentro correspondiente a la categoría Benjamín (masculino) entre **COLMENAR VIEJO** y **BUEN CONSEJO**.

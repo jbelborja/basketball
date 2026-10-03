@@ -19,7 +19,7 @@ category: "Junior"
 gender: "femenino"
 uid: "game-2027-01-17-colmenar-viejo-fenix-basket-club-boadilla-junior-femenino"
 slug: "game-2027-01-17-colmenar-viejo-fenix-basket-club-boadilla-junior-femenino"
-weight: 181
+weight: 32020270117120086
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **COLMENAR VIEJO** y **FENIX BASKET CLUB BOADILLA**.

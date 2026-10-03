@@ -19,7 +19,7 @@ category: "Junior"
 gender: "femenino"
 uid: "game-2027-02-28-fm-gestiona-c-b-villa-de-valdemoro-b-colmenar-viejo-junior-femenino"
 slug: "game-2027-02-28-fm-gestiona-c-b-villa-de-valdemoro-b-colmenar-viejo-junior-femenino"
-weight: 187
+weight: 32020270228120078
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **FM GESTIONA C.B. VILLA DE VALDEMORO "B"** y **COLMENAR VIEJO**.

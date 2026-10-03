@@ -19,7 +19,7 @@ category: "Alev\u00edn"
 gender: "femenino"
 uid: "game-2026-10-10-baloncesto-rivas-sureste-c-colmenar-viejo-alevin-femenino"
 slug: "game-2026-10-10-baloncesto-rivas-sureste-c-colmenar-viejo-alevin-femenino"
-weight: 342
+weight: 62020261010093025
 ---
 
 Encuentro correspondiente a la categoría Alevín (femenino) entre **BALONCESTO RIVAS SURESTE C** y **COLMENAR VIEJO**.

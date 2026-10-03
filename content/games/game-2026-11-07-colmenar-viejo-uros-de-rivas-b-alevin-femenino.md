@@ -19,7 +19,7 @@ category: "Alev\u00edn"
 gender: "femenino"
 uid: "game-2026-11-07-colmenar-viejo-uros-de-rivas-b-alevin-femenino"
 slug: "game-2026-11-07-colmenar-viejo-uros-de-rivas-b-alevin-femenino"
-weight: 347
+weight: 62020261107120015
 ---
 
 Encuentro correspondiente a la categoría Alevín (femenino) entre **COLMENAR VIEJO** y **UROS DE RIVAS `B´**.

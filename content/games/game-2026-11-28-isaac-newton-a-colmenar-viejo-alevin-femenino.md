@@ -19,7 +19,7 @@ category: "Alev\u00edn"
 gender: "femenino"
 uid: "game-2026-11-28-isaac-newton-a-colmenar-viejo-alevin-femenino"
 slug: "game-2026-11-28-isaac-newton-a-colmenar-viejo-alevin-femenino"
-weight: 354
+weight: 62020261128120021
 ---
 
 Encuentro correspondiente a la categoría Alevín (femenino) entre **ISAAC NEWTON "A"** y **COLMENAR VIEJO**.

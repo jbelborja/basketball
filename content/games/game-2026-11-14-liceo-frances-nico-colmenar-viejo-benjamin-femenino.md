@@ -19,7 +19,7 @@ category: "Benjam\u00edn"
 gender: "femenino"
 uid: "game-2026-11-14-liceo-frances-nico-colmenar-viejo-benjamin-femenino"
 slug: "game-2026-11-14-liceo-frances-nico-colmenar-viejo-benjamin-femenino"
-weight: 386
+weight: 72020261114120080
 ---
 
 Encuentro correspondiente a la categoría Benjamín (femenino) entre **LICEO FRANCES NICO** y **COLMENAR VIEJO**.

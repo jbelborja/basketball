@@ -19,7 +19,7 @@ category: "Alev\u00edn"
 gender: "femenino"
 uid: "game-2026-12-19-colmenar-viejo-buen-consejo-blanco-alevin-femenino"
 slug: "game-2026-12-19-colmenar-viejo-buen-consejo-blanco-alevin-femenino"
-weight: 359
+weight: 62020261219120001
 ---
 
 Encuentro correspondiente a la categoría Alevín (femenino) entre **COLMENAR VIEJO** y **BUEN CONSEJO BLANCO**.

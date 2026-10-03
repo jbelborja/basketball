@@ -19,7 +19,7 @@ category: "Junior"
 gender: "masculino"
 uid: "game-2026-11-28-adc-san-fermin-colmenar-viejo-c-junior-masculino"
 slug: "game-2026-11-28-adc-san-fermin-colmenar-viejo-c-junior-masculino"
-weight: 158
+weight: 31320261128170027
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **ADC SAN FERMIN** y **COLMENAR VIEJO C**.

@@ -19,7 +19,7 @@ category: "Alev\u00edn"
 gender: "masculino"
 uid: "game-2026-12-12-colmenar-viejo-ensanche-de-vallecas-b-alevin-masculino"
 slug: "game-2026-12-12-colmenar-viejo-ensanche-de-vallecas-b-alevin-masculino"
-weight: 333
+weight: 61020261212120058
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **COLMENAR VIEJO** y **ENSANCHE DE VALLECAS B**.

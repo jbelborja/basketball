@@ -19,7 +19,7 @@ category: "Alev\u00edn"
 gender: "masculino"
 uid: "game-2027-01-16-colmenar-viejo-negro-colegio-el-prado-alevin-masculino"
 slug: "game-2027-01-16-colmenar-viejo-negro-colegio-el-prado-alevin-masculino"
-weight: 340
+weight: 61020270116120091
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **COLMENAR VIEJO NEGRO** y **COLEGIO EL PRADO**.

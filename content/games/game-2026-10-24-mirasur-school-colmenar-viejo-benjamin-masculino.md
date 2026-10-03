@@ -19,7 +19,7 @@ category: "Benjam\u00edn"
 gender: "masculino"
 uid: "game-2026-10-24-mirasur-school-colmenar-viejo-benjamin-masculino"
 slug: "game-2026-10-24-mirasur-school-colmenar-viejo-benjamin-masculino"
-weight: 366
+weight: 71020261024120091
 ---
 
 Encuentro correspondiente a la categoría Benjamín (masculino) entre **MIRASUR SCHOOL** y **COLMENAR VIEJO**.

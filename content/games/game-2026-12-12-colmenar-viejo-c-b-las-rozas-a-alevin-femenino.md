@@ -19,7 +19,7 @@ category: "Alev\u00edn"
 gender: "femenino"
 uid: "game-2026-12-12-colmenar-viejo-c-b-las-rozas-a-alevin-femenino"
 slug: "game-2026-12-12-colmenar-viejo-c-b-las-rozas-a-alevin-femenino"
-weight: 356
+weight: 62020261212120012
 ---
 
 Encuentro correspondiente a la categoría Alevín (femenino) entre **COLMENAR VIEJO** y **C.B. LAS ROZAS "A"**.

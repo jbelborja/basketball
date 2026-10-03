@@ -19,7 +19,7 @@ category: "Benjam\u00edn"
 gender: "masculino"
 uid: "game-2026-11-14-colmenar-viejo-piratas-soto-basket-benjamin-masculino"
 slug: "game-2026-11-14-colmenar-viejo-piratas-soto-basket-benjamin-masculino"
-weight: 371
+weight: 71020261114120010
 ---
 
 Encuentro correspondiente a la categoría Benjamín (masculino) entre **COLMENAR VIEJO** y **PIRATAS SOTO BASKET**.

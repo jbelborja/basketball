@@ -19,7 +19,7 @@ category: "Benjam\u00edn"
 gender: "masculino"
 uid: "game-2026-11-07-colmenar-viejo-adc-boadilla-benjamin-masculino"
 slug: "game-2026-11-07-colmenar-viejo-adc-boadilla-benjamin-masculino"
-weight: 368
+weight: 71020261107120081
 ---
 
 Encuentro correspondiente a la categoría Benjamín (masculino) entre **COLMENAR VIEJO** y **ADC BOADILLA**.

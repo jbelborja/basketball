@@ -20,6 +20,8 @@ import os
 import sys
 import re
 import json
+import hashlib
+import shutil
 import urllib.request
 import urllib.parse
 from datetime import datetime
@@ -490,6 +492,14 @@ def parse_fbm_data(html):
                                     }
 
     # Sort Teams
+    def team_stable_weight(t):
+        c_w = get_category_weight(t["category"])
+        g_w = 1 if t["gender"].lower() == "masculino" else 2
+        l_w = get_team_letter_weight(t["name"])
+        id_bytes = t["slug"].encode()
+        id_hash = int(hashlib.md5(id_bytes).hexdigest(), 16) % 1000
+        return int(f"{c_w:02d}{g_w}{l_w}{id_hash:03d}")
+
     teams_list = list(all_teams.values())
     teams_list.sort(
         key=lambda t: (
@@ -499,10 +509,18 @@ def parse_fbm_data(html):
             t["name"],
         )
     )
-    for idx, t in enumerate(teams_list, 1):
-        t["weight"] = idx
+    for t in teams_list:
+        t["weight"] = team_stable_weight(t)
 
     # Sort Classifications
+    def class_stable_weight(c):
+        c_w = get_category_weight(c["category"])
+        g_w = 1 if c["gender"].lower() == "masculino" else 2
+        l_w = get_team_letter_weight(c.get("colmenar_team") or c.get("league_title"))
+        id_bytes = c["league_title"].encode()
+        id_hash = int(hashlib.md5(id_bytes).hexdigest(), 16) % 1000
+        return int(f"{c_w:02d}{g_w}{l_w}{id_hash:03d}")
+
     all_classifications.sort(
         key=lambda c: (
             get_category_weight(c["category"]),
@@ -511,10 +529,11 @@ def parse_fbm_data(html):
             c["league_title"],
         )
     )
-    for idx, c in enumerate(all_classifications, 1):
-        c["weight"] = idx
+    for c in all_classifications:
+        c["weight"] = class_stable_weight(c)
 
-    # Sort Games
+    # Sort Games — weight is deterministic from intrinsic fields so it never
+    # changes between scrape runs unless the game data itself changes.
     def game_sort_key(g):
         c_w = get_category_weight(g.get("category", ""))
         g_w = 1 if str(g.get("gender", "")).lower() == "masculino" else 2
@@ -526,9 +545,35 @@ def parse_fbm_data(html):
         l_w = get_team_letter_weight(colm_name)
         return (c_w, g_w, l_w, g.get("date", ""), g.get("time", ""))
 
+    def game_stable_weight(g):
+        """Encode the sort key as a stable integer that doesn't depend on
+        how many other games exist.  Format: CCGLYYYYMMDDhhmmTT
+          CC = category weight (01-99)
+          G  = gender weight (1-2)
+          L  = team-letter weight (0-8)
+          YYYYMMDD = date digits
+          hhmm     = time digits (0000 if no time)
+          TT = 2-digit hash tiebreaker (kept small to fit int64 / YAML)
+        """
+        c_w = get_category_weight(g.get("category", ""))
+        g_w = 1 if str(g.get("gender", "")).lower() == "masculino" else 2
+        colm_name = (
+            g.get("home", "")
+            if "colmenar" in g.get("home", "").lower()
+            else g.get("away", "")
+        )
+        l_w = get_team_letter_weight(colm_name)
+        date_digits = re.sub(r"\D", "", g.get("date", "00000000"))[:8].zfill(8)
+        time_digits = re.sub(r"\D", "", g.get("time", "0000"))[:4].zfill(4)
+        # Stable 2-digit tiebreaker from the game id (which encodes team names + date).
+        # Kept to 2 digits so total weight (18 digits max) fits in YAML int64.
+        id_bytes = g.get("id", g.get("slug", "")).encode()
+        id_hash = int(hashlib.md5(id_bytes).hexdigest(), 16) % 100
+        return int(f"{c_w:02d}{g_w}{l_w}{date_digits}{time_digits}{id_hash:02d}")
+
     all_games.sort(key=game_sort_key)
-    for idx, g in enumerate(all_games, 1):
-        g["weight"] = idx
+    for g in all_games:
+        g["weight"] = game_stable_weight(g)
 
     venues_list = list(venues_dict.values())
     venues_list.sort(key=lambda v: (-v["matches_count"], v["title"]))
@@ -557,13 +602,27 @@ def write_json_files(teams, classifications, games, venues, players):
     print("Archivos JSON en data/ actualizados correctamente.")
 
 
-def generate_markdown_content(teams, games, venues, players):
+def clean_generated_content():
+    """Remove all previously generated content and data files so that stale
+    entries (e.g. games with changed slugs, deleted teams) don't linger."""
+
+    # Clean content/ subdirectories (delete all .md files)
     for s_dir in ["teams", "games", "venues", "players"]:
         full_dir = os.path.join(CONTENT_DIR, s_dir)
+        if os.path.isdir(full_dir):
+            shutil.rmtree(full_dir)
         os.makedirs(full_dir, exist_ok=True)
-        for f in os.listdir(full_dir):
-            if f.endswith(".md"):
-                os.remove(os.path.join(full_dir, f))
+
+    # Clean data/ JSON files
+    for f_name in ["teams.json", "classification.json", "games.json", "venues.json", "players.json"]:
+        f_path = os.path.join(DATA_DIR, f_name)
+        if os.path.exists(f_path):
+            os.remove(f_path)
+
+    print("Contenido previo limpiado correctamente.")
+
+
+def generate_markdown_content(teams, games, venues, players):
 
     # Generar content/teams/
     teams_dir = os.path.join(CONTENT_DIR, "teams")
@@ -664,6 +723,7 @@ Pabellón **{v['title']}** situado en {v['address']}.
 
 def main():
     print("Iniciando extracción de datos de la FBM para el CB Colmenar Viejo...")
+    clean_generated_content()
     html = fetch_html()
     teams, classifications, games, venues = parse_fbm_data(html)
     players = []  # Sin jugadores de ejemplo

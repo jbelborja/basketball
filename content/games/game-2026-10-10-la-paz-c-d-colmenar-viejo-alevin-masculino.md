@@ -19,7 +19,7 @@ category: "Alev\u00edn"
 gender: "masculino"
 uid: "game-2026-10-10-la-paz-c-d-colmenar-viejo-alevin-masculino"
 slug: "game-2026-10-10-la-paz-c-d-colmenar-viejo-alevin-masculino"
-weight: 315
+weight: 61020261010140022
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **LA PAZ C.D.** y **COLMENAR VIEJO**.

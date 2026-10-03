@@ -10,7 +10,7 @@ venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1985
 record: "0V - 0D"
 league_position: 1
-weight: 17
+weight: 610860
 ---
 
 El **COLMENAR VIEJO BLANCO** representa al CB Colmenar Viejo en la categoría Alevín (masculino).

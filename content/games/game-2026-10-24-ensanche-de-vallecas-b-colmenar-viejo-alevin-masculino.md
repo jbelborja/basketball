@@ -11,15 +11,15 @@ team2_slug: "colmenar-viejo-alevin-masculino"
 team2_logo: "images/teams/cbcolmenar.png"
 team2_score: null
 status: "Pr\u00f3ximo"
-venue: "JUAN DE DIOS ROM\u00c1N, POLIDEPORTIVO (TECHADO) C/ JOS\u00c9 GUTI\u00c9RREZ MAROTO, 34, Madrid"
-venue_slug: "juan-de-dios-roman-polideportivo-techado-c-jose-gutierrez-maroto-34-madrid"
+venue: "JUAN DE DIOS ROM\u00c1N, POLIDEPORTIVO C/ JOS\u00c9 GUTI\u00c9RREZ MAROTO, 34, Madrid"
+venue_slug: "juan-de-dios-roman-polideportivo-c-jose-gutierrez-maroto-34-madrid"
 venue_title: "JUAN DE DIOS ROM\u00c1N"
-venue_address: "POLIDEPORTIVO (TECHADO) C/ JOS\u00c9 GUTI\u00c9RREZ MAROTO, 34, Madrid"
+venue_address: "POLIDEPORTIVO C/ JOS\u00c9 GUTI\u00c9RREZ MAROTO, 34, Madrid"
 category: "Alev\u00edn"
 gender: "masculino"
 uid: "game-2026-10-24-ensanche-de-vallecas-b-colmenar-viejo-alevin-masculino"
 slug: "game-2026-10-24-ensanche-de-vallecas-b-colmenar-viejo-alevin-masculino"
-weight: 321
+weight: 61020261024170076
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **ENSANCHE DE VALLECAS B** y **COLMENAR VIEJO**.

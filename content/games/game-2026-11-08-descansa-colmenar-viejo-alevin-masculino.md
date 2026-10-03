@@ -19,7 +19,7 @@ category: "Alev\u00edn"
 gender: "masculino"
 uid: "game-2026-11-08-descansa-colmenar-viejo-alevin-masculino"
 slug: "game-2026-11-08-descansa-colmenar-viejo-alevin-masculino"
-weight: 324
+weight: 61020261108120025
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **DESCANSA** y **COLMENAR VIEJO**.

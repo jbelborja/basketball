@@ -19,7 +19,7 @@ category: "Junior"
 gender: "femenino"
 uid: "game-2027-02-06-liceo-frances-colmenar-viejo-junior-femenino"
 slug: "game-2027-02-06-liceo-frances-colmenar-viejo-junior-femenino"
-weight: 184
+weight: 32020270206120043
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **LICEO FRANCES** y **COLMENAR VIEJO**.
