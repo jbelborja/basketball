@@ -26,6 +26,24 @@
       },
       {
         "position": 2,
+        "team": "ISAAC NEWTON",
+        "slug": "isaac-newton-senior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 1,
+        "d": 0,
+        "pf": 78,
+        "pc": 51,
+        "dif": "+27",
+        "points": 2,
+        "streak": [
+          "V"
+        ],
+        "category": "Senior",
+        "gender": "femenino"
+      },
+      {
+        "position": 3,
         "team": "CESUR DISTRITO OLIMPICO",
         "slug": "cesur-distrito-olimpico-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -43,7 +61,7 @@
         "gender": "femenino"
       },
       {
-        "position": 3,
+        "position": 4,
         "team": "FEMENINO ALCORCON",
         "slug": "femenino-alcorcon-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -61,7 +79,7 @@
         "gender": "femenino"
       },
       {
-        "position": 4,
+        "position": 5,
         "team": "FUNDAL ALCOBENDAS",
         "slug": "fundal-alcobendas-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -79,7 +97,7 @@
         "gender": "femenino"
       },
       {
-        "position": 5,
+        "position": 6,
         "team": "VERITAS POZUELO",
         "slug": "veritas-pozuelo-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -97,7 +115,7 @@
         "gender": "femenino"
       },
       {
-        "position": 6,
+        "position": 7,
         "team": "COLMENAR VIEJO A",
         "slug": "colmenar-viejo-a-senior-femenino",
         "logo": "images/teams/cbcolmenar.png",
@@ -115,7 +133,7 @@
         "gender": "femenino"
       },
       {
-        "position": 7,
+        "position": 8,
         "team": "C.B. LAS ROZAS",
         "slug": "c-b-las-rozas-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -133,7 +151,25 @@
         "gender": "femenino"
       },
       {
-        "position": 8,
+        "position": 9,
+        "team": "RICOPIA FUNBAL ALCALA CBJA",
+        "slug": "ricopia-funbal-alcala-cbja-senior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 0,
+        "d": 1,
+        "pf": 51,
+        "pc": 78,
+        "dif": "-27",
+        "points": 1,
+        "streak": [
+          "D"
+        ],
+        "category": "Senior",
+        "gender": "femenino"
+      },
+      {
+        "position": 10,
         "team": "QUIERO VALCUDE ALCOBENDAS",
         "slug": "quiero-valcude-alcobendas-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -147,38 +183,6 @@
         "streak": [
           "D"
         ],
-        "category": "Senior",
-        "gender": "femenino"
-      },
-      {
-        "position": 9,
-        "team": "RICOPIA FUNBAL ALCALA CBJA",
-        "slug": "ricopia-funbal-alcala-cbja-senior-femenino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
-        "category": "Senior",
-        "gender": "femenino"
-      },
-      {
-        "position": 10,
-        "team": "ISAAC NEWTON",
-        "slug": "isaac-newton-senior-femenino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
         "category": "Senior",
         "gender": "femenino"
       }
@@ -682,6 +686,24 @@
       },
       {
         "position": 3,
+        "team": "COLEGIO CLARET MADRID ''BLANCO''",
+        "slug": "colegio-claret-madrid-blanco-junior-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 1,
+        "d": 0,
+        "pf": 53,
+        "pc": 41,
+        "dif": "+12",
+        "points": 2,
+        "streak": [
+          "V"
+        ],
+        "category": "Junior",
+        "gender": "masculino"
+      },
+      {
+        "position": 4,
         "team": "MARAVILLAS",
         "slug": "maravillas-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -699,7 +721,7 @@
         "gender": "masculino"
       },
       {
-        "position": 4,
+        "position": 5,
         "team": "MEJORADA 2012 C.B.",
         "slug": "mejorada-2012-c-b-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -717,7 +739,25 @@
         "gender": "masculino"
       },
       {
-        "position": 5,
+        "position": 6,
+        "team": "TAC-TEC-TENIS C.D.E.",
+        "slug": "tac-tec-tenis-c-d-e-junior-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 0,
+        "d": 1,
+        "pf": 41,
+        "pc": 53,
+        "dif": "-12",
+        "points": 1,
+        "streak": [
+          "D"
+        ],
+        "category": "Junior",
+        "gender": "masculino"
+      },
+      {
+        "position": 7,
         "team": "COLMENAR VIEJO C",
         "slug": "colmenar-viejo-c-junior-masculino",
         "logo": "images/teams/cbcolmenar.png",
@@ -735,7 +775,7 @@
         "gender": "masculino"
       },
       {
-        "position": 6,
+        "position": 8,
         "team": "MIRAMADRID CLUB DEPORTIVO BASICO Amarillo",
         "slug": "miramadrid-club-deportivo-basico-amarillo-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -753,41 +793,9 @@
         "gender": "masculino"
       },
       {
-        "position": 7,
-        "team": "COLEGIO CLARET MADRID ''BLANCO''",
-        "slug": "colegio-claret-madrid-blanco-junior-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
-        "category": "Junior",
-        "gender": "masculino"
-      },
-      {
-        "position": 8,
+        "position": 9,
         "team": "MIRASUR SCHOOL PARQUE EUROPA",
         "slug": "mirasur-school-parque-europa-junior-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
-        "category": "Junior",
-        "gender": "masculino"
-      },
-      {
-        "position": 9,
-        "team": "TAC-TEC-TENIS C.D.E.",
-        "slug": "tac-tec-tenis-c-d-e-junior-masculino",
         "logo": "images/teams/rival.png",
         "pj": 0,
         "v": 0,
