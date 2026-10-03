@@ -19,7 +19,7 @@ category: "Junior"
 gender: "femenino"
 uid: "game-2027-01-31-colmenar-viejo-movistar-estudiantes-anton-junior-femenino"
 slug: "game-2027-01-31-colmenar-viejo-movistar-estudiantes-anton-junior-femenino"
-weight: 257
+weight: 183
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **COLMENAR VIEJO** y **MOVISTAR ESTUDIANTES ANTON**.

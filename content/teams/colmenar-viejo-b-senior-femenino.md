@@ -10,7 +10,7 @@ venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1985
 record: "0V - 0D"
 league_position: 1
-weight: 7
+weight: 4
 ---
 
 El **COLMENAR VIEJO B** representa al CB Colmenar Viejo en la categoría Senior (femenino).

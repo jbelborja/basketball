@@ -6,7 +6,7 @@
     "raw_venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "maps_embed": "https://maps.google.com/maps?q=JUAN%20ANTONIO%20SAMARANCH%2C%20CDAD.%20DPTVA.%20%28PISTA%20CENTRAL%29%20AVDA.%20JUAN%20PABLO%20II%2C%2013%2C%20Colmenar%20Viejo&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=JUAN%20ANTONIO%20SAMARANCH%2C%20CDAD.%20DPTVA.%20%28PISTA%20CENTRAL%29%20AVDA.%20JUAN%20PABLO%20II%2C%2013%2C%20Colmenar%20Viejo",
-    "matches_count": 192
+    "matches_count": 199
   },
   {
     "slug": "movistar-academy-magarinos-pabellon-serrano-129-madrid",
@@ -96,15 +96,6 @@
     "raw_venue": "ALFREDO ESPINIELLA, PABELLON (PISTA CENTRAL) COMUNIDAD DE LA RIOJA, 4, Rozas de Madrid, Las",
     "maps_embed": "https://maps.google.com/maps?q=ALFREDO%20ESPINIELLA%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20COMUNIDAD%20DE%20LA%20RIOJA%2C%204%2C%20Rozas%20de%20Madrid%2C%20Las&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=ALFREDO%20ESPINIELLA%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20COMUNIDAD%20DE%20LA%20RIOJA%2C%204%2C%20Rozas%20de%20Madrid%2C%20Las",
-    "matches_count": 3
-  },
-  {
-    "slug": "cabrini-colegio-semicubierto-sta-francisca-javier-cabrini-esquina-c-sicelidas-madrid",
-    "title": "CABRINI",
-    "address": "COLEGIO (Semicubierto) STA. FRANCISCA JAVIER CABRINI esquina C/ Sicélidas, Madrid",
-    "raw_venue": "CABRINI, COLEGIO (Semicubierto) STA. FRANCISCA JAVIER CABRINI esquina C/ Sicélidas, Madrid",
-    "maps_embed": "https://maps.google.com/maps?q=CABRINI%2C%20COLEGIO%20%28Semicubierto%29%20STA.%20FRANCISCA%20JAVIER%20CABRINI%20esquina%20C/%20Sic%C3%A9lidas%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=CABRINI%2C%20COLEGIO%20%28Semicubierto%29%20STA.%20FRANCISCA%20JAVIER%20CABRINI%20esquina%20C/%20Sic%C3%A9lidas%2C%20Madrid",
     "matches_count": 3
   },
   {
@@ -231,6 +222,15 @@
     "raw_venue": "C.E.I.P. SERRACINES, PABELLON ROMERAL, 15, Serracines",
     "maps_embed": "https://maps.google.com/maps?q=C.E.I.P.%20SERRACINES%2C%20PABELLON%20ROMERAL%2C%2015%2C%20Serracines&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=C.E.I.P.%20SERRACINES%2C%20PABELLON%20ROMERAL%2C%2015%2C%20Serracines",
+    "matches_count": 2
+  },
+  {
+    "slug": "cabrini-colegio-semicubierto-sta-francisca-javier-cabrini-esquina-c-sicelidas-madrid",
+    "title": "CABRINI",
+    "address": "COLEGIO (Semicubierto) STA. FRANCISCA JAVIER CABRINI esquina C/ Sicélidas, Madrid",
+    "raw_venue": "CABRINI, COLEGIO (Semicubierto) STA. FRANCISCA JAVIER CABRINI esquina C/ Sicélidas, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=CABRINI%2C%20COLEGIO%20%28Semicubierto%29%20STA.%20FRANCISCA%20JAVIER%20CABRINI%20esquina%20C/%20Sic%C3%A9lidas%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=CABRINI%2C%20COLEGIO%20%28Semicubierto%29%20STA.%20FRANCISCA%20JAVIER%20CABRINI%20esquina%20C/%20Sic%C3%A9lidas%2C%20Madrid",
     "matches_count": 2
   },
   {

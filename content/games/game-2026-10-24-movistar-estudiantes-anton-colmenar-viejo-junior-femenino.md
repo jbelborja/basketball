@@ -19,7 +19,7 @@ category: "Junior"
 gender: "femenino"
 uid: "game-2026-10-24-movistar-estudiantes-anton-colmenar-viejo-junior-femenino"
 slug: "game-2026-10-24-movistar-estudiantes-anton-colmenar-viejo-junior-femenino"
-weight: 248
+weight: 174
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **MOVISTAR ESTUDIANTES ANTON** y **COLMENAR VIEJO**.

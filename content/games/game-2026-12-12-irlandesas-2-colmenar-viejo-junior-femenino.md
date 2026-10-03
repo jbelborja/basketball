@@ -19,7 +19,7 @@ category: "Junior"
 gender: "femenino"
 uid: "game-2026-12-12-irlandesas-2-colmenar-viejo-junior-femenino"
 slug: "game-2026-12-12-irlandesas-2-colmenar-viejo-junior-femenino"
-weight: 253
+weight: 179
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **IRLANDESAS 2** y **COLMENAR VIEJO**.

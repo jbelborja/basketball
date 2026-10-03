@@ -8,9 +8,9 @@ logo: "images/teams/cbcolmenar.png"
 coach: "Entrenador CB Colmenar"
 venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1985
-record: "1V - 0D"
-league_position: 4
-weight: 10
+record: "0V - 0D"
+league_position: 1
+weight: 7
 ---
 
 El **COLMENAR VIEJO B** representa al CB Colmenar Viejo en la categoría Junior (masculino).

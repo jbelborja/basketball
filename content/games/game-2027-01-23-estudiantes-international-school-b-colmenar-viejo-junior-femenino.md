@@ -19,7 +19,7 @@ category: "Junior"
 gender: "femenino"
 uid: "game-2027-01-23-estudiantes-international-school-b-colmenar-viejo-junior-femenino"
 slug: "game-2027-01-23-estudiantes-international-school-b-colmenar-viejo-junior-femenino"
-weight: 256
+weight: 182
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **ESTUDIANTES INTERNATIONAL SCHOOL "B"** y **COLMENAR VIEJO**.

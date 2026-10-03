@@ -10,7 +10,7 @@ venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1985
 record: "0V - 0D"
 league_position: 1
-weight: 8
+weight: 5
 ---
 
 El **COLMENAR VIEJO** representa al CB Colmenar Viejo en la categoría Sub 22 (masculino).

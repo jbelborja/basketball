@@ -19,7 +19,7 @@ category: "Junior"
 gender: "femenino"
 uid: "game-2026-11-15-colmenar-viejo-c-b-ciudad-de-mostoles-b-junior-femenino"
 slug: "game-2026-11-15-colmenar-viejo-c-b-ciudad-de-mostoles-b-junior-femenino"
-weight: 250
+weight: 176
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **COLMENAR VIEJO** y **C.B. CIUDAD DE MÓSTOLES "B"**.
