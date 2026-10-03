@@ -261,7 +261,8 @@
     document.addEventListener('DOMContentLoaded', () => {
       const teamSelect       = document.getElementById('filter-team');
       const teamSelectMobile = document.getElementById('filter-team-mobile');
-      const statSelect      = document.getElementById('filter-status');
+      const statSelect       = document.getElementById('filter-status');
+      const leagueSelect     = document.getElementById('filter-league');
 
       /* ── Restore persisted values (localStorage wins over URL params) ── */
       const urlParams = new URLSearchParams(window.location.search);
@@ -279,13 +280,22 @@
         if (!el) return;
         const stored = localStorage.getItem(storageKey);
         const val = urlVal || stored || 'all';
-        if (val && el.querySelector(`option[value="${val}"]`)) {
-          el.value = val;
-        }
+        // Need to properly escape the value for querySelector or check options array
+        let found = false;
+        Array.from(el.options).forEach(opt => {
+          if (opt.value === val) {
+            el.value = val;
+            found = true;
+          }
+        });
       }
 
       restoreSelect(teamSelect,       STORAGE_KEY_TEAM, urlTeam);
       restoreSelect(teamSelectMobile, STORAGE_KEY_TEAM, urlTeam);
+      
+      if (leagueSelect && urlParams.has('league')) {
+        restoreSelect(leagueSelect, null, urlParams.get('league'));
+      }
 
       if (statSelect && urlParams.has('status')) {
         statSelect.value = urlParams.get('status');
@@ -331,6 +341,44 @@
       function applyFilters() {
         const teamVal = (teamSelect ? teamSelect.value : 'all').trim();
         const stat = (statSelect ? statSelect.value : 'all').toLowerCase().trim();
+        
+        /* 1. Update the display title if it exists */
+        const displayTeamEl = document.getElementById('display-selected-team');
+        if (displayTeamEl) {
+          if (teamVal !== 'all') {
+            const [cat, gen] = teamVal.split('|');
+            // capitalize first letter of each word
+            const title = (cat + ' ' + gen).split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+            displayTeamEl.textContent = '- ' + title;
+          } else {
+            displayTeamEl.textContent = '';
+          }
+        }
+
+        /* 2. Filter League Options */
+        if (leagueSelect) {
+          let hasVisibleOptionSelected = false;
+          Array.from(leagueSelect.options).forEach(opt => {
+            if (opt.value === 'all') {
+              opt.style.display = '';
+              if (leagueSelect.value === 'all') hasVisibleOptionSelected = true;
+              return;
+            }
+            const teams = (opt.getAttribute('data-teams') || '').split(',');
+            if (teamVal === 'all' || teams.includes(teamVal)) {
+              opt.style.display = '';
+              if (leagueSelect.value === opt.value) hasVisibleOptionSelected = true;
+            } else {
+              opt.style.display = 'none';
+            }
+          });
+          // Reset league selection if the previously selected league is now hidden
+          if (!hasVisibleOptionSelected) {
+            leagueSelect.value = 'all';
+          }
+        }
+
+        const leagueVal = (leagueSelect ? leagueSelect.value : 'all').trim();
 
         /* Persist to localStorage */
         if (teamSelect) localStorage.setItem(STORAGE_KEY_TEAM, teamSelect.value);
@@ -350,31 +398,35 @@
             currentUrl.searchParams.delete('team');
         }
 
-        stat !== 'all' ? currentUrl.searchParams.set('status', statSelect ? statSelect.value : '') : currentUrl.searchParams.delete('status');
+        stat !== 'all' ? currentUrl.searchParams.set('status', stat) : currentUrl.searchParams.delete('status');
+        leagueVal !== 'all' ? currentUrl.searchParams.set('league', leagueVal) : currentUrl.searchParams.delete('league');
+        
         window.history.replaceState({}, '', currentUrl);
 
         updateNavLinks();
 
         /* Show/hide filterable elements on the current page */
-        const items = document.querySelectorAll('[data-category]');
+        const items = document.querySelectorAll('.match-item, [data-category]');
         let visible = 0;
 
         items.forEach(el => {
           const elCat  = (el.getAttribute('data-category') || '').toLowerCase().trim();
           const elGen  = (el.getAttribute('data-gender')   || '').toLowerCase().trim();
           const elStat = (el.getAttribute('data-status')   || '').toLowerCase().trim();
+          const elLeague = (el.getAttribute('data-league') || '').trim();
 
           const okCat  = cat  === 'all' || cat  === '' || elCat  === cat;
           const okGen  = gen  === 'all' || gen  === '' || elGen  === gen;
           const okStat = !el.hasAttribute('data-status') || stat === 'all' || stat === '' || elStat === stat;
+          const okLeague = !el.hasAttribute('data-league') || leagueVal === 'all' || leagueVal === '' || elLeague === leagueVal;
 
-          if (okCat && okGen && okStat) { el.style.display = ''; visible++; }
+          if (okCat && okGen && okStat && okLeague) { el.style.display = ''; visible++; }
           else                          { el.style.display = 'none'; }
         });
 
         const empty = document.getElementById('filter-empty-state');
         if (empty) {
-          const isFiltered = teamVal !== 'all' || stat !== 'all';
+          const isFiltered = teamVal !== 'all' || stat !== 'all' || leagueVal !== 'all';
           empty.classList.toggle('hidden', !(visible === 0 && isFiltered));
         }
       }
@@ -408,6 +460,7 @@
       });
 
       if (statSelect) statSelect.addEventListener('change', applyFilters);
+      if (leagueSelect) leagueSelect.addEventListener('change', applyFilters);
 
       /* ── Run on load ── */
       updateNavLinks();

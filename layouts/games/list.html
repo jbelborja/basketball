@@ -5,33 +5,59 @@
   <div class="flex flex-col md:flex-row md:items-end justify-between gap-4 border-b border-slate-800 pb-6">
     <div>
       <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Temporada Oficial FBM</span>
-      <h1 class="font-sports text-3xl sm:text-5xl text-white font-bold uppercase tracking-tight">Calendario & Resultados</h1>
+      <h1 class="font-sports text-3xl sm:text-5xl text-white font-bold uppercase tracking-tight">
+        Calendario & Resultados <span id="display-selected-team" class="text-orange-400"></span>
+      </h1>
       <p class="text-slate-400 text-sm mt-1">Encuentros ordenados por fecha del CB Colmenar Viejo y sus grupos federados.</p>
     </div>
 
-    <!-- STATUS FILTER BAR -->
-    <div class="inline-flex rounded-2xl bg-slate-900 border border-slate-800 p-1.5" id="status-filter-container">
-      <button type="button" data-status-btn="all" class="px-4 py-2 rounded-xl text-xs font-bold transition bg-orange-500 text-white">
-        Todos
-      </button>
-      <button type="button" data-status-btn="finalizado" class="px-4 py-2 rounded-xl text-xs font-bold transition text-slate-400 hover:text-white">
-        Jugados / Finalizados
-      </button>
-      <button type="button" data-status-btn="próximo" class="px-4 py-2 rounded-xl text-xs font-bold transition text-slate-400 hover:text-white">
-        Próximos
-      </button>
+    <!-- STATUS & LEAGUE FILTERS -->
+    <div class="flex flex-col items-end gap-3">
+      <!-- League Select -->
+      <div class="inline-flex items-center gap-2 bg-slate-800/70 p-1 rounded-xl border border-slate-700/60 text-xs">
+        <select id="filter-league" class="bg-slate-900 border-0 rounded-lg text-slate-200 py-1.5 px-3 font-medium focus:ring-1 focus:ring-orange-500 cursor-pointer max-w-[200px] truncate">
+          <option value="all">Todas las Ligas</option>
+          {{ $leagueToTeams := dict }}
+          {{ range (where .Site.RegularPages "Section" "games") }}
+            {{ if .Params.league_title }}
+              {{ $tKey := printf "%s|%s" (lower .Params.category) (lower .Params.gender) }}
+              {{ $existingTeams := default slice (index $leagueToTeams .Params.league_title) }}
+              {{ if not (in $existingTeams $tKey) }}
+                {{ $existingTeams = $existingTeams | append $tKey }}
+                {{ $leagueToTeams = merge $leagueToTeams (dict .Params.league_title $existingTeams) }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+          {{ range $league, $teams := $leagueToTeams }}
+            <option value="{{ $league }}" data-teams="{{ delimit $teams "," }}">{{ $league }}</option>
+          {{ end }}
+        </select>
+      </div>
+
+      <!-- Status Pills -->
+      <div class="inline-flex rounded-2xl bg-slate-900 border border-slate-800 p-1.5" id="status-filter-container">
+        <button type="button" data-status-btn="all" class="px-4 py-2 rounded-xl text-xs font-bold transition bg-orange-500 text-white">
+          Todos
+        </button>
+        <button type="button" data-status-btn="finalizado" class="px-4 py-2 rounded-xl text-xs font-bold transition text-slate-400 hover:text-white">
+          Jugados / Finalizados
+        </button>
+        <button type="button" data-status-btn="próximo" class="px-4 py-2 rounded-xl text-xs font-bold transition text-slate-400 hover:text-white">
+          Próximos
+        </button>
+      </div>
+      <select id="filter-status" class="hidden">
+        <option value="all">all</option>
+        <option value="finalizado">finalizado</option>
+        <option value="próximo">próximo</option>
+      </select>
     </div>
-    <select id="filter-status" class="hidden">
-      <option value="all">all</option>
-      <option value="finalizado">finalizado</option>
-      <option value="próximo">próximo</option>
-    </select>
   </div>
 
   <!-- MATCHES LIST — sorted by date, closest first -->
   <div class="grid grid-cols-1 gap-6">
     {{ range (where .Site.RegularPages "Section" "games").ByDate }}
-    <div class="match-item bg-slate-900 border border-slate-800 hover:border-slate-700 rounded-3xl p-6 transition duration-200 shadow-xl space-y-4 group" data-category="{{ .Params.category }}" data-gender="{{ .Params.gender }}" data-status="{{ .Params.status | lower }}">
+    <div class="match-item bg-slate-900 border border-slate-800 hover:border-slate-700 rounded-3xl p-6 transition duration-200 shadow-xl space-y-4 group" data-category="{{ .Params.category }}" data-gender="{{ .Params.gender }}" data-status="{{ .Params.status | lower }}" data-league="{{ .Params.league_title }}">
       
       <!-- Top Metadata Header -->
       <div class="flex flex-wrap items-center justify-between gap-2 pb-3 border-b border-slate-800/80 text-xs">
