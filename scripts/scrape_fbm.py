@@ -29,6 +29,13 @@ BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 CONTENT_DIR = os.path.join(BASE_DIR, "content")
 
+# Matches a bare score like "72 - 65" or "72–65" (used to detect finished-game rows)
+SCORE_RE    = re.compile(r"^\s*\d{1,3}\s*[-–]\s*\d{1,3}\s*$")
+# Cell starts with a dd/mm/yyyy date → date-first FBM layout
+DATE_RE_CELL = re.compile(r"^\d{2}/\d{2}/\d{4}")
+# Cell is a bare integer score value (no spaces, no dash) e.g. "78" or "26"
+NUM_RE       = re.compile(r"^\d{1,3}$")
+
 
 def clean_html_text(text):
     if not text:
@@ -81,24 +88,46 @@ def get_team_letter_weight(name_str):
 
 
 def parse_category_gender(title):
-    title_lower = title.lower()
+    """
+    Parse category and gender from an FBM competition title.
+    Handles both full names and FBM abbreviations:
+      Category: Benj / Benjamin → Benjamín
+                Inf / Infantil  → Infantil
+                Alv / Ale / Alevín → Alevín
+                Junior, Cadete, Sub 22 (unchanged)
+                default → Senior
+      Gender:   Femenino / Fem / F (as standalone token) → femenino
+                Masculino / Masc / M (as standalone token) → masculino
+    """
+    title_norm = title.strip()
+    title_lower = title_norm.lower()
 
-    if "fem" in title_lower:
+    # ── Gender ────────────────────────────────────────────────────────────────
+    # Check explicit keywords first, then fall back to trailing single-letter token
+    if any(k in title_lower for k in ("femenino", "fem")):
         gender = "femenino"
-    else:
+    elif any(k in title_lower for k in ("masculino", "masc")):
         gender = "masculino"
+    else:
+        # Look for a standalone ' F' or ' M' suffix (case-insensitive)
+        suffix_match = re.search(r"\b([FM])\b", title_norm, re.IGNORECASE)
+        if suffix_match:
+            gender = "femenino" if suffix_match.group(1).upper() == "F" else "masculino"
+        else:
+            gender = "masculino"  # safe default
 
+    # ── Category ──────────────────────────────────────────────────────────────
     if "junior" in title_lower:
         category = "Junior"
     elif "cadete" in title_lower:
         category = "Cadete"
-    elif "infantil" in title_lower:
+    elif any(k in title_lower for k in ("infantil", "inf")):
         category = "Infantil"
-    elif "alevin" in title_lower or "alevín" in title_lower:
+    elif any(k in title_lower for k in ("alevin", "alevín", "alev", "alv", "ale")):
         category = "Alevín"
-    elif "benjamin" in title_lower or "benjamín" in title_lower:
+    elif any(k in title_lower for k in ("benjamin", "benjamín", "benj")):
         category = "Benjamín"
-    elif "sub 22" in title_lower or "sub22" in title_lower:
+    elif any(k in title_lower for k in ("sub 22", "sub22")):
         category = "Sub 22"
     else:
         category = "Senior"
@@ -173,8 +202,15 @@ def parse_fbm_data(html):
                 "junior",
                 "cadete",
                 "infantil",
+                "inf",
                 "alevin",
+                "alevín",
+                "alev",
+                "alv",
+                "ale",
                 "benjamin",
+                "benjamín",
+                "benj",
                 "senior",
                 "vips",
                 "ginos",
@@ -288,21 +324,54 @@ def parse_fbm_data(html):
                     raw_cell_0 = cells[0]
                     cell_0_parts = [clean_html_text(p) for p in re.split(r"<br\s*/?>", raw_cell_0, flags=re.IGNORECASE) if clean_html_text(p)]
 
+                    # ── Parse cell values ─────────────────────────────────
+                    # Real FBM per-competition layout (date-first):
+                    #   Upcoming : date            | home       | away
+                    #   Finished : date            | home_score | home | away | away_score
+                    #
+                    # Legacy overview-table layout (teams first, <br>-separated):
+                    #   Upcoming : home<br>away    | date+time  | venue
+                    non_empty = [clean_html_text(c) for c in cells if clean_html_text(c)]
+
                     home, away, date_time_raw, venue = "", "", "", ""
-                    if len(cell_0_parts) >= 2:
-                        home = cell_0_parts[0]
-                        away = cell_0_parts[1]
-                        if len(cells) >= 2:
-                            date_time_raw = clean_html_text(cells[1])
-                        if len(cells) >= 3:
-                            venue = clean_html_text(cells[2])
-                    else:
-                        non_empty = [clean_html_text(c) for c in cells if clean_html_text(c)]
-                        if len(non_empty) >= 4:
-                            home = non_empty[0]
-                            away = non_empty[1]
-                            date_time_raw = non_empty[2]
+                    home_score_raw, away_score_raw = None, None
+
+                    if non_empty and DATE_RE_CELL.match(non_empty[0]):
+                        # ── Date-first layout ──────────────────────────────
+                        date_time_raw = non_empty[0]
+                        if len(non_empty) == 3:
+                            # date | home | away  (upcoming, no score)
+                            home = non_empty[1]
+                            away = non_empty[2]
+                        elif len(non_empty) >= 5 and NUM_RE.match(non_empty[1]) and NUM_RE.match(non_empty[4]):
+                            # date | home_score | home | away | away_score
+                            home_score_raw = non_empty[1]
+                            home           = non_empty[2]
+                            away           = non_empty[3]
+                            away_score_raw = non_empty[4]
+                        elif len(non_empty) == 4:
+                            # date | home | away | venue  (upcoming with venue)
+                            home  = non_empty[1]
+                            away  = non_empty[2]
                             venue = non_empty[3]
+                        else:
+                            # Best-effort fallback for date-first rows
+                            home = non_empty[1] if len(non_empty) > 1 else ""
+                            away = non_empty[2] if len(non_empty) > 2 else ""
+                    else:
+                        # ── Legacy teams-first / <br> layout ──────────────
+                        raw_cell_0 = cells[0]
+                        cell_0_parts = [clean_html_text(p) for p in re.split(r"<br\s*/?>", raw_cell_0, flags=re.IGNORECASE) if clean_html_text(p)]
+                        if len(cell_0_parts) >= 2:
+                            home = cell_0_parts[0]
+                            away = cell_0_parts[1]
+                            date_time_raw = non_empty[1] if len(non_empty) > 1 else ""
+                            venue         = non_empty[2] if len(non_empty) > 2 else ""
+                        elif len(non_empty) >= 3:
+                            home          = non_empty[0]
+                            away          = non_empty[1]
+                            date_time_raw = non_empty[2]
+                            venue         = non_empty[3] if len(non_empty) > 3 else ""
 
                     if not home or not away:
                         continue
@@ -322,14 +391,24 @@ def parse_fbm_data(html):
                         if time_match:
                             time_str = time_match.group(1)
 
-                        score_match = re.search(r"(\d{2,3})\s*-\s*(\d{2,3})", date_time_raw + " " + venue)
                         home_score = None
                         away_score = None
                         status = "Próximo"
-                        if score_match:
-                            home_score = int(score_match.group(1))
-                            away_score = int(score_match.group(2))
-                            status = "Finalizado"
+                        if home_score_raw is not None and away_score_raw is not None:
+                            try:
+                                home_score = int(home_score_raw)
+                                away_score = int(away_score_raw)
+                                status = "Finalizado"
+                            except ValueError:
+                                pass
+                        else:
+                            # Fallback: try to find a "72 - 65" pattern in the date/venue fields
+                            # (covers legacy table layouts)
+                            score_match = re.search(r"(\d{2,3})\s*-\s*(\d{2,3})", date_time_raw + " " + venue)
+                            if score_match:
+                                home_score = int(score_match.group(1))
+                                away_score = int(score_match.group(2))
+                                status = "Finalizado"
 
 
                         nat_key = _game_natural_key(date_str, home, away, category, gender)

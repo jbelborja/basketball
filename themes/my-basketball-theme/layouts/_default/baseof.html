@@ -109,7 +109,7 @@
         </div>
 
         <!-- Mobile menu button -->
-        <button id="mobile-menu-btn" class="md:hidden p-2 rounded-lg text-slate-400 hover:text-white hover:bg-slate-800 focus:outline-none" aria-label="Abrir menú">
+        <button type="button" id="mobile-menu-btn" class="md:hidden p-2 rounded-lg text-slate-400 hover:text-white hover:bg-slate-800 focus:outline-none" aria-label="Abrir menú">
           <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
           </svg>
@@ -125,6 +125,23 @@
       <a href="{{ "classification/" | relURL }}" class="block px-3 py-2 rounded-lg text-base font-semibold text-slate-200 hover:bg-slate-800">Clasificación</a>
       <a href="{{ "teams/" | relURL }}" class="block px-3 py-2 rounded-lg text-base font-semibold text-slate-200 hover:bg-slate-800">Equipos</a>
       <a href="{{ "venues/" | relURL }}" class="block px-3 py-2 rounded-lg text-base font-semibold text-slate-200 hover:bg-slate-800">Pabellones</a>
+
+      <!-- Mobile Filters -->
+      <div class="pt-3 mt-1 border-t border-slate-800 space-y-2">
+        <p class="px-3 text-[11px] font-bold uppercase tracking-wider text-slate-500">Filtrar por</p>
+        <select id="filter-category-mobile" class="w-full bg-slate-800 border border-slate-700 rounded-xl text-slate-200 py-2 px-3 text-sm font-medium focus:ring-1 focus:ring-orange-500 cursor-pointer">
+          <option value="all">Todas las Categorías</option>
+          {{ range .Site.Params.categories }}
+          <option value="{{ . }}">{{ . }}</option>
+          {{ end }}
+        </select>
+        <select id="filter-gender-mobile" class="w-full bg-slate-800 border border-slate-700 rounded-xl text-slate-200 py-2 px-3 text-sm font-medium focus:ring-1 focus:ring-orange-500 cursor-pointer capitalize">
+          <option value="all">Todos los Géneros</option>
+          {{ range .Site.Params.genders }}
+          <option value="{{ . }}">{{ . }}</option>
+          {{ end }}
+        </select>
+      </div>
     </div>
   </header>
 
@@ -198,9 +215,11 @@
     const STORAGE_KEY_GEN = 'cbcv_filter_gender';
 
     document.addEventListener('DOMContentLoaded', () => {
-      const catSelect  = document.getElementById('filter-category');
-      const genSelect  = document.getElementById('filter-gender');
-      const statSelect = document.getElementById('filter-status');
+      const catSelect       = document.getElementById('filter-category');
+      const genSelect       = document.getElementById('filter-gender');
+      const catSelectMobile = document.getElementById('filter-category-mobile');
+      const genSelectMobile = document.getElementById('filter-gender-mobile');
+      const statSelect      = document.getElementById('filter-status');
 
       /* ── Restore persisted values (localStorage wins over URL params) ── */
       const urlParams = new URLSearchParams(window.location.search);
@@ -215,11 +234,18 @@
         }
       }
 
-      restoreSelect(catSelect, STORAGE_KEY_CAT, 'category');
-      restoreSelect(genSelect, STORAGE_KEY_GEN, 'gender');
+      restoreSelect(catSelect,       STORAGE_KEY_CAT, 'category');
+      restoreSelect(genSelect,       STORAGE_KEY_GEN, 'gender');
+      restoreSelect(catSelectMobile, STORAGE_KEY_CAT, 'category');
+      restoreSelect(genSelectMobile, STORAGE_KEY_GEN, 'gender');
 
       if (statSelect && urlParams.has('status')) {
         statSelect.value = urlParams.get('status');
+      }
+
+      /* ── Two-way sync between desktop and mobile selects ── */
+      function syncPair(source, target) {
+        if (target && source) target.value = source.value;
       }
 
       /* ── Update status-pill buttons to match hidden select ── */
@@ -302,9 +328,26 @@
         });
       });
 
-      /* ── Wire up selects ── */
-      if (catSelect) catSelect.addEventListener('change', applyFilters);
-      if (genSelect) genSelect.addEventListener('change', applyFilters);
+      /* ── Wire up desktop selects ── */
+      if (catSelect) catSelect.addEventListener('change', () => {
+        syncPair(catSelect, catSelectMobile);
+        applyFilters();
+      });
+      if (genSelect) genSelect.addEventListener('change', () => {
+        syncPair(genSelect, genSelectMobile);
+        applyFilters();
+      });
+
+      /* ── Wire up mobile selects ── */
+      if (catSelectMobile) catSelectMobile.addEventListener('change', () => {
+        syncPair(catSelectMobile, catSelect);
+        applyFilters();
+      });
+      if (genSelectMobile) genSelectMobile.addEventListener('change', () => {
+        syncPair(genSelectMobile, genSelect);
+        applyFilters();
+      });
+
       if (statSelect) statSelect.addEventListener('change', applyFilters);
 
       /* ── Run on load ── */
