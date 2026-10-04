@@ -57,7 +57,7 @@
   <!-- MATCHES LIST — sorted by date, closest first -->
   <div class="grid grid-cols-1 gap-6">
     {{ range (where .Site.RegularPages "Section" "games").ByDate }}
-    <div class="match-item bg-slate-900 border border-slate-800 hover:border-slate-700 rounded-3xl p-6 transition duration-200 shadow-xl space-y-4 group" data-category="{{ .Params.category }}" data-gender="{{ .Params.gender }}" data-status="{{ .Params.status | lower }}" data-league="{{ .Params.league_title }}">
+    <div class="match-item bg-slate-900 border border-slate-800 hover:border-slate-700 rounded-3xl p-4 sm:p-6 transition duration-200 shadow-xl space-y-4 group" data-category="{{ .Params.category }}" data-gender="{{ .Params.gender }}" data-status="{{ .Params.status | lower }}" data-league="{{ .Params.league_title }}">
       
       <!-- Top Metadata Header -->
       <div class="flex flex-wrap items-center justify-between gap-2 pb-3 border-b border-slate-800/80 text-xs">
@@ -89,38 +89,38 @@
       </div>
 
       <!-- Teams & Score Row -->
-      <div class="py-2 grid grid-cols-1 md:grid-cols-11 gap-4 items-center">
+      <div class="py-2 grid grid-cols-[1fr_auto_1fr] md:grid-cols-11 gap-2 sm:gap-4 items-center">
         
         <!-- Home Team (4 cols) -->
-        <div class="md:col-span-4 flex items-center gap-3 md:justify-end text-left md:text-right">
+        <div class="md:col-span-4 flex flex-col md:flex-row items-center gap-2 md:gap-3 md:justify-end text-center md:text-right">
           <div class="order-2 md:order-1 flex-1 md:flex-initial">
-            <span class="font-sports text-xl sm:text-2xl font-bold text-white group-hover:text-orange-400 transition block leading-tight">{{ .Params.team1 }}</span>
-            <span class="text-[10px] text-slate-500 uppercase font-semibold">Local</span>
+            <span class="font-sports text-base sm:text-2xl font-bold text-white group-hover:text-orange-400 transition block leading-tight line-clamp-2 md:line-clamp-none">{{ .Params.team1 }}</span>
+            <span class="hidden md:block text-[10px] text-slate-500 uppercase font-semibold">Local</span>
           </div>
           <img src="{{ (.Params.team1_logo | default .Site.Data.club.logo) | relURL }}" alt="{{ .Params.team1 }}" class="w-12 h-12 sm:w-14 sm:h-14 rounded-full object-cover ring-2 ring-slate-800 shadow order-1 md:order-2 flex-shrink-0"/>
         </div>
 
         <!-- Score / VS (3 cols) -->
-        <div class="md:col-span-3 text-center py-1">
-          <div class="inline-block px-4 py-2 bg-slate-950 rounded-2xl border border-slate-800/80">
+        <div class="md:col-span-3 text-center">
+          <div class="inline-block px-2 py-1.5 sm:px-4 sm:py-2 bg-slate-950 rounded-xl sm:rounded-2xl border border-slate-800/80">
             {{ if eq (lower .Params.status) "finalizado" }}
-            <div class="font-sports text-3xl sm:text-4xl font-bold text-white tracking-wider">
+            <div class="font-sports text-2xl sm:text-4xl font-bold text-white tracking-wider whitespace-nowrap">
               <span class="{{ if gt .Params.team1_score .Params.team2_score }}text-orange-400{{ end }}">{{ .Params.team1_score }}</span>
               <span class="text-slate-600">-</span>
               <span class="{{ if gt .Params.team2_score .Params.team1_score }}text-orange-400{{ end }}">{{ .Params.team2_score }}</span>
             </div>
             {{ else }}
-            <div class="font-sports text-3xl font-bold text-orange-400">VS</div>
+            <div class="font-sports text-2xl sm:text-3xl font-bold text-orange-400">VS</div>
             {{ end }}
           </div>
         </div>
 
         <!-- Away Team (4 cols) -->
-        <div class="md:col-span-4 flex items-center gap-3 text-left">
+        <div class="md:col-span-4 flex flex-col md:flex-row items-center gap-2 md:gap-3 text-center md:text-left">
           <img src="{{ (.Params.team2_logo | default "images/teams/rival.png") | relURL }}" alt="{{ .Params.team2 }}" class="w-12 h-12 sm:w-14 sm:h-14 rounded-full object-cover ring-2 ring-slate-800 shadow flex-shrink-0"/>
           <div>
-            <span class="font-sports text-xl sm:text-2xl font-bold text-white group-hover:text-orange-400 transition block leading-tight">{{ .Params.team2 }}</span>
-            <span class="text-[10px] text-slate-500 uppercase font-semibold">Visitante</span>
+            <span class="font-sports text-base sm:text-2xl font-bold text-white group-hover:text-orange-400 transition block leading-tight line-clamp-2 md:line-clamp-none">{{ .Params.team2 }}</span>
+            <span class="hidden md:block text-[10px] text-slate-500 uppercase font-semibold">Visitante</span>
           </div>
         </div>
 
@@ -128,7 +128,7 @@
 
       <!-- Bottom Venue & Action Footer -->
       <div class="pt-3 border-t border-slate-800/80 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 text-xs text-slate-400">
-        <div class="flex items-center gap-1.5 min-w-0 flex-1 overflow-hidden">
+        <div class="flex items-center gap-1.5 min-w-0 w-full sm:w-auto flex-1 overflow-hidden">
           <span class="text-orange-400 font-bold flex-shrink-0">📍</span>
           <a href="{{ (printf "venues/%s/" .Params.venue_slug) | relURL }}"
              class="text-slate-300 hover:text-orange-400 font-medium truncate transition underline decoration-slate-700 hover:decoration-orange-400"
@@ -136,7 +136,7 @@
             {{ .Params.venue_title | default .Params.venue }}
           </a>
         </div>
-        <div class="flex items-center gap-2 flex-shrink-0">
+        <div class="flex flex-row items-center gap-2 w-full sm:w-auto flex-shrink-0">
           {{ if and (ne (lower .Params.status) "finalizado") .Params.time }}
           {{ $calStart := .Date.Format "20060102T150405" }}
           {{ $calEnd := (.Date.Add (time.ParseDuration "2h")).Format "20060102T150405" }}
@@ -144,11 +144,11 @@
           {{ $calDesc := printf "Competición: %s\nCategoría: %s %s" .Params.league_title .Params.category .Params.gender }}
           {{ $calLocation := .Params.venue_address | default .Params.venue }}
           {{ $calUrl := printf "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%s&dates=%s/%s&details=%s&location=%s" ($calTitle | urlquery) $calStart $calEnd ($calDesc | urlquery) ($calLocation | urlquery) }}
-          <a href="{{ $calUrl }}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-1.5 bg-slate-800/50 hover:bg-slate-700 text-slate-300 hover:text-white font-bold text-[10px] uppercase tracking-wider px-3 py-2 rounded-xl border border-slate-700 transition">
+          <a href="{{ $calUrl }}" target="_blank" rel="noopener noreferrer" class="inline-flex flex-1 sm:flex-none justify-center items-center gap-1.5 bg-slate-800/50 hover:bg-slate-700 text-slate-300 hover:text-white font-bold text-[10px] uppercase tracking-wider px-3 py-2 rounded-xl border border-slate-700 transition">
             📅 Calendario
           </a>
           {{ end }}
-          <a href="{{ .RelPermalink }}" class="inline-flex items-center gap-1.5 bg-slate-800 hover:bg-orange-500 text-white font-bold text-xs uppercase tracking-wider px-4 py-2 rounded-xl transition">
+          <a href="{{ .RelPermalink }}" class="inline-flex flex-1 sm:flex-none justify-center items-center gap-1.5 bg-slate-800 hover:bg-orange-500 text-white font-bold text-[10px] sm:text-xs uppercase tracking-wider px-4 py-2 rounded-xl transition">
             Ficha Detalle <span>→</span>
           </a>
         </div>
