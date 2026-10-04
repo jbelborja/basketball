@@ -6,7 +6,7 @@
     <div>
       <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Liga Regional Oficial</span>
       <h1 class="font-sports text-3xl sm:text-5xl text-white font-bold uppercase tracking-tight">Tabla de Clasificación</h1>
-      <p class="text-slate-400 text-sm mt-1">Consulta las posiciones oficiales, victorias, derrotas y dinámica de los grupos del CB Colmenar Viejo.</p>
+      <p class="text-slate-400 text-sm mt-1">Consulta las posiciones oficiales, victorias, derrotas y dinámica de los grupos del {{ .Site.Data.club.name }}.</p>
     </div>
   </div>
 
@@ -53,7 +53,7 @@
           </thead>
           <tbody class="divide-y divide-slate-800/60 font-medium">
             {{ range sort .teams "position" }}
-              <tr class="hover:bg-slate-800/40 transition duration-150 group {{ if in (lower .team) "colmenar" }}bg-orange-500/10 border-l-4 border-l-orange-500{{ end }}">
+              <tr class="hover:bg-slate-800/40 transition duration-150 group {{ if in (lower .team) .Site.Data.club.keyword }}bg-orange-500/10 border-l-4 border-l-orange-500{{ end }}">
                 
                 <!-- Position with medal styling -->
                 <td class="py-4 px-4 text-center">

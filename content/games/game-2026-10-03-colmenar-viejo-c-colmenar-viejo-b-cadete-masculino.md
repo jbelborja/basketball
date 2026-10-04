@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO C 28 - 100 COLMENAR VIEJO B"
-date: 2026-10-03T00:00:00
-time: ""
+date: 2026-10-03T16:00:00
+time: "16:00"
 team1: "COLMENAR VIEJO C"
 team1_slug: "colmenar-viejo-c-cadete-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2026-10-03-colmenar-viejo-c-colmenar-viejo-b-cadete-masculino"
 slug: "game-2026-10-03-colmenar-viejo-c-colmenar-viejo-b-cadete-masculino"
-weight: 41320261003000094
+weight: 41320261003160094
 ---
 
 Encuentro correspondiente a la categoría Cadete (masculino) entre **COLMENAR VIEJO C** y **COLMENAR VIEJO B**.

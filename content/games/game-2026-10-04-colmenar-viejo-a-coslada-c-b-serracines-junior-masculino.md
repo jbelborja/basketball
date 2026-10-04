@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A 75 - 59 COSLADA C.B. SERRACINES"
-date: 2026-10-04T00:00:00
-time: ""
+date: 2026-10-04T18:15:00
+time: "18:15"
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-junior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-10-04-colmenar-viejo-a-coslada-c-b-serracines-junior-masculino"
 slug: "game-2026-10-04-colmenar-viejo-a-coslada-c-b-serracines-junior-masculino"
-weight: 31120261004000062
+weight: 31120261004181562
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **COLMENAR VIEJO A** y **COSLADA C.B. SERRACINES**.

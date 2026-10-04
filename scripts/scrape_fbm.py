@@ -454,6 +454,13 @@ def parse_fbm_data(html):
                             away = cell_0_parts[1]
                             date_time_raw = non_empty[1] if len(non_empty) > 1 else ""
                             venue         = non_empty[2] if len(non_empty) > 2 else ""
+                        elif len(non_empty) >= 5 and NUM_RE.match(non_empty[1]) and NUM_RE.match(non_empty[2]):
+                            home           = non_empty[0]
+                            home_score_raw = non_empty[1]
+                            away_score_raw = non_empty[2]
+                            away           = non_empty[3]
+                            date_time_raw  = non_empty[4]
+                            venue          = non_empty[5] if len(non_empty) > 5 else ""
                         elif len(non_empty) >= 3:
                             home          = non_empty[0]
                             away          = non_empty[1]
@@ -667,6 +674,9 @@ def parse_fbm_data(html):
 
 def write_json_files(teams, classifications, games, venues, players):
     os.makedirs(DATA_DIR, exist_ok=True)
+
+    with open(os.path.join(DATA_DIR, "club.json"), "w", encoding="utf-8") as f:
+        json.dump(CFG, f, ensure_ascii=False, indent=2)
 
     with open(os.path.join(DATA_DIR, "teams.json"), "w", encoding="utf-8") as f:
         json.dump(teams, f, ensure_ascii=False, indent=2)
