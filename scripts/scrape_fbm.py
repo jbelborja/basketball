@@ -112,6 +112,7 @@ def parse_args():
     CFG["coach"]           = args.club_coach
     CFG["venue"]           = args.club_venue
     CFG["venue_address"]   = args.club_venue_address
+    CFG["venue_slug"]      = slugify(args.club_venue_address)
     CFG["founded"]         = args.club_founded
     return args
 

@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>{{ .Title }} | CB Colmenar Viejo</title>
+  <title>{{ .Title }} | {{ .Site.Data.club.name }}</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -20,7 +20,7 @@
     <div class="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-2">
       <div class="flex items-center gap-3">
         <span class="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold bg-orange-500/20 text-orange-400 border border-orange-500/30">
-          CB COLMENAR VIEJO
+          {{ upper .Site.Data.club.name }}
         </span>
         {{ $lastFinished := index (where .Site.Data.games "status" "Finalizado") 0 }}
         {{ if $lastFinished }}
@@ -53,12 +53,12 @@
         <!-- Brand Logo & Title -->
         <a href="{{ "" | relURL }}" class="flex items-center gap-3 group flex-shrink-0 whitespace-nowrap">
           <div class="relative flex-shrink-0">
-            <img src="{{ "images/teams/cbcolmenar.png" | relURL }}" alt="CB Colmenar Viejo" class="h-12 w-12 rounded-full object-cover ring-2 ring-orange-500 ring-offset-2 ring-offset-slate-900 group-hover:scale-105 transition-transform duration-300 shadow-lg shadow-orange-500/20"/>
+            <img src="{{ .Site.Data.club.logo | relURL }}" alt="{{ .Site.Data.club.name }}" class="h-12 w-12 rounded-full object-cover ring-2 ring-orange-500 ring-offset-2 ring-offset-slate-900 group-hover:scale-105 transition-transform duration-300 shadow-lg shadow-orange-500/20"/>
             <span class="absolute -bottom-1 -right-1 bg-orange-500 text-[9px] font-extrabold px-1.5 py-0.2 rounded text-white font-sports uppercase tracking-wider">CB</span>
           </div>
           <div>
             <div class="font-sports text-lg sm:text-2xl font-bold tracking-wider uppercase text-white group-hover:text-orange-400 transition">
-              CB COLMENAR VIEJO
+              {{ upper .Site.Data.club.name }}
             </div>
             <div class="text-[11px] font-semibold tracking-widest uppercase text-slate-400">
               Pasión · Esfuerzo · Victoria
@@ -163,11 +163,11 @@
         <!-- Club Info -->
         <div class="md:col-span-1">
           <div class="flex items-center gap-3 mb-4">
-            <img src="{{ "images/teams/cbcolmenar.png" | relURL }}" alt="CB Colmenar Viejo" class="h-10 w-10 rounded-full object-cover ring-2 ring-orange-500"/>
-            <span class="font-sports text-xl text-white font-bold tracking-wider">CB COLMENAR VIEJO</span>
+            <img src="{{ .Site.Data.club.logo | relURL }}" alt="{{ .Site.Data.club.name }}" class="h-10 w-10 rounded-full object-cover ring-2 ring-orange-500"/>
+            <span class="font-sports text-xl text-white font-bold tracking-wider">{{ upper .Site.Data.club.name }}</span>
           </div>
           <p class="text-sm text-slate-400 leading-relaxed mb-4">
-            Formación, competición y pasión por el baloncesto en Colmenar Viejo desde categorías de cantera hasta Senior.
+            Formación, competición y pasión por el baloncesto desde categorías de cantera hasta Senior.
           </p>
         </div>
 
@@ -190,7 +190,7 @@
               <span class="text-orange-400 font-bold">📍</span> Pabellón Juan Antonio Samaranch
             </li>
             <li class="flex items-start gap-2">
-              <span class="text-orange-400 font-bold">🏠</span> Avda. Juan Pablo II, 13, Colmenar Viejo
+              <span class="text-orange-400 font-bold">🏠</span> {{ .Site.Data.club.venue_address }}
             </li>
             <li class="flex items-start gap-2">
               <span class="text-orange-400 font-bold">🏀</span> Sáb - Dom: Jornadas de Liga
@@ -201,7 +201,7 @@
       </div>
 
       <div class="border-t border-slate-800/80 pt-6 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500">
-        <p>&copy; {{ now.Format "2006" }} CB Colmenar Viejo. Todos los derechos reservados.</p>
+        <p>&copy; {{ now.Format "2006" }} {{ .Site.Data.club.name }}. Todos los derechos reservados.</p>
         <p class="mt-2 sm:mt-0">Diseñado con tecnología Hugo & Tailwind CSS</p>
       </div>
     </div>

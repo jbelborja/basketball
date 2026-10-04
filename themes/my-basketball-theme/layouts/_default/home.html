@@ -12,7 +12,7 @@
       <div class="lg:col-span-7 space-y-6">
         <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-orange-500/10 border border-orange-500/30 text-orange-400 text-xs font-bold uppercase tracking-widest">
           <span class="w-2 h-2 rounded-full bg-orange-500 animate-pulse"></span>
-          CB Colmenar Viejo · Temporada Oficial
+          {{ .Site.Data.club.name }} · Temporada Oficial
         </div>
         
         <h1 class="font-sports text-4xl sm:text-6xl lg:text-7xl font-bold uppercase tracking-tight text-white leading-none">
@@ -20,7 +20,7 @@
         </h1>
         
         <p class="text-slate-300 text-base sm:text-lg max-w-xl font-normal leading-relaxed">
-          Bienvenido al portal oficial del CB Colmenar Viejo. Sigue a nuestros equipos senior y cantera, consulta las actas de cada partido, clasificaciones federadas y la actualidad de nuestro club.
+          Bienvenido al portal oficial del {{ .Site.Data.club.name }}. Sigue a nuestros equipos senior y cantera, consulta las actas de cada partido, clasificaciones federadas y la actualidad de nuestro club.
         </p>
 
         <div class="flex flex-wrap gap-4 pt-2">
@@ -54,7 +54,7 @@
           <div class="flex items-center justify-between gap-4 py-4">
             <!-- Home Team -->
             <div class="text-center flex-1">
-              <img src="{{ ($featuredGame.home_logo | default "images/teams/cbcolmenar.png") | relURL }}" alt="{{ $featuredGame.home }}" class="w-16 h-16 rounded-full object-cover mx-auto ring-2 ring-slate-700 mb-2 shadow"/>
+              <img src="{{ ($featuredGame.home_logo | default .Site.Data.club.logo) | relURL }}" alt="{{ $featuredGame.home }}" class="w-16 h-16 rounded-full object-cover mx-auto ring-2 ring-slate-700 mb-2 shadow"/>
               <p class="font-bold text-white text-xs line-clamp-2">{{ $featuredGame.home }}</p>
               <span class="text-[10px] text-slate-400">Local</span>
             </div>
@@ -119,7 +119,7 @@
         <div class="flex items-center justify-between gap-4">
           <!-- Home -->
           <div class="flex items-center gap-3 flex-1">
-            <img src="{{ ($lastGame.home_logo | default "images/teams/cbcolmenar.png") | relURL }}" alt="{{ $lastGame.home }}" class="w-14 h-14 rounded-full object-cover ring-2 ring-orange-500 shadow"/>
+            <img src="{{ ($lastGame.home_logo | default .Site.Data.club.logo) | relURL }}" alt="{{ $lastGame.home }}" class="w-14 h-14 rounded-full object-cover ring-2 ring-orange-500 shadow"/>
             <div>
               <p class="font-sports text-lg sm:text-xl font-bold text-white leading-tight">{{ $lastGame.home }}</p>
               <span class="text-xs text-slate-400">Local</span>
@@ -240,7 +240,7 @@
           <div class="grid grid-cols-2 gap-2 text-center bg-slate-950/60 p-3 rounded-xl border border-slate-800/80">
             <div>
               <p class="text-[10px] text-slate-500 uppercase">Pabellón</p>
-              <p class="text-xs font-semibold text-slate-300 truncate">Samaranch</p>
+              <p class="text-xs font-semibold text-slate-300 truncate">{{ .venue | default .Site.Data.club.venue }}</p>
             </div>
             <div>
               <p class="text-[10px] text-slate-500 uppercase">Entrenador</p>
@@ -286,7 +286,7 @@
           <time>Temporada 2026/27</time>
         </div>
         <h3 class="font-sports text-xl text-white font-bold hover:text-orange-400 transition cursor-pointer">
-          Equipos y Cantera del CB Colmenar Viejo
+          Equipos y Cantera del {{ .Site.Data.club.name }}
         </h3>
         <p class="text-sm text-slate-400 leading-relaxed">
           Información completa de los 15 equipos federados del club, desde categorías de formación hasta Senior.
@@ -299,13 +299,13 @@
           <span class="text-emerald-400 font-bold uppercase">Instalaciones</span>
           <time>Pabellón Principal</time>
         </div>
-        <a href="{{ "venues/juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo/" | relURL }}">
+        <a href="{{ (printf "venues/%s/" .Site.Data.club.venue_slug) | relURL }}">
           <h3 class="font-sports text-xl text-white font-bold hover:text-orange-400 transition cursor-pointer">
-            Pabellón Juan Antonio Samaranch
+            {{ .Site.Data.club.venue }}
           </h3>
         </a>
         <p class="text-sm text-slate-400 leading-relaxed">
-          Sede oficial de nuestros partidos como local en Avda. Juan Pablo II, 13, Colmenar Viejo.
+          Sede oficial de nuestros partidos como local en {{ .Site.Data.club.venue_address }}.
         </p>
         <span class="inline-block text-xs font-bold text-slate-400">Acceso libre</span>
       </article>
