@@ -223,6 +223,7 @@ def parse_category_gender(title):
 
 
 def fetch_html():
+    print(f"URL {CFG["url"]}")
     req = urllib.request.Request(
         CFG["url"],
         headers={
@@ -322,7 +323,7 @@ def parse_fbm_data(html):
             if "nombre" in header_text and "p.j" in header_text:
                 table_teams = []
                 max_pj = 0
-                colmenar_team = ""
+                team = ""
                 for row in rows[1:]:
                     cells = re.findall(
                         r"<t[dh].*?>(.*?)</t[dh]>", row, re.DOTALL | re.IGNORECASE
@@ -347,7 +348,7 @@ def parse_fbm_data(html):
                                 max_pj = pj
 
                             if CFG["keyword"] in team_name.lower():
-                                colmenar_team = team_name
+                                team = team_name
 
                             t_slug = slugify(f"{team_name}-{category}-{gender}")
 
@@ -394,7 +395,7 @@ def parse_fbm_data(html):
                         "league_title": comp_title,
                         "category": category,
                         "gender": gender,
-                        "colmenar_team": colmenar_team,
+                        "team": team,
                         "max_pj": max_pj,
                         "teams": table_teams
                     }
@@ -608,7 +609,7 @@ def parse_fbm_data(html):
     def class_stable_weight(c):
         c_w = get_category_weight(c["category"])
         g_w = 1 if c["gender"].lower() == "masculino" else 2
-        l_w = get_team_letter_weight(c.get("colmenar_team") or c.get("league_title"))
+        l_w = get_team_letter_weight(c.get("team") or c.get("league_title"))
         id_bytes = c["league_title"].encode()
         id_hash = int(hashlib.md5(id_bytes).hexdigest(), 16) % 1000
         return int(f"{c_w:02d}{g_w}{l_w}{id_hash:03d}")
@@ -617,7 +618,7 @@ def parse_fbm_data(html):
         key=lambda c: (
             get_category_weight(c["category"]),
             1 if c["gender"].lower() == "masculino" else 2,
-            get_team_letter_weight(c.get("colmenar_team") or c.get("league_title")),
+            get_team_letter_weight(c.get("team") or c.get("league_title")),
             c["league_title"],
         )
     )
