@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO B VS ESTUDIANTES INTERNATIONAL SCHOOL \"A\""
-date: 2026-10-17T00:00:00
-time: ""
+date: 2026-10-17T17:00:00
+time: "17:00"
 team1: "COLMENAR VIEJO B"
 team1_slug: "colmenar-viejo-b-infantil-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-10-17-colmenar-viejo-b-estudiantes-international-school-a-infantil-masculino"
 slug: "game-2026-10-17-colmenar-viejo-b-estudiantes-international-school-a-infantil-masculino"
-weight: 51220261017000075
+weight: 51220261017170075
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **COLMENAR VIEJO B** y **ESTUDIANTES INTERNATIONAL SCHOOL "A"**.

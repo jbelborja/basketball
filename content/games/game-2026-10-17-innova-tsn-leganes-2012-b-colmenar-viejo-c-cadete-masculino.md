@@ -1,7 +1,7 @@
 ---
 title: "INNOVA-TSN LEGAN\u00c9S 2012 \"B\" VS COLMENAR VIEJO C"
-date: 2026-10-17T00:00:00
-time: ""
+date: 2026-10-17T12:30:00
+time: "12:30"
 team1: "INNOVA-TSN LEGAN\u00c9S 2012 \"B\""
 team1_slug: "innova-tsn-leganes-2012-b"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2026-10-17-innova-tsn-leganes-2012-b-colmenar-viejo-c-cadete-masculino"
 slug: "game-2026-10-17-innova-tsn-leganes-2012-b-colmenar-viejo-c-cadete-masculino"
-weight: 41320261017000008
+weight: 41320261017123008
 ---
 
 Encuentro correspondiente a la categoría Cadete (masculino) entre **INNOVA-TSN LEGANÉS 2012 "B"** y **COLMENAR VIEJO C**.

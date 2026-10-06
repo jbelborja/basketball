@@ -498,6 +498,25 @@
       },
       {
         "position": 3,
+        "team": "FUNDAL ALCOBENDAS",
+        "slug": "fundal-alcobendas-senior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 2,
+        "v": 2,
+        "d": 0,
+        "pf": 143,
+        "pc": 137,
+        "dif": "+6",
+        "points": 4,
+        "streak": [
+          "V",
+          "V"
+        ],
+        "category": "Senior",
+        "gender": "femenino"
+      },
+      {
+        "position": 4,
         "team": "QUIERO VALCUDE ALCOBENDAS",
         "slug": "quiero-valcude-alcobendas-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -516,7 +535,7 @@
         "gender": "femenino"
       },
       {
-        "position": 4,
+        "position": 5,
         "team": "CESUR DISTRITO OLIMPICO",
         "slug": "cesur-distrito-olimpico-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -535,7 +554,7 @@
         "gender": "femenino"
       },
       {
-        "position": 5,
+        "position": 6,
         "team": "COLMENAR VIEJO A",
         "slug": "colmenar-viejo-a-senior-femenino",
         "logo": "images/teams/cbcolmenar.png",
@@ -554,7 +573,7 @@
         "gender": "femenino"
       },
       {
-        "position": 6,
+        "position": 7,
         "team": "ISAAC NEWTON",
         "slug": "isaac-newton-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -573,25 +592,26 @@
         "gender": "femenino"
       },
       {
-        "position": 7,
-        "team": "FUNDAL ALCOBENDAS",
-        "slug": "fundal-alcobendas-senior-femenino",
+        "position": 8,
+        "team": "C.B. LAS ROZAS",
+        "slug": "c-b-las-rozas-senior-femenino",
         "logo": "images/teams/rival.png",
-        "pj": 1,
-        "v": 1,
-        "d": 0,
-        "pf": 67,
-        "pc": 66,
-        "dif": "+1",
+        "pj": 2,
+        "v": 0,
+        "d": 2,
+        "pf": 113,
+        "pc": 134,
+        "dif": "-21",
         "points": 2,
         "streak": [
-          "V"
+          "D",
+          "D"
         ],
         "category": "Senior",
         "gender": "femenino"
       },
       {
-        "position": 8,
+        "position": 9,
         "team": "VERITAS POZUELO",
         "slug": "veritas-pozuelo-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -610,7 +630,7 @@
         "gender": "femenino"
       },
       {
-        "position": 9,
+        "position": 10,
         "team": "RICOPIA FUNBAL ALCALA CBJA",
         "slug": "ricopia-funbal-alcala-cbja-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -623,24 +643,6 @@
         "points": 2,
         "streak": [
           "D",
-          "D"
-        ],
-        "category": "Senior",
-        "gender": "femenino"
-      },
-      {
-        "position": 10,
-        "team": "C.B. LAS ROZAS",
-        "slug": "c-b-las-rozas-senior-femenino",
-        "logo": "images/teams/rival.png",
-        "pj": 1,
-        "v": 0,
-        "d": 1,
-        "pf": 42,
-        "pc": 58,
-        "dif": "-16",
-        "points": 1,
-        "streak": [
           "D"
         ],
         "category": "Senior",
@@ -694,6 +696,24 @@
       },
       {
         "position": 3,
+        "team": "ARGANZUELA CENTRO",
+        "slug": "arganzuela-centro-senior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 1,
+        "d": 0,
+        "pf": 68,
+        "pc": 61,
+        "dif": "+7",
+        "points": 2,
+        "streak": [
+          "V"
+        ],
+        "category": "Senior",
+        "gender": "femenino"
+      },
+      {
+        "position": 4,
         "team": "UROS DE RIVAS",
         "slug": "uros-de-rivas-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -711,7 +731,7 @@
         "gender": "femenino"
       },
       {
-        "position": 4,
+        "position": 5,
         "team": "C.B. GETAFE",
         "slug": "c-b-getafe-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -729,7 +749,7 @@
         "gender": "femenino"
       },
       {
-        "position": 5,
+        "position": 6,
         "team": "FEMENINO FUENLABRADA",
         "slug": "femenino-fuenlabrada-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -747,7 +767,7 @@
         "gender": "femenino"
       },
       {
-        "position": 6,
+        "position": 7,
         "team": "MOVEUP TRES CANTOS",
         "slug": "moveup-tres-cantos-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -765,7 +785,25 @@
         "gender": "femenino"
       },
       {
-        "position": 7,
+        "position": 8,
+        "team": "COLEGIO ALAMEDA DE OSUNA",
+        "slug": "colegio-alameda-de-osuna-senior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 1,
+        "v": 0,
+        "d": 1,
+        "pf": 61,
+        "pc": 68,
+        "dif": "-7",
+        "points": 1,
+        "streak": [
+          "D"
+        ],
+        "category": "Senior",
+        "gender": "femenino"
+      },
+      {
+        "position": 9,
         "team": "ISAAC NEWTON",
         "slug": "isaac-newton-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -783,7 +821,7 @@
         "gender": "femenino"
       },
       {
-        "position": 8,
+        "position": 10,
         "team": "SAN VIATOR \"LA MALUCA\"",
         "slug": "san-viator-la-maluca-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -797,38 +835,6 @@
         "streak": [
           "D"
         ],
-        "category": "Senior",
-        "gender": "femenino"
-      },
-      {
-        "position": 9,
-        "team": "ARGANZUELA CENTRO",
-        "slug": "arganzuela-centro-senior-femenino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
-        "category": "Senior",
-        "gender": "femenino"
-      },
-      {
-        "position": 10,
-        "team": "COLEGIO ALAMEDA DE OSUNA",
-        "slug": "colegio-alameda-de-osuna-senior-femenino",
-        "logo": "images/teams/rival.png",
-        "pj": 0,
-        "v": 0,
-        "d": 0,
-        "pf": 0,
-        "pc": 0,
-        "dif": "0",
-        "points": 0,
-        "streak": [],
         "category": "Senior",
         "gender": "femenino"
       },

@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO B VS ARGANZUELA CENTRO"
-date: 2026-10-18T00:00:00
-time: ""
+date: 2026-10-18T13:15:00
+time: "13:15"
 team1: "COLMENAR VIEJO B"
 team1_slug: "colmenar-viejo-b-senior-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2026-10-18-colmenar-viejo-b-arganzuela-centro-senior-femenino"
 slug: "game-2026-10-18-colmenar-viejo-b-arganzuela-centro-senior-femenino"
-weight: 12220261018000033
+weight: 12220261018131533
 ---
 
 Encuentro correspondiente a la categoría Senior (femenino) entre **COLMENAR VIEJO B** y **ARGANZUELA CENTRO**.

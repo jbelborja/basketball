@@ -1,9 +1,9 @@
 ---
-title: "C.D.I. ROZASBASKET VS COLMENAR VIEJO"
+title: "C.D.I. ROZASBASKET COLEGIO ZOLA LAS ROZAS VS COLMENAR VIEJO"
 date: 2026-10-24T00:00:00
 time: ""
-team1: "C.D.I. ROZASBASKET"
-team1_slug: "c-d-i-rozasbasket"
+team1: "C.D.I. ROZASBASKET COLEGIO ZOLA LAS ROZAS"
+team1_slug: "c-d-i-rozasbasket-colegio-zola-las-rozas"
 team1_logo: "images/teams/rival.png"
 team1_score: null
 team2: "COLMENAR VIEJO"
@@ -18,9 +18,9 @@ venue_address: "1-3, Rozas de Madrid, Las"
 category: "Alev\u00edn"
 gender: "femenino"
 league_title: "Alv Fem 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 8"
-uid: "game-2026-10-24-c-d-i-rozasbasket-colmenar-viejo-alevin-femenino"
-slug: "game-2026-10-24-c-d-i-rozasbasket-colmenar-viejo-alevin-femenino"
-weight: 62020261024000042
+uid: "game-2026-10-24-c-d-i-rozasbasket-colegio-zola-las-rozas-colmenar-viejo-alevin-femenino"
+slug: "game-2026-10-24-c-d-i-rozasbasket-colegio-zola-las-rozas-colmenar-viejo-alevin-femenino"
+weight: 62020261024000006
 ---
 
-Encuentro correspondiente a la categoría Alevín (femenino) entre **C.D.I. ROZASBASKET** y **COLMENAR VIEJO**.
+Encuentro correspondiente a la categoría Alevín (femenino) entre **C.D.I. ROZASBASKET COLEGIO ZOLA LAS ROZAS** y **COLMENAR VIEJO**.

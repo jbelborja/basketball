@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A VS PARLA BASQUET"
-date: 2026-10-18T00:00:00
-time: ""
+date: 2026-10-18T09:45:00
+time: "09:45"
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-senior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-10-18-colmenar-viejo-a-parla-basquet-senior-masculino"
 slug: "game-2026-10-18-colmenar-viejo-a-parla-basquet-senior-masculino"
-weight: 11120261018000017
+weight: 11120261018094517
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **COLMENAR VIEJO A** y **PARLA BASQUET**.

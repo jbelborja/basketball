@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO C VS COLEGIO CLARET MADRID ''BLANCO''"
-date: 2026-10-18T00:00:00
-time: ""
+date: 2026-10-18T11:30:00
+time: "11:30"
 team1: "COLMENAR VIEJO C"
 team1_slug: "colmenar-viejo-c-junior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 5\u00aa DIVISION - GRUPO PAR"
 uid: "game-2026-10-18-colmenar-viejo-c-colegio-claret-madrid-blanco-junior-masculino"
 slug: "game-2026-10-18-colmenar-viejo-c-colegio-claret-madrid-blanco-junior-masculino"
-weight: 31320261018000054
+weight: 31320261018113054
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **COLMENAR VIEJO C** y **COLEGIO CLARET MADRID ''BLANCO''**.

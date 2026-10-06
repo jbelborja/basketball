@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS ISAAC NEWTON \"A\""
-date: 2026-10-17T00:00:00
-time: ""
+date: 2026-11-15T09:45:00
+time: "09:45"
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-alevin-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -18,9 +18,9 @@ venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar V
 category: "Alev\u00edn"
 gender: "femenino"
 league_title: "Alv Fem 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13"
-uid: "game-2026-10-17-colmenar-viejo-isaac-newton-a-alevin-femenino"
-slug: "game-2026-10-17-colmenar-viejo-isaac-newton-a-alevin-femenino"
-weight: 62020261017000043
+uid: "game-2026-11-15-colmenar-viejo-isaac-newton-a-alevin-femenino"
+slug: "game-2026-11-15-colmenar-viejo-isaac-newton-a-alevin-femenino"
+weight: 62020261115094575
 ---
 
 Encuentro correspondiente a la categoría Alevín (femenino) entre **COLMENAR VIEJO** y **ISAAC NEWTON "A"**.

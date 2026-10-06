@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO B VS BALONCESTO PARACUELLOS AZUL"
-date: 2026-10-17T00:00:00
-time: ""
+date: 2026-10-17T11:30:00
+time: "11:30"
 team1: "COLMENAR VIEJO B"
 team1_slug: "colmenar-viejo-b-cadete-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2026-10-17-colmenar-viejo-b-baloncesto-paracuellos-azul-cadete-masculino"
 slug: "game-2026-10-17-colmenar-viejo-b-baloncesto-paracuellos-azul-cadete-masculino"
-weight: 41220261017000087
+weight: 41220261017113087
 ---
 
 Encuentro correspondiente a la categoría Cadete (masculino) entre **COLMENAR VIEJO B** y **BALONCESTO PARACUELLOS AZUL**.

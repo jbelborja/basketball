@@ -1,7 +1,7 @@
 ---
 title: "EL VALLE C.D. VS COLMENAR VIEJO"
-date: 2026-10-18T13:00:00
-time: "13:00"
+date: 2026-10-18T20:00:00
+time: "20:00"
 team1: "EL VALLE C.D."
 team1_slug: "el-valle-c-d"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-10-18-el-valle-c-d-colmenar-viejo-senior-masculino"
 slug: "game-2026-10-18-el-valle-c-d-colmenar-viejo-senior-masculino"
-weight: 11020261018130093
+weight: 11020261018200093
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **EL VALLE C.D.** y **COLMENAR VIEJO**.

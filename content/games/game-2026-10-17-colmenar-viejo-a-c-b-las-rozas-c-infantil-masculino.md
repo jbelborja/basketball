@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A VS C.B. LAS ROZAS \"C\""
-date: 2026-10-17T00:00:00
-time: ""
+date: 2026-10-17T17:00:00
+time: "17:00"
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-infantil-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-10-17-colmenar-viejo-a-c-b-las-rozas-c-infantil-masculino"
 slug: "game-2026-10-17-colmenar-viejo-a-c-b-las-rozas-c-infantil-masculino"
-weight: 51120261017000008
+weight: 51120261017170008
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **COLMENAR VIEJO A** y **C.B. LAS ROZAS "C"**.

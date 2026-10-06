@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS MOVISTAR ESTUDIANTES SOLER"
-date: 2026-10-17T00:00:00
-time: ""
+date: 2026-10-17T13:15:00
+time: "13:15"
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-benjamin-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Benj F.2\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6"
 uid: "game-2026-10-17-colmenar-viejo-movistar-estudiantes-soler-benjamin-femenino"
 slug: "game-2026-10-17-colmenar-viejo-movistar-estudiantes-soler-benjamin-femenino"
-weight: 72020261017000005
+weight: 72020261017131505
 ---
 
 Encuentro correspondiente a la categoría Benjamín (femenino) entre **COLMENAR VIEJO** y **MOVISTAR ESTUDIANTES SOLER**.
