@@ -1,7 +1,7 @@
 ---
 title: "DENTAL COMPANY CIEMPOBASKET VS COLMENAR VIEJO B"
-date: 2026-10-24T00:00:00
-time: ""
+date: 2026-10-24T13:00:00
+time: "13:00"
 team1: "DENTAL COMPANY CIEMPOBASKET"
 team1_slug: "dental-company-ciempobasket"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-10-24-dental-company-ciempobasket-colmenar-viejo-b-infantil-masculino"
 slug: "game-2026-10-24-dental-company-ciempobasket-colmenar-viejo-b-infantil-masculino"
-weight: 51220261024000068
+weight: 51220261024130068
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **DENTAL COMPANY CIEMPOBASKET** y **COLMENAR VIEJO B**.

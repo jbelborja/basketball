@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS DISTRITO CARABANCHEL B"
-date: 2026-10-17T00:00:00
-time: ""
+date: 2026-10-18T09:45:00
+time: "09:45"
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-cadete-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -18,9 +18,9 @@ venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar V
 category: "Cadete"
 gender: "femenino"
 league_title: "Cadete Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 2"
-uid: "game-2026-10-17-colmenar-viejo-distrito-carabanchel-b-cadete-femenino"
-slug: "game-2026-10-17-colmenar-viejo-distrito-carabanchel-b-cadete-femenino"
-weight: 42020261017000073
+uid: "game-2026-10-18-colmenar-viejo-distrito-carabanchel-b-cadete-femenino"
+slug: "game-2026-10-18-colmenar-viejo-distrito-carabanchel-b-cadete-femenino"
+weight: 42020261018094593
 ---
 
 Encuentro correspondiente a la categoría Cadete (femenino) entre **COLMENAR VIEJO** y **DISTRITO CARABANCHEL B**.

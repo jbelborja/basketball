@@ -6,7 +6,7 @@
     "raw_venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "maps_embed": "https://maps.google.com/maps?q=JUAN%20ANTONIO%20SAMARANCH%2C%20CDAD.%20DPTVA.%20%28PISTA%20CENTRAL%29%20AVDA.%20JUAN%20PABLO%20II%2C%2013%2C%20Colmenar%20Viejo&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=JUAN%20ANTONIO%20SAMARANCH%2C%20CDAD.%20DPTVA.%20%28PISTA%20CENTRAL%29%20AVDA.%20JUAN%20PABLO%20II%2C%2013%2C%20Colmenar%20Viejo",
-    "matches_count": 206
+    "matches_count": 218
   },
   {
     "slug": "movistar-academy-magarinos-pabellon-serrano-129-madrid",
@@ -189,6 +189,15 @@
     "matches_count": 3
   },
   {
+    "slug": "ronda-del-sur-46-arganda-del-rey",
+    "title": ". RONDA DEL SUR",
+    "address": "46, Arganda del Rey",
+    "raw_venue": ". RONDA DEL SUR, 46, Arganda del Rey",
+    "maps_embed": "https://maps.google.com/maps?q=.%20RONDA%20DEL%20SUR%2C%2046%2C%20Arganda%20del%20Rey&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=.%20RONDA%20DEL%20SUR%2C%2046%2C%20Arganda%20del%20Rey",
+    "matches_count": 2
+  },
+  {
     "slug": "alameda-de-osuna-pabellon-colegio-calle-la-rioja-1-madrid",
     "title": "ALAMEDA DE OSUNA",
     "address": "PABELLON COLEGIO CALLE LA RIOJA, 1, Madrid",
@@ -342,6 +351,15 @@
     "matches_count": 2
   },
   {
+    "slug": "pilaristas-colegio-castello-56-madrid",
+    "title": "PILARISTAS",
+    "address": "COLEGIO CASTELLO, 56, Madrid",
+    "raw_venue": "PILARISTAS, COLEGIO CASTELLO, 56, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=PILARISTAS%2C%20COLEGIO%20CASTELLO%2C%2056%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=PILARISTAS%2C%20COLEGIO%20CASTELLO%2C%2056%2C%20Madrid",
+    "matches_count": 2
+  },
+  {
     "slug": "san-blas-pabellon-circular-calle-arcos-de-jalon-59-madrid",
     "title": "SAN BLAS",
     "address": "PABELLON CIRCULAR CALLE ARCOS DE JALON, 59, Madrid",
@@ -385,15 +403,6 @@
     "maps_embed": "https://maps.google.com/maps?q=VIRGEN%20DE%20LA%20RIVERA%2C%20SALA%20ESCOLAR%20CAMINO%20RADAR%2C%201%2C%20Paracuellos%20de%20Jarama&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=VIRGEN%20DE%20LA%20RIVERA%2C%20SALA%20ESCOLAR%20CAMINO%20RADAR%2C%201%2C%20Paracuellos%20de%20Jarama",
     "matches_count": 2
-  },
-  {
-    "slug": "ronda-del-sur-46-arganda-del-rey",
-    "title": ". RONDA DEL SUR",
-    "address": "46, Arganda del Rey",
-    "raw_venue": ". RONDA DEL SUR, 46, Arganda del Rey",
-    "maps_embed": "https://maps.google.com/maps?q=.%20RONDA%20DEL%20SUR%2C%2046%2C%20Arganda%20del%20Rey&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=.%20RONDA%20DEL%20SUR%2C%2046%2C%20Arganda%20del%20Rey",
-    "matches_count": 1
   },
   {
     "slug": "abaco-pabellon-colegio-avda-de-la-peseta-8-madrid",
@@ -474,6 +483,15 @@
     "raw_venue": "AQUINAS AMERICAN SCHOOL CALLE TRANSVERSAL, 4 (Urbanización MONTEALINA), Pozuelo de Alarcón",
     "maps_embed": "https://maps.google.com/maps?q=AQUINAS%20AMERICAN%20SCHOOL%20CALLE%20TRANSVERSAL%2C%204%20%28Urbanizaci%C3%B3n%20MONTEALINA%29%2C%20Pozuelo%20de%20Alarc%C3%B3n&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=AQUINAS%20AMERICAN%20SCHOOL%20CALLE%20TRANSVERSAL%2C%204%20%28Urbanizaci%C3%B3n%20MONTEALINA%29%2C%20Pozuelo%20de%20Alarc%C3%B3n",
+    "matches_count": 1
+  },
+  {
+    "slug": "arturo-ruiz-i-d-m-b-santiago-de-compostela-104-madrid",
+    "title": "ARTURO RUIZ",
+    "address": "I.D.M.B. SANTIAGO DE COMPOSTELA, 104, Madrid",
+    "raw_venue": "ARTURO RUIZ, I.D.M.B. SANTIAGO DE COMPOSTELA, 104, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=ARTURO%20RUIZ%2C%20I.D.M.B.%20SANTIAGO%20DE%20COMPOSTELA%2C%20104%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=ARTURO%20RUIZ%2C%20I.D.M.B.%20SANTIAGO%20DE%20COMPOSTELA%2C%20104%2C%20Madrid",
     "matches_count": 1
   },
   {
@@ -675,6 +693,15 @@
     "matches_count": 1
   },
   {
+    "slug": "humanitas-pabellon-colegio-avda-salvador-dali-3-torrejon-de-ardoz",
+    "title": "HUMANITAS",
+    "address": "PABELLON COLEGIO AVDA. SALVADOR DALI, 3, Torrejón de Ardoz",
+    "raw_venue": "HUMANITAS, PABELLON COLEGIO AVDA. SALVADOR DALI, 3, Torrejón de Ardoz",
+    "maps_embed": "https://maps.google.com/maps?q=HUMANITAS%2C%20PABELLON%20COLEGIO%20AVDA.%20SALVADOR%20DALI%2C%203%2C%20Torrej%C3%B3n%20de%20Ardoz&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=HUMANITAS%2C%20PABELLON%20COLEGIO%20AVDA.%20SALVADOR%20DALI%2C%203%2C%20Torrej%C3%B3n%20de%20Ardoz",
+    "matches_count": 1
+  },
+  {
     "slug": "i-e-s-arturo-soria-descubierto-calle-somontin-59-madrid",
     "title": "I.E.S. ARTURO SORIA (Descubierto) CALLE SOMONTIN",
     "address": "59, Madrid",
@@ -729,6 +756,15 @@
     "matches_count": 1
   },
   {
+    "slug": "joyfe-colegio-descubierto-vital-aza-65-madrid",
+    "title": "JOYFE",
+    "address": "COLEGIO (Descubierto) VITAL AZA, 65, Madrid",
+    "raw_venue": "JOYFE, COLEGIO (Descubierto) VITAL AZA, 65, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=JOYFE%2C%20COLEGIO%20%28Descubierto%29%20VITAL%20AZA%2C%2065%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=JOYFE%2C%20COLEGIO%20%28Descubierto%29%20VITAL%20AZA%2C%2065%2C%20Madrid",
+    "matches_count": 1
+  },
+  {
     "slug": "juan-de-dios-roman-polideportivo-c-jose-gutierrez-maroto-34-madrid",
     "title": "JUAN DE DIOS ROMÁN",
     "address": "POLIDEPORTIVO C/ JOSÉ GUTIÉRREZ MAROTO, 34, Madrid",
@@ -738,12 +774,12 @@
     "matches_count": 1
   },
   {
-    "slug": "la-caja-magica-indoor-norte-pista-3-camino-de-perales-23-madrid",
-    "title": "LA CAJA MAGICA INDOOR NORTE Pista 3 CAMINO DE PERALES",
+    "slug": "la-caja-magica-indoor-norte-pista-4-camino-de-perales-23-madrid",
+    "title": "LA CAJA MAGICA INDOOR NORTE Pista 4 CAMINO DE PERALES",
     "address": "23, Madrid",
-    "raw_venue": "LA CAJA MAGICA INDOOR NORTE Pista 3 CAMINO DE PERALES, 23, Madrid",
-    "maps_embed": "https://maps.google.com/maps?q=LA%20CAJA%20MAGICA%20INDOOR%20NORTE%20Pista%203%20CAMINO%20DE%20PERALES%2C%2023%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=LA%20CAJA%20MAGICA%20INDOOR%20NORTE%20Pista%203%20CAMINO%20DE%20PERALES%2C%2023%2C%20Madrid",
+    "raw_venue": "LA CAJA MAGICA INDOOR NORTE Pista 4 CAMINO DE PERALES, 23, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=LA%20CAJA%20MAGICA%20INDOOR%20NORTE%20Pista%204%20CAMINO%20DE%20PERALES%2C%2023%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=LA%20CAJA%20MAGICA%20INDOOR%20NORTE%20Pista%204%20CAMINO%20DE%20PERALES%2C%2023%2C%20Madrid",
     "matches_count": 1
   },
   {
@@ -771,15 +807,6 @@
     "raw_venue": "LA CANTUEÑA, PABELLON CALLE PROLONGACION CUENCA, 6A, Parla",
     "maps_embed": "https://maps.google.com/maps?q=LA%20CANTUE%C3%91A%2C%20PABELLON%20CALLE%20PROLONGACION%20CUENCA%2C%206A%2C%20Parla&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=LA%20CANTUE%C3%91A%2C%20PABELLON%20CALLE%20PROLONGACION%20CUENCA%2C%206A%2C%20Parla",
-    "matches_count": 1
-  },
-  {
-    "slug": "la-nevera-pabellon-pista-central-serrano-129-madrid",
-    "title": "LA NEVERA",
-    "address": "PABELLON (PISTA CENTRAL) SERRANO, 129, Madrid",
-    "raw_venue": "LA NEVERA, PABELLON (PISTA CENTRAL) SERRANO, 129, Madrid",
-    "maps_embed": "https://maps.google.com/maps?q=LA%20NEVERA%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20SERRANO%2C%20129%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=LA%20NEVERA%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20SERRANO%2C%20129%2C%20Madrid",
     "matches_count": 1
   },
   {
@@ -911,10 +938,10 @@
   {
     "slug": "parque-henares-pabellon-calle-vitoria-s-n-san-fernando-de-henares",
     "title": "PARQUE HENARES",
-    "address": "PABELLON calle VITORIA, S/N, San Fernando de Henares",
-    "raw_venue": "PARQUE HENARES, PABELLON calle VITORIA, S/N, San Fernando de Henares",
-    "maps_embed": "https://maps.google.com/maps?q=PARQUE%20HENARES%2C%20PABELLON%20calle%20VITORIA%2C%20S/N%2C%20San%20Fernando%20de%20Henares&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=PARQUE%20HENARES%2C%20PABELLON%20calle%20VITORIA%2C%20S/N%2C%20San%20Fernando%20de%20Henares",
+    "address": "PABELLON CALLE VITORIA, S/N, San Fernando de Henares",
+    "raw_venue": "PARQUE HENARES, PABELLON CALLE VITORIA, S/N, San Fernando de Henares",
+    "maps_embed": "https://maps.google.com/maps?q=PARQUE%20HENARES%2C%20PABELLON%20CALLE%20VITORIA%2C%20S/N%2C%20San%20Fernando%20de%20Henares&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=PARQUE%20HENARES%2C%20PABELLON%20CALLE%20VITORIA%2C%20S/N%2C%20San%20Fernando%20de%20Henares",
     "matches_count": 1
   },
   {
@@ -924,15 +951,6 @@
     "raw_venue": "PILARISTAS, PABELLON COLEGIO AYALA, 47, Madrid",
     "maps_embed": "https://maps.google.com/maps?q=PILARISTAS%2C%20PABELLON%20COLEGIO%20AYALA%2C%2047%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=PILARISTAS%2C%20PABELLON%20COLEGIO%20AYALA%2C%2047%2C%20Madrid",
-    "matches_count": 1
-  },
-  {
-    "slug": "pilaristas-colegio-castello-56-madrid",
-    "title": "PILARISTAS",
-    "address": "COLEGIO CASTELLO, 56, Madrid",
-    "raw_venue": "PILARISTAS, COLEGIO CASTELLO, 56, Madrid",
-    "maps_embed": "https://maps.google.com/maps?q=PILARISTAS%2C%20COLEGIO%20CASTELLO%2C%2056%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=PILARISTAS%2C%20COLEGIO%20CASTELLO%2C%2056%2C%20Madrid",
     "matches_count": 1
   },
   {
@@ -951,6 +969,15 @@
     "raw_venue": "PRINCIPE FELIPE, I.E.S. FINISTERRE, 60, Madrid",
     "maps_embed": "https://maps.google.com/maps?q=PRINCIPE%20FELIPE%2C%20I.E.S.%20FINISTERRE%2C%2060%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=PRINCIPE%20FELIPE%2C%20I.E.S.%20FINISTERRE%2C%2060%2C%20Madrid",
+    "matches_count": 1
+  },
+  {
+    "slug": "recuerdo-colegio-descubierto-plaza-duque-de-pastrana-5-madrid",
+    "title": "RECUERDO",
+    "address": "COLEGIO (Descubierto) PLAZA DUQUE DE PASTRANA, 5, Madrid",
+    "raw_venue": "RECUERDO, COLEGIO (Descubierto) PLAZA DUQUE DE PASTRANA, 5, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=RECUERDO%2C%20COLEGIO%20%28Descubierto%29%20PLAZA%20DUQUE%20DE%20PASTRANA%2C%205%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=RECUERDO%2C%20COLEGIO%20%28Descubierto%29%20PLAZA%20DUQUE%20DE%20PASTRANA%2C%205%2C%20Madrid",
     "matches_count": 1
   },
   {

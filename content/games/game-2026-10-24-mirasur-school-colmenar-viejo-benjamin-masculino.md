@@ -1,7 +1,7 @@
 ---
 title: "MIRASUR SCHOOL VS COLMENAR VIEJO"
-date: 2026-10-24T00:00:00
-time: ""
+date: 2026-10-24T10:00:00
+time: "10:00"
 team1: "MIRASUR SCHOOL"
 team1_slug: "mirasur-school"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Benj Mas 2\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 11"
 uid: "game-2026-10-24-mirasur-school-colmenar-viejo-benjamin-masculino"
 slug: "game-2026-10-24-mirasur-school-colmenar-viejo-benjamin-masculino"
-weight: 71020261024000091
+weight: 71020261024100091
 ---
 
 Encuentro correspondiente a la categoría Benjamín (masculino) entre **MIRASUR SCHOOL** y **COLMENAR VIEJO**.
