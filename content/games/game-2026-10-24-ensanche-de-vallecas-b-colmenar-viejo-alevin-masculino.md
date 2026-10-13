@@ -1,7 +1,7 @@
 ---
 title: "ENSANCHE DE VALLECAS B VS COLMENAR VIEJO"
-date: 2026-10-24T17:00:00
-time: "17:00"
+date: 2026-10-24T16:15:00
+time: "16:15"
 team1: "ENSANCHE DE VALLECAS B"
 team1_slug: "ensanche-de-vallecas-b"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Alv Mas 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 7"
 uid: "game-2026-10-24-ensanche-de-vallecas-b-colmenar-viejo-alevin-masculino"
 slug: "game-2026-10-24-ensanche-de-vallecas-b-colmenar-viejo-alevin-masculino"
-weight: 61020261024170076
+weight: 61020261024161576
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **ENSANCHE DE VALLECAS B** y **COLMENAR VIEJO**.
