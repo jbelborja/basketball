@@ -1,9 +1,9 @@
 ---
-title: "GRUPO BURSAN C.B. CIUDAD DE M\u00d3STOLES VS COLMENAR VIEJO"
+title: "TRANSGRUMA C.B. CIUDAD DE M\u00d3STOLES VS COLMENAR VIEJO"
 date: 2026-11-08T00:00:00
 time: ""
-team1: "GRUPO BURSAN C.B. CIUDAD DE M\u00d3STOLES"
-team1_slug: "grupo-bursan-c-b-ciudad-de-mostoles"
+team1: "TRANSGRUMA C.B. CIUDAD DE M\u00d3STOLES"
+team1_slug: "transgruma-c-b-ciudad-de-mostoles"
 team1_logo: "images/teams/rival.png"
 team1_score: null
 team2: "COLMENAR VIEJO"
@@ -18,9 +18,9 @@ venue_address: "PABELLON (PISTA CENTRAL) LILAS, S/N (Frente n\u00ba 7), M\u00f3s
 category: "Senior"
 gender: "masculino"
 league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
-uid: "game-2026-11-08-grupo-bursan-c-b-ciudad-de-mostoles-colmenar-viejo-senior-masculino"
-slug: "game-2026-11-08-grupo-bursan-c-b-ciudad-de-mostoles-colmenar-viejo-senior-masculino"
-weight: 11020261108000009
+uid: "game-2026-11-08-transgruma-c-b-ciudad-de-mostoles-colmenar-viejo-senior-masculino"
+slug: "game-2026-11-08-transgruma-c-b-ciudad-de-mostoles-colmenar-viejo-senior-masculino"
+weight: 11020261108000068
 ---
 
-Encuentro correspondiente a la categoría Senior (masculino) entre **GRUPO BURSAN C.B. CIUDAD DE MÓSTOLES** y **COLMENAR VIEJO**.
+Encuentro correspondiente a la categoría Senior (masculino) entre **TRANSGRUMA C.B. CIUDAD DE MÓSTOLES** y **COLMENAR VIEJO**.

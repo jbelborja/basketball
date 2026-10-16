@@ -196,8 +196,8 @@
       },
       {
         "position": 11,
-        "team": "GRUPO BURSAN C.B. CIUDAD DE MÓSTOLES",
-        "slug": "grupo-bursan-c-b-ciudad-de-mostoles-senior-masculino",
+        "team": "TRANSGRUMA C.B. CIUDAD DE MÓSTOLES",
+        "slug": "transgruma-c-b-ciudad-de-mostoles-senior-masculino",
         "logo": "images/teams/rival.png",
         "pj": 1,
         "v": 0,
@@ -1404,6 +1404,26 @@
     "teams": [
       {
         "position": 1,
+        "team": "MIRASUR SCHOOL PARQUE EUROPA",
+        "slug": "mirasur-school-parque-europa-junior-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 3,
+        "v": 3,
+        "d": 0,
+        "pf": 208,
+        "pc": 82,
+        "dif": "+126",
+        "points": 6,
+        "streak": [
+          "V",
+          "V",
+          "V"
+        ],
+        "category": "Junior",
+        "gender": "masculino"
+      },
+      {
+        "position": 2,
         "team": "MARAVILLAS",
         "slug": "maravillas-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -1423,7 +1443,7 @@
         "gender": "masculino"
       },
       {
-        "position": 2,
+        "position": 3,
         "team": "BALONCESTO 86 LA SALLE \"B\"",
         "slug": "baloncesto-86-la-salle-b-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -1443,7 +1463,27 @@
         "gender": "masculino"
       },
       {
-        "position": 3,
+        "position": 4,
+        "team": "BASKET ARANJUEZ C",
+        "slug": "basket-aranjuez-c-junior-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 3,
+        "v": 2,
+        "d": 1,
+        "pf": 151,
+        "pc": 105,
+        "dif": "+46",
+        "points": 5,
+        "streak": [
+          "V",
+          "V",
+          "D"
+        ],
+        "category": "Junior",
+        "gender": "masculino"
+      },
+      {
+        "position": 5,
         "team": "MEJORADA 2012 C.B.",
         "slug": "mejorada-2012-c-b-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -1463,26 +1503,7 @@
         "gender": "masculino"
       },
       {
-        "position": 4,
-        "team": "MIRASUR SCHOOL PARQUE EUROPA",
-        "slug": "mirasur-school-parque-europa-junior-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 2,
-        "v": 2,
-        "d": 0,
-        "pf": 188,
-        "pc": 82,
-        "dif": "+106",
-        "points": 4,
-        "streak": [
-          "V",
-          "V"
-        ],
-        "category": "Junior",
-        "gender": "masculino"
-      },
-      {
-        "position": 5,
+        "position": 6,
         "team": "MIRAMADRID CLUB DEPORTIVO BASICO Amarillo",
         "slug": "miramadrid-club-deportivo-basico-amarillo-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -1502,7 +1523,7 @@
         "gender": "masculino"
       },
       {
-        "position": 6,
+        "position": 7,
         "team": "COLEGIO CLARET MADRID ''BLANCO''",
         "slug": "colegio-claret-madrid-blanco-junior-masculino",
         "logo": "images/teams/rival.png",
@@ -1522,38 +1543,20 @@
         "gender": "masculino"
       },
       {
-        "position": 7,
-        "team": "BASKET ARANJUEZ C",
-        "slug": "basket-aranjuez-c-junior-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 2,
-        "v": 1,
-        "d": 1,
-        "pf": 131,
-        "pc": 105,
-        "dif": "+26",
-        "points": 3,
-        "streak": [
-          "V",
-          "D"
-        ],
-        "category": "Junior",
-        "gender": "masculino"
-      },
-      {
         "position": 8,
         "team": "CB POZUELO B",
         "slug": "cb-pozuelo-b-junior-masculino",
         "logo": "images/teams/rival.png",
-        "pj": 2,
+        "pj": 3,
         "v": 1,
-        "d": 1,
+        "d": 2,
         "pf": 112,
-        "pc": 101,
-        "dif": "+11",
-        "points": 3,
+        "pc": 121,
+        "dif": "-9",
+        "points": 4,
         "streak": [
           "V",
+          "D",
           "D"
         ],
         "category": "Junior",
@@ -1561,6 +1564,26 @@
       },
       {
         "position": 9,
+        "team": "ADC SAN FERMIN",
+        "slug": "adc-san-fermin-junior-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 3,
+        "v": 1,
+        "d": 2,
+        "pf": 52,
+        "pc": 90,
+        "dif": "-38",
+        "points": 4,
+        "streak": [
+          "V",
+          "D",
+          "D"
+        ],
+        "category": "Junior",
+        "gender": "masculino"
+      },
+      {
+        "position": 10,
         "team": "COLMENAR VIEJO C",
         "slug": "colmenar-viejo-c-junior-masculino",
         "logo": "images/teams/cbcolmenar.png",
@@ -1574,24 +1597,6 @@
         "streak": [
           "D",
           "D"
-        ],
-        "category": "Junior",
-        "gender": "masculino"
-      },
-      {
-        "position": 10,
-        "team": "ADC SAN FERMIN",
-        "slug": "adc-san-fermin-junior-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 1,
-        "v": 1,
-        "d": 0,
-        "pf": 52,
-        "pc": 50,
-        "dif": "+2",
-        "points": 2,
-        "streak": [
-          "V"
         ],
         "category": "Junior",
         "gender": "masculino"
@@ -1620,14 +1625,15 @@
         "team": "BT AQUINAS",
         "slug": "bt-aquinas-junior-masculino",
         "logo": "images/teams/rival.png",
-        "pj": 1,
-        "v": 0,
+        "pj": 2,
+        "v": 1,
         "d": 1,
-        "pf": 0,
+        "pf": 20,
         "pc": 20,
-        "dif": "-20",
-        "points": 0,
+        "dif": "0",
+        "points": 2,
         "streak": [
+          "V",
           "D"
         ],
         "category": "Junior",

@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A VS C.B. ALCORCON"
-date: 2026-10-24T00:00:00
-time: ""
+date: 2026-10-24T13:15:00
+time: "13:15"
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-infantil-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-10-24-colmenar-viejo-a-c-b-alcorcon-infantil-masculino"
 slug: "game-2026-10-24-colmenar-viejo-a-c-b-alcorcon-infantil-masculino"
-weight: 51120261024000080
+weight: 51120261024131580
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **COLMENAR VIEJO A** y **C.B. ALCORCON**.

@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS RECUERDO S.A.D. 14"
-date: 2026-10-24T00:00:00
-time: ""
+date: 2026-10-24T09:45:00
+time: "09:45"
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-infantil-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Infantil Fem. 1\u00baa\u00f1o - PRIMERA FASE - GRUPO 14"
 uid: "game-2026-10-24-colmenar-viejo-recuerdo-s-a-d-14-infantil-femenino"
 slug: "game-2026-10-24-colmenar-viejo-recuerdo-s-a-d-14-infantil-femenino"
-weight: 52020261024000058
+weight: 52020261024094558
 ---
 
 Encuentro correspondiente a la categoría Infantil (femenino) entre **COLMENAR VIEJO** y **RECUERDO S.A.D. 14**.

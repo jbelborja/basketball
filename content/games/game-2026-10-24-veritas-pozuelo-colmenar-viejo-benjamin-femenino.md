@@ -1,7 +1,7 @@
 ---
 title: "VERITAS POZUELO VS COLMENAR VIEJO"
-date: 2026-10-24T00:00:00
-time: ""
+date: 2026-10-24T13:00:00
+time: "13:00"
 team1: "VERITAS POZUELO"
 team1_slug: "veritas-pozuelo"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Benj F.2\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6"
 uid: "game-2026-10-24-veritas-pozuelo-colmenar-viejo-benjamin-femenino"
 slug: "game-2026-10-24-veritas-pozuelo-colmenar-viejo-benjamin-femenino"
-weight: 72020261024000010
+weight: 72020261024130010
 ---
 
 Encuentro correspondiente a la categoría Benjamín (femenino) entre **VERITAS POZUELO** y **COLMENAR VIEJO**.

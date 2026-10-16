@@ -90,15 +90,6 @@
     "matches_count": 4
   },
   {
-    "slug": "alfredo-espiniella-pabellon-pista-central-comunidad-de-la-rioja-4-rozas-de-madrid-las",
-    "title": "ALFREDO ESPINIELLA",
-    "address": "PABELLON (PISTA CENTRAL) COMUNIDAD DE LA RIOJA, 4, Rozas de Madrid, Las",
-    "raw_venue": "ALFREDO ESPINIELLA, PABELLON (PISTA CENTRAL) COMUNIDAD DE LA RIOJA, 4, Rozas de Madrid, Las",
-    "maps_embed": "https://maps.google.com/maps?q=ALFREDO%20ESPINIELLA%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20COMUNIDAD%20DE%20LA%20RIOJA%2C%204%2C%20Rozas%20de%20Madrid%2C%20Las&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=ALFREDO%20ESPINIELLA%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20COMUNIDAD%20DE%20LA%20RIOJA%2C%204%2C%20Rozas%20de%20Madrid%2C%20Las",
-    "matches_count": 3
-  },
-  {
     "slug": "cabrini-colegio-semicubierto-sta-francisca-javier-cabrini-esquina-c-sicelidas-madrid",
     "title": "CABRINI",
     "address": "COLEGIO (Semicubierto) STA. FRANCISCA JAVIER CABRINI esquina C/ Sicélidas, Madrid",
@@ -132,15 +123,6 @@
     "raw_venue": "JUAN DE AUSTRIA, PABELLON (PISTA CENTRAL) JOSE CABALLERO, S/N, Alcalá de Henares",
     "maps_embed": "https://maps.google.com/maps?q=JUAN%20DE%20AUSTRIA%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20JOSE%20CABALLERO%2C%20S/N%2C%20Alcal%C3%A1%20de%20Henares&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=JUAN%20DE%20AUSTRIA%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20JOSE%20CABALLERO%2C%20S/N%2C%20Alcal%C3%A1%20de%20Henares",
-    "matches_count": 3
-  },
-  {
-    "slug": "juan-de-la-cierva-pabellon-pista-central-av-espana-90-getafe",
-    "title": "JUAN DE LA CIERVA",
-    "address": "PABELLON PISTA CENTRAL AV. ESPAÑA, 90, Getafe",
-    "raw_venue": "JUAN DE LA CIERVA, PABELLON PISTA CENTRAL AV. ESPAÑA, 90, Getafe",
-    "maps_embed": "https://maps.google.com/maps?q=JUAN%20DE%20LA%20CIERVA%2C%20PABELLON%20PISTA%20CENTRAL%20AV.%20ESPA%C3%91A%2C%2090%2C%20Getafe&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=JUAN%20DE%20LA%20CIERVA%2C%20PABELLON%20PISTA%20CENTRAL%20AV.%20ESPA%C3%91A%2C%2090%2C%20Getafe",
     "matches_count": 3
   },
   {
@@ -195,6 +177,15 @@
     "raw_venue": "ALAMEDA DE OSUNA, PABELLON COLEGIO CALLE LA RIOJA, 1, Madrid",
     "maps_embed": "https://maps.google.com/maps?q=ALAMEDA%20DE%20OSUNA%2C%20PABELLON%20COLEGIO%20CALLE%20LA%20RIOJA%2C%201%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=ALAMEDA%20DE%20OSUNA%2C%20PABELLON%20COLEGIO%20CALLE%20LA%20RIOJA%2C%201%2C%20Madrid",
+    "matches_count": 2
+  },
+  {
+    "slug": "alfredo-espiniella-pabellon-pista-central-comunidad-de-la-rioja-4-rozas-de-madrid-las",
+    "title": "ALFREDO ESPINIELLA",
+    "address": "PABELLON (PISTA CENTRAL) COMUNIDAD DE LA RIOJA, 4, Rozas de Madrid, Las",
+    "raw_venue": "ALFREDO ESPINIELLA, PABELLON (PISTA CENTRAL) COMUNIDAD DE LA RIOJA, 4, Rozas de Madrid, Las",
+    "maps_embed": "https://maps.google.com/maps?q=ALFREDO%20ESPINIELLA%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20COMUNIDAD%20DE%20LA%20RIOJA%2C%204%2C%20Rozas%20de%20Madrid%2C%20Las&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=ALFREDO%20ESPINIELLA%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20COMUNIDAD%20DE%20LA%20RIOJA%2C%204%2C%20Rozas%20de%20Madrid%2C%20Las",
     "matches_count": 2
   },
   {
@@ -294,6 +285,15 @@
     "raw_venue": "JESUS ESPAÑA, PABELLON (PISTA CENTRAL) NEPTUNO, 4, Valdemoro",
     "maps_embed": "https://maps.google.com/maps?q=JESUS%20ESPA%C3%91A%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20NEPTUNO%2C%204%2C%20Valdemoro&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=JESUS%20ESPA%C3%91A%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20NEPTUNO%2C%204%2C%20Valdemoro",
+    "matches_count": 2
+  },
+  {
+    "slug": "juan-de-la-cierva-pabellon-pista-central-av-espana-90-getafe",
+    "title": "JUAN DE LA CIERVA",
+    "address": "PABELLON PISTA CENTRAL AV. ESPAÑA, 90, Getafe",
+    "raw_venue": "JUAN DE LA CIERVA, PABELLON PISTA CENTRAL AV. ESPAÑA, 90, Getafe",
+    "maps_embed": "https://maps.google.com/maps?q=JUAN%20DE%20LA%20CIERVA%2C%20PABELLON%20PISTA%20CENTRAL%20AV.%20ESPA%C3%91A%2C%2090%2C%20Getafe&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=JUAN%20DE%20LA%20CIERVA%2C%20PABELLON%20PISTA%20CENTRAL%20AV.%20ESPA%C3%91A%2C%2090%2C%20Getafe",
     "matches_count": 2
   },
   {
@@ -720,15 +720,6 @@
     "matches_count": 1
   },
   {
-    "slug": "i-e-s-federico-garcia-lorca-calle-gimnasio-1-3-rozas-de-madrid-las",
-    "title": "I.E.S. FEDERICO GARCIA LORCA CALLE GIMNASIO",
-    "address": "1-3, Rozas de Madrid, Las",
-    "raw_venue": "I.E.S. FEDERICO GARCIA LORCA CALLE GIMNASIO, 1-3, Rozas de Madrid, Las",
-    "maps_embed": "https://maps.google.com/maps?q=I.E.S.%20FEDERICO%20GARCIA%20LORCA%20CALLE%20GIMNASIO%2C%201-3%2C%20Rozas%20de%20Madrid%2C%20Las&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=I.E.S.%20FEDERICO%20GARCIA%20LORCA%20CALLE%20GIMNASIO%2C%201-3%2C%20Rozas%20de%20Madrid%2C%20Las",
-    "matches_count": 1
-  },
-  {
     "slug": "ies-isabel-la-catolica-pabellon-cristobal-colon-12-boadilla-del-monte",
     "title": "IES ISABEL LA CATOLICA",
     "address": "PABELLON CRISTOBAL COLON, 12, Boadilla del Monte",
@@ -780,6 +771,15 @@
     "raw_venue": "JUAN DE DIOS ROMÁN, POLIDEPORTIVO C/ JOSÉ GUTIÉRREZ MAROTO, 34, Madrid",
     "maps_embed": "https://maps.google.com/maps?q=JUAN%20DE%20DIOS%20ROM%C3%81N%2C%20POLIDEPORTIVO%20C/%20JOS%C3%89%20GUTI%C3%89RREZ%20MAROTO%2C%2034%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=JUAN%20DE%20DIOS%20ROM%C3%81N%2C%20POLIDEPORTIVO%20C/%20JOS%C3%89%20GUTI%C3%89RREZ%20MAROTO%2C%2034%2C%20Madrid",
+    "matches_count": 1
+  },
+  {
+    "slug": "juan-de-la-cierva-pabellon-pista-2-av-espana-90-getafe",
+    "title": "JUAN DE LA CIERVA",
+    "address": "PABELLON Pista 2 AV. ESPAÑA, 90, Getafe",
+    "raw_venue": "JUAN DE LA CIERVA, PABELLON Pista 2 AV. ESPAÑA, 90, Getafe",
+    "maps_embed": "https://maps.google.com/maps?q=JUAN%20DE%20LA%20CIERVA%2C%20PABELLON%20Pista%202%20AV.%20ESPA%C3%91A%2C%2090%2C%20Getafe&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=JUAN%20DE%20LA%20CIERVA%2C%20PABELLON%20Pista%202%20AV.%20ESPA%C3%91A%2C%2090%2C%20Getafe",
     "matches_count": 1
   },
   {
@@ -981,6 +981,15 @@
     "matches_count": 1
   },
   {
+    "slug": "polideportivo-las-matas-pista-1-camino-garzo-79-matas-las",
+    "title": "POLIDEPORTIVO LAS MATAS PISTA 1 CAMINO GARZO",
+    "address": "79, Matas, Las",
+    "raw_venue": "POLIDEPORTIVO LAS MATAS PISTA 1 CAMINO GARZO, 79, Matas, Las",
+    "maps_embed": "https://maps.google.com/maps?q=POLIDEPORTIVO%20LAS%20MATAS%20PISTA%201%20CAMINO%20GARZO%2C%2079%2C%20Matas%2C%20Las&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=POLIDEPORTIVO%20LAS%20MATAS%20PISTA%201%20CAMINO%20GARZO%2C%2079%2C%20Matas%2C%20Las",
+    "matches_count": 1
+  },
+  {
     "slug": "principe-felipe-i-e-s-finisterre-60-madrid",
     "title": "PRINCIPE FELIPE",
     "address": "I.E.S. FINISTERRE, 60, Madrid",
@@ -1113,6 +1122,15 @@
     "raw_venue": "ZAZUAR, COLEGIO ZAZUAR, 17, Madrid",
     "maps_embed": "https://maps.google.com/maps?q=ZAZUAR%2C%20COLEGIO%20ZAZUAR%2C%2017%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=ZAZUAR%2C%20COLEGIO%20ZAZUAR%2C%2017%2C%20Madrid",
+    "matches_count": 1
+  },
+  {
+    "slug": "zola-las-rozas-colegio-avda-de-esparta-6-rozas-de-madrid-las",
+    "title": "ZOLA LAS ROZAS",
+    "address": "COLEGIO AVDA. DE ESPARTA, 6, Rozas de Madrid, Las",
+    "raw_venue": "ZOLA LAS ROZAS, COLEGIO AVDA. DE ESPARTA, 6, Rozas de Madrid, Las",
+    "maps_embed": "https://maps.google.com/maps?q=ZOLA%20LAS%20ROZAS%2C%20COLEGIO%20AVDA.%20DE%20ESPARTA%2C%206%2C%20Rozas%20de%20Madrid%2C%20Las&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=ZOLA%20LAS%20ROZAS%2C%20COLEGIO%20AVDA.%20DE%20ESPARTA%2C%206%2C%20Rozas%20de%20Madrid%2C%20Las",
     "matches_count": 1
   }
 ]
