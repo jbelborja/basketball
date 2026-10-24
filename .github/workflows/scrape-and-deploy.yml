@@ -3,7 +3,7 @@ name: Extracción FBM y Despliegue
 on:
   schedule:
     # Ejecución semanal: Todos los lunes a las 19:00 UTC
-    - cron: '0 19 * * 1'
+    - cron: '0 19 * * *'
   workflow_dispatch:
     # Permite ejecución manual bajo demanda
 
