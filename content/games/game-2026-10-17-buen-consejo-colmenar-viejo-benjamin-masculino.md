@@ -1,16 +1,16 @@
 ---
-title: "BUEN CONSEJO VS COLMENAR VIEJO"
+title: "BUEN CONSEJO 38 - 28 COLMENAR VIEJO"
 date: 2026-10-17T09:15:00
 time: "09:15"
 team1: "BUEN CONSEJO"
 team1_slug: "buen-consejo"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 38
 team2: "COLMENAR VIEJO"
 team2_slug: "colmenar-viejo-benjamin-masculino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 28
+status: "Finalizado"
 venue: "BUEN CONSEJO, PABELLON COLEGIO BEATRIZ DE BOBADILLA, S/N, Madrid"
 venue_slug: "buen-consejo-pabellon-colegio-beatriz-de-bobadilla-s-n-madrid"
 venue_title: "BUEN CONSEJO"

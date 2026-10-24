@@ -1,16 +1,16 @@
 ---
-title: "COLMENAR VIEJO VS CD CALDEIRO"
+title: "COLMENAR VIEJO 52 - 60 CD CALDEIRO"
 date: 2026-10-17T13:15:00
 time: "13:15"
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-alevin-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
-team1_score: null
+team1_score: 52
 team2: "CD CALDEIRO"
 team2_slug: "cd-caldeiro"
 team2_logo: "images/teams/rival.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 60
+status: "Finalizado"
 venue: "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 venue_slug: "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo"
 venue_title: "JUAN ANTONIO SAMARANCH"

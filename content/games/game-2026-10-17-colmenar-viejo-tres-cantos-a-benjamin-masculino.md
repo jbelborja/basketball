@@ -1,16 +1,16 @@
 ---
-title: "COLMENAR VIEJO VS TRES CANTOS A"
+title: "COLMENAR VIEJO 2 - 53 TRES CANTOS A"
 date: 2026-10-17T09:45:00
 time: "09:45"
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-benjamin-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
-team1_score: null
+team1_score: 2
 team2: "TRES CANTOS A"
 team2_slug: "tres-cantos-a"
 team2_logo: "images/teams/rival.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 53
+status: "Finalizado"
 venue: "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 venue_slug: "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo"
 venue_title: "JUAN ANTONIO SAMARANCH"

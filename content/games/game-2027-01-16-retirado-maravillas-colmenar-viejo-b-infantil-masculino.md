@@ -1,9 +1,9 @@
 ---
-title: "MARAVILLAS VS COLMENAR VIEJO B"
+title: "(RETIRADO) MARAVILLAS VS COLMENAR VIEJO B"
 date: 2027-01-16T00:00:00
 time: ""
-team1: "MARAVILLAS"
-team1_slug: "maravillas"
+team1: "(RETIRADO) MARAVILLAS"
+team1_slug: "retirado-maravillas"
 team1_logo: "images/teams/rival.png"
 team1_score: null
 team2: "COLMENAR VIEJO B"
@@ -18,9 +18,9 @@ venue_address: "COLEGIO (Descubierto) GUADALQUIVIR, 9, Madrid"
 category: "Infantil"
 gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 4"
-uid: "game-2027-01-16-maravillas-colmenar-viejo-b-infantil-masculino"
-slug: "game-2027-01-16-maravillas-colmenar-viejo-b-infantil-masculino"
-weight: 51220270116000090
+uid: "game-2027-01-16-retirado-maravillas-colmenar-viejo-b-infantil-masculino"
+slug: "game-2027-01-16-retirado-maravillas-colmenar-viejo-b-infantil-masculino"
+weight: 51220270116000030
 ---
 
-Encuentro correspondiente a la categoría Infantil (masculino) entre **MARAVILLAS** y **COLMENAR VIEJO B**.
+Encuentro correspondiente a la categoría Infantil (masculino) entre **(RETIRADO) MARAVILLAS** y **COLMENAR VIEJO B**.

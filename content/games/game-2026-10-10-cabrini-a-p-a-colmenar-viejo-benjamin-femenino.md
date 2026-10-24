@@ -1,16 +1,16 @@
 ---
-title: "CABRINI A.P.A. VS COLMENAR VIEJO"
+title: "CABRINI A.P.A. 51 - 1 COLMENAR VIEJO"
 date: 2026-10-10T09:30:00
 time: "09:30"
 team1: "CABRINI A.P.A."
 team1_slug: "cabrini-a-p-a"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 51
 team2: "COLMENAR VIEJO"
 team2_slug: "colmenar-viejo-benjamin-femenino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 1
+status: "Finalizado"
 venue: "CABRINI, COLEGIO (Descubierto) STA. FRANCISCA JAVIER CABRINI esquina C/ Sic\u00e9lidas, Madrid"
 venue_slug: "cabrini-colegio-descubierto-sta-francisca-javier-cabrini-esquina-c-sicelidas-madrid"
 venue_title: "CABRINI"
