@@ -41,44 +41,6 @@
     "id": "game-2026-10-18-el-valle-c-d-colmenar-viejo-senior-masculino",
     "slug": "game-2026-10-18-el-valle-c-d-colmenar-viejo-senior-masculino",
     "date": "2026-10-18",
-    "time": "",
-    "status": "Finalizado",
-    "home": "EL VALLE C.D.",
-    "home_slug": "el-valle-c-d",
-    "home_logo": "images/teams/rival.png",
-    "home_score": 78,
-    "away": "COLMENAR VIEJO",
-    "away_slug": "colmenar-viejo-senior-masculino",
-    "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": 61,
-    "quarters": {
-      "home": [
-        18,
-        20,
-        19,
-        21
-      ],
-      "away": [
-        15,
-        18,
-        22,
-        19
-      ]
-    },
-    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
-    "venue_title": "JUAN ANTONIO SAMARANCH",
-    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "category": "Senior",
-    "gender": "masculino",
-    "league_title": "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR",
-    "mvp": "-",
-    "weight": 11020261018000093
-  },
-  {
-    "id": "game-2026-10-18-el-valle-c-d-colmenar-viejo-senior-masculino",
-    "slug": "game-2026-10-18-el-valle-c-d-colmenar-viejo-senior-masculino",
-    "date": "2026-10-18",
     "time": "20:00",
     "status": "Finalizado",
     "home": "EL VALLE C.D.",
@@ -155,17 +117,68 @@
     "id": "game-2026-10-25-colmenar-viejo-revolution-senior-masculino",
     "slug": "game-2026-10-25-colmenar-viejo-revolution-senior-masculino",
     "date": "2026-10-25",
-    "time": "10:00",
-    "status": "Próximo",
+    "time": "",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-senior-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 68,
     "away": "REVOLUTION",
     "away_slug": "revolution",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 58,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Senior",
+    "gender": "masculino",
+    "league_title": "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR",
+    "mvp": "-",
+    "weight": 11020261025000099
+  },
+  {
+    "id": "game-2026-10-25-colmenar-viejo-revolution-senior-masculino",
+    "slug": "game-2026-10-25-colmenar-viejo-revolution-senior-masculino",
+    "date": "2026-10-25",
+    "time": "10:00",
+    "status": "Finalizado",
+    "home": "COLMENAR VIEJO",
+    "home_slug": "colmenar-viejo-senior-masculino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": 68,
+    "away": "REVOLUTION",
+    "away_slug": "revolution",
+    "away_logo": "images/teams/rival.png",
+    "away_score": 58,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -745,16 +758,29 @@
     "slug": "game-2026-10-25-automatic-club-baloncesto-alcorcon-colmenar-viejo-a-senior-masculino",
     "date": "2026-10-25",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "AUTOMATIC CLUB BALONCESTO ALCORCON",
     "home_slug": "automatic-club-baloncesto-alcorcon",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 74,
     "away": "COLMENAR VIEJO A",
     "away_slug": "colmenar-viejo-a-senior-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 82,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -770,16 +796,29 @@
     "slug": "game-2026-10-25-automatic-club-baloncesto-alcorcon-colmenar-viejo-a-senior-masculino",
     "date": "2026-10-25",
     "time": "19:30",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "AUTOMATIC CLUB BALONCESTO ALCORCON",
     "home_slug": "automatic-club-baloncesto-alcorcon",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 74,
     "away": "COLMENAR VIEJO A",
     "away_slug": "colmenar-viejo-a-senior-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 82,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "LOS CANTOS, PABELLON CENTRAL LOS CANTOS, 28, Alcorcón",
     "venue_slug": "los-cantos-pabellon-central-los-cantos-28-alcorcon",
     "venue_title": "LOS CANTOS",
@@ -1397,16 +1436,29 @@
     "slug": "game-2026-10-25-colegio-alameda-de-osuna-colmenar-viejo-a-senior-femenino",
     "date": "2026-10-25",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLEGIO ALAMEDA DE OSUNA",
     "home_slug": "colegio-alameda-de-osuna",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 73,
     "away": "COLMENAR VIEJO A",
     "away_slug": "colmenar-viejo-a-senior-femenino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 67,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -1422,16 +1474,29 @@
     "slug": "game-2026-10-25-colegio-alameda-de-osuna-colmenar-viejo-a-senior-femenino",
     "date": "2026-10-25",
     "time": "20:30",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLEGIO ALAMEDA DE OSUNA",
     "home_slug": "colegio-alameda-de-osuna",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 73,
     "away": "COLMENAR VIEJO A",
     "away_slug": "colmenar-viejo-a-senior-femenino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 67,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "ALAMEDA DE OSUNA, PABELLON COLEGIO CALLE LA RIOJA, 1, Madrid",
     "venue_slug": "alameda-de-osuna-pabellon-colegio-calle-la-rioja-1-madrid",
     "venue_title": "ALAMEDA DE OSUNA",
@@ -1847,44 +1912,6 @@
     "id": "game-2026-10-18-colmenar-viejo-b-arganzuela-centro-senior-femenino",
     "slug": "game-2026-10-18-colmenar-viejo-b-arganzuela-centro-senior-femenino",
     "date": "2026-10-18",
-    "time": "",
-    "status": "Finalizado",
-    "home": "COLMENAR VIEJO B",
-    "home_slug": "colmenar-viejo-b-senior-femenino",
-    "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": 60,
-    "away": "ARGANZUELA CENTRO",
-    "away_slug": "arganzuela-centro",
-    "away_logo": "images/teams/rival.png",
-    "away_score": 56,
-    "quarters": {
-      "home": [
-        18,
-        20,
-        19,
-        21
-      ],
-      "away": [
-        15,
-        18,
-        22,
-        19
-      ]
-    },
-    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
-    "venue_title": "JUAN ANTONIO SAMARANCH",
-    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "category": "Senior",
-    "gender": "femenino",
-    "league_title": "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR",
-    "mvp": "-",
-    "weight": 12220261018000033
-  },
-  {
-    "id": "game-2026-10-18-colmenar-viejo-b-arganzuela-centro-senior-femenino",
-    "slug": "game-2026-10-18-colmenar-viejo-b-arganzuela-centro-senior-femenino",
-    "date": "2026-10-18",
     "time": "13:15",
     "status": "Finalizado",
     "home": "COLMENAR VIEJO B",
@@ -1923,17 +1950,68 @@
     "id": "game-2026-10-25-uros-de-rivas-colmenar-viejo-b-senior-femenino",
     "slug": "game-2026-10-25-uros-de-rivas-colmenar-viejo-b-senior-femenino",
     "date": "2026-10-25",
-    "time": "09:30",
-    "status": "Próximo",
+    "time": "",
+    "status": "Finalizado",
     "home": "UROS DE RIVAS",
     "home_slug": "uros-de-rivas",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 45,
     "away": "COLMENAR VIEJO B",
     "away_slug": "colmenar-viejo-b-senior-femenino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 66,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Senior",
+    "gender": "femenino",
+    "league_title": "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR",
+    "mvp": "-",
+    "weight": 12220261025000057
+  },
+  {
+    "id": "game-2026-10-25-uros-de-rivas-colmenar-viejo-b-senior-femenino",
+    "slug": "game-2026-10-25-uros-de-rivas-colmenar-viejo-b-senior-femenino",
+    "date": "2026-10-25",
+    "time": "09:30",
+    "status": "Finalizado",
+    "home": "UROS DE RIVAS",
+    "home_slug": "uros-de-rivas",
+    "home_logo": "images/teams/rival.png",
+    "home_score": 45,
+    "away": "COLMENAR VIEJO B",
+    "away_slug": "colmenar-viejo-b-senior-femenino",
+    "away_logo": "images/teams/cbcolmenar.png",
+    "away_score": 66,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "LOS ALMENDROS, PABELLON AIGUES TORTES, S/N, Rivas-Vaciamadrid",
     "venue_slug": "los-almendros-pabellon-aigues-tortes-s-n-rivas-vaciamadrid",
     "venue_title": "LOS ALMENDROS",
@@ -2398,44 +2476,6 @@
     "id": "game-2026-10-18-mejorada-2012-c-b-colmenar-viejo-sub-22-masculino",
     "slug": "game-2026-10-18-mejorada-2012-c-b-colmenar-viejo-sub-22-masculino",
     "date": "2026-10-18",
-    "time": "",
-    "status": "Finalizado",
-    "home": "MEJORADA 2012 C.B.",
-    "home_slug": "mejorada-2012-c-b",
-    "home_logo": "images/teams/rival.png",
-    "home_score": 48,
-    "away": "COLMENAR VIEJO",
-    "away_slug": "colmenar-viejo-sub-22-masculino",
-    "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": 95,
-    "quarters": {
-      "home": [
-        18,
-        20,
-        19,
-        21
-      ],
-      "away": [
-        15,
-        18,
-        22,
-        19
-      ]
-    },
-    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
-    "venue_title": "JUAN ANTONIO SAMARANCH",
-    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "category": "Sub 22",
-    "gender": "masculino",
-    "league_title": "Sub 22 Masc. BRONCE - PRIMERA 1ª DIVISION - GRUPO 1",
-    "mvp": "-",
-    "weight": 21020261018000062
-  },
-  {
-    "id": "game-2026-10-18-mejorada-2012-c-b-colmenar-viejo-sub-22-masculino",
-    "slug": "game-2026-10-18-mejorada-2012-c-b-colmenar-viejo-sub-22-masculino",
-    "date": "2026-10-18",
     "time": "10:00",
     "status": "Finalizado",
     "home": "MEJORADA 2012 C.B.",
@@ -2474,17 +2514,68 @@
     "id": "game-2026-10-25-colmenar-viejo-buen-consejo-sub-22-masculino",
     "slug": "game-2026-10-25-colmenar-viejo-buen-consejo-sub-22-masculino",
     "date": "2026-10-25",
-    "time": "17:45",
-    "status": "Próximo",
+    "time": "",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-sub-22-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 71,
     "away": "BUEN CONSEJO",
     "away_slug": "buen-consejo",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 84,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Sub 22",
+    "gender": "masculino",
+    "league_title": "Sub 22 Masc. BRONCE - PRIMERA 1ª DIVISION - GRUPO 1",
+    "mvp": "-",
+    "weight": 21020261025000007
+  },
+  {
+    "id": "game-2026-10-25-colmenar-viejo-buen-consejo-sub-22-masculino",
+    "slug": "game-2026-10-25-colmenar-viejo-buen-consejo-sub-22-masculino",
+    "date": "2026-10-25",
+    "time": "17:45",
+    "status": "Finalizado",
+    "home": "COLMENAR VIEJO",
+    "home_slug": "colmenar-viejo-sub-22-masculino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": 71,
+    "away": "BUEN CONSEJO",
+    "away_slug": "buen-consejo",
+    "away_logo": "images/teams/rival.png",
+    "away_score": 84,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -3052,16 +3143,29 @@
     "slug": "game-2026-10-25-pilaristas-colmenar-viejo-a-junior-masculino",
     "date": "2026-10-25",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "PILARISTAS",
     "home_slug": "pilaristas",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 54,
     "away": "COLMENAR VIEJO A",
     "away_slug": "colmenar-viejo-a-junior-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 64,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -3077,16 +3181,29 @@
     "slug": "game-2026-10-25-pilaristas-colmenar-viejo-a-junior-masculino",
     "date": "2026-10-25",
     "time": "15:30",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "PILARISTAS",
     "home_slug": "pilaristas",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 54,
     "away": "COLMENAR VIEJO A",
     "away_slug": "colmenar-viejo-a-junior-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 64,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "PILARISTAS, PABELLON COLEGIO AYALA, 47, Madrid",
     "venue_slug": "pilaristas-pabellon-colegio-ayala-47-madrid",
     "venue_title": "PILARISTAS",
@@ -3679,16 +3796,29 @@
     "slug": "game-2026-10-25-colmenar-viejo-b-valcude-alcobendas-10-junior-masculino",
     "date": "2026-10-25",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO B",
     "home_slug": "colmenar-viejo-b-junior-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 50,
     "away": "VALCUDE ALCOBENDAS 10",
     "away_slug": "valcude-alcobendas-10",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 54,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -3704,16 +3834,29 @@
     "slug": "game-2026-10-25-colmenar-viejo-b-valcude-alcobendas-10-junior-masculino",
     "date": "2026-10-25",
     "time": "16:00",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO B",
     "home_slug": "colmenar-viejo-b-junior-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 50,
     "away": "VALCUDE ALCOBENDAS 10",
     "away_slug": "valcude-alcobendas-10",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 54,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -4306,16 +4449,29 @@
     "slug": "game-2026-10-25-maravillas-colmenar-viejo-c-junior-masculino",
     "date": "2026-10-25",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "MARAVILLAS",
     "home_slug": "maravillas",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 72,
     "away": "COLMENAR VIEJO C",
     "away_slug": "colmenar-viejo-c-junior-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 34,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -4331,16 +4487,29 @@
     "slug": "game-2026-10-25-maravillas-colmenar-viejo-c-junior-masculino",
     "date": "2026-10-25",
     "time": "18:15",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "MARAVILLAS",
     "home_slug": "maravillas",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 72,
     "away": "COLMENAR VIEJO C",
     "away_slug": "colmenar-viejo-c-junior-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 34,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "LA SALLE MARAVILLAS, PABELLON COLEGIO JOAQUIN COSTA, 21, Madrid",
     "venue_slug": "la-salle-maravillas-pabellon-colegio-joaquin-costa-21-madrid",
     "venue_title": "LA SALLE MARAVILLAS",
@@ -7289,7 +7458,7 @@
     "id": "game-2026-11-21-cb-navalcarnero-colmenar-viejo-cadete-femenino",
     "slug": "game-2026-11-21-cb-navalcarnero-colmenar-viejo-cadete-femenino",
     "date": "2026-11-21",
-    "time": "",
+    "time": "11:00",
     "status": "Próximo",
     "home": "CB NAVALCARNERO",
     "home_slug": "cb-navalcarnero",
@@ -7308,7 +7477,7 @@
     "gender": "femenino",
     "league_title": "Cadete Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 2",
     "mvp": "-",
-    "weight": 42020261121000093
+    "weight": 42020261121110093
   },
   {
     "id": "game-2026-11-28-colmenar-viejo-veritas-pozuelo-negro-cadete-femenino",

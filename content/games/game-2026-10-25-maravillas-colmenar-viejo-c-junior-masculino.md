@@ -1,16 +1,16 @@
 ---
-title: "MARAVILLAS VS COLMENAR VIEJO C"
+title: "MARAVILLAS 72 - 34 COLMENAR VIEJO C"
 date: 2026-10-25T18:15:00
 time: "18:15"
 team1: "MARAVILLAS"
 team1_slug: "maravillas"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 72
 team2: "COLMENAR VIEJO C"
 team2_slug: "colmenar-viejo-c-junior-masculino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 34
+status: "Finalizado"
 venue: "LA SALLE MARAVILLAS, PABELLON COLEGIO JOAQUIN COSTA, 21, Madrid"
 venue_slug: "la-salle-maravillas-pabellon-colegio-joaquin-costa-21-madrid"
 venue_title: "LA SALLE MARAVILLAS"

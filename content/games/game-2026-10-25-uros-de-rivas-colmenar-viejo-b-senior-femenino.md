@@ -1,16 +1,16 @@
 ---
-title: "UROS DE RIVAS VS COLMENAR VIEJO B"
+title: "UROS DE RIVAS 45 - 66 COLMENAR VIEJO B"
 date: 2026-10-25T09:30:00
 time: "09:30"
 team1: "UROS DE RIVAS"
 team1_slug: "uros-de-rivas"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 45
 team2: "COLMENAR VIEJO B"
 team2_slug: "colmenar-viejo-b-senior-femenino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 66
+status: "Finalizado"
 venue: "LOS ALMENDROS, PABELLON AIGUES TORTES, S/N, Rivas-Vaciamadrid"
 venue_slug: "los-almendros-pabellon-aigues-tortes-s-n-rivas-vaciamadrid"
 venue_title: "LOS ALMENDROS"

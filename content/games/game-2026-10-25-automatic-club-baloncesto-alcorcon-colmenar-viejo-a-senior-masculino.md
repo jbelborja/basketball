@@ -1,16 +1,16 @@
 ---
-title: "AUTOMATIC CLUB BALONCESTO ALCORCON VS COLMENAR VIEJO A"
+title: "AUTOMATIC CLUB BALONCESTO ALCORCON 74 - 82 COLMENAR VIEJO A"
 date: 2026-10-25T19:30:00
 time: "19:30"
 team1: "AUTOMATIC CLUB BALONCESTO ALCORCON"
 team1_slug: "automatic-club-baloncesto-alcorcon"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 74
 team2: "COLMENAR VIEJO A"
 team2_slug: "colmenar-viejo-a-senior-masculino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 82
+status: "Finalizado"
 venue: "LOS CANTOS, PABELLON CENTRAL LOS CANTOS, 28, Alcorc\u00f3n"
 venue_slug: "los-cantos-pabellon-central-los-cantos-28-alcorcon"
 venue_title: "LOS CANTOS"

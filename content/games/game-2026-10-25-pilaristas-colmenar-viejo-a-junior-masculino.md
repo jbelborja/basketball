@@ -1,16 +1,16 @@
 ---
-title: "PILARISTAS VS COLMENAR VIEJO A"
+title: "PILARISTAS 54 - 64 COLMENAR VIEJO A"
 date: 2026-10-25T15:30:00
 time: "15:30"
 team1: "PILARISTAS"
 team1_slug: "pilaristas"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 54
 team2: "COLMENAR VIEJO A"
 team2_slug: "colmenar-viejo-a-junior-masculino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 64
+status: "Finalizado"
 venue: "PILARISTAS, PABELLON COLEGIO AYALA, 47, Madrid"
 venue_slug: "pilaristas-pabellon-colegio-ayala-47-madrid"
 venue_title: "PILARISTAS"
