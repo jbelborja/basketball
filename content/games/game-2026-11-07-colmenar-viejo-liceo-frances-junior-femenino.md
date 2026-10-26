@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS LICEO FRANCES"
-date: 2026-11-08T00:00:00
-time: ""
+date: 2026-11-07T16:00:00
+time: "16:00"
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-junior-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -18,9 +18,9 @@ venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar V
 category: "Junior"
 gender: "femenino"
 league_title: "Junior Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 5"
-uid: "game-2026-11-08-colmenar-viejo-liceo-frances-junior-femenino"
-slug: "game-2026-11-08-colmenar-viejo-liceo-frances-junior-femenino"
-weight: 32020261108000060
+uid: "game-2026-11-07-colmenar-viejo-liceo-frances-junior-femenino"
+slug: "game-2026-11-07-colmenar-viejo-liceo-frances-junior-femenino"
+weight: 32020261107160070
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **COLMENAR VIEJO** y **LICEO FRANCES**.

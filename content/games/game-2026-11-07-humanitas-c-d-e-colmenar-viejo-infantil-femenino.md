@@ -1,7 +1,7 @@
 ---
 title: "HUMANITAS C.D.E. VS COLMENAR VIEJO"
-date: 2026-11-07T00:00:00
-time: ""
+date: 2026-11-07T10:45:00
+time: "10:45"
 team1: "HUMANITAS C.D.E."
 team1_slug: "humanitas-c-d-e"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Infantil Fem. 1\u00baa\u00f1o - PRIMERA FASE - GRUPO 14"
 uid: "game-2026-11-07-humanitas-c-d-e-colmenar-viejo-infantil-femenino"
 slug: "game-2026-11-07-humanitas-c-d-e-colmenar-viejo-infantil-femenino"
-weight: 52020261107000058
+weight: 52020261107104558
 ---
 
 Encuentro correspondiente a la categoría Infantil (femenino) entre **HUMANITAS C.D.E.** y **COLMENAR VIEJO**.
