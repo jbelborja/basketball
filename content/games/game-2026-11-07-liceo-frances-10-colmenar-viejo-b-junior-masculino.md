@@ -1,7 +1,7 @@
 ---
 title: "LICEO FRANCES 10 VS COLMENAR VIEJO B"
-date: 2026-11-07T00:00:00
-time: ""
+date: 2026-11-07T20:00:00
+time: "20:00"
 team1: "LICEO FRANCES 10"
 team1_slug: "liceo-frances-10"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
 uid: "game-2026-11-07-liceo-frances-10-colmenar-viejo-b-junior-masculino"
 slug: "game-2026-11-07-liceo-frances-10-colmenar-viejo-b-junior-masculino"
-weight: 31220261107000066
+weight: 31220261107200066
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **LICEO FRANCES 10** y **COLMENAR VIEJO B**.

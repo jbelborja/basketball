@@ -858,6 +858,26 @@
       },
       {
         "position": 7,
+        "team": "CORAZONISTAS",
+        "slug": "corazonistas-senior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 3,
+        "v": 2,
+        "d": 1,
+        "pf": 203,
+        "pc": 157,
+        "dif": "+46",
+        "points": 5,
+        "streak": [
+          "V",
+          "V",
+          "D"
+        ],
+        "category": "Senior",
+        "gender": "femenino"
+      },
+      {
+        "position": 8,
         "team": "COLEGIO ALAMEDA DE OSUNA",
         "slug": "colegio-alameda-de-osuna-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -877,7 +897,27 @@
         "gender": "femenino"
       },
       {
-        "position": 8,
+        "position": 9,
+        "team": "SAN VIATOR \"LA MALUCA\"",
+        "slug": "san-viator-la-maluca-senior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 4,
+        "v": 1,
+        "d": 3,
+        "pf": 186,
+        "pc": 251,
+        "dif": "-65",
+        "points": 5,
+        "streak": [
+          "V",
+          "D",
+          "D"
+        ],
+        "category": "Senior",
+        "gender": "femenino"
+      },
+      {
+        "position": 10,
         "team": "ISAAC NEWTON",
         "slug": "isaac-newton-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -897,7 +937,7 @@
         "gender": "femenino"
       },
       {
-        "position": 9,
+        "position": 11,
         "team": "SALTIUM ALCORCÓN BASKET",
         "slug": "saltium-alcorcon-basket-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -917,27 +957,7 @@
         "gender": "femenino"
       },
       {
-        "position": 10,
-        "team": "SAN VIATOR \"LA MALUCA\"",
-        "slug": "san-viator-la-maluca-senior-femenino",
-        "logo": "images/teams/rival.png",
-        "pj": 3,
-        "v": 1,
-        "d": 2,
-        "pf": 147,
-        "pc": 175,
-        "dif": "-28",
-        "points": 4,
-        "streak": [
-          "V",
-          "D",
-          "D"
-        ],
-        "category": "Senior",
-        "gender": "femenino"
-      },
-      {
-        "position": 11,
+        "position": 12,
         "team": "FEMENINO FUENLABRADA",
         "slug": "femenino-fuenlabrada-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -950,25 +970,6 @@
         "points": 4,
         "streak": [
           "D",
-          "D"
-        ],
-        "category": "Senior",
-        "gender": "femenino"
-      },
-      {
-        "position": 12,
-        "team": "CORAZONISTAS",
-        "slug": "corazonistas-senior-femenino",
-        "logo": "images/teams/rival.png",
-        "pj": 2,
-        "v": 1,
-        "d": 1,
-        "pf": 127,
-        "pc": 118,
-        "dif": "+9",
-        "points": 3,
-        "streak": [
-          "V",
           "D"
         ],
         "category": "Senior",

@@ -2590,7 +2590,7 @@
     "id": "game-2026-11-08-distrito-carabanchel-a-colmenar-viejo-sub-22-masculino",
     "slug": "game-2026-11-08-distrito-carabanchel-a-colmenar-viejo-sub-22-masculino",
     "date": "2026-11-08",
-    "time": "",
+    "time": "10:45",
     "status": "Próximo",
     "home": "DISTRITO CARABANCHEL A",
     "home_slug": "distrito-carabanchel-a",
@@ -2601,15 +2601,15 @@
     "away_logo": "images/teams/cbcolmenar.png",
     "away_score": null,
     "quarters": null,
-    "venue": "FRANCISCO FERNANDEZ OCHOA, PABELLON DE LAS 14 OLIVAS, S/N, Madrid",
-    "venue_slug": "francisco-fernandez-ochoa-pabellon-de-las-14-olivas-s-n-madrid",
-    "venue_title": "FRANCISCO FERNANDEZ OCHOA",
-    "venue_address": "PABELLON DE LAS 14 OLIVAS, S/N, Madrid",
+    "venue": "ESCUELAS PIAS CARABANCHEL, PABELLON COLEGIO AVDA. EUGENIA DE MONTIJO, 83, Madrid",
+    "venue_slug": "escuelas-pias-carabanchel-pabellon-colegio-avda-eugenia-de-montijo-83-madrid",
+    "venue_title": "ESCUELAS PIAS CARABANCHEL",
+    "venue_address": "PABELLON COLEGIO AVDA. EUGENIA DE MONTIJO, 83, Madrid",
     "category": "Sub 22",
     "gender": "masculino",
     "league_title": "Sub 22 Masc. BRONCE - PRIMERA 1ª DIVISION - GRUPO 1",
     "mvp": "-",
-    "weight": 21020261108000085
+    "weight": 21020261108104585
   },
   {
     "id": "game-2026-11-15-colmenar-viejo-vallekas-basket-sub-22-masculino",
@@ -3871,7 +3871,7 @@
     "id": "game-2026-11-07-liceo-frances-10-colmenar-viejo-b-junior-masculino",
     "slug": "game-2026-11-07-liceo-frances-10-colmenar-viejo-b-junior-masculino",
     "date": "2026-11-07",
-    "time": "",
+    "time": "20:00",
     "status": "Próximo",
     "home": "LICEO FRANCES 10",
     "home_slug": "liceo-frances-10",
@@ -3890,7 +3890,7 @@
     "gender": "masculino",
     "league_title": "Junior Masc. Pref. - PRIMERA 4ª DIVISION - GRUPO 2",
     "mvp": "-",
-    "weight": 31220261107000066
+    "weight": 31220261107200066
   },
   {
     "id": "game-2026-11-15-colmenar-viejo-b-innova-tsn-leganes-b-junior-masculino",
@@ -6844,7 +6844,7 @@
     "id": "game-2026-11-07-oroquieta-espinillo-c-d-e-colmenar-viejo-c-cadete-masculino",
     "slug": "game-2026-11-07-oroquieta-espinillo-c-d-e-colmenar-viejo-c-cadete-masculino",
     "date": "2026-11-07",
-    "time": "",
+    "time": "18:45",
     "status": "Próximo",
     "home": "OROQUIETA ESPINILLO C.D.E.",
     "home_slug": "oroquieta-espinillo-c-d-e",
@@ -6863,7 +6863,7 @@
     "gender": "masculino",
     "league_title": "Cadete Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 3",
     "mvp": "-",
-    "weight": 41320261107000010
+    "weight": 41320261107184510
   },
   {
     "id": "game-2026-11-14-colmenar-viejo-c-mejorada-2012-c-b-cadete-masculino",
@@ -9678,31 +9678,6 @@
     "weight": 61020261024161576
   },
   {
-    "id": "game-2026-11-07-c-b-getafe-b-colmenar-viejo-blanco-alevin-masculino",
-    "slug": "game-2026-11-07-c-b-getafe-b-colmenar-viejo-blanco-alevin-masculino",
-    "date": "2026-11-07",
-    "time": "",
-    "status": "Próximo",
-    "home": "C.B. GETAFE \"B\"",
-    "home_slug": "c-b-getafe-b",
-    "home_logo": "images/teams/rival.png",
-    "home_score": null,
-    "away": "COLMENAR VIEJO BLANCO",
-    "away_slug": "colmenar-viejo-blanco-alevin-masculino",
-    "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
-    "venue": "JUAN DE LA CIERVA, PABELLON PISTA CENTRAL AV. ESPAÑA, 90, Getafe",
-    "venue_slug": "juan-de-la-cierva-pabellon-pista-central-av-espana-90-getafe",
-    "venue_title": "JUAN DE LA CIERVA",
-    "venue_address": "PABELLON PISTA CENTRAL AV. ESPAÑA, 90, Getafe",
-    "category": "Alevín",
-    "gender": "masculino",
-    "league_title": "Alv Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9",
-    "mvp": "-",
-    "weight": 61020261107000036
-  },
-  {
     "id": "game-2026-11-07-colmenar-viejo-negro-movistar-estudiantes-niang-alevin-masculino",
     "slug": "game-2026-11-07-colmenar-viejo-negro-movistar-estudiantes-niang-alevin-masculino",
     "date": "2026-11-07",
@@ -9726,6 +9701,31 @@
     "league_title": "Alv Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9",
     "mvp": "-",
     "weight": 61020261107094541
+  },
+  {
+    "id": "game-2026-11-07-c-b-getafe-b-colmenar-viejo-blanco-alevin-masculino",
+    "slug": "game-2026-11-07-c-b-getafe-b-colmenar-viejo-blanco-alevin-masculino",
+    "date": "2026-11-07",
+    "time": "13:00",
+    "status": "Próximo",
+    "home": "C.B. GETAFE \"B\"",
+    "home_slug": "c-b-getafe-b",
+    "home_logo": "images/teams/rival.png",
+    "home_score": null,
+    "away": "COLMENAR VIEJO BLANCO",
+    "away_slug": "colmenar-viejo-blanco-alevin-masculino",
+    "away_logo": "images/teams/cbcolmenar.png",
+    "away_score": null,
+    "quarters": null,
+    "venue": "JUAN DE LA CIERVA, PABELLON Pista 2 AV. ESPAÑA, 90, Getafe",
+    "venue_slug": "juan-de-la-cierva-pabellon-pista-2-av-espana-90-getafe",
+    "venue_title": "JUAN DE LA CIERVA",
+    "venue_address": "PABELLON Pista 2 AV. ESPAÑA, 90, Getafe",
+    "category": "Alevín",
+    "gender": "masculino",
+    "league_title": "Alv Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9",
+    "mvp": "-",
+    "weight": 61020261107130036
   },
   {
     "id": "game-2026-11-08-descansa-colmenar-viejo-alevin-masculino",
@@ -10459,7 +10459,7 @@
     "id": "game-2026-11-08-lions-basket-arroyomolinos-a-colmenar-viejo-alevin-femenino",
     "slug": "game-2026-11-08-lions-basket-arroyomolinos-a-colmenar-viejo-alevin-femenino",
     "date": "2026-11-08",
-    "time": "13:00",
+    "time": "11:15",
     "status": "Próximo",
     "home": "LIONS BASKET ARROYOMOLINOS \"A\"",
     "home_slug": "lions-basket-arroyomolinos-a",
@@ -10478,7 +10478,7 @@
     "gender": "femenino",
     "league_title": "Alv Fem 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13",
     "mvp": "-",
-    "weight": 62020261108130049
+    "weight": 62020261108111549
   },
   {
     "id": "game-2026-11-14-parla-basquet-2015-colmenar-viejo-alevin-femenino",
