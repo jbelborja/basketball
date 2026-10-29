@@ -538,6 +538,26 @@
       },
       {
         "position": 2,
+        "team": "FEMENINO ALCORCON",
+        "slug": "femenino-alcorcon-senior-femenino",
+        "logo": "images/teams/rival.png",
+        "pj": 5,
+        "v": 5,
+        "d": 0,
+        "pf": 325,
+        "pc": 278,
+        "dif": "+47",
+        "points": 10,
+        "streak": [
+          "V",
+          "V",
+          "V"
+        ],
+        "category": "Senior",
+        "gender": "femenino"
+      },
+      {
+        "position": 3,
         "team": "FUNDAL ALCOBENDAS",
         "slug": "fundal-alcobendas-senior-femenino",
         "logo": "images/teams/rival.png",
@@ -553,26 +573,6 @@
           "V",
           "V",
           "D"
-        ],
-        "category": "Senior",
-        "gender": "femenino"
-      },
-      {
-        "position": 3,
-        "team": "FEMENINO ALCORCON",
-        "slug": "femenino-alcorcon-senior-femenino",
-        "logo": "images/teams/rival.png",
-        "pj": 4,
-        "v": 4,
-        "d": 0,
-        "pf": 251,
-        "pc": 216,
-        "dif": "+35",
-        "points": 8,
-        "streak": [
-          "V",
-          "V",
-          "V"
         ],
         "category": "Senior",
         "gender": "femenino"
@@ -707,13 +707,13 @@
         "team": "RICOPIA FUNBAL ALCALA CBJA",
         "slug": "ricopia-funbal-alcala-cbja-senior-femenino",
         "logo": "images/teams/rival.png",
-        "pj": 4,
+        "pj": 5,
         "v": 0,
-        "d": 4,
-        "pf": 180,
-        "pc": 313,
-        "dif": "-133",
-        "points": 4,
+        "d": 5,
+        "pf": 242,
+        "pc": 387,
+        "dif": "-145",
+        "points": 5,
         "streak": [
           "D",
           "D"
