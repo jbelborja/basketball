@@ -6869,7 +6869,7 @@
     "id": "game-2026-11-14-colmenar-viejo-c-mejorada-2012-c-b-cadete-masculino",
     "slug": "game-2026-11-14-colmenar-viejo-c-mejorada-2012-c-b-cadete-masculino",
     "date": "2026-11-14",
-    "time": "11:00",
+    "time": "11:30",
     "status": "Próximo",
     "home": "COLMENAR VIEJO C",
     "home_slug": "colmenar-viejo-c-cadete-masculino",
@@ -6888,7 +6888,7 @@
     "gender": "masculino",
     "league_title": "Cadete Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 3",
     "mvp": "-",
-    "weight": 41320261114110096
+    "weight": 41320261114113096
   },
   {
     "id": "game-2026-11-21-arganzuela-centro-blanco-colmenar-viejo-c-cadete-masculino",
@@ -10509,7 +10509,7 @@
     "id": "game-2026-11-14-colmenar-viejo-el-valle-c-d-b-alevin-femenino",
     "slug": "game-2026-11-14-colmenar-viejo-el-valle-c-d-b-alevin-femenino",
     "date": "2026-11-14",
-    "time": "09:45",
+    "time": "11:30",
     "status": "Próximo",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-alevin-femenino",
@@ -10528,7 +10528,7 @@
     "gender": "femenino",
     "league_title": "Alv Fem 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 8",
     "mvp": "-",
-    "weight": 62020261114094542
+    "weight": 62020261114113042
   },
   {
     "id": "game-2026-11-15-colmenar-viejo-isaac-newton-a-alevin-femenino",
@@ -11188,7 +11188,7 @@
     "id": "game-2026-11-14-colmenar-viejo-piratas-soto-basket-benjamin-masculino",
     "slug": "game-2026-11-14-colmenar-viejo-piratas-soto-basket-benjamin-masculino",
     "date": "2026-11-14",
-    "time": "11:30",
+    "time": "09:45",
     "status": "Próximo",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-benjamin-masculino",
@@ -11207,7 +11207,7 @@
     "gender": "masculino",
     "league_title": "Benj Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 4",
     "mvp": "-",
-    "weight": 71020261114113010
+    "weight": 71020261114094510
   },
   {
     "id": "game-2026-11-21-villanueva-de-la-canada-colmenar-viejo-benjamin-masculino",
