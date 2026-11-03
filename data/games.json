@@ -2051,7 +2051,7 @@
     "id": "game-2026-11-15-corazonistas-colmenar-viejo-b-senior-femenino",
     "slug": "game-2026-11-15-corazonistas-colmenar-viejo-b-senior-femenino",
     "date": "2026-11-15",
-    "time": "",
+    "time": "12:30",
     "status": "Próximo",
     "home": "CORAZONISTAS",
     "home_slug": "corazonistas",
@@ -2070,7 +2070,7 @@
     "gender": "femenino",
     "league_title": "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR",
     "mvp": "-",
-    "weight": 12220261115000032
+    "weight": 12220261115123032
   },
   {
     "id": "game-2026-11-22-colmenar-viejo-b-c-b-getafe-senior-femenino",
@@ -5653,7 +5653,7 @@
     "id": "game-2026-11-14-distrito-carabanchel-a-colmenar-viejo-a-cadete-masculino",
     "slug": "game-2026-11-14-distrito-carabanchel-a-colmenar-viejo-a-cadete-masculino",
     "date": "2026-11-14",
-    "time": "",
+    "time": "09:45",
     "status": "Próximo",
     "home": "DISTRITO CARABANCHEL A",
     "home_slug": "distrito-carabanchel-a",
@@ -5664,15 +5664,15 @@
     "away_logo": "images/teams/cbcolmenar.png",
     "away_score": null,
     "quarters": null,
-    "venue": "FRANCISCO FERNANDEZ OCHOA, PABELLON DE LAS 14 OLIVAS, S/N, Madrid",
-    "venue_slug": "francisco-fernandez-ochoa-pabellon-de-las-14-olivas-s-n-madrid",
-    "venue_title": "FRANCISCO FERNANDEZ OCHOA",
-    "venue_address": "PABELLON DE LAS 14 OLIVAS, S/N, Madrid",
+    "venue": "MAESTRO PADILLA, CEIP AVENIDA DE LA PESETA, 112, Madrid",
+    "venue_slug": "maestro-padilla-ceip-avenida-de-la-peseta-112-madrid",
+    "venue_title": "MAESTRO PADILLA",
+    "venue_address": "CEIP AVENIDA DE LA PESETA, 112, Madrid",
     "category": "Cadete",
     "gender": "masculino",
     "league_title": "Cadete Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
     "mvp": "-",
-    "weight": 41120261114000030
+    "weight": 41120261114094530
   },
   {
     "id": "game-2026-11-22-colmenar-viejo-a-san-viator-c-cadete-masculino",

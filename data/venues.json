@@ -108,15 +108,6 @@
     "matches_count": 3
   },
   {
-    "slug": "francisco-fernandez-ochoa-pabellon-de-las-14-olivas-s-n-madrid",
-    "title": "FRANCISCO FERNANDEZ OCHOA",
-    "address": "PABELLON DE LAS 14 OLIVAS, S/N, Madrid",
-    "raw_venue": "FRANCISCO FERNANDEZ OCHOA, PABELLON DE LAS 14 OLIVAS, S/N, Madrid",
-    "maps_embed": "https://maps.google.com/maps?q=FRANCISCO%20FERNANDEZ%20OCHOA%2C%20PABELLON%20DE%20LAS%2014%20OLIVAS%2C%20S/N%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=FRANCISCO%20FERNANDEZ%20OCHOA%2C%20PABELLON%20DE%20LAS%2014%20OLIVAS%2C%20S/N%2C%20Madrid",
-    "matches_count": 3
-  },
-  {
     "slug": "juan-de-austria-pabellon-pista-central-jose-caballero-s-n-alcala-de-henares",
     "title": "JUAN DE AUSTRIA",
     "address": "PABELLON (PISTA CENTRAL) JOSE CABALLERO, S/N, Alcalá de Henares",
@@ -240,6 +231,15 @@
     "raw_venue": "ESTUDIANTES INTERNATIONAL SCHOOL, PABELLON C/ FROMISTA, 1, Madrid",
     "maps_embed": "https://maps.google.com/maps?q=ESTUDIANTES%20INTERNATIONAL%20SCHOOL%2C%20PABELLON%20C/%20FROMISTA%2C%201%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=ESTUDIANTES%20INTERNATIONAL%20SCHOOL%2C%20PABELLON%20C/%20FROMISTA%2C%201%2C%20Madrid",
+    "matches_count": 2
+  },
+  {
+    "slug": "francisco-fernandez-ochoa-pabellon-de-las-14-olivas-s-n-madrid",
+    "title": "FRANCISCO FERNANDEZ OCHOA",
+    "address": "PABELLON DE LAS 14 OLIVAS, S/N, Madrid",
+    "raw_venue": "FRANCISCO FERNANDEZ OCHOA, PABELLON DE LAS 14 OLIVAS, S/N, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=FRANCISCO%20FERNANDEZ%20OCHOA%2C%20PABELLON%20DE%20LAS%2014%20OLIVAS%2C%20S/N%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=FRANCISCO%20FERNANDEZ%20OCHOA%2C%20PABELLON%20DE%20LAS%2014%20OLIVAS%2C%20S/N%2C%20Madrid",
     "matches_count": 2
   },
   {
@@ -924,6 +924,15 @@
     "raw_venue": "LOS ROSALES, PABELLON (PISTA CENTRAL) LILAS, S/N (Frente nº 7), Móstoles",
     "maps_embed": "https://maps.google.com/maps?q=LOS%20ROSALES%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20LILAS%2C%20S/N%20%28Frente%20n%C2%BA%207%29%2C%20M%C3%B3stoles&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=LOS%20ROSALES%2C%20PABELLON%20%28PISTA%20CENTRAL%29%20LILAS%2C%20S/N%20%28Frente%20n%C2%BA%207%29%2C%20M%C3%B3stoles",
+    "matches_count": 1
+  },
+  {
+    "slug": "maestro-padilla-ceip-avenida-de-la-peseta-112-madrid",
+    "title": "MAESTRO PADILLA",
+    "address": "CEIP AVENIDA DE LA PESETA, 112, Madrid",
+    "raw_venue": "MAESTRO PADILLA, CEIP AVENIDA DE LA PESETA, 112, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=MAESTRO%20PADILLA%2C%20CEIP%20AVENIDA%20DE%20LA%20PESETA%2C%20112%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=MAESTRO%20PADILLA%2C%20CEIP%20AVENIDA%20DE%20LA%20PESETA%2C%20112%2C%20Madrid",
     "matches_count": 1
   },
   {
