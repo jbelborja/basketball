@@ -1,7 +1,7 @@
 ---
 title: "LA TORRE DE HORTALEZA VS COLMENAR VIEJO B"
-date: 2026-11-14T12:00:00
-time: "12:00"
+date: 2026-11-14T17:45:00
+time: "17:45"
 team1: "LA TORRE DE HORTALEZA"
 team1_slug: "la-torre-de-hortaleza"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-11-14-la-torre-de-hortaleza-colmenar-viejo-b-infantil-masculino"
 slug: "game-2026-11-14-la-torre-de-hortaleza-colmenar-viejo-b-infantil-masculino"
-weight: 51220261114120063
+weight: 51220261114174563
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **LA TORRE DE HORTALEZA** y **COLMENAR VIEJO B**.

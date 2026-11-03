@@ -342,12 +342,12 @@
     "matches_count": 2
   },
   {
-    "slug": "pilaristas-colegio-castello-56-madrid",
+    "slug": "pilaristas-pabellon-colegio-ayala-47-madrid",
     "title": "PILARISTAS",
-    "address": "COLEGIO CASTELLO, 56, Madrid",
-    "raw_venue": "PILARISTAS, COLEGIO CASTELLO, 56, Madrid",
-    "maps_embed": "https://maps.google.com/maps?q=PILARISTAS%2C%20COLEGIO%20CASTELLO%2C%2056%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=PILARISTAS%2C%20COLEGIO%20CASTELLO%2C%2056%2C%20Madrid",
+    "address": "PABELLON COLEGIO AYALA, 47, Madrid",
+    "raw_venue": "PILARISTAS, PABELLON COLEGIO AYALA, 47, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=PILARISTAS%2C%20PABELLON%20COLEGIO%20AYALA%2C%2047%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=PILARISTAS%2C%20PABELLON%20COLEGIO%20AYALA%2C%2047%2C%20Madrid",
     "matches_count": 2
   },
   {
@@ -990,12 +990,12 @@
     "matches_count": 1
   },
   {
-    "slug": "pilaristas-pabellon-colegio-ayala-47-madrid",
+    "slug": "pilaristas-colegio-castello-56-madrid",
     "title": "PILARISTAS",
-    "address": "PABELLON COLEGIO AYALA, 47, Madrid",
-    "raw_venue": "PILARISTAS, PABELLON COLEGIO AYALA, 47, Madrid",
-    "maps_embed": "https://maps.google.com/maps?q=PILARISTAS%2C%20PABELLON%20COLEGIO%20AYALA%2C%2047%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=PILARISTAS%2C%20PABELLON%20COLEGIO%20AYALA%2C%2047%2C%20Madrid",
+    "address": "COLEGIO CASTELLO, 56, Madrid",
+    "raw_venue": "PILARISTAS, COLEGIO CASTELLO, 56, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=PILARISTAS%2C%20COLEGIO%20CASTELLO%2C%2056%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=PILARISTAS%2C%20COLEGIO%20CASTELLO%2C%2056%2C%20Madrid",
     "matches_count": 1
   },
   {
