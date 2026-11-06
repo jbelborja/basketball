@@ -2160,30 +2160,52 @@
     "category": "Cadete",
     "gender": "masculino",
     "team": "COLMENAR VIEJO A",
-    "max_pj": 3,
+    "max_pj": 4,
     "teams": [
       {
         "position": 1,
         "team": "MOVISTAR ESTUDIANTES WINSLOW",
         "slug": "movistar-estudiantes-winslow-cadete-masculino",
         "logo": "images/teams/rival.png",
-        "pj": 3,
+        "pj": 4,
         "v": 3,
-        "d": 0,
-        "pf": 194,
-        "pc": 101,
-        "dif": "+93",
-        "points": 6,
+        "d": 1,
+        "pf": 251,
+        "pc": 164,
+        "dif": "+87",
+        "points": 7,
         "streak": [
           "V",
           "V",
-          "V"
+          "V",
+          "D"
         ],
         "category": "Cadete",
         "gender": "masculino"
       },
       {
         "position": 2,
+        "team": "BRAINS ARTURO SORIA",
+        "slug": "brains-arturo-soria-cadete-masculino",
+        "logo": "images/teams/rival.png",
+        "pj": 4,
+        "v": 3,
+        "d": 1,
+        "pf": 236,
+        "pc": 259,
+        "dif": "-23",
+        "points": 7,
+        "streak": [
+          "V",
+          "V",
+          "V",
+          "D"
+        ],
+        "category": "Cadete",
+        "gender": "masculino"
+      },
+      {
+        "position": 3,
         "team": "ALAMEDA DE OSUNA VERDE",
         "slug": "alameda-de-osuna-verde-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -2203,7 +2225,7 @@
         "gender": "masculino"
       },
       {
-        "position": 3,
+        "position": 4,
         "team": "PARQUE CATALUÑA TORREJÓN AMARILLO",
         "slug": "parque-cataluna-torrejon-amarillo-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -2223,7 +2245,7 @@
         "gender": "masculino"
       },
       {
-        "position": 4,
+        "position": 5,
         "team": "OLIMPICO 64",
         "slug": "olimpico-64-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -2243,7 +2265,7 @@
         "gender": "masculino"
       },
       {
-        "position": 5,
+        "position": 6,
         "team": "SAN VIATOR \"C\"",
         "slug": "san-viator-c-cadete-masculino",
         "logo": "images/teams/rival.png",
@@ -2253,26 +2275,6 @@
         "pf": 151,
         "pc": 176,
         "dif": "-25",
-        "points": 5,
-        "streak": [
-          "V",
-          "V",
-          "D"
-        ],
-        "category": "Cadete",
-        "gender": "masculino"
-      },
-      {
-        "position": 6,
-        "team": "BRAINS ARTURO SORIA",
-        "slug": "brains-arturo-soria-cadete-masculino",
-        "logo": "images/teams/rival.png",
-        "pj": 3,
-        "v": 2,
-        "d": 1,
-        "pf": 173,
-        "pc": 202,
-        "dif": "-29",
         "points": 5,
         "streak": [
           "V",
