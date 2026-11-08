@@ -1,6 +1,6 @@
 ---
 title: "LICEO FRANCES VS COLMENAR VIEJO A"
-date: 2026-11-22T00:00:00
+date: 2027-02-28T00:00:00
 time: ""
 team1: "LICEO FRANCES"
 team1_slug: "liceo-frances"
@@ -18,9 +18,9 @@ venue_address: "PABELLON COLEGIO AVDA. DE LOS MADRO\u00d1OS frente n\u00ba 42, M
 category: "Senior"
 gender: "masculino"
 league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
-uid: "game-2026-11-22-liceo-frances-colmenar-viejo-a-senior-masculino"
-slug: "game-2026-11-22-liceo-frances-colmenar-viejo-a-senior-masculino"
-weight: 11120261122000083
+uid: "game-2027-02-28-liceo-frances-colmenar-viejo-a-senior-masculino"
+slug: "game-2027-02-28-liceo-frances-colmenar-viejo-a-senior-masculino"
+weight: 11120270228000073
 ---
 
 Encuentro correspondiente a la categoría Senior (masculino) entre **LICEO FRANCES** y **COLMENAR VIEJO A**.

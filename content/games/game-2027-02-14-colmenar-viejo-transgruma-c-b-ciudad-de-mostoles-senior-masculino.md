@@ -1,13 +1,13 @@
 ---
-title: "COLMENAR VIEJO VS GRUPO BURSAN C.B. CIUDAD DE M\u00d3STOLES"
+title: "COLMENAR VIEJO VS TRANSGRUMA C.B. CIUDAD DE M\u00d3STOLES"
 date: 2027-02-14T00:00:00
 time: ""
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-senior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
 team1_score: null
-team2: "GRUPO BURSAN C.B. CIUDAD DE M\u00d3STOLES"
-team2_slug: "grupo-bursan-c-b-ciudad-de-mostoles"
+team2: "TRANSGRUMA C.B. CIUDAD DE M\u00d3STOLES"
+team2_slug: "transgruma-c-b-ciudad-de-mostoles"
 team2_logo: "images/teams/rival.png"
 team2_score: null
 status: "Pr\u00f3ximo"
@@ -18,9 +18,9 @@ venue_address: "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar V
 category: "Senior"
 gender: "masculino"
 league_title: "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
-uid: "game-2027-02-14-colmenar-viejo-grupo-bursan-c-b-ciudad-de-mostoles-senior-masculino"
-slug: "game-2027-02-14-colmenar-viejo-grupo-bursan-c-b-ciudad-de-mostoles-senior-masculino"
-weight: 11020270214000031
+uid: "game-2027-02-14-colmenar-viejo-transgruma-c-b-ciudad-de-mostoles-senior-masculino"
+slug: "game-2027-02-14-colmenar-viejo-transgruma-c-b-ciudad-de-mostoles-senior-masculino"
+weight: 11020270214000078
 ---
 
-Encuentro correspondiente a la categoría Senior (masculino) entre **COLMENAR VIEJO** y **GRUPO BURSAN C.B. CIUDAD DE MÓSTOLES**.
+Encuentro correspondiente a la categoría Senior (masculino) entre **COLMENAR VIEJO** y **TRANSGRUMA C.B. CIUDAD DE MÓSTOLES**.

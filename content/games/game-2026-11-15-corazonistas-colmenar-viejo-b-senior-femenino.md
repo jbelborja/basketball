@@ -1,7 +1,7 @@
 ---
 title: "CORAZONISTAS VS COLMENAR VIEJO B"
-date: 2026-11-15T00:00:00
-time: ""
+date: 2026-11-15T12:30:00
+time: "12:30"
 team1: "CORAZONISTAS"
 team1_slug: "corazonistas"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 uid: "game-2026-11-15-corazonistas-colmenar-viejo-b-senior-femenino"
 slug: "game-2026-11-15-corazonistas-colmenar-viejo-b-senior-femenino"
-weight: 12220261115000032
+weight: 12220261115123032
 ---
 
 Encuentro correspondiente a la categoría Senior (femenino) entre **CORAZONISTAS** y **COLMENAR VIEJO B**.

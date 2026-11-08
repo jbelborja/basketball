@@ -1,7 +1,7 @@
 ---
 title: "ARGANZUELA CENTRO BLANCO VS COLMENAR VIEJO C"
-date: 2026-11-21T09:15:00
-time: "09:15"
+date: 2026-11-21T19:00:00
+time: "19:00"
 team1: "ARGANZUELA CENTRO BLANCO"
 team1_slug: "arganzuela-centro-blanco"
 team1_logo: "images/teams/rival.png"
@@ -11,16 +11,16 @@ team2_slug: "colmenar-viejo-c-cadete-masculino"
 team2_logo: "images/teams/cbcolmenar.png"
 team2_score: null
 status: "Pr\u00f3ximo"
-venue: "SALESIANOS CARABANCHEL, PABELLON COLEGIO RONDA DON BOSCO, 3, Madrid"
-venue_slug: "salesianos-carabanchel-pabellon-colegio-ronda-don-bosco-3-madrid"
-venue_title: "SALESIANOS CARABANCHEL"
-venue_address: "PABELLON COLEGIO RONDA DON BOSCO, 3, Madrid"
+venue: "ARGANZUELA, CENTRO INTEGRADO C/ PALOS DE LA FRONTERA, 40, Madrid"
+venue_slug: "arganzuela-centro-integrado-c-palos-de-la-frontera-40-madrid"
+venue_title: "ARGANZUELA"
+venue_address: "CENTRO INTEGRADO C/ PALOS DE LA FRONTERA, 40, Madrid"
 category: "Cadete"
 gender: "masculino"
 league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 uid: "game-2026-11-21-arganzuela-centro-blanco-colmenar-viejo-c-cadete-masculino"
 slug: "game-2026-11-21-arganzuela-centro-blanco-colmenar-viejo-c-cadete-masculino"
-weight: 41320261121091517
+weight: 41320261121190017
 ---
 
 Encuentro correspondiente a la categoría Cadete (masculino) entre **ARGANZUELA CENTRO BLANCO** y **COLMENAR VIEJO C**.

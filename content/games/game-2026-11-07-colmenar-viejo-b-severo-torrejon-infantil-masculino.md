@@ -1,16 +1,16 @@
 ---
-title: "COLMENAR VIEJO B VS SEVERO TORREJON"
-date: 2026-11-07T00:00:00
-time: ""
+title: "COLMENAR VIEJO B 43 - 34 SEVERO TORREJON"
+date: 2026-11-07T18:00:00
+time: "18:00"
 team1: "COLMENAR VIEJO B"
 team1_slug: "colmenar-viejo-b-infantil-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
-team1_score: null
+team1_score: 43
 team2: "SEVERO TORREJON"
 team2_slug: "severo-torrejon"
 team2_logo: "images/teams/rival.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 34
+status: "Finalizado"
 venue: "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 venue_slug: "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo"
 venue_title: "JUAN ANTONIO SAMARANCH"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Infantil Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-11-07-colmenar-viejo-b-severo-torrejon-infantil-masculino"
 slug: "game-2026-11-07-colmenar-viejo-b-severo-torrejon-infantil-masculino"
-weight: 51220261107000058
+weight: 51220261107180058
 ---
 
 Encuentro correspondiente a la categoría Infantil (masculino) entre **COLMENAR VIEJO B** y **SEVERO TORREJON**.

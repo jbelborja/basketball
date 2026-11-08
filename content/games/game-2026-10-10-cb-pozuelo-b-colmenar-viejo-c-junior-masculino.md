@@ -1,16 +1,16 @@
 ---
-title: "CB POZUELO B VS COLMENAR VIEJO C"
+title: "CB POZUELO B 62 - 44 COLMENAR VIEJO C"
 date: 2026-10-10T16:30:00
 time: "16:30"
 team1: "CB POZUELO B"
 team1_slug: "cb-pozuelo-b"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 62
 team2: "COLMENAR VIEJO C"
 team2_slug: "colmenar-viejo-c-junior-masculino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 44
+status: "Finalizado"
 venue: "GERARDO DIEGO, I.E.S. IRLANDA, S/N, Pozuelo de Alarc\u00f3n"
 venue_slug: "gerardo-diego-i-e-s-irlanda-s-n-pozuelo-de-alarcon"
 venue_title: "GERARDO DIEGO"

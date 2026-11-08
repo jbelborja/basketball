@@ -1,16 +1,16 @@
 ---
-title: "LA PAZ C.D. VS COLMENAR VIEJO"
+title: "LA PAZ C.D. 2 - 53 COLMENAR VIEJO"
 date: 2026-10-10T14:00:00
 time: "14:00"
 team1: "LA PAZ C.D."
 team1_slug: "la-paz-c-d"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 2
 team2: "COLMENAR VIEJO"
 team2_slug: "colmenar-viejo-alevin-masculino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 53
+status: "Finalizado"
 venue: "SUPERA, PABELLON AVDA. DE LOS PLANETAS, 42, Parla"
 venue_slug: "supera-pabellon-avda-de-los-planetas-42-parla"
 venue_title: "SUPERA"

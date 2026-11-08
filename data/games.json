@@ -3,44 +3,6 @@
     "id": "game-2026-10-04-uros-de-rivas-colmenar-viejo-senior-masculino",
     "slug": "game-2026-10-04-uros-de-rivas-colmenar-viejo-senior-masculino",
     "date": "2026-10-04",
-    "time": "",
-    "status": "Finalizado",
-    "home": "UROS DE RIVAS",
-    "home_slug": "uros-de-rivas",
-    "home_logo": "images/teams/rival.png",
-    "home_score": 74,
-    "away": "COLMENAR VIEJO",
-    "away_slug": "colmenar-viejo-senior-masculino",
-    "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": 55,
-    "quarters": {
-      "home": [
-        18,
-        20,
-        19,
-        21
-      ],
-      "away": [
-        15,
-        18,
-        22,
-        19
-      ]
-    },
-    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
-    "venue_title": "JUAN ANTONIO SAMARANCH",
-    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "category": "Senior",
-    "gender": "masculino",
-    "league_title": "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR",
-    "mvp": "-",
-    "weight": 11020261004000024
-  },
-  {
-    "id": "game-2026-10-04-uros-de-rivas-colmenar-viejo-senior-masculino",
-    "slug": "game-2026-10-04-uros-de-rivas-colmenar-viejo-senior-masculino",
-    "date": "2026-10-04",
     "time": "20:30",
     "status": "Finalizado",
     "home": "UROS DE RIVAS",
@@ -80,16 +42,29 @@
     "slug": "game-2026-10-18-el-valle-c-d-colmenar-viejo-senior-masculino",
     "date": "2026-10-18",
     "time": "20:00",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "EL VALLE C.D.",
     "home_slug": "el-valle-c-d",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 78,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-senior-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 61,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "EL VALLE LAS TABLAS, PABELLON COLEGIO CEBREIRO, 2, Madrid",
     "venue_slug": "el-valle-las-tablas-pabellon-colegio-cebreiro-2-madrid",
     "venue_title": "EL VALLE LAS TABLAS",
@@ -105,16 +80,29 @@
     "slug": "game-2026-10-23-colmenar-viejo-villa-de-algete-senior-masculino",
     "date": "2026-10-23",
     "time": "20:30",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-senior-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 40,
     "away": "VILLA DE ALGETE",
     "away_slug": "villa-de-algete",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 64,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -129,17 +117,30 @@
     "id": "game-2026-10-25-colmenar-viejo-revolution-senior-masculino",
     "slug": "game-2026-10-25-colmenar-viejo-revolution-senior-masculino",
     "date": "2026-10-25",
-    "time": "",
-    "status": "Próximo",
+    "time": "10:00",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-senior-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 68,
     "away": "REVOLUTION",
     "away_slug": "revolution",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 58,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -148,38 +149,89 @@
     "gender": "masculino",
     "league_title": "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR",
     "mvp": "-",
-    "weight": 11020261025000099
+    "weight": 11020261025100099
   },
   {
-    "id": "game-2026-11-08-grupo-bursan-c-b-ciudad-de-mostoles-colmenar-viejo-senior-masculino",
-    "slug": "game-2026-11-08-grupo-bursan-c-b-ciudad-de-mostoles-colmenar-viejo-senior-masculino",
+    "id": "game-2026-11-08-transgruma-c-b-ciudad-de-mostoles-colmenar-viejo-senior-masculino",
+    "slug": "game-2026-11-08-transgruma-c-b-ciudad-de-mostoles-colmenar-viejo-senior-masculino",
     "date": "2026-11-08",
     "time": "",
-    "status": "Próximo",
-    "home": "GRUPO BURSAN C.B. CIUDAD DE MÓSTOLES",
-    "home_slug": "grupo-bursan-c-b-ciudad-de-mostoles",
+    "status": "Finalizado",
+    "home": "TRANSGRUMA C.B. CIUDAD DE MÓSTOLES",
+    "home_slug": "transgruma-c-b-ciudad-de-mostoles",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 69,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-senior-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
-    "venue": "LOS ROSALES, PABELLON (PISTA CENTRAL) LILAS, S/N (Frente nº 7), Móstoles",
-    "venue_slug": "los-rosales-pabellon-pista-central-lilas-s-n-frente-n-7-mostoles",
-    "venue_title": "LOS ROSALES",
-    "venue_address": "PABELLON (PISTA CENTRAL) LILAS, S/N (Frente nº 7), Móstoles",
+    "away_score": 52,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "category": "Senior",
     "gender": "masculino",
     "league_title": "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR",
     "mvp": "-",
-    "weight": 11020261108000009
+    "weight": 11020261108000068
+  },
+  {
+    "id": "game-2026-11-08-transgruma-c-b-ciudad-de-mostoles-colmenar-viejo-senior-masculino",
+    "slug": "game-2026-11-08-transgruma-c-b-ciudad-de-mostoles-colmenar-viejo-senior-masculino",
+    "date": "2026-11-08",
+    "time": "19:30",
+    "status": "Finalizado",
+    "home": "TRANSGRUMA C.B. CIUDAD DE MÓSTOLES",
+    "home_slug": "transgruma-c-b-ciudad-de-mostoles",
+    "home_logo": "images/teams/rival.png",
+    "home_score": 69,
+    "away": "COLMENAR VIEJO",
+    "away_slug": "colmenar-viejo-senior-masculino",
+    "away_logo": "images/teams/cbcolmenar.png",
+    "away_score": 52,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "LOS ROSALES, PABELLON (Pista 3) LILAS, S/N (Frente nº 7), Móstoles",
+    "venue_slug": "los-rosales-pabellon-pista-3-lilas-s-n-frente-n-7-mostoles",
+    "venue_title": "LOS ROSALES",
+    "venue_address": "PABELLON (Pista 3) LILAS, S/N (Frente nº 7), Móstoles",
+    "category": "Senior",
+    "gender": "masculino",
+    "league_title": "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR",
+    "mvp": "-",
+    "weight": 11020261108193068
   },
   {
     "id": "game-2026-11-15-colmenar-viejo-cb-pozuelo-senior-masculino",
     "slug": "game-2026-11-15-colmenar-viejo-cb-pozuelo-senior-masculino",
     "date": "2026-11-15",
-    "time": "",
+    "time": "12:00",
     "status": "Próximo",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-senior-masculino",
@@ -198,7 +250,7 @@
     "gender": "masculino",
     "league_title": "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR",
     "mvp": "-",
-    "weight": 11020261115000074
+    "weight": 11020261115120074
   },
   {
     "id": "game-2026-11-22-colmenar-viejo-ricopia-funbal-alcala-cbja-senior-masculino",
@@ -426,8 +478,8 @@
     "weight": 11020270207000025
   },
   {
-    "id": "game-2027-02-14-colmenar-viejo-grupo-bursan-c-b-ciudad-de-mostoles-senior-masculino",
-    "slug": "game-2027-02-14-colmenar-viejo-grupo-bursan-c-b-ciudad-de-mostoles-senior-masculino",
+    "id": "game-2027-02-14-colmenar-viejo-transgruma-c-b-ciudad-de-mostoles-senior-masculino",
+    "slug": "game-2027-02-14-colmenar-viejo-transgruma-c-b-ciudad-de-mostoles-senior-masculino",
     "date": "2027-02-14",
     "time": "",
     "status": "Próximo",
@@ -435,8 +487,8 @@
     "home_slug": "colmenar-viejo-senior-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
     "home_score": null,
-    "away": "GRUPO BURSAN C.B. CIUDAD DE MÓSTOLES",
-    "away_slug": "grupo-bursan-c-b-ciudad-de-mostoles",
+    "away": "TRANSGRUMA C.B. CIUDAD DE MÓSTOLES",
+    "away_slug": "transgruma-c-b-ciudad-de-mostoles",
     "away_logo": "images/teams/rival.png",
     "away_score": null,
     "quarters": null,
@@ -448,7 +500,7 @@
     "gender": "masculino",
     "league_title": "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR",
     "mvp": "-",
-    "weight": 11020270214000031
+    "weight": 11020270214000078
   },
   {
     "id": "game-2027-02-21-cb-pozuelo-colmenar-viejo-senior-masculino",
@@ -604,44 +656,6 @@
     "id": "game-2026-10-04-colmenar-viejo-a-baloncesto-rivas-sureste-a-senior-masculino",
     "slug": "game-2026-10-04-colmenar-viejo-a-baloncesto-rivas-sureste-a-senior-masculino",
     "date": "2026-10-04",
-    "time": "",
-    "status": "Finalizado",
-    "home": "COLMENAR VIEJO A",
-    "home_slug": "colmenar-viejo-a-senior-masculino",
-    "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": 77,
-    "away": "BALONCESTO RIVAS SURESTE A",
-    "away_slug": "baloncesto-rivas-sureste-a",
-    "away_logo": "images/teams/rival.png",
-    "away_score": 70,
-    "quarters": {
-      "home": [
-        18,
-        20,
-        19,
-        21
-      ],
-      "away": [
-        15,
-        18,
-        22,
-        19
-      ]
-    },
-    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
-    "venue_title": "JUAN ANTONIO SAMARANCH",
-    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "category": "Senior",
-    "gender": "masculino",
-    "league_title": "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR",
-    "mvp": "-",
-    "weight": 11120261004000069
-  },
-  {
-    "id": "game-2026-10-04-colmenar-viejo-a-baloncesto-rivas-sureste-a-senior-masculino",
-    "slug": "game-2026-10-04-colmenar-viejo-a-baloncesto-rivas-sureste-a-senior-masculino",
-    "date": "2026-10-04",
     "time": "16:30",
     "status": "Finalizado",
     "home": "COLMENAR VIEJO A",
@@ -681,16 +695,29 @@
     "slug": "game-2026-10-11-cis-university-tres-cantos-colmenar-viejo-a-senior-masculino",
     "date": "2026-10-11",
     "time": "13:30",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "CIS UNIVERSITY TRES CANTOS",
     "home_slug": "cis-university-tres-cantos",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 62,
     "away": "COLMENAR VIEJO A",
     "away_slug": "colmenar-viejo-a-senior-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 88,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "ANTONIO DIAZ MIGUEL, PDVO. MPAL. JOAQUIN DICENTA, 1, Madrid",
     "venue_slug": "antonio-diaz-miguel-pdvo-mpal-joaquin-dicenta-1-madrid",
     "venue_title": "ANTONIO DIAZ MIGUEL",
@@ -706,16 +733,29 @@
     "slug": "game-2026-10-18-colmenar-viejo-a-parla-basquet-senior-masculino",
     "date": "2026-10-18",
     "time": "09:45",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO A",
     "home_slug": "colmenar-viejo-a-senior-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 86,
     "away": "PARLA BASQUET",
     "away_slug": "parla-basquet",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 80,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -730,17 +770,30 @@
     "id": "game-2026-10-25-automatic-club-baloncesto-alcorcon-colmenar-viejo-a-senior-masculino",
     "slug": "game-2026-10-25-automatic-club-baloncesto-alcorcon-colmenar-viejo-a-senior-masculino",
     "date": "2026-10-25",
-    "time": "",
-    "status": "Próximo",
+    "time": "19:30",
+    "status": "Finalizado",
     "home": "AUTOMATIC CLUB BALONCESTO ALCORCON",
     "home_slug": "automatic-club-baloncesto-alcorcon",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 74,
     "away": "COLMENAR VIEJO A",
     "away_slug": "colmenar-viejo-a-senior-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 82,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "LOS CANTOS, PABELLON CENTRAL LOS CANTOS, 28, Alcorcón",
     "venue_slug": "los-cantos-pabellon-central-los-cantos-28-alcorcon",
     "venue_title": "LOS CANTOS",
@@ -749,23 +802,36 @@
     "gender": "masculino",
     "league_title": "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR",
     "mvp": "-",
-    "weight": 11120261025000083
+    "weight": 11120261025193083
   },
   {
     "id": "game-2026-11-08-colmenar-viejo-a-colegio-joyfe-senior-masculino",
     "slug": "game-2026-11-08-colmenar-viejo-a-colegio-joyfe-senior-masculino",
     "date": "2026-11-08",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO A",
     "home_slug": "colmenar-viejo-a-senior-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 73,
     "away": "COLEGIO JOYFE",
     "away_slug": "colegio-joyfe",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 76,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -777,10 +843,48 @@
     "weight": 11120261108000004
   },
   {
+    "id": "game-2026-11-08-colmenar-viejo-a-colegio-joyfe-senior-masculino",
+    "slug": "game-2026-11-08-colmenar-viejo-a-colegio-joyfe-senior-masculino",
+    "date": "2026-11-08",
+    "time": "12:30",
+    "status": "Finalizado",
+    "home": "COLMENAR VIEJO A",
+    "home_slug": "colmenar-viejo-a-senior-masculino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": 73,
+    "away": "COLEGIO JOYFE",
+    "away_slug": "colegio-joyfe",
+    "away_logo": "images/teams/rival.png",
+    "away_score": 76,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Senior",
+    "gender": "masculino",
+    "league_title": "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR",
+    "mvp": "-",
+    "weight": 11120261108123004
+  },
+  {
     "id": "game-2026-11-15-mirasur-school-colmenar-viejo-a-senior-masculino",
     "slug": "game-2026-11-15-mirasur-school-colmenar-viejo-a-senior-masculino",
     "date": "2026-11-15",
-    "time": "",
+    "time": "19:00",
     "status": "Próximo",
     "home": "MIRASUR SCHOOL",
     "home_slug": "mirasur-school",
@@ -799,32 +903,32 @@
     "gender": "masculino",
     "league_title": "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR",
     "mvp": "-",
-    "weight": 11120261115000099
+    "weight": 11120261115190099
   },
   {
-    "id": "game-2026-11-22-liceo-frances-colmenar-viejo-a-senior-masculino",
-    "slug": "game-2026-11-22-liceo-frances-colmenar-viejo-a-senior-masculino",
+    "id": "game-2026-11-22-colmenar-viejo-a-liceo-frances-senior-masculino",
+    "slug": "game-2026-11-22-colmenar-viejo-a-liceo-frances-senior-masculino",
     "date": "2026-11-22",
-    "time": "",
+    "time": "19:30",
     "status": "Próximo",
-    "home": "LICEO FRANCES",
-    "home_slug": "liceo-frances",
-    "home_logo": "images/teams/rival.png",
+    "home": "COLMENAR VIEJO A",
+    "home_slug": "colmenar-viejo-a-senior-masculino",
+    "home_logo": "images/teams/cbcolmenar.png",
     "home_score": null,
-    "away": "COLMENAR VIEJO A",
-    "away_slug": "colmenar-viejo-a-senior-masculino",
-    "away_logo": "images/teams/cbcolmenar.png",
+    "away": "LICEO FRANCES",
+    "away_slug": "liceo-frances",
+    "away_logo": "images/teams/rival.png",
     "away_score": null,
     "quarters": null,
-    "venue": "LICEO FRANCES, PABELLON COLEGIO AVDA. DE LOS MADROÑOS frente nº 42, Madrid",
-    "venue_slug": "liceo-frances-pabellon-colegio-avda-de-los-madronos-frente-n-42-madrid",
-    "venue_title": "LICEO FRANCES",
-    "venue_address": "PABELLON COLEGIO AVDA. DE LOS MADROÑOS frente nº 42, Madrid",
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "category": "Senior",
     "gender": "masculino",
     "league_title": "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR",
     "mvp": "-",
-    "weight": 11120261122000083
+    "weight": 11120261122193018
   },
   {
     "id": "game-2026-11-29-colmenar-viejo-a-distrito-carabanchel-senior-masculino",
@@ -1077,29 +1181,29 @@
     "weight": 11120270221000069
   },
   {
-    "id": "game-2027-02-28-colmenar-viejo-a-liceo-frances-senior-masculino",
-    "slug": "game-2027-02-28-colmenar-viejo-a-liceo-frances-senior-masculino",
+    "id": "game-2027-02-28-liceo-frances-colmenar-viejo-a-senior-masculino",
+    "slug": "game-2027-02-28-liceo-frances-colmenar-viejo-a-senior-masculino",
     "date": "2027-02-28",
     "time": "",
     "status": "Próximo",
-    "home": "COLMENAR VIEJO A",
-    "home_slug": "colmenar-viejo-a-senior-masculino",
-    "home_logo": "images/teams/cbcolmenar.png",
+    "home": "LICEO FRANCES",
+    "home_slug": "liceo-frances",
+    "home_logo": "images/teams/rival.png",
     "home_score": null,
-    "away": "LICEO FRANCES",
-    "away_slug": "liceo-frances",
-    "away_logo": "images/teams/rival.png",
+    "away": "COLMENAR VIEJO A",
+    "away_slug": "colmenar-viejo-a-senior-masculino",
+    "away_logo": "images/teams/cbcolmenar.png",
     "away_score": null,
     "quarters": null,
-    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
-    "venue_title": "JUAN ANTONIO SAMARANCH",
-    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue": "LICEO FRANCES, PABELLON COLEGIO AVDA. DE LOS MADROÑOS frente nº 42, Madrid",
+    "venue_slug": "liceo-frances-pabellon-colegio-avda-de-los-madronos-frente-n-42-madrid",
+    "venue_title": "LICEO FRANCES",
+    "venue_address": "PABELLON COLEGIO AVDA. DE LOS MADROÑOS frente nº 42, Madrid",
     "category": "Senior",
     "gender": "masculino",
     "league_title": "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR",
     "mvp": "-",
-    "weight": 11120270228000046
+    "weight": 11120270228000073
   },
   {
     "id": "game-2027-03-07-distrito-carabanchel-colmenar-viejo-a-senior-masculino",
@@ -1243,44 +1347,6 @@
     "id": "game-2026-10-03-colmenar-viejo-a-veritas-pozuelo-senior-femenino",
     "slug": "game-2026-10-03-colmenar-viejo-a-veritas-pozuelo-senior-femenino",
     "date": "2026-10-03",
-    "time": "",
-    "status": "Finalizado",
-    "home": "COLMENAR VIEJO A",
-    "home_slug": "colmenar-viejo-a-senior-femenino",
-    "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": 75,
-    "away": "VERITAS POZUELO",
-    "away_slug": "veritas-pozuelo",
-    "away_logo": "images/teams/rival.png",
-    "away_score": 46,
-    "quarters": {
-      "home": [
-        18,
-        20,
-        19,
-        21
-      ],
-      "away": [
-        15,
-        18,
-        22,
-        19
-      ]
-    },
-    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
-    "venue_title": "JUAN ANTONIO SAMARANCH",
-    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "category": "Senior",
-    "gender": "femenino",
-    "league_title": "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR",
-    "mvp": "-",
-    "weight": 12120261003000023
-  },
-  {
-    "id": "game-2026-10-03-colmenar-viejo-a-veritas-pozuelo-senior-femenino",
-    "slug": "game-2026-10-03-colmenar-viejo-a-veritas-pozuelo-senior-femenino",
-    "date": "2026-10-03",
     "time": "13:30",
     "status": "Finalizado",
     "home": "COLMENAR VIEJO A",
@@ -1320,16 +1386,29 @@
     "slug": "game-2026-10-10-c-b-las-rozas-colmenar-viejo-a-senior-femenino",
     "date": "2026-10-10",
     "time": "16:30",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "C.B. LAS ROZAS",
     "home_slug": "c-b-las-rozas",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 49,
     "away": "COLMENAR VIEJO A",
     "away_slug": "colmenar-viejo-a-senior-femenino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 41,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "ALFREDO ESPINIELLA, PABELLON (PISTA CENTRAL) COMUNIDAD DE LA RIOJA, 4, Rozas de Madrid, Las",
     "venue_slug": "alfredo-espiniella-pabellon-pista-central-comunidad-de-la-rioja-4-rozas-de-madrid-las",
     "venue_title": "ALFREDO ESPINIELLA",
@@ -1341,20 +1420,33 @@
     "weight": 12120261010163074
   },
   {
-    "id": "game-2026-10-17-colmenar-viejo-a-quiero-valcude-alcobendas-senior-femenino",
-    "slug": "game-2026-10-17-colmenar-viejo-a-quiero-valcude-alcobendas-senior-femenino",
-    "date": "2026-10-17",
-    "time": "",
-    "status": "Próximo",
+    "id": "game-2026-10-16-colmenar-viejo-a-quiero-valcude-alcobendas-senior-femenino",
+    "slug": "game-2026-10-16-colmenar-viejo-a-quiero-valcude-alcobendas-senior-femenino",
+    "date": "2026-10-16",
+    "time": "21:30",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO A",
     "home_slug": "colmenar-viejo-a-senior-femenino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 68,
     "away": "QUIERO VALCUDE ALCOBENDAS",
     "away_slug": "quiero-valcude-alcobendas",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 62,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -1363,23 +1455,36 @@
     "gender": "femenino",
     "league_title": "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR",
     "mvp": "-",
-    "weight": 12120261017000031
+    "weight": 12120261016213056
   },
   {
     "id": "game-2026-10-25-colegio-alameda-de-osuna-colmenar-viejo-a-senior-femenino",
     "slug": "game-2026-10-25-colegio-alameda-de-osuna-colmenar-viejo-a-senior-femenino",
     "date": "2026-10-25",
-    "time": "",
-    "status": "Próximo",
+    "time": "20:30",
+    "status": "Finalizado",
     "home": "COLEGIO ALAMEDA DE OSUNA",
     "home_slug": "colegio-alameda-de-osuna",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 73,
     "away": "COLMENAR VIEJO A",
     "away_slug": "colmenar-viejo-a-senior-femenino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 67,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "ALAMEDA DE OSUNA, PABELLON COLEGIO CALLE LA RIOJA, 1, Madrid",
     "venue_slug": "alameda-de-osuna-pabellon-colegio-calle-la-rioja-1-madrid",
     "venue_title": "ALAMEDA DE OSUNA",
@@ -1388,23 +1493,36 @@
     "gender": "femenino",
     "league_title": "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR",
     "mvp": "-",
-    "weight": 12120261025000087
+    "weight": 12120261025203087
   },
   {
     "id": "game-2026-11-07-colmenar-viejo-a-cesur-distrito-olimpico-senior-femenino",
     "slug": "game-2026-11-07-colmenar-viejo-a-cesur-distrito-olimpico-senior-femenino",
     "date": "2026-11-07",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO A",
     "home_slug": "colmenar-viejo-a-senior-femenino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 65,
     "away": "CESUR DISTRITO OLIMPICO",
     "away_slug": "cesur-distrito-olimpico",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 69,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -1414,6 +1532,44 @@
     "league_title": "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR",
     "mvp": "-",
     "weight": 12120261107000048
+  },
+  {
+    "id": "game-2026-11-07-colmenar-viejo-a-cesur-distrito-olimpico-senior-femenino",
+    "slug": "game-2026-11-07-colmenar-viejo-a-cesur-distrito-olimpico-senior-femenino",
+    "date": "2026-11-07",
+    "time": "20:00",
+    "status": "Finalizado",
+    "home": "COLMENAR VIEJO A",
+    "home_slug": "colmenar-viejo-a-senior-femenino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": 65,
+    "away": "CESUR DISTRITO OLIMPICO",
+    "away_slug": "cesur-distrito-olimpico",
+    "away_logo": "images/teams/rival.png",
+    "away_score": 69,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Senior",
+    "gender": "femenino",
+    "league_title": "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR",
+    "mvp": "-",
+    "weight": 12120261107200048
   },
   {
     "id": "game-2026-11-15-fundal-alcobendas-colmenar-viejo-a-senior-femenino",
@@ -1719,44 +1875,6 @@
     "id": "game-2026-10-04-isaac-newton-colmenar-viejo-b-senior-femenino",
     "slug": "game-2026-10-04-isaac-newton-colmenar-viejo-b-senior-femenino",
     "date": "2026-10-04",
-    "time": "",
-    "status": "Finalizado",
-    "home": "ISAAC NEWTON",
-    "home_slug": "isaac-newton",
-    "home_logo": "images/teams/rival.png",
-    "home_score": 56,
-    "away": "COLMENAR VIEJO B",
-    "away_slug": "colmenar-viejo-b-senior-femenino",
-    "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": 65,
-    "quarters": {
-      "home": [
-        18,
-        20,
-        19,
-        21
-      ],
-      "away": [
-        15,
-        18,
-        22,
-        19
-      ]
-    },
-    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
-    "venue_title": "JUAN ANTONIO SAMARANCH",
-    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "category": "Senior",
-    "gender": "femenino",
-    "league_title": "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR",
-    "mvp": "-",
-    "weight": 12220261004000086
-  },
-  {
-    "id": "game-2026-10-04-isaac-newton-colmenar-viejo-b-senior-femenino",
-    "slug": "game-2026-10-04-isaac-newton-colmenar-viejo-b-senior-femenino",
-    "date": "2026-10-04",
     "time": "09:00",
     "status": "Finalizado",
     "home": "ISAAC NEWTON",
@@ -1796,16 +1914,29 @@
     "slug": "game-2026-10-11-colmenar-viejo-b-femenino-fuenlabrada-senior-femenino",
     "date": "2026-10-11",
     "time": "12:00",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO B",
     "home_slug": "colmenar-viejo-b-senior-femenino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 96,
     "away": "FEMENINO FUENLABRADA",
     "away_slug": "femenino-fuenlabrada",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 47,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -1821,16 +1952,29 @@
     "slug": "game-2026-10-18-colmenar-viejo-b-arganzuela-centro-senior-femenino",
     "date": "2026-10-18",
     "time": "13:15",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO B",
     "home_slug": "colmenar-viejo-b-senior-femenino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 60,
     "away": "ARGANZUELA CENTRO",
     "away_slug": "arganzuela-centro",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 56,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -1845,17 +1989,30 @@
     "id": "game-2026-10-25-uros-de-rivas-colmenar-viejo-b-senior-femenino",
     "slug": "game-2026-10-25-uros-de-rivas-colmenar-viejo-b-senior-femenino",
     "date": "2026-10-25",
-    "time": "",
-    "status": "Próximo",
+    "time": "09:30",
+    "status": "Finalizado",
     "home": "UROS DE RIVAS",
     "home_slug": "uros-de-rivas",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 45,
     "away": "COLMENAR VIEJO B",
     "away_slug": "colmenar-viejo-b-senior-femenino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 66,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "LOS ALMENDROS, PABELLON AIGUES TORTES, S/N, Rivas-Vaciamadrid",
     "venue_slug": "los-almendros-pabellon-aigues-tortes-s-n-rivas-vaciamadrid",
     "venue_title": "LOS ALMENDROS",
@@ -1864,23 +2021,36 @@
     "gender": "femenino",
     "league_title": "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR",
     "mvp": "-",
-    "weight": 12220261025000057
+    "weight": 12220261025093057
   },
   {
     "id": "game-2026-11-08-colmenar-viejo-b-virgen-de-atocha-senior-femenino",
     "slug": "game-2026-11-08-colmenar-viejo-b-virgen-de-atocha-senior-femenino",
     "date": "2026-11-08",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO B",
     "home_slug": "colmenar-viejo-b-senior-femenino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 66,
     "away": "VIRGEN DE ATOCHA",
     "away_slug": "virgen-de-atocha",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 52,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -1892,10 +2062,48 @@
     "weight": 12220261108000094
   },
   {
+    "id": "game-2026-11-08-colmenar-viejo-b-virgen-de-atocha-senior-femenino",
+    "slug": "game-2026-11-08-colmenar-viejo-b-virgen-de-atocha-senior-femenino",
+    "date": "2026-11-08",
+    "time": "18:30",
+    "status": "Finalizado",
+    "home": "COLMENAR VIEJO B",
+    "home_slug": "colmenar-viejo-b-senior-femenino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": 66,
+    "away": "VIRGEN DE ATOCHA",
+    "away_slug": "virgen-de-atocha",
+    "away_logo": "images/teams/rival.png",
+    "away_score": 52,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Senior",
+    "gender": "femenino",
+    "league_title": "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR",
+    "mvp": "-",
+    "weight": 12220261108183094
+  },
+  {
     "id": "game-2026-11-15-corazonistas-colmenar-viejo-b-senior-femenino",
     "slug": "game-2026-11-15-corazonistas-colmenar-viejo-b-senior-femenino",
     "date": "2026-11-15",
-    "time": "",
+    "time": "12:30",
     "status": "Próximo",
     "home": "CORAZONISTAS",
     "home_slug": "corazonistas",
@@ -1914,7 +2122,7 @@
     "gender": "femenino",
     "league_title": "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR",
     "mvp": "-",
-    "weight": 12220261115000032
+    "weight": 12220261115123032
   },
   {
     "id": "game-2026-11-22-colmenar-viejo-b-c-b-getafe-senior-femenino",
@@ -2321,16 +2529,29 @@
     "slug": "game-2026-10-18-mejorada-2012-c-b-colmenar-viejo-sub-22-masculino",
     "date": "2026-10-18",
     "time": "10:00",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "MEJORADA 2012 C.B.",
     "home_slug": "mejorada-2012-c-b",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 48,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-sub-22-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 95,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "MEJORADA, PABELLON MPAL. JOAN MIRO, S/N, Mejorada del Campo",
     "venue_slug": "mejorada-pabellon-mpal-joan-miro-s-n-mejorada-del-campo",
     "venue_title": "MEJORADA",
@@ -2345,17 +2566,30 @@
     "id": "game-2026-10-25-colmenar-viejo-buen-consejo-sub-22-masculino",
     "slug": "game-2026-10-25-colmenar-viejo-buen-consejo-sub-22-masculino",
     "date": "2026-10-25",
-    "time": "",
-    "status": "Próximo",
+    "time": "17:45",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-sub-22-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 71,
     "away": "BUEN CONSEJO",
     "away_slug": "buen-consejo",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 84,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -2364,27 +2598,40 @@
     "gender": "masculino",
     "league_title": "Sub 22 Masc. BRONCE - PRIMERA 1ª DIVISION - GRUPO 1",
     "mvp": "-",
-    "weight": 21020261025000007
+    "weight": 21020261025174507
   },
   {
     "id": "game-2026-11-08-distrito-carabanchel-a-colmenar-viejo-sub-22-masculino",
     "slug": "game-2026-11-08-distrito-carabanchel-a-colmenar-viejo-sub-22-masculino",
     "date": "2026-11-08",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "DISTRITO CARABANCHEL A",
     "home_slug": "distrito-carabanchel-a",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 54,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-sub-22-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
-    "venue": "FRANCISCO FERNANDEZ OCHOA, PABELLON DE LAS 14 OLIVAS, S/N, Madrid",
-    "venue_slug": "francisco-fernandez-ochoa-pabellon-de-las-14-olivas-s-n-madrid",
-    "venue_title": "FRANCISCO FERNANDEZ OCHOA",
-    "venue_address": "PABELLON DE LAS 14 OLIVAS, S/N, Madrid",
+    "away_score": 45,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "category": "Sub 22",
     "gender": "masculino",
     "league_title": "Sub 22 Masc. BRONCE - PRIMERA 1ª DIVISION - GRUPO 1",
@@ -2392,10 +2639,48 @@
     "weight": 21020261108000085
   },
   {
+    "id": "game-2026-11-08-distrito-carabanchel-a-colmenar-viejo-sub-22-masculino",
+    "slug": "game-2026-11-08-distrito-carabanchel-a-colmenar-viejo-sub-22-masculino",
+    "date": "2026-11-08",
+    "time": "10:45",
+    "status": "Finalizado",
+    "home": "DISTRITO CARABANCHEL A",
+    "home_slug": "distrito-carabanchel-a",
+    "home_logo": "images/teams/rival.png",
+    "home_score": 54,
+    "away": "COLMENAR VIEJO",
+    "away_slug": "colmenar-viejo-sub-22-masculino",
+    "away_logo": "images/teams/cbcolmenar.png",
+    "away_score": 45,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "ESCUELAS PIAS CARABANCHEL, PABELLON COLEGIO AVDA. EUGENIA DE MONTIJO, 83, Madrid",
+    "venue_slug": "escuelas-pias-carabanchel-pabellon-colegio-avda-eugenia-de-montijo-83-madrid",
+    "venue_title": "ESCUELAS PIAS CARABANCHEL",
+    "venue_address": "PABELLON COLEGIO AVDA. EUGENIA DE MONTIJO, 83, Madrid",
+    "category": "Sub 22",
+    "gender": "masculino",
+    "league_title": "Sub 22 Masc. BRONCE - PRIMERA 1ª DIVISION - GRUPO 1",
+    "mvp": "-",
+    "weight": 21020261108104585
+  },
+  {
     "id": "game-2026-11-15-colmenar-viejo-vallekas-basket-sub-22-masculino",
     "slug": "game-2026-11-15-colmenar-viejo-vallekas-basket-sub-22-masculino",
     "date": "2026-11-15",
-    "time": "",
+    "time": "11:30",
     "status": "Próximo",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-sub-22-masculino",
@@ -2414,7 +2699,7 @@
     "gender": "masculino",
     "league_title": "Sub 22 Masc. BRONCE - PRIMERA 1ª DIVISION - GRUPO 1",
     "mvp": "-",
-    "weight": 21020261115000029
+    "weight": 21020261115113029
   },
   {
     "id": "game-2026-11-22-abaco-colmenar-viejo-sub-22-masculino",
@@ -2808,44 +3093,6 @@
     "id": "game-2026-10-04-colmenar-viejo-a-coslada-c-b-serracines-junior-masculino",
     "slug": "game-2026-10-04-colmenar-viejo-a-coslada-c-b-serracines-junior-masculino",
     "date": "2026-10-04",
-    "time": "",
-    "status": "Finalizado",
-    "home": "COLMENAR VIEJO A",
-    "home_slug": "colmenar-viejo-a-junior-masculino",
-    "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": 75,
-    "away": "COSLADA C.B. SERRACINES",
-    "away_slug": "coslada-c-b-serracines",
-    "away_logo": "images/teams/rival.png",
-    "away_score": 59,
-    "quarters": {
-      "home": [
-        18,
-        20,
-        19,
-        21
-      ],
-      "away": [
-        15,
-        18,
-        22,
-        19
-      ]
-    },
-    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
-    "venue_title": "JUAN ANTONIO SAMARANCH",
-    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "category": "Junior",
-    "gender": "masculino",
-    "league_title": "Junior Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
-    "mvp": "-",
-    "weight": 31120261004000062
-  },
-  {
-    "id": "game-2026-10-04-colmenar-viejo-a-coslada-c-b-serracines-junior-masculino",
-    "slug": "game-2026-10-04-colmenar-viejo-a-coslada-c-b-serracines-junior-masculino",
-    "date": "2026-10-04",
     "time": "18:15",
     "status": "Finalizado",
     "home": "COLMENAR VIEJO A",
@@ -2885,16 +3132,29 @@
     "slug": "game-2026-10-10-colegio-el-prado-colmenar-viejo-a-junior-masculino",
     "date": "2026-10-10",
     "time": "13:00",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLEGIO EL PRADO",
     "home_slug": "colegio-el-prado",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 59,
     "away": "COLMENAR VIEJO A",
     "away_slug": "colmenar-viejo-a-junior-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 44,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "EL PRADO, PABELLON COLEGIO COSTA BRAVA, 4, Madrid",
     "venue_slug": "el-prado-pabellon-colegio-costa-brava-4-madrid",
     "venue_title": "EL PRADO",
@@ -2910,16 +3170,29 @@
     "slug": "game-2026-10-18-colmenar-viejo-a-villanueva-de-la-canada-junior-masculino",
     "date": "2026-10-18",
     "time": "11:30",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO A",
     "home_slug": "colmenar-viejo-a-junior-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 79,
     "away": "VILLANUEVA DE LA CAÑADA",
     "away_slug": "villanueva-de-la-canada",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 67,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -2934,17 +3207,30 @@
     "id": "game-2026-10-25-pilaristas-colmenar-viejo-a-junior-masculino",
     "slug": "game-2026-10-25-pilaristas-colmenar-viejo-a-junior-masculino",
     "date": "2026-10-25",
-    "time": "",
-    "status": "Próximo",
+    "time": "15:30",
+    "status": "Finalizado",
     "home": "PILARISTAS",
     "home_slug": "pilaristas",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 54,
     "away": "COLMENAR VIEJO A",
     "away_slug": "colmenar-viejo-a-junior-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 64,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "PILARISTAS, PABELLON COLEGIO AYALA, 47, Madrid",
     "venue_slug": "pilaristas-pabellon-colegio-ayala-47-madrid",
     "venue_title": "PILARISTAS",
@@ -2953,23 +3239,36 @@
     "gender": "masculino",
     "league_title": "Junior Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
     "mvp": "-",
-    "weight": 31120261025000082
+    "weight": 31120261025153082
   },
   {
-    "id": "game-2026-11-08-colmenar-viejo-a-brains-moraleja-b-junior-masculino",
-    "slug": "game-2026-11-08-colmenar-viejo-a-brains-moraleja-b-junior-masculino",
-    "date": "2026-11-08",
+    "id": "game-2026-11-07-colmenar-viejo-a-brains-moraleja-b-junior-masculino",
+    "slug": "game-2026-11-07-colmenar-viejo-a-brains-moraleja-b-junior-masculino",
+    "date": "2026-11-07",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO A",
     "home_slug": "colmenar-viejo-a-junior-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 80,
     "away": "BRAINS MORALEJA B",
     "away_slug": "brains-moraleja-b",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 85,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -2978,16 +3277,54 @@
     "gender": "masculino",
     "league_title": "Junior Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
     "mvp": "-",
-    "weight": 31120261108000065
+    "weight": 31120261107000087
   },
   {
-    "id": "game-2026-11-14-spanish-basketball-academy-colmenar-viejo-a-junior-masculino",
-    "slug": "game-2026-11-14-spanish-basketball-academy-colmenar-viejo-a-junior-masculino",
+    "id": "game-2026-11-07-colmenar-viejo-a-brains-moraleja-b-junior-masculino",
+    "slug": "game-2026-11-07-colmenar-viejo-a-brains-moraleja-b-junior-masculino",
+    "date": "2026-11-07",
+    "time": "18:00",
+    "status": "Finalizado",
+    "home": "COLMENAR VIEJO A",
+    "home_slug": "colmenar-viejo-a-junior-masculino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": 80,
+    "away": "BRAINS MORALEJA B",
+    "away_slug": "brains-moraleja-b",
+    "away_logo": "images/teams/rival.png",
+    "away_score": 85,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Junior",
+    "gender": "masculino",
+    "league_title": "Junior Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
+    "mvp": "-",
+    "weight": 31120261107180087
+  },
+  {
+    "id": "game-2026-11-14-retirado-spanish-basketball-academy-colmenar-viejo-a-junior-masculino",
+    "slug": "game-2026-11-14-retirado-spanish-basketball-academy-colmenar-viejo-a-junior-masculino",
     "date": "2026-11-14",
     "time": "10:00",
     "status": "Próximo",
-    "home": "SPANISH BASKETBALL ACADEMY",
-    "home_slug": "spanish-basketball-academy",
+    "home": "(RETIRADO) SPANISH BASKETBALL ACADEMY",
+    "home_slug": "retirado-spanish-basketball-academy",
     "home_logo": "images/teams/rival.png",
     "home_score": null,
     "away": "COLMENAR VIEJO A",
@@ -3003,7 +3340,7 @@
     "gender": "masculino",
     "league_title": "Junior Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
     "mvp": "-",
-    "weight": 31120261114100051
+    "weight": 31120261114100015
   },
   {
     "id": "game-2026-11-22-colmenar-viejo-a-movistar-estudiantes-diaz-miguel-junior-masculino",
@@ -3256,8 +3593,8 @@
     "weight": 31120270220000033
   },
   {
-    "id": "game-2027-02-28-colmenar-viejo-a-spanish-basketball-academy-junior-masculino",
-    "slug": "game-2027-02-28-colmenar-viejo-a-spanish-basketball-academy-junior-masculino",
+    "id": "game-2027-02-28-colmenar-viejo-a-retirado-spanish-basketball-academy-junior-masculino",
+    "slug": "game-2027-02-28-colmenar-viejo-a-retirado-spanish-basketball-academy-junior-masculino",
     "date": "2027-02-28",
     "time": "",
     "status": "Próximo",
@@ -3265,8 +3602,8 @@
     "home_slug": "colmenar-viejo-a-junior-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
     "home_score": null,
-    "away": "SPANISH BASKETBALL ACADEMY",
-    "away_slug": "spanish-basketball-academy",
+    "away": "(RETIRADO) SPANISH BASKETBALL ACADEMY",
+    "away_slug": "retirado-spanish-basketball-academy",
     "away_logo": "images/teams/rival.png",
     "away_score": null,
     "quarters": null,
@@ -3278,7 +3615,7 @@
     "gender": "masculino",
     "league_title": "Junior Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
     "mvp": "-",
-    "weight": 31120270228000080
+    "weight": 31120270228000047
   },
   {
     "id": "game-2027-03-06-movistar-estudiantes-diaz-miguel-colmenar-viejo-a-junior-masculino",
@@ -3320,10 +3657,10 @@
     "away_logo": "images/teams/cbcolmenar.png",
     "away_score": null,
     "quarters": null,
-    "venue": "PARQUE HENARES, PABELLON calle VITORIA, S/N, San Fernando de Henares",
+    "venue": "PARQUE HENARES, PABELLON CALLE VITORIA, S/N, San Fernando de Henares",
     "venue_slug": "parque-henares-pabellon-calle-vitoria-s-n-san-fernando-de-henares",
     "venue_title": "PARQUE HENARES",
-    "venue_address": "PABELLON calle VITORIA, S/N, San Fernando de Henares",
+    "venue_address": "PABELLON CALLE VITORIA, S/N, San Fernando de Henares",
     "category": "Junior",
     "gender": "masculino",
     "league_title": "Junior Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
@@ -3422,44 +3759,6 @@
     "id": "game-2026-10-04-ricopia-funbal-alcala-cbja-colmenar-viejo-b-junior-masculino",
     "slug": "game-2026-10-04-ricopia-funbal-alcala-cbja-colmenar-viejo-b-junior-masculino",
     "date": "2026-10-04",
-    "time": "",
-    "status": "Finalizado",
-    "home": "RICOPIA FUNBAL ALCALA CBJA",
-    "home_slug": "ricopia-funbal-alcala-cbja",
-    "home_logo": "images/teams/rival.png",
-    "home_score": 52,
-    "away": "COLMENAR VIEJO B",
-    "away_slug": "colmenar-viejo-b-junior-masculino",
-    "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": 58,
-    "quarters": {
-      "home": [
-        18,
-        20,
-        19,
-        21
-      ],
-      "away": [
-        15,
-        18,
-        22,
-        19
-      ]
-    },
-    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
-    "venue_title": "JUAN ANTONIO SAMARANCH",
-    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "category": "Junior",
-    "gender": "masculino",
-    "league_title": "Junior Masc. Pref. - PRIMERA 4ª DIVISION - GRUPO 2",
-    "mvp": "-",
-    "weight": 31220261004000002
-  },
-  {
-    "id": "game-2026-10-04-ricopia-funbal-alcala-cbja-colmenar-viejo-b-junior-masculino",
-    "slug": "game-2026-10-04-ricopia-funbal-alcala-cbja-colmenar-viejo-b-junior-masculino",
-    "date": "2026-10-04",
     "time": "15:00",
     "status": "Finalizado",
     "home": "RICOPIA FUNBAL ALCALA CBJA",
@@ -3499,16 +3798,29 @@
     "slug": "game-2026-10-11-colmenar-viejo-b-c-b-pizarro-blanco-campus-avila-junior-masculino",
     "date": "2026-10-11",
     "time": "10:00",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO B",
     "home_slug": "colmenar-viejo-b-junior-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 83,
     "away": "C.B. PIZARRO BLANCO CAMPUS ÁVILA",
     "away_slug": "c-b-pizarro-blanco-campus-avila",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 32,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -3523,17 +3835,30 @@
     "id": "game-2026-10-17-basalcor-rm-colmenar-viejo-b-junior-masculino",
     "slug": "game-2026-10-17-basalcor-rm-colmenar-viejo-b-junior-masculino",
     "date": "2026-10-17",
-    "time": "",
-    "status": "Próximo",
+    "time": "11:30",
+    "status": "Finalizado",
     "home": "BASALCOR RM",
     "home_slug": "basalcor-rm",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 33,
     "away": "COLMENAR VIEJO B",
     "away_slug": "colmenar-viejo-b-junior-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 81,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "AMANECER, CLUB DEPORTIVO AVDA. PABLO IGLESIAS, 6, Alcorcón",
     "venue_slug": "amanecer-club-deportivo-avda-pablo-iglesias-6-alcorcon",
     "venue_title": "AMANECER",
@@ -3542,23 +3867,36 @@
     "gender": "masculino",
     "league_title": "Junior Masc. Pref. - PRIMERA 4ª DIVISION - GRUPO 2",
     "mvp": "-",
-    "weight": 31220261017000083
+    "weight": 31220261017113083
   },
   {
     "id": "game-2026-10-25-colmenar-viejo-b-valcude-alcobendas-10-junior-masculino",
     "slug": "game-2026-10-25-colmenar-viejo-b-valcude-alcobendas-10-junior-masculino",
     "date": "2026-10-25",
-    "time": "",
-    "status": "Próximo",
+    "time": "16:00",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO B",
     "home_slug": "colmenar-viejo-b-junior-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 50,
     "away": "VALCUDE ALCOBENDAS 10",
     "away_slug": "valcude-alcobendas-10",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 54,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -3567,23 +3905,74 @@
     "gender": "masculino",
     "league_title": "Junior Masc. Pref. - PRIMERA 4ª DIVISION - GRUPO 2",
     "mvp": "-",
-    "weight": 31220261025000000
+    "weight": 31220261025160000
   },
   {
     "id": "game-2026-11-07-liceo-frances-10-colmenar-viejo-b-junior-masculino",
     "slug": "game-2026-11-07-liceo-frances-10-colmenar-viejo-b-junior-masculino",
     "date": "2026-11-07",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "LICEO FRANCES 10",
     "home_slug": "liceo-frances-10",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 54,
     "away": "COLMENAR VIEJO B",
     "away_slug": "colmenar-viejo-b-junior-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 55,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Junior",
+    "gender": "masculino",
+    "league_title": "Junior Masc. Pref. - PRIMERA 4ª DIVISION - GRUPO 2",
+    "mvp": "-",
+    "weight": 31220261107000066
+  },
+  {
+    "id": "game-2026-11-07-liceo-frances-10-colmenar-viejo-b-junior-masculino",
+    "slug": "game-2026-11-07-liceo-frances-10-colmenar-viejo-b-junior-masculino",
+    "date": "2026-11-07",
+    "time": "20:00",
+    "status": "Finalizado",
+    "home": "LICEO FRANCES 10",
+    "home_slug": "liceo-frances-10",
+    "home_logo": "images/teams/rival.png",
+    "home_score": 54,
+    "away": "COLMENAR VIEJO B",
+    "away_slug": "colmenar-viejo-b-junior-masculino",
+    "away_logo": "images/teams/cbcolmenar.png",
+    "away_score": 55,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "LICEO FRANCES, PABELLON COLEGIO AVDA. DE LOS MADROÑOS frente nº 42, Madrid",
     "venue_slug": "liceo-frances-pabellon-colegio-avda-de-los-madronos-frente-n-42-madrid",
     "venue_title": "LICEO FRANCES",
@@ -3592,13 +3981,13 @@
     "gender": "masculino",
     "league_title": "Junior Masc. Pref. - PRIMERA 4ª DIVISION - GRUPO 2",
     "mvp": "-",
-    "weight": 31220261107000066
+    "weight": 31220261107200066
   },
   {
     "id": "game-2026-11-15-colmenar-viejo-b-innova-tsn-leganes-b-junior-masculino",
     "slug": "game-2026-11-15-colmenar-viejo-b-innova-tsn-leganes-b-junior-masculino",
     "date": "2026-11-15",
-    "time": "",
+    "time": "13:45",
     "status": "Próximo",
     "home": "COLMENAR VIEJO B",
     "home_slug": "colmenar-viejo-b-junior-masculino",
@@ -3617,7 +4006,7 @@
     "gender": "masculino",
     "league_title": "Junior Masc. Pref. - PRIMERA 4ª DIVISION - GRUPO 2",
     "mvp": "-",
-    "weight": 31220261115000049
+    "weight": 31220261115134549
   },
   {
     "id": "game-2026-11-21-vicalvaro-baloncesto-cde-colmenar-viejo-b-junior-masculino",
@@ -3773,7 +4162,7 @@
     "id": "game-2027-01-30-c-b-pizarro-blanco-campus-avila-colmenar-viejo-b-junior-masculino",
     "slug": "game-2027-01-30-c-b-pizarro-blanco-campus-avila-colmenar-viejo-b-junior-masculino",
     "date": "2027-01-30",
-    "time": "",
+    "time": "19:00",
     "status": "Próximo",
     "home": "C.B. PIZARRO BLANCO CAMPUS ÁVILA",
     "home_slug": "c-b-pizarro-blanco-campus-avila",
@@ -3792,7 +4181,7 @@
     "gender": "masculino",
     "league_title": "Junior Masc. Pref. - PRIMERA 4ª DIVISION - GRUPO 2",
     "mvp": "-",
-    "weight": 31220270130000047
+    "weight": 31220270130190047
   },
   {
     "id": "game-2027-02-07-colmenar-viejo-b-basalcor-rm-junior-masculino",
@@ -4036,44 +4425,6 @@
     "id": "game-2026-10-04-mirasur-school-parque-europa-colmenar-viejo-c-junior-masculino",
     "slug": "game-2026-10-04-mirasur-school-parque-europa-colmenar-viejo-c-junior-masculino",
     "date": "2026-10-04",
-    "time": "",
-    "status": "Finalizado",
-    "home": "MIRASUR SCHOOL PARQUE EUROPA",
-    "home_slug": "mirasur-school-parque-europa",
-    "home_logo": "images/teams/rival.png",
-    "home_score": 69,
-    "away": "COLMENAR VIEJO C",
-    "away_slug": "colmenar-viejo-c-junior-masculino",
-    "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": 46,
-    "quarters": {
-      "home": [
-        18,
-        20,
-        19,
-        21
-      ],
-      "away": [
-        15,
-        18,
-        22,
-        19
-      ]
-    },
-    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
-    "venue_title": "JUAN ANTONIO SAMARANCH",
-    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "category": "Junior",
-    "gender": "masculino",
-    "league_title": "Junior Masc. Pref. - PRIMERA 5ª DIVISION - GRUPO PAR",
-    "mvp": "-",
-    "weight": 31320261004000078
-  },
-  {
-    "id": "game-2026-10-04-mirasur-school-parque-europa-colmenar-viejo-c-junior-masculino",
-    "slug": "game-2026-10-04-mirasur-school-parque-europa-colmenar-viejo-c-junior-masculino",
-    "date": "2026-10-04",
     "time": "12:00",
     "status": "Finalizado",
     "home": "MIRASUR SCHOOL PARQUE EUROPA",
@@ -4113,16 +4464,29 @@
     "slug": "game-2026-10-10-cb-pozuelo-b-colmenar-viejo-c-junior-masculino",
     "date": "2026-10-10",
     "time": "16:30",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "CB POZUELO B",
     "home_slug": "cb-pozuelo-b",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 62,
     "away": "COLMENAR VIEJO C",
     "away_slug": "colmenar-viejo-c-junior-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 44,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "GERARDO DIEGO, I.E.S. IRLANDA, S/N, Pozuelo de Alarcón",
     "venue_slug": "gerardo-diego-i-e-s-irlanda-s-n-pozuelo-de-alarcon",
     "venue_title": "GERARDO DIEGO",
@@ -4138,16 +4502,29 @@
     "slug": "game-2026-10-18-colmenar-viejo-c-colegio-claret-madrid-blanco-junior-masculino",
     "date": "2026-10-18",
     "time": "11:30",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO C",
     "home_slug": "colmenar-viejo-c-junior-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 47,
     "away": "COLEGIO CLARET MADRID ''BLANCO''",
     "away_slug": "colegio-claret-madrid-blanco",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 40,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -4162,17 +4539,30 @@
     "id": "game-2026-10-25-maravillas-colmenar-viejo-c-junior-masculino",
     "slug": "game-2026-10-25-maravillas-colmenar-viejo-c-junior-masculino",
     "date": "2026-10-25",
-    "time": "",
-    "status": "Próximo",
+    "time": "18:15",
+    "status": "Finalizado",
     "home": "MARAVILLAS",
     "home_slug": "maravillas",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 72,
     "away": "COLMENAR VIEJO C",
     "away_slug": "colmenar-viejo-c-junior-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 34,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "LA SALLE MARAVILLAS, PABELLON COLEGIO JOAQUIN COSTA, 21, Madrid",
     "venue_slug": "la-salle-maravillas-pabellon-colegio-joaquin-costa-21-madrid",
     "venue_title": "LA SALLE MARAVILLAS",
@@ -4181,23 +4571,36 @@
     "gender": "masculino",
     "league_title": "Junior Masc. Pref. - PRIMERA 5ª DIVISION - GRUPO PAR",
     "mvp": "-",
-    "weight": 31320261025000021
+    "weight": 31320261025181521
   },
   {
     "id": "game-2026-11-08-colmenar-viejo-c-bt-aquinas-junior-masculino",
     "slug": "game-2026-11-08-colmenar-viejo-c-bt-aquinas-junior-masculino",
     "date": "2026-11-08",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO C",
     "home_slug": "colmenar-viejo-c-junior-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 69,
     "away": "BT AQUINAS",
     "away_slug": "bt-aquinas",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 71,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -4209,10 +4612,48 @@
     "weight": 31320261108000070
   },
   {
+    "id": "game-2026-11-08-colmenar-viejo-c-bt-aquinas-junior-masculino",
+    "slug": "game-2026-11-08-colmenar-viejo-c-bt-aquinas-junior-masculino",
+    "date": "2026-11-08",
+    "time": "10:45",
+    "status": "Finalizado",
+    "home": "COLMENAR VIEJO C",
+    "home_slug": "colmenar-viejo-c-junior-masculino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": 69,
+    "away": "BT AQUINAS",
+    "away_slug": "bt-aquinas",
+    "away_logo": "images/teams/rival.png",
+    "away_score": 71,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Junior",
+    "gender": "masculino",
+    "league_title": "Junior Masc. Pref. - PRIMERA 5ª DIVISION - GRUPO PAR",
+    "mvp": "-",
+    "weight": 31320261108104570
+  },
+  {
     "id": "game-2026-11-14-basket-aranjuez-c-colmenar-viejo-c-junior-masculino",
     "slug": "game-2026-11-14-basket-aranjuez-c-colmenar-viejo-c-junior-masculino",
     "date": "2026-11-14",
-    "time": "",
+    "time": "20:00",
     "status": "Próximo",
     "home": "BASKET ARANJUEZ C",
     "home_slug": "basket-aranjuez-c",
@@ -4231,7 +4672,7 @@
     "gender": "masculino",
     "league_title": "Junior Masc. Pref. - PRIMERA 5ª DIVISION - GRUPO PAR",
     "mvp": "-",
-    "weight": 31320261114000080
+    "weight": 31320261114200080
   },
   {
     "id": "game-2026-11-22-colmenar-viejo-c-miramadrid-club-deportivo-basico-amarillo-junior-masculino",
@@ -4273,9 +4714,9 @@
     "away_logo": "images/teams/cbcolmenar.png",
     "away_score": null,
     "quarters": null,
-    "venue": "LA CAJA MAGICA INDOOR NORTE Pista 3 CAMINO DE PERALES, 23, Madrid",
-    "venue_slug": "la-caja-magica-indoor-norte-pista-3-camino-de-perales-23-madrid",
-    "venue_title": "LA CAJA MAGICA INDOOR NORTE Pista 3 CAMINO DE PERALES",
+    "venue": "LA CAJA MAGICA INDOOR NORTE Pista 4 CAMINO DE PERALES, 23, Madrid",
+    "venue_slug": "la-caja-magica-indoor-norte-pista-4-camino-de-perales-23-madrid",
+    "venue_title": "LA CAJA MAGICA INDOOR NORTE Pista 4 CAMINO DE PERALES",
     "venue_address": "23, Madrid",
     "category": "Junior",
     "gender": "masculino",
@@ -4612,44 +5053,6 @@
     "id": "game-2026-10-03-fenix-basket-club-boadilla-colmenar-viejo-junior-femenino",
     "slug": "game-2026-10-03-fenix-basket-club-boadilla-colmenar-viejo-junior-femenino",
     "date": "2026-10-03",
-    "time": "",
-    "status": "Finalizado",
-    "home": "FENIX BASKET CLUB BOADILLA",
-    "home_slug": "fenix-basket-club-boadilla",
-    "home_logo": "images/teams/rival.png",
-    "home_score": 63,
-    "away": "COLMENAR VIEJO",
-    "away_slug": "colmenar-viejo-junior-femenino",
-    "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": 31,
-    "quarters": {
-      "home": [
-        18,
-        20,
-        19,
-        21
-      ],
-      "away": [
-        15,
-        18,
-        22,
-        19
-      ]
-    },
-    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
-    "venue_title": "JUAN ANTONIO SAMARANCH",
-    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "category": "Junior",
-    "gender": "femenino",
-    "league_title": "Junior Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 5",
-    "mvp": "-",
-    "weight": 32020261003000048
-  },
-  {
-    "id": "game-2026-10-03-fenix-basket-club-boadilla-colmenar-viejo-junior-femenino",
-    "slug": "game-2026-10-03-fenix-basket-club-boadilla-colmenar-viejo-junior-femenino",
-    "date": "2026-10-03",
     "time": "13:00",
     "status": "Finalizado",
     "home": "FENIX BASKET CLUB BOADILLA",
@@ -4689,16 +5092,29 @@
     "slug": "game-2026-10-18-colmenar-viejo-estudiantes-international-school-b-junior-femenino",
     "date": "2026-10-18",
     "time": "16:15",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-junior-femenino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 52,
     "away": "ESTUDIANTES INTERNATIONAL SCHOOL \"B\"",
     "away_slug": "estudiantes-international-school-b",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 36,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -4713,42 +5129,68 @@
     "id": "game-2026-10-24-movistar-estudiantes-anton-colmenar-viejo-junior-femenino",
     "slug": "game-2026-10-24-movistar-estudiantes-anton-colmenar-viejo-junior-femenino",
     "date": "2026-10-24",
-    "time": "",
-    "status": "Próximo",
+    "time": "14:15",
+    "status": "Finalizado",
     "home": "MOVISTAR ESTUDIANTES ANTON",
     "home_slug": "movistar-estudiantes-anton",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 41,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-junior-femenino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
-    "venue": "MOVISTAR ACADEMY MAGARIÑOS, PABELLON SERRANO, 129, Madrid",
-    "venue_slug": "movistar-academy-magarinos-pabellon-serrano-129-madrid",
-    "venue_title": "MOVISTAR ACADEMY MAGARIÑOS",
-    "venue_address": "PABELLON SERRANO, 129, Madrid",
+    "away_score": 32,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "I.E.S. BLANCA FERNANDEZ OCHOA CALLE DEL MONASTERIO DE EL PAULAR, 3, Madrid",
+    "venue_slug": "i-e-s-blanca-fernandez-ochoa-calle-del-monasterio-de-el-paular-3-madrid",
+    "venue_title": "I.E.S. BLANCA FERNANDEZ OCHOA CALLE DEL MONASTERIO DE EL PAULAR",
+    "venue_address": "3, Madrid",
     "category": "Junior",
     "gender": "femenino",
     "league_title": "Junior Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 5",
     "mvp": "-",
-    "weight": 32020261024000005
+    "weight": 32020261024141505
   },
   {
-    "id": "game-2026-11-08-colmenar-viejo-liceo-frances-junior-femenino",
-    "slug": "game-2026-11-08-colmenar-viejo-liceo-frances-junior-femenino",
-    "date": "2026-11-08",
+    "id": "game-2026-11-07-colmenar-viejo-liceo-frances-junior-femenino",
+    "slug": "game-2026-11-07-colmenar-viejo-liceo-frances-junior-femenino",
+    "date": "2026-11-07",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-junior-femenino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 47,
     "away": "LICEO FRANCES",
     "away_slug": "liceo-frances",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 70,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -4757,13 +5199,51 @@
     "gender": "femenino",
     "league_title": "Junior Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 5",
     "mvp": "-",
-    "weight": 32020261108000060
+    "weight": 32020261107000070
+  },
+  {
+    "id": "game-2026-11-07-colmenar-viejo-liceo-frances-junior-femenino",
+    "slug": "game-2026-11-07-colmenar-viejo-liceo-frances-junior-femenino",
+    "date": "2026-11-07",
+    "time": "16:00",
+    "status": "Finalizado",
+    "home": "COLMENAR VIEJO",
+    "home_slug": "colmenar-viejo-junior-femenino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": 47,
+    "away": "LICEO FRANCES",
+    "away_slug": "liceo-frances",
+    "away_logo": "images/teams/rival.png",
+    "away_score": 70,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Junior",
+    "gender": "femenino",
+    "league_title": "Junior Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 5",
+    "mvp": "-",
+    "weight": 32020261107160070
   },
   {
     "id": "game-2026-11-15-colmenar-viejo-c-b-ciudad-de-mostoles-b-junior-femenino",
     "slug": "game-2026-11-15-colmenar-viejo-c-b-ciudad-de-mostoles-b-junior-femenino",
     "date": "2026-11-15",
-    "time": "",
+    "time": "13:15",
     "status": "Próximo",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-junior-femenino",
@@ -4782,7 +5262,7 @@
     "gender": "femenino",
     "league_title": "Junior Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 5",
     "mvp": "-",
-    "weight": 32020261115000096
+    "weight": 32020261115131596
   },
   {
     "id": "game-2026-11-21-cabrini-a-p-a-verde-colmenar-viejo-junior-femenino",
@@ -4924,10 +5404,10 @@
     "away_logo": "images/teams/cbcolmenar.png",
     "away_score": null,
     "quarters": null,
-    "venue": "ESTUDIANTES INTERNATIONAL SCHOOL, PABELLON C/ CASTIELLO DE JACA, 20, Madrid",
-    "venue_slug": "estudiantes-international-school-pabellon-c-castiello-de-jaca-20-madrid",
+    "venue": "ESTUDIANTES INTERNATIONAL SCHOOL, PABELLON C/ FROMISTA, 1, Madrid",
+    "venue_slug": "estudiantes-international-school-pabellon-c-fromista-1-madrid",
     "venue_title": "ESTUDIANTES INTERNATIONAL SCHOOL",
-    "venue_address": "PABELLON C/ CASTIELLO DE JACA, 20, Madrid",
+    "venue_address": "PABELLON C/ FROMISTA, 1, Madrid",
     "category": "Junior",
     "gender": "femenino",
     "league_title": "Junior Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 5",
@@ -5113,44 +5593,6 @@
     "id": "game-2026-10-03-alameda-de-osuna-verde-colmenar-viejo-a-cadete-masculino",
     "slug": "game-2026-10-03-alameda-de-osuna-verde-colmenar-viejo-a-cadete-masculino",
     "date": "2026-10-03",
-    "time": "",
-    "status": "Finalizado",
-    "home": "ALAMEDA DE OSUNA VERDE",
-    "home_slug": "alameda-de-osuna-verde",
-    "home_logo": "images/teams/rival.png",
-    "home_score": 66,
-    "away": "COLMENAR VIEJO A",
-    "away_slug": "colmenar-viejo-a-cadete-masculino",
-    "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": 58,
-    "quarters": {
-      "home": [
-        18,
-        20,
-        19,
-        21
-      ],
-      "away": [
-        15,
-        18,
-        22,
-        19
-      ]
-    },
-    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
-    "venue_title": "JUAN ANTONIO SAMARANCH",
-    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "category": "Cadete",
-    "gender": "masculino",
-    "league_title": "Cadete Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
-    "mvp": "-",
-    "weight": 41120261003000037
-  },
-  {
-    "id": "game-2026-10-03-alameda-de-osuna-verde-colmenar-viejo-a-cadete-masculino",
-    "slug": "game-2026-10-03-alameda-de-osuna-verde-colmenar-viejo-a-cadete-masculino",
-    "date": "2026-10-03",
     "time": "16:30",
     "status": "Finalizado",
     "home": "ALAMEDA DE OSUNA VERDE",
@@ -5190,16 +5632,29 @@
     "slug": "game-2026-10-18-colmenar-viejo-a-brains-arturo-soria-cadete-masculino",
     "date": "2026-10-18",
     "time": "18:00",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO A",
     "home_slug": "colmenar-viejo-a-cadete-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 54,
     "away": "BRAINS ARTURO SORIA",
     "away_slug": "brains-arturo-soria",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 56,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -5214,42 +5669,68 @@
     "id": "game-2026-10-24-movistar-estudiantes-winslow-colmenar-viejo-a-cadete-masculino",
     "slug": "game-2026-10-24-movistar-estudiantes-winslow-colmenar-viejo-a-cadete-masculino",
     "date": "2026-10-24",
-    "time": "",
-    "status": "Próximo",
+    "time": "12:30",
+    "status": "Finalizado",
     "home": "MOVISTAR ESTUDIANTES WINSLOW",
     "home_slug": "movistar-estudiantes-winslow",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 45,
     "away": "COLMENAR VIEJO A",
     "away_slug": "colmenar-viejo-a-cadete-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
-    "venue": "MOVISTAR ACADEMY MAGARIÑOS, PABELLON SERRANO, 129, Madrid",
-    "venue_slug": "movistar-academy-magarinos-pabellon-serrano-129-madrid",
-    "venue_title": "MOVISTAR ACADEMY MAGARIÑOS",
-    "venue_address": "PABELLON SERRANO, 129, Madrid",
+    "away_score": 36,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "I.E.S. BLANCA FERNANDEZ OCHOA CALLE DEL MONASTERIO DE EL PAULAR, 3, Madrid",
+    "venue_slug": "i-e-s-blanca-fernandez-ochoa-calle-del-monasterio-de-el-paular-3-madrid",
+    "venue_title": "I.E.S. BLANCA FERNANDEZ OCHOA CALLE DEL MONASTERIO DE EL PAULAR",
+    "venue_address": "3, Madrid",
     "category": "Cadete",
     "gender": "masculino",
     "league_title": "Cadete Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
     "mvp": "-",
-    "weight": 41120261024000072
+    "weight": 41120261024123072
   },
   {
     "id": "game-2026-11-08-colmenar-viejo-a-parque-cataluna-torrejon-amarillo-cadete-masculino",
     "slug": "game-2026-11-08-colmenar-viejo-a-parque-cataluna-torrejon-amarillo-cadete-masculino",
     "date": "2026-11-08",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO A",
     "home_slug": "colmenar-viejo-a-cadete-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 64,
     "away": "PARQUE CATALUÑA TORREJÓN AMARILLO",
     "away_slug": "parque-cataluna-torrejon-amarillo",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 70,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -5261,10 +5742,48 @@
     "weight": 41120261108000037
   },
   {
+    "id": "game-2026-11-08-colmenar-viejo-a-parque-cataluna-torrejon-amarillo-cadete-masculino",
+    "slug": "game-2026-11-08-colmenar-viejo-a-parque-cataluna-torrejon-amarillo-cadete-masculino",
+    "date": "2026-11-08",
+    "time": "16:45",
+    "status": "Finalizado",
+    "home": "COLMENAR VIEJO A",
+    "home_slug": "colmenar-viejo-a-cadete-masculino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": 64,
+    "away": "PARQUE CATALUÑA TORREJÓN AMARILLO",
+    "away_slug": "parque-cataluna-torrejon-amarillo",
+    "away_logo": "images/teams/rival.png",
+    "away_score": 70,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Cadete",
+    "gender": "masculino",
+    "league_title": "Cadete Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
+    "mvp": "-",
+    "weight": 41120261108164537
+  },
+  {
     "id": "game-2026-11-14-distrito-carabanchel-a-colmenar-viejo-a-cadete-masculino",
     "slug": "game-2026-11-14-distrito-carabanchel-a-colmenar-viejo-a-cadete-masculino",
     "date": "2026-11-14",
-    "time": "",
+    "time": "09:45",
     "status": "Próximo",
     "home": "DISTRITO CARABANCHEL A",
     "home_slug": "distrito-carabanchel-a",
@@ -5275,15 +5794,15 @@
     "away_logo": "images/teams/cbcolmenar.png",
     "away_score": null,
     "quarters": null,
-    "venue": "FRANCISCO FERNANDEZ OCHOA, PABELLON DE LAS 14 OLIVAS, S/N, Madrid",
-    "venue_slug": "francisco-fernandez-ochoa-pabellon-de-las-14-olivas-s-n-madrid",
-    "venue_title": "FRANCISCO FERNANDEZ OCHOA",
-    "venue_address": "PABELLON DE LAS 14 OLIVAS, S/N, Madrid",
+    "venue": "MAESTRO PADILLA, CEIP AVENIDA DE LA PESETA, 112, Madrid",
+    "venue_slug": "maestro-padilla-ceip-avenida-de-la-peseta-112-madrid",
+    "venue_title": "MAESTRO PADILLA",
+    "venue_address": "CEIP AVENIDA DE LA PESETA, 112, Madrid",
     "category": "Cadete",
     "gender": "masculino",
     "league_title": "Cadete Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
     "mvp": "-",
-    "weight": 41120261114000030
+    "weight": 41120261114094530
   },
   {
     "id": "game-2026-11-22-colmenar-viejo-a-san-viator-c-cadete-masculino",
@@ -5715,16 +6234,29 @@
     "slug": "game-2026-10-17-colmenar-viejo-b-baloncesto-paracuellos-azul-cadete-masculino",
     "date": "2026-10-17",
     "time": "11:30",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO B",
     "home_slug": "colmenar-viejo-b-cadete-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 42,
     "away": "BALONCESTO PARACUELLOS AZUL",
     "away_slug": "baloncesto-paracuellos-azul",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 52,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -5739,17 +6271,30 @@
     "id": "game-2026-10-24-liceo-frances-2012-colmenar-viejo-b-cadete-masculino",
     "slug": "game-2026-10-24-liceo-frances-2012-colmenar-viejo-b-cadete-masculino",
     "date": "2026-10-24",
-    "time": "",
-    "status": "Próximo",
+    "time": "14:45",
+    "status": "Finalizado",
     "home": "LICEO FRANCES 2012",
     "home_slug": "liceo-frances-2012",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 20,
     "away": "COLMENAR VIEJO B",
     "away_slug": "colmenar-viejo-b-cadete-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 93,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "LICEO FRANCES, PABELLON COLEGIO AVDA. DE LOS MADROÑOS frente nº 42, Madrid",
     "venue_slug": "liceo-frances-pabellon-colegio-avda-de-los-madronos-frente-n-42-madrid",
     "venue_title": "LICEO FRANCES",
@@ -5758,23 +6303,36 @@
     "gender": "masculino",
     "league_title": "Cadete Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 3",
     "mvp": "-",
-    "weight": 41220261024000007
+    "weight": 41220261024144507
   },
   {
     "id": "game-2026-11-07-colmenar-viejo-b-estudio-b-cadete-masculino",
     "slug": "game-2026-11-07-colmenar-viejo-b-estudio-b-cadete-masculino",
     "date": "2026-11-07",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO B",
     "home_slug": "colmenar-viejo-b-cadete-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 50,
     "away": "ESTUDIO B",
     "away_slug": "estudio-b",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 66,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -5786,10 +6344,48 @@
     "weight": 41220261107000029
   },
   {
+    "id": "game-2026-11-07-colmenar-viejo-b-estudio-b-cadete-masculino",
+    "slug": "game-2026-11-07-colmenar-viejo-b-estudio-b-cadete-masculino",
+    "date": "2026-11-07",
+    "time": "09:45",
+    "status": "Finalizado",
+    "home": "COLMENAR VIEJO B",
+    "home_slug": "colmenar-viejo-b-cadete-masculino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": 50,
+    "away": "ESTUDIO B",
+    "away_slug": "estudio-b",
+    "away_logo": "images/teams/rival.png",
+    "away_score": 66,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Cadete",
+    "gender": "masculino",
+    "league_title": "Cadete Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 3",
+    "mvp": "-",
+    "weight": 41220261107094529
+  },
+  {
     "id": "game-2026-11-14-colmenar-viejo-b-innova-tsn-leganes-2012-b-cadete-masculino",
     "slug": "game-2026-11-14-colmenar-viejo-b-innova-tsn-leganes-2012-b-cadete-masculino",
     "date": "2026-11-14",
-    "time": "",
+    "time": "16:00",
     "status": "Próximo",
     "home": "COLMENAR VIEJO B",
     "home_slug": "colmenar-viejo-b-cadete-masculino",
@@ -5808,7 +6404,7 @@
     "gender": "masculino",
     "league_title": "Cadete Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 3",
     "mvp": "-",
-    "weight": 41220261114000075
+    "weight": 41220261114160075
   },
   {
     "id": "game-2026-11-21-ha-basket-a-colmenar-viejo-b-cadete-masculino",
@@ -6239,44 +6835,6 @@
     "id": "game-2026-10-03-colmenar-viejo-c-colmenar-viejo-b-cadete-masculino",
     "slug": "game-2026-10-03-colmenar-viejo-c-colmenar-viejo-b-cadete-masculino",
     "date": "2026-10-03",
-    "time": "",
-    "status": "Finalizado",
-    "home": "COLMENAR VIEJO C",
-    "home_slug": "colmenar-viejo-c-cadete-masculino",
-    "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": 28,
-    "away": "COLMENAR VIEJO B",
-    "away_slug": "colmenar-viejo-b-cadete-masculino",
-    "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": 100,
-    "quarters": {
-      "home": [
-        18,
-        20,
-        19,
-        21
-      ],
-      "away": [
-        15,
-        18,
-        22,
-        19
-      ]
-    },
-    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
-    "venue_title": "JUAN ANTONIO SAMARANCH",
-    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "category": "Cadete",
-    "gender": "masculino",
-    "league_title": "Cadete Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 3",
-    "mvp": "-",
-    "weight": 41320261003000094
-  },
-  {
-    "id": "game-2026-10-03-colmenar-viejo-c-colmenar-viejo-b-cadete-masculino",
-    "slug": "game-2026-10-03-colmenar-viejo-c-colmenar-viejo-b-cadete-masculino",
-    "date": "2026-10-03",
     "time": "16:00",
     "status": "Finalizado",
     "home": "COLMENAR VIEJO C",
@@ -6316,16 +6874,29 @@
     "slug": "game-2026-10-17-innova-tsn-leganes-2012-b-colmenar-viejo-c-cadete-masculino",
     "date": "2026-10-17",
     "time": "12:30",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "INNOVA-TSN LEGANÉS 2012 \"B\"",
     "home_slug": "innova-tsn-leganes-2012-b",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 63,
     "away": "COLMENAR VIEJO C",
     "away_slug": "colmenar-viejo-c-cadete-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 58,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "CARLOS SASTRE, PABELLON FRANCISCO LARGO CABALLERO, 1, Leganés",
     "venue_slug": "carlos-sastre-pabellon-francisco-largo-caballero-1-leganes",
     "venue_title": "CARLOS SASTRE",
@@ -6340,17 +6911,30 @@
     "id": "game-2026-10-24-colmenar-viejo-c-ha-basket-a-cadete-masculino",
     "slug": "game-2026-10-24-colmenar-viejo-c-ha-basket-a-cadete-masculino",
     "date": "2026-10-24",
-    "time": "",
-    "status": "Próximo",
+    "time": "11:30",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO C",
     "home_slug": "colmenar-viejo-c-cadete-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 58,
     "away": "HA BASKET \"A\"",
     "away_slug": "ha-basket-a",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 45,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -6359,23 +6943,74 @@
     "gender": "masculino",
     "league_title": "Cadete Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 3",
     "mvp": "-",
-    "weight": 41320261024000055
+    "weight": 41320261024113055
   },
   {
     "id": "game-2026-11-07-oroquieta-espinillo-c-d-e-colmenar-viejo-c-cadete-masculino",
     "slug": "game-2026-11-07-oroquieta-espinillo-c-d-e-colmenar-viejo-c-cadete-masculino",
     "date": "2026-11-07",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "OROQUIETA ESPINILLO C.D.E.",
     "home_slug": "oroquieta-espinillo-c-d-e",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 64,
     "away": "COLMENAR VIEJO C",
     "away_slug": "colmenar-viejo-c-cadete-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 42,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Cadete",
+    "gender": "masculino",
+    "league_title": "Cadete Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 3",
+    "mvp": "-",
+    "weight": 41320261107000010
+  },
+  {
+    "id": "game-2026-11-07-oroquieta-espinillo-c-d-e-colmenar-viejo-c-cadete-masculino",
+    "slug": "game-2026-11-07-oroquieta-espinillo-c-d-e-colmenar-viejo-c-cadete-masculino",
+    "date": "2026-11-07",
+    "time": "18:45",
+    "status": "Finalizado",
+    "home": "OROQUIETA ESPINILLO C.D.E.",
+    "home_slug": "oroquieta-espinillo-c-d-e",
+    "home_logo": "images/teams/rival.png",
+    "home_score": 64,
+    "away": "COLMENAR VIEJO C",
+    "away_slug": "colmenar-viejo-c-cadete-masculino",
+    "away_logo": "images/teams/cbcolmenar.png",
+    "away_score": 42,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "IDB VICTORIA HERNANDEZ CONSENSO, 5, Madrid",
     "venue_slug": "idb-victoria-hernandez-consenso-5-madrid",
     "venue_title": "IDB VICTORIA HERNANDEZ CONSENSO",
@@ -6384,13 +7019,13 @@
     "gender": "masculino",
     "league_title": "Cadete Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 3",
     "mvp": "-",
-    "weight": 41320261107000010
+    "weight": 41320261107184510
   },
   {
     "id": "game-2026-11-14-colmenar-viejo-c-mejorada-2012-c-b-cadete-masculino",
     "slug": "game-2026-11-14-colmenar-viejo-c-mejorada-2012-c-b-cadete-masculino",
     "date": "2026-11-14",
-    "time": "",
+    "time": "11:30",
     "status": "Próximo",
     "home": "COLMENAR VIEJO C",
     "home_slug": "colmenar-viejo-c-cadete-masculino",
@@ -6409,13 +7044,13 @@
     "gender": "masculino",
     "league_title": "Cadete Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 3",
     "mvp": "-",
-    "weight": 41320261114000096
+    "weight": 41320261114113096
   },
   {
     "id": "game-2026-11-21-arganzuela-centro-blanco-colmenar-viejo-c-cadete-masculino",
     "slug": "game-2026-11-21-arganzuela-centro-blanco-colmenar-viejo-c-cadete-masculino",
     "date": "2026-11-21",
-    "time": "09:15",
+    "time": "19:00",
     "status": "Próximo",
     "home": "ARGANZUELA CENTRO BLANCO",
     "home_slug": "arganzuela-centro-blanco",
@@ -6426,15 +7061,15 @@
     "away_logo": "images/teams/cbcolmenar.png",
     "away_score": null,
     "quarters": null,
-    "venue": "SALESIANOS CARABANCHEL, PABELLON COLEGIO RONDA DON BOSCO, 3, Madrid",
-    "venue_slug": "salesianos-carabanchel-pabellon-colegio-ronda-don-bosco-3-madrid",
-    "venue_title": "SALESIANOS CARABANCHEL",
-    "venue_address": "PABELLON COLEGIO RONDA DON BOSCO, 3, Madrid",
+    "venue": "ARGANZUELA, CENTRO INTEGRADO C/ PALOS DE LA FRONTERA, 40, Madrid",
+    "venue_slug": "arganzuela-centro-integrado-c-palos-de-la-frontera-40-madrid",
+    "venue_title": "ARGANZUELA",
+    "venue_address": "CENTRO INTEGRADO C/ PALOS DE LA FRONTERA, 40, Madrid",
     "category": "Cadete",
     "gender": "masculino",
     "league_title": "Cadete Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 3",
     "mvp": "-",
-    "weight": 41320261121091517
+    "weight": 41320261121190017
   },
   {
     "id": "game-2026-11-28-colmenar-viejo-c-triple-chamberi-cadete-masculino",
@@ -6812,20 +7447,33 @@
     "weight": 41320270424000032
   },
   {
-    "id": "game-2026-10-17-colmenar-viejo-distrito-carabanchel-b-cadete-femenino",
-    "slug": "game-2026-10-17-colmenar-viejo-distrito-carabanchel-b-cadete-femenino",
-    "date": "2026-10-17",
-    "time": "",
-    "status": "Próximo",
+    "id": "game-2026-10-18-colmenar-viejo-distrito-carabanchel-b-cadete-femenino",
+    "slug": "game-2026-10-18-colmenar-viejo-distrito-carabanchel-b-cadete-femenino",
+    "date": "2026-10-18",
+    "time": "09:45",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-cadete-femenino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 43,
     "away": "DISTRITO CARABANCHEL B",
     "away_slug": "distrito-carabanchel-b",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 46,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -6834,52 +7482,78 @@
     "gender": "femenino",
     "league_title": "Cadete Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 2",
     "mvp": "-",
-    "weight": 42020261017000073
+    "weight": 42020261018094593
   },
   {
     "id": "game-2026-10-24-alameda-de-osuna-verde-colmenar-viejo-cadete-femenino",
     "slug": "game-2026-10-24-alameda-de-osuna-verde-colmenar-viejo-cadete-femenino",
     "date": "2026-10-24",
-    "time": "",
-    "status": "Próximo",
+    "time": "16:30",
+    "status": "Finalizado",
     "home": "ALAMEDA DE OSUNA VERDE",
     "home_slug": "alameda-de-osuna-verde",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 66,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-cadete-femenino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
-    "venue": "VILLA DE MADRID, PABELLON CALLE BREZOS, 4, Madrid",
-    "venue_slug": "villa-de-madrid-pabellon-calle-brezos-4-madrid",
-    "venue_title": "VILLA DE MADRID",
-    "venue_address": "PABELLON CALLE BREZOS, 4, Madrid",
+    "away_score": 46,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "BARAJAS, C.D.M. AVDA. LOGROÑO, 70, Madrid",
+    "venue_slug": "barajas-c-d-m-avda-logrono-70-madrid",
+    "venue_title": "BARAJAS",
+    "venue_address": "C.D.M. AVDA. LOGROÑO, 70, Madrid",
     "category": "Cadete",
     "gender": "femenino",
     "league_title": "Cadete Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 2",
     "mvp": "-",
-    "weight": 42020261024000020
+    "weight": 42020261024163020
   },
   {
     "id": "game-2026-11-07-basket-aranjuez-negro-colmenar-viejo-cadete-femenino",
     "slug": "game-2026-11-07-basket-aranjuez-negro-colmenar-viejo-cadete-femenino",
     "date": "2026-11-07",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "BASKET ARANJUEZ NEGRO",
     "home_slug": "basket-aranjuez-negro",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 39,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-cadete-femenino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
-    "venue": "LAS OLIVAS, CIUDAD DEPORTIVA C/ JUAN DE HERRERA, 1, Aranjuez",
-    "venue_slug": "las-olivas-ciudad-deportiva-c-juan-de-herrera-1-aranjuez",
-    "venue_title": "LAS OLIVAS",
-    "venue_address": "CIUDAD DEPORTIVA C/ JUAN DE HERRERA, 1, Aranjuez",
+    "away_score": 52,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "category": "Cadete",
     "gender": "femenino",
     "league_title": "Cadete Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 2",
@@ -6887,10 +7561,48 @@
     "weight": 42020261107000036
   },
   {
+    "id": "game-2026-11-07-basket-aranjuez-negro-colmenar-viejo-cadete-femenino",
+    "slug": "game-2026-11-07-basket-aranjuez-negro-colmenar-viejo-cadete-femenino",
+    "date": "2026-11-07",
+    "time": "14:30",
+    "status": "Finalizado",
+    "home": "BASKET ARANJUEZ NEGRO",
+    "home_slug": "basket-aranjuez-negro",
+    "home_logo": "images/teams/rival.png",
+    "home_score": 39,
+    "away": "COLMENAR VIEJO",
+    "away_slug": "colmenar-viejo-cadete-femenino",
+    "away_logo": "images/teams/cbcolmenar.png",
+    "away_score": 52,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "AGUSTIN MARAÑON, PABELLON 1º DE MAYO, 4, Aranjuez",
+    "venue_slug": "agustin-maranon-pabellon-1-de-mayo-4-aranjuez",
+    "venue_title": "AGUSTIN MARAÑON",
+    "venue_address": "PABELLON 1º DE MAYO, 4, Aranjuez",
+    "category": "Cadete",
+    "gender": "femenino",
+    "league_title": "Cadete Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 2",
+    "mvp": "-",
+    "weight": 42020261107143036
+  },
+  {
     "id": "game-2026-11-14-colmenar-viejo-pilaristas-b-cadete-femenino",
     "slug": "game-2026-11-14-colmenar-viejo-pilaristas-b-cadete-femenino",
     "date": "2026-11-14",
-    "time": "",
+    "time": "17:45",
     "status": "Próximo",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-cadete-femenino",
@@ -6909,13 +7621,13 @@
     "gender": "femenino",
     "league_title": "Cadete Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 2",
     "mvp": "-",
-    "weight": 42020261114000000
+    "weight": 42020261114174500
   },
   {
     "id": "game-2026-11-21-cb-navalcarnero-colmenar-viejo-cadete-femenino",
     "slug": "game-2026-11-21-cb-navalcarnero-colmenar-viejo-cadete-femenino",
     "date": "2026-11-21",
-    "time": "",
+    "time": "11:00",
     "status": "Próximo",
     "home": "CB NAVALCARNERO",
     "home_slug": "cb-navalcarnero",
@@ -6934,7 +7646,7 @@
     "gender": "femenino",
     "league_title": "Cadete Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 2",
     "mvp": "-",
-    "weight": 42020261121000093
+    "weight": 42020261121110093
   },
   {
     "id": "game-2026-11-28-colmenar-viejo-veritas-pozuelo-negro-cadete-femenino",
@@ -7265,44 +7977,6 @@
     "id": "game-2026-10-03-cabrini-a-p-a-colmenar-viejo-a-infantil-masculino",
     "slug": "game-2026-10-03-cabrini-a-p-a-colmenar-viejo-a-infantil-masculino",
     "date": "2026-10-03",
-    "time": "",
-    "status": "Finalizado",
-    "home": "CABRINI A.P.A.",
-    "home_slug": "cabrini-a-p-a",
-    "home_logo": "images/teams/rival.png",
-    "home_score": 78,
-    "away": "COLMENAR VIEJO A",
-    "away_slug": "colmenar-viejo-a-infantil-masculino",
-    "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": 26,
-    "quarters": {
-      "home": [
-        18,
-        20,
-        19,
-        21
-      ],
-      "away": [
-        15,
-        18,
-        22,
-        19
-      ]
-    },
-    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
-    "venue_title": "JUAN ANTONIO SAMARANCH",
-    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "category": "Infantil",
-    "gender": "masculino",
-    "league_title": "Infantil Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
-    "mvp": "-",
-    "weight": 51120261003000035
-  },
-  {
-    "id": "game-2026-10-03-cabrini-a-p-a-colmenar-viejo-a-infantil-masculino",
-    "slug": "game-2026-10-03-cabrini-a-p-a-colmenar-viejo-a-infantil-masculino",
-    "date": "2026-10-03",
     "time": "10:00",
     "status": "Finalizado",
     "home": "CABRINI A.P.A.",
@@ -7342,16 +8016,29 @@
     "slug": "game-2026-10-17-colmenar-viejo-a-c-b-las-rozas-c-infantil-masculino",
     "date": "2026-10-17",
     "time": "17:00",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO A",
     "home_slug": "colmenar-viejo-a-infantil-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 88,
     "away": "C.B. LAS ROZAS \"C\"",
     "away_slug": "c-b-las-rozas-c",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 49,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -7366,17 +8053,30 @@
     "id": "game-2026-10-24-colmenar-viejo-a-c-b-alcorcon-infantil-masculino",
     "slug": "game-2026-10-24-colmenar-viejo-a-c-b-alcorcon-infantil-masculino",
     "date": "2026-10-24",
-    "time": "",
-    "status": "Próximo",
+    "time": "13:15",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO A",
     "home_slug": "colmenar-viejo-a-infantil-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 59,
     "away": "C.B. ALCORCON",
     "away_slug": "c-b-alcorcon",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 51,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -7385,23 +8085,74 @@
     "gender": "masculino",
     "league_title": "Infantil Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
     "mvp": "-",
-    "weight": 51120261024000080
+    "weight": 51120261024131580
   },
   {
     "id": "game-2026-11-07-cb-pozuelo-colmenar-viejo-a-infantil-masculino",
     "slug": "game-2026-11-07-cb-pozuelo-colmenar-viejo-a-infantil-masculino",
     "date": "2026-11-07",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "CB POZUELO",
     "home_slug": "cb-pozuelo",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 28,
     "away": "COLMENAR VIEJO A",
     "away_slug": "colmenar-viejo-a-infantil-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 74,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Infantil",
+    "gender": "masculino",
+    "league_title": "Infantil Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
+    "mvp": "-",
+    "weight": 51120261107000007
+  },
+  {
+    "id": "game-2026-11-07-cb-pozuelo-colmenar-viejo-a-infantil-masculino",
+    "slug": "game-2026-11-07-cb-pozuelo-colmenar-viejo-a-infantil-masculino",
+    "date": "2026-11-07",
+    "time": "18:30",
+    "status": "Finalizado",
+    "home": "CB POZUELO",
+    "home_slug": "cb-pozuelo",
+    "home_logo": "images/teams/rival.png",
+    "home_score": 28,
+    "away": "COLMENAR VIEJO A",
+    "away_slug": "colmenar-viejo-a-infantil-masculino",
+    "away_logo": "images/teams/cbcolmenar.png",
+    "away_score": 74,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "GERARDO DIEGO, I.E.S. IRLANDA, S/N, Pozuelo de Alarcón",
     "venue_slug": "gerardo-diego-i-e-s-irlanda-s-n-pozuelo-de-alarcon",
     "venue_title": "GERARDO DIEGO",
@@ -7410,13 +8161,13 @@
     "gender": "masculino",
     "league_title": "Infantil Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
     "mvp": "-",
-    "weight": 51120261107000007
+    "weight": 51120261107183007
   },
   {
     "id": "game-2026-11-14-colmenar-viejo-a-gaudem-c-d-e-a-infantil-masculino",
     "slug": "game-2026-11-14-colmenar-viejo-a-gaudem-c-d-e-a-infantil-masculino",
     "date": "2026-11-14",
-    "time": "",
+    "time": "13:15",
     "status": "Próximo",
     "home": "COLMENAR VIEJO A",
     "home_slug": "colmenar-viejo-a-infantil-masculino",
@@ -7435,7 +8186,7 @@
     "gender": "masculino",
     "league_title": "Infantil Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
     "mvp": "-",
-    "weight": 51120261114000097
+    "weight": 51120261114131597
   },
   {
     "id": "game-2026-11-21-prodet-pozuelo-c-d-e-colmenar-viejo-a-infantil-masculino",
@@ -7867,16 +8618,29 @@
     "slug": "game-2026-10-17-colmenar-viejo-b-estudiantes-international-school-a-infantil-masculino",
     "date": "2026-10-17",
     "time": "17:00",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO B",
     "home_slug": "colmenar-viejo-b-infantil-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 8,
     "away": "ESTUDIANTES INTERNATIONAL SCHOOL \"A\"",
     "away_slug": "estudiantes-international-school-a",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 59,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -7891,17 +8655,30 @@
     "id": "game-2026-10-24-dental-company-ciempobasket-colmenar-viejo-b-infantil-masculino",
     "slug": "game-2026-10-24-dental-company-ciempobasket-colmenar-viejo-b-infantil-masculino",
     "date": "2026-10-24",
-    "time": "",
-    "status": "Próximo",
+    "time": "13:00",
+    "status": "Finalizado",
     "home": "DENTAL COMPANY CIEMPOBASKET",
     "home_slug": "dental-company-ciempobasket",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 85,
     "away": "COLMENAR VIEJO B",
     "away_slug": "colmenar-viejo-b-infantil-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 45,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "ANGEL LUIS RUBIO, PABELLON CRUZ VERDE, S/N, Ciempozuelos",
     "venue_slug": "angel-luis-rubio-pabellon-cruz-verde-s-n-ciempozuelos",
     "venue_title": "ANGEL LUIS RUBIO",
@@ -7910,23 +8687,36 @@
     "gender": "masculino",
     "league_title": "Infantil Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 4",
     "mvp": "-",
-    "weight": 51220261024000068
+    "weight": 51220261024130068
   },
   {
     "id": "game-2026-11-07-colmenar-viejo-b-severo-torrejon-infantil-masculino",
     "slug": "game-2026-11-07-colmenar-viejo-b-severo-torrejon-infantil-masculino",
     "date": "2026-11-07",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO B",
     "home_slug": "colmenar-viejo-b-infantil-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 43,
     "away": "SEVERO TORREJON",
     "away_slug": "severo-torrejon",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 34,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -7938,10 +8728,48 @@
     "weight": 51220261107000058
   },
   {
+    "id": "game-2026-11-07-colmenar-viejo-b-severo-torrejon-infantil-masculino",
+    "slug": "game-2026-11-07-colmenar-viejo-b-severo-torrejon-infantil-masculino",
+    "date": "2026-11-07",
+    "time": "18:00",
+    "status": "Finalizado",
+    "home": "COLMENAR VIEJO B",
+    "home_slug": "colmenar-viejo-b-infantil-masculino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": 43,
+    "away": "SEVERO TORREJON",
+    "away_slug": "severo-torrejon",
+    "away_logo": "images/teams/rival.png",
+    "away_score": 34,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Infantil",
+    "gender": "masculino",
+    "league_title": "Infantil Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 4",
+    "mvp": "-",
+    "weight": 51220261107180058
+  },
+  {
     "id": "game-2026-11-14-la-torre-de-hortaleza-colmenar-viejo-b-infantil-masculino",
     "slug": "game-2026-11-14-la-torre-de-hortaleza-colmenar-viejo-b-infantil-masculino",
     "date": "2026-11-14",
-    "time": "12:00",
+    "time": "17:45",
     "status": "Próximo",
     "home": "LA TORRE DE HORTALEZA",
     "home_slug": "la-torre-de-hortaleza",
@@ -7960,7 +8788,7 @@
     "gender": "masculino",
     "league_title": "Infantil Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 4",
     "mvp": "-",
-    "weight": 51220261114120063
+    "weight": 51220261114174563
   },
   {
     "id": "game-2026-11-21-colmenar-viejo-b-singer-basket-tucutucu-pf-infantil-masculino",
@@ -8038,13 +8866,13 @@
     "weight": 51220261212000079
   },
   {
-    "id": "game-2027-01-16-maravillas-colmenar-viejo-b-infantil-masculino",
-    "slug": "game-2027-01-16-maravillas-colmenar-viejo-b-infantil-masculino",
+    "id": "game-2027-01-16-retirado-maravillas-colmenar-viejo-b-infantil-masculino",
+    "slug": "game-2027-01-16-retirado-maravillas-colmenar-viejo-b-infantil-masculino",
     "date": "2027-01-16",
     "time": "",
     "status": "Próximo",
-    "home": "MARAVILLAS",
-    "home_slug": "maravillas",
+    "home": "(RETIRADO) MARAVILLAS",
+    "home_slug": "retirado-maravillas",
     "home_logo": "images/teams/rival.png",
     "home_score": null,
     "away": "COLMENAR VIEJO B",
@@ -8060,7 +8888,7 @@
     "gender": "masculino",
     "league_title": "Infantil Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 4",
     "mvp": "-",
-    "weight": 51220270116000090
+    "weight": 51220270116000030
   },
   {
     "id": "game-2027-01-23-colmenar-viejo-b-sagrada-familia-jorge-juan-infantil-masculino",
@@ -8102,10 +8930,10 @@
     "away_logo": "images/teams/cbcolmenar.png",
     "away_score": null,
     "quarters": null,
-    "venue": "ESTUDIANTES INTERNATIONAL SCHOOL, PABELLON C/ CASTIELLO DE JACA, 20, Madrid",
-    "venue_slug": "estudiantes-international-school-pabellon-c-castiello-de-jaca-20-madrid",
+    "venue": "ESTUDIANTES INTERNATIONAL SCHOOL, PABELLON C/ FROMISTA, 1, Madrid",
+    "venue_slug": "estudiantes-international-school-pabellon-c-fromista-1-madrid",
     "venue_title": "ESTUDIANTES INTERNATIONAL SCHOOL",
-    "venue_address": "PABELLON C/ CASTIELLO DE JACA, 20, Madrid",
+    "venue_address": "PABELLON C/ FROMISTA, 1, Madrid",
     "category": "Infantil",
     "gender": "masculino",
     "league_title": "Infantil Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 4",
@@ -8263,8 +9091,8 @@
     "weight": 51220270403000053
   },
   {
-    "id": "game-2027-04-10-colmenar-viejo-b-maravillas-infantil-masculino",
-    "slug": "game-2027-04-10-colmenar-viejo-b-maravillas-infantil-masculino",
+    "id": "game-2027-04-10-colmenar-viejo-b-retirado-maravillas-infantil-masculino",
+    "slug": "game-2027-04-10-colmenar-viejo-b-retirado-maravillas-infantil-masculino",
     "date": "2027-04-10",
     "time": "",
     "status": "Próximo",
@@ -8272,8 +9100,8 @@
     "home_slug": "colmenar-viejo-b-infantil-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
     "home_score": null,
-    "away": "MARAVILLAS",
-    "away_slug": "maravillas",
+    "away": "(RETIRADO) MARAVILLAS",
+    "away_slug": "retirado-maravillas",
     "away_logo": "images/teams/rival.png",
     "away_score": null,
     "quarters": null,
@@ -8285,7 +9113,7 @@
     "gender": "masculino",
     "league_title": "Infantil Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 4",
     "mvp": "-",
-    "weight": 51220270410000029
+    "weight": 51220270410000027
   },
   {
     "id": "game-2027-04-17-sagrada-familia-jorge-juan-colmenar-viejo-b-infantil-masculino",
@@ -8313,20 +9141,360 @@
     "weight": 51220270417000011
   },
   {
+    "id": "game-2026-10-17-halcones-arroyofresno-colmenar-viejo-infantil-femenino",
+    "slug": "game-2026-10-17-halcones-arroyofresno-colmenar-viejo-infantil-femenino",
+    "date": "2026-10-17",
+    "time": "17:45",
+    "status": "Finalizado",
+    "home": "HALCONES ARROYOFRESNO",
+    "home_slug": "halcones-arroyofresno",
+    "home_logo": "images/teams/rival.png",
+    "home_score": 43,
+    "away": "COLMENAR VIEJO",
+    "away_slug": "colmenar-viejo-infantil-femenino",
+    "away_logo": "images/teams/cbcolmenar.png",
+    "away_score": 24,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "ARTURO RUIZ, I.D.M.B. SANTIAGO DE COMPOSTELA, 104, Madrid",
+    "venue_slug": "arturo-ruiz-i-d-m-b-santiago-de-compostela-104-madrid",
+    "venue_title": "ARTURO RUIZ",
+    "venue_address": "I.D.M.B. SANTIAGO DE COMPOSTELA, 104, Madrid",
+    "category": "Infantil",
+    "gender": "femenino",
+    "league_title": "Infantil Fem. 1ºaño - PRIMERA FASE - GRUPO 14",
+    "mvp": "-",
+    "weight": 52020261017174548
+  },
+  {
+    "id": "game-2026-10-24-colmenar-viejo-recuerdo-s-a-d-14-infantil-femenino",
+    "slug": "game-2026-10-24-colmenar-viejo-recuerdo-s-a-d-14-infantil-femenino",
+    "date": "2026-10-24",
+    "time": "09:45",
+    "status": "Finalizado",
+    "home": "COLMENAR VIEJO",
+    "home_slug": "colmenar-viejo-infantil-femenino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": 54,
+    "away": "RECUERDO S.A.D. 14",
+    "away_slug": "recuerdo-s-a-d-14",
+    "away_logo": "images/teams/rival.png",
+    "away_score": 29,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Infantil",
+    "gender": "femenino",
+    "league_title": "Infantil Fem. 1ºaño - PRIMERA FASE - GRUPO 14",
+    "mvp": "-",
+    "weight": 52020261024094558
+  },
+  {
+    "id": "game-2026-11-07-humanitas-c-d-e-colmenar-viejo-infantil-femenino",
+    "slug": "game-2026-11-07-humanitas-c-d-e-colmenar-viejo-infantil-femenino",
+    "date": "2026-11-07",
+    "time": "",
+    "status": "Finalizado",
+    "home": "HUMANITAS C.D.E.",
+    "home_slug": "humanitas-c-d-e",
+    "home_logo": "images/teams/rival.png",
+    "home_score": 34,
+    "away": "COLMENAR VIEJO",
+    "away_slug": "colmenar-viejo-infantil-femenino",
+    "away_logo": "images/teams/cbcolmenar.png",
+    "away_score": 64,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Infantil",
+    "gender": "femenino",
+    "league_title": "Infantil Fem. 1ºaño - PRIMERA FASE - GRUPO 14",
+    "mvp": "-",
+    "weight": 52020261107000058
+  },
+  {
+    "id": "game-2026-11-07-humanitas-c-d-e-colmenar-viejo-infantil-femenino",
+    "slug": "game-2026-11-07-humanitas-c-d-e-colmenar-viejo-infantil-femenino",
+    "date": "2026-11-07",
+    "time": "10:45",
+    "status": "Finalizado",
+    "home": "HUMANITAS C.D.E.",
+    "home_slug": "humanitas-c-d-e",
+    "home_logo": "images/teams/rival.png",
+    "home_score": 34,
+    "away": "COLMENAR VIEJO",
+    "away_slug": "colmenar-viejo-infantil-femenino",
+    "away_logo": "images/teams/cbcolmenar.png",
+    "away_score": 64,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "HUMANITAS, PABELLON COLEGIO AVDA. SALVADOR DALI, 3, Torrejón de Ardoz",
+    "venue_slug": "humanitas-pabellon-colegio-avda-salvador-dali-3-torrejon-de-ardoz",
+    "venue_title": "HUMANITAS",
+    "venue_address": "PABELLON COLEGIO AVDA. SALVADOR DALI, 3, Torrejón de Ardoz",
+    "category": "Infantil",
+    "gender": "femenino",
+    "league_title": "Infantil Fem. 1ºaño - PRIMERA FASE - GRUPO 14",
+    "mvp": "-",
+    "weight": 52020261107104558
+  },
+  {
+    "id": "game-2026-11-14-pilaristas-colmenar-viejo-infantil-femenino",
+    "slug": "game-2026-11-14-pilaristas-colmenar-viejo-infantil-femenino",
+    "date": "2026-11-14",
+    "time": "09:30",
+    "status": "Próximo",
+    "home": "PILARISTAS",
+    "home_slug": "pilaristas",
+    "home_logo": "images/teams/rival.png",
+    "home_score": null,
+    "away": "COLMENAR VIEJO",
+    "away_slug": "colmenar-viejo-infantil-femenino",
+    "away_logo": "images/teams/cbcolmenar.png",
+    "away_score": null,
+    "quarters": null,
+    "venue": "PILARISTAS, PABELLON COLEGIO AYALA, 47, Madrid",
+    "venue_slug": "pilaristas-pabellon-colegio-ayala-47-madrid",
+    "venue_title": "PILARISTAS",
+    "venue_address": "PABELLON COLEGIO AYALA, 47, Madrid",
+    "category": "Infantil",
+    "gender": "femenino",
+    "league_title": "Infantil Fem. 1ºaño - PRIMERA FASE - GRUPO 14",
+    "mvp": "-",
+    "weight": 52020261114093062
+  },
+  {
+    "id": "game-2026-11-21-colmenar-viejo-colegio-joyfe-infantil-femenino",
+    "slug": "game-2026-11-21-colmenar-viejo-colegio-joyfe-infantil-femenino",
+    "date": "2026-11-21",
+    "time": "",
+    "status": "Próximo",
+    "home": "COLMENAR VIEJO",
+    "home_slug": "colmenar-viejo-infantil-femenino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": null,
+    "away": "COLEGIO JOYFE",
+    "away_slug": "colegio-joyfe",
+    "away_logo": "images/teams/rival.png",
+    "away_score": null,
+    "quarters": null,
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Infantil",
+    "gender": "femenino",
+    "league_title": "Infantil Fem. 1ºaño - PRIMERA FASE - GRUPO 14",
+    "mvp": "-",
+    "weight": 52020261121000083
+  },
+  {
+    "id": "game-2026-11-28-colmenar-viejo-halcones-arroyofresno-infantil-femenino",
+    "slug": "game-2026-11-28-colmenar-viejo-halcones-arroyofresno-infantil-femenino",
+    "date": "2026-11-28",
+    "time": "",
+    "status": "Próximo",
+    "home": "COLMENAR VIEJO",
+    "home_slug": "colmenar-viejo-infantil-femenino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": null,
+    "away": "HALCONES ARROYOFRESNO",
+    "away_slug": "halcones-arroyofresno",
+    "away_logo": "images/teams/rival.png",
+    "away_score": null,
+    "quarters": null,
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Infantil",
+    "gender": "femenino",
+    "league_title": "Infantil Fem. 1ºaño - PRIMERA FASE - GRUPO 14",
+    "mvp": "-",
+    "weight": 52020261128000051
+  },
+  {
+    "id": "game-2026-12-12-recuerdo-s-a-d-14-colmenar-viejo-infantil-femenino",
+    "slug": "game-2026-12-12-recuerdo-s-a-d-14-colmenar-viejo-infantil-femenino",
+    "date": "2026-12-12",
+    "time": "",
+    "status": "Próximo",
+    "home": "RECUERDO S.A.D. 14",
+    "home_slug": "recuerdo-s-a-d-14",
+    "home_logo": "images/teams/rival.png",
+    "home_score": null,
+    "away": "COLMENAR VIEJO",
+    "away_slug": "colmenar-viejo-infantil-femenino",
+    "away_logo": "images/teams/cbcolmenar.png",
+    "away_score": null,
+    "quarters": null,
+    "venue": "RECUERDO, COLEGIO (Descubierto) PLAZA DUQUE DE PASTRANA, 5, Madrid",
+    "venue_slug": "recuerdo-colegio-descubierto-plaza-duque-de-pastrana-5-madrid",
+    "venue_title": "RECUERDO",
+    "venue_address": "COLEGIO (Descubierto) PLAZA DUQUE DE PASTRANA, 5, Madrid",
+    "category": "Infantil",
+    "gender": "femenino",
+    "league_title": "Infantil Fem. 1ºaño - PRIMERA FASE - GRUPO 14",
+    "mvp": "-",
+    "weight": 52020261212000003
+  },
+  {
+    "id": "game-2026-12-19-colmenar-viejo-humanitas-c-d-e-infantil-femenino",
+    "slug": "game-2026-12-19-colmenar-viejo-humanitas-c-d-e-infantil-femenino",
+    "date": "2026-12-19",
+    "time": "",
+    "status": "Próximo",
+    "home": "COLMENAR VIEJO",
+    "home_slug": "colmenar-viejo-infantil-femenino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": null,
+    "away": "HUMANITAS C.D.E.",
+    "away_slug": "humanitas-c-d-e",
+    "away_logo": "images/teams/rival.png",
+    "away_score": null,
+    "quarters": null,
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Infantil",
+    "gender": "femenino",
+    "league_title": "Infantil Fem. 1ºaño - PRIMERA FASE - GRUPO 14",
+    "mvp": "-",
+    "weight": 52020261219000007
+  },
+  {
+    "id": "game-2027-01-16-colmenar-viejo-pilaristas-infantil-femenino",
+    "slug": "game-2027-01-16-colmenar-viejo-pilaristas-infantil-femenino",
+    "date": "2027-01-16",
+    "time": "",
+    "status": "Próximo",
+    "home": "COLMENAR VIEJO",
+    "home_slug": "colmenar-viejo-infantil-femenino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": null,
+    "away": "PILARISTAS",
+    "away_slug": "pilaristas",
+    "away_logo": "images/teams/rival.png",
+    "away_score": null,
+    "quarters": null,
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Infantil",
+    "gender": "femenino",
+    "league_title": "Infantil Fem. 1ºaño - PRIMERA FASE - GRUPO 14",
+    "mvp": "-",
+    "weight": 52020270116000042
+  },
+  {
+    "id": "game-2027-01-23-colegio-joyfe-colmenar-viejo-infantil-femenino",
+    "slug": "game-2027-01-23-colegio-joyfe-colmenar-viejo-infantil-femenino",
+    "date": "2027-01-23",
+    "time": "",
+    "status": "Próximo",
+    "home": "COLEGIO JOYFE",
+    "home_slug": "colegio-joyfe",
+    "home_logo": "images/teams/rival.png",
+    "home_score": null,
+    "away": "COLMENAR VIEJO",
+    "away_slug": "colmenar-viejo-infantil-femenino",
+    "away_logo": "images/teams/cbcolmenar.png",
+    "away_score": null,
+    "quarters": null,
+    "venue": "JOYFE, COLEGIO (Descubierto) VITAL AZA, 65, Madrid",
+    "venue_slug": "joyfe-colegio-descubierto-vital-aza-65-madrid",
+    "venue_title": "JOYFE",
+    "venue_address": "COLEGIO (Descubierto) VITAL AZA, 65, Madrid",
+    "category": "Infantil",
+    "gender": "femenino",
+    "league_title": "Infantil Fem. 1ºaño - PRIMERA FASE - GRUPO 14",
+    "mvp": "-",
+    "weight": 52020270123000074
+  },
+  {
     "id": "game-2026-10-10-colmenar-viejo-negro-colmenar-viejo-blanco-alevin-masculino",
     "slug": "game-2026-10-10-colmenar-viejo-negro-colmenar-viejo-blanco-alevin-masculino",
     "date": "2026-10-10",
     "time": "12:30",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO NEGRO",
     "home_slug": "colmenar-viejo-negro-alevin-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 71,
     "away": "COLMENAR VIEJO BLANCO",
     "away_slug": "colmenar-viejo-blanco-alevin-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 20,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -8342,16 +9510,29 @@
     "slug": "game-2026-10-10-la-paz-c-d-colmenar-viejo-alevin-masculino",
     "date": "2026-10-10",
     "time": "14:00",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "LA PAZ C.D.",
     "home_slug": "la-paz-c-d",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 2,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-alevin-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 53,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "SUPERA, PABELLON AVDA. DE LOS PLANETAS, 42, Parla",
     "venue_slug": "supera-pabellon-avda-de-los-planetas-42-parla",
     "venue_title": "SUPERA",
@@ -8366,17 +9547,30 @@
     "id": "game-2026-10-17-villanueva-de-la-canada-colmenar-viejo-negro-alevin-masculino",
     "slug": "game-2026-10-17-villanueva-de-la-canada-colmenar-viejo-negro-alevin-masculino",
     "date": "2026-10-17",
-    "time": "",
-    "status": "Próximo",
+    "time": "09:30",
+    "status": "Finalizado",
     "home": "VILLANUEVA DE LA CAÑADA",
     "home_slug": "villanueva-de-la-canada",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 8,
     "away": "COLMENAR VIEJO NEGRO",
     "away_slug": "colmenar-viejo-negro-alevin-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 58,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "SANTIAGO APOSTOL, PDVO. MPAL. CALLE DEL POLIDEPORTIVO, S/N, Villanueva de la Cañada",
     "venue_slug": "santiago-apostol-pdvo-mpal-calle-del-polideportivo-s-n-villanueva-de-la-canada",
     "venue_title": "SANTIAGO APOSTOL",
@@ -8385,23 +9579,36 @@
     "gender": "masculino",
     "league_title": "Alv Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9",
     "mvp": "-",
-    "weight": 61020261017000093
+    "weight": 61020261017093093
   },
   {
     "id": "game-2026-10-17-colmenar-viejo-blanco-movistar-estudiantes-niang-alevin-masculino",
     "slug": "game-2026-10-17-colmenar-viejo-blanco-movistar-estudiantes-niang-alevin-masculino",
     "date": "2026-10-17",
     "time": "09:45",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO BLANCO",
     "home_slug": "colmenar-viejo-blanco-alevin-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 17,
     "away": "MOVISTAR ESTUDIANTES NIANG",
     "away_slug": "movistar-estudiantes-niang",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 67,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -8417,16 +9624,29 @@
     "slug": "game-2026-10-17-colmenar-viejo-cd-caldeiro-alevin-masculino",
     "date": "2026-10-17",
     "time": "13:15",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-alevin-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 52,
     "away": "CD CALDEIRO",
     "away_slug": "cd-caldeiro",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 60,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -8438,45 +9658,33 @@
     "weight": 61020261017131563
   },
   {
-    "id": "game-2026-10-24-c-b-getafe-b-colmenar-viejo-negro-alevin-masculino",
-    "slug": "game-2026-10-24-c-b-getafe-b-colmenar-viejo-negro-alevin-masculino",
-    "date": "2026-10-24",
-    "time": "",
-    "status": "Próximo",
-    "home": "C.B. GETAFE \"B\"",
-    "home_slug": "c-b-getafe-b",
-    "home_logo": "images/teams/rival.png",
-    "home_score": null,
-    "away": "COLMENAR VIEJO NEGRO",
-    "away_slug": "colmenar-viejo-negro-alevin-masculino",
-    "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
-    "venue": "JUAN DE LA CIERVA, PABELLON PISTA CENTRAL AV. ESPAÑA, 90, Getafe",
-    "venue_slug": "juan-de-la-cierva-pabellon-pista-central-av-espana-90-getafe",
-    "venue_title": "JUAN DE LA CIERVA",
-    "venue_address": "PABELLON PISTA CENTRAL AV. ESPAÑA, 90, Getafe",
-    "category": "Alevín",
-    "gender": "masculino",
-    "league_title": "Alv Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9",
-    "mvp": "-",
-    "weight": 61020261024000059
-  },
-  {
     "id": "game-2026-10-24-colegio-el-prado-colmenar-viejo-blanco-alevin-masculino",
     "slug": "game-2026-10-24-colegio-el-prado-colmenar-viejo-blanco-alevin-masculino",
     "date": "2026-10-24",
-    "time": "",
-    "status": "Próximo",
+    "time": "09:30",
+    "status": "Finalizado",
     "home": "COLEGIO EL PRADO",
     "home_slug": "colegio-el-prado",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 33,
     "away": "COLMENAR VIEJO BLANCO",
     "away_slug": "colmenar-viejo-blanco-alevin-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 32,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "EL PRADO, PABELLON COLEGIO COSTA BRAVA, 4, Madrid",
     "venue_slug": "el-prado-pabellon-colegio-costa-brava-4-madrid",
     "venue_title": "EL PRADO",
@@ -8485,23 +9693,74 @@
     "gender": "masculino",
     "league_title": "Alv Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9",
     "mvp": "-",
-    "weight": 61020261024000089
+    "weight": 61020261024093089
+  },
+  {
+    "id": "game-2026-10-24-c-b-getafe-b-colmenar-viejo-negro-alevin-masculino",
+    "slug": "game-2026-10-24-c-b-getafe-b-colmenar-viejo-negro-alevin-masculino",
+    "date": "2026-10-24",
+    "time": "13:00",
+    "status": "Finalizado",
+    "home": "C.B. GETAFE \"B\"",
+    "home_slug": "c-b-getafe-b",
+    "home_logo": "images/teams/rival.png",
+    "home_score": 42,
+    "away": "COLMENAR VIEJO NEGRO",
+    "away_slug": "colmenar-viejo-negro-alevin-masculino",
+    "away_logo": "images/teams/cbcolmenar.png",
+    "away_score": 93,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN DE LA CIERVA, PABELLON Pista 2 AV. ESPAÑA, 90, Getafe",
+    "venue_slug": "juan-de-la-cierva-pabellon-pista-2-av-espana-90-getafe",
+    "venue_title": "JUAN DE LA CIERVA",
+    "venue_address": "PABELLON Pista 2 AV. ESPAÑA, 90, Getafe",
+    "category": "Alevín",
+    "gender": "masculino",
+    "league_title": "Alv Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9",
+    "mvp": "-",
+    "weight": 61020261024130059
   },
   {
     "id": "game-2026-10-24-ensanche-de-vallecas-b-colmenar-viejo-alevin-masculino",
     "slug": "game-2026-10-24-ensanche-de-vallecas-b-colmenar-viejo-alevin-masculino",
     "date": "2026-10-24",
-    "time": "17:00",
-    "status": "Próximo",
+    "time": "16:15",
+    "status": "Finalizado",
     "home": "ENSANCHE DE VALLECAS B",
     "home_slug": "ensanche-de-vallecas-b",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 57,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-alevin-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 6,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN DE DIOS ROMÁN, POLIDEPORTIVO C/ JOSÉ GUTIÉRREZ MAROTO, 34, Madrid",
     "venue_slug": "juan-de-dios-roman-polideportivo-c-jose-gutierrez-maroto-34-madrid",
     "venue_title": "JUAN DE DIOS ROMÁN",
@@ -8510,27 +9769,40 @@
     "gender": "masculino",
     "league_title": "Alv Mas 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 7",
     "mvp": "-",
-    "weight": 61020261024170076
+    "weight": 61020261024161576
   },
   {
     "id": "game-2026-11-07-c-b-getafe-b-colmenar-viejo-blanco-alevin-masculino",
     "slug": "game-2026-11-07-c-b-getafe-b-colmenar-viejo-blanco-alevin-masculino",
     "date": "2026-11-07",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "C.B. GETAFE \"B\"",
     "home_slug": "c-b-getafe-b",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 57,
     "away": "COLMENAR VIEJO BLANCO",
     "away_slug": "colmenar-viejo-blanco-alevin-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
-    "venue": "JUAN DE LA CIERVA, PABELLON PISTA CENTRAL AV. ESPAÑA, 90, Getafe",
-    "venue_slug": "juan-de-la-cierva-pabellon-pista-central-av-espana-90-getafe",
-    "venue_title": "JUAN DE LA CIERVA",
-    "venue_address": "PABELLON PISTA CENTRAL AV. ESPAÑA, 90, Getafe",
+    "away_score": 82,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "category": "Alevín",
     "gender": "masculino",
     "league_title": "Alv Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9",
@@ -8542,16 +9814,29 @@
     "slug": "game-2026-11-07-colmenar-viejo-negro-movistar-estudiantes-niang-alevin-masculino",
     "date": "2026-11-07",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO NEGRO",
     "home_slug": "colmenar-viejo-negro-alevin-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 79,
     "away": "MOVISTAR ESTUDIANTES NIANG",
     "away_slug": "movistar-estudiantes-niang",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 41,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -8561,6 +9846,107 @@
     "league_title": "Alv Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9",
     "mvp": "-",
     "weight": 61020261107000041
+  },
+  {
+    "id": "game-2026-11-07-colmenar-viejo-negro-movistar-estudiantes-niang-alevin-masculino",
+    "slug": "game-2026-11-07-colmenar-viejo-negro-movistar-estudiantes-niang-alevin-masculino",
+    "date": "2026-11-07",
+    "time": "09:45",
+    "status": "Finalizado",
+    "home": "COLMENAR VIEJO NEGRO",
+    "home_slug": "colmenar-viejo-negro-alevin-masculino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": 79,
+    "away": "MOVISTAR ESTUDIANTES NIANG",
+    "away_slug": "movistar-estudiantes-niang",
+    "away_logo": "images/teams/rival.png",
+    "away_score": 41,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Alevín",
+    "gender": "masculino",
+    "league_title": "Alv Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9",
+    "mvp": "-",
+    "weight": 61020261107094541
+  },
+  {
+    "id": "game-2026-11-07-c-b-getafe-b-colmenar-viejo-blanco-alevin-masculino",
+    "slug": "game-2026-11-07-c-b-getafe-b-colmenar-viejo-blanco-alevin-masculino",
+    "date": "2026-11-07",
+    "time": "13:00",
+    "status": "Finalizado",
+    "home": "C.B. GETAFE \"B\"",
+    "home_slug": "c-b-getafe-b",
+    "home_logo": "images/teams/rival.png",
+    "home_score": 57,
+    "away": "COLMENAR VIEJO BLANCO",
+    "away_slug": "colmenar-viejo-blanco-alevin-masculino",
+    "away_logo": "images/teams/cbcolmenar.png",
+    "away_score": 82,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN DE LA CIERVA, PABELLON Pista 2 AV. ESPAÑA, 90, Getafe",
+    "venue_slug": "juan-de-la-cierva-pabellon-pista-2-av-espana-90-getafe",
+    "venue_title": "JUAN DE LA CIERVA",
+    "venue_address": "PABELLON Pista 2 AV. ESPAÑA, 90, Getafe",
+    "category": "Alevín",
+    "gender": "masculino",
+    "league_title": "Alv Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9",
+    "mvp": "-",
+    "weight": 61020261107130036
+  },
+  {
+    "id": "game-2026-11-08-descansa-colmenar-viejo-alevin-masculino",
+    "slug": "game-2026-11-08-descansa-colmenar-viejo-alevin-masculino",
+    "date": "2026-11-08",
+    "time": "",
+    "status": "Próximo",
+    "home": "DESCANSA",
+    "home_slug": "descansa",
+    "home_logo": "images/teams/rival.png",
+    "home_score": null,
+    "away": "COLMENAR VIEJO",
+    "away_slug": "colmenar-viejo-alevin-masculino",
+    "away_logo": "images/teams/cbcolmenar.png",
+    "away_score": null,
+    "quarters": null,
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Alevín",
+    "gender": "masculino",
+    "league_title": "Alv Mas 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 7",
+    "mvp": "-",
+    "weight": 61020261108000025
   },
   {
     "id": "game-2026-11-08-descansa-colmenar-viejo-alevin-masculino",
@@ -8591,7 +9977,7 @@
     "id": "game-2026-11-14-colmenar-viejo-arroyomolinos-c-b-a-alevin-masculino",
     "slug": "game-2026-11-14-colmenar-viejo-arroyomolinos-c-b-a-alevin-masculino",
     "date": "2026-11-14",
-    "time": "",
+    "time": "09:45",
     "status": "Próximo",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-alevin-masculino",
@@ -8610,13 +9996,13 @@
     "gender": "masculino",
     "league_title": "Alv Mas 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 7",
     "mvp": "-",
-    "weight": 61020261114000096
+    "weight": 61020261114094596
   },
   {
     "id": "game-2026-11-14-colegio-el-prado-colmenar-viejo-negro-alevin-masculino",
     "slug": "game-2026-11-14-colegio-el-prado-colmenar-viejo-negro-alevin-masculino",
     "date": "2026-11-14",
-    "time": "",
+    "time": "10:45",
     "status": "Próximo",
     "home": "COLEGIO EL PRADO",
     "home_slug": "colegio-el-prado",
@@ -8635,13 +10021,13 @@
     "gender": "masculino",
     "league_title": "Alv Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9",
     "mvp": "-",
-    "weight": 61020261114000098
+    "weight": 61020261114104598
   },
   {
     "id": "game-2026-11-14-colmenar-viejo-blanco-villanueva-de-la-canada-alevin-masculino",
     "slug": "game-2026-11-14-colmenar-viejo-blanco-villanueva-de-la-canada-alevin-masculino",
     "date": "2026-11-14",
-    "time": "",
+    "time": "13:15",
     "status": "Próximo",
     "home": "COLMENAR VIEJO BLANCO",
     "home_slug": "colmenar-viejo-blanco-alevin-masculino",
@@ -8660,7 +10046,7 @@
     "gender": "masculino",
     "league_title": "Alv Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9",
     "mvp": "-",
-    "weight": 61020261114000034
+    "weight": 61020261114131534
   },
   {
     "id": "game-2026-11-21-colmenar-viejo-la-paz-c-d-alevin-masculino",
@@ -9017,16 +10403,29 @@
     "slug": "game-2026-10-10-baloncesto-rivas-sureste-c-colmenar-viejo-alevin-femenino",
     "date": "2026-10-10",
     "time": "09:30",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "BALONCESTO RIVAS SURESTE C",
     "home_slug": "baloncesto-rivas-sureste-c",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 15,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-alevin-femenino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 55,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "PARQUE DEL SURESTE, Pista 1 MIRADOR Frente al nº 25, Rivas-Vaciamadrid",
     "venue_slug": "parque-del-sureste-pista-1-mirador-frente-al-n-25-rivas-vaciamadrid",
     "venue_title": "PARQUE DEL SURESTE",
@@ -9042,16 +10441,29 @@
     "slug": "game-2026-10-17-colmenar-viejo-basket-aranjuez-rubiocar-alevin-femenino",
     "date": "2026-10-17",
     "time": "11:30",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-alevin-femenino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 29,
     "away": "BASKET ARANJUEZ RUBIOCAR",
     "away_slug": "basket-aranjuez-rubiocar",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 57,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -9066,67 +10478,144 @@
     "id": "game-2026-10-24-c-b-las-rozas-a-colmenar-viejo-alevin-femenino",
     "slug": "game-2026-10-24-c-b-las-rozas-a-colmenar-viejo-alevin-femenino",
     "date": "2026-10-24",
-    "time": "",
-    "status": "Próximo",
+    "time": "09:30",
+    "status": "Finalizado",
     "home": "C.B. LAS ROZAS \"A\"",
     "home_slug": "c-b-las-rozas-a",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 64,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-alevin-femenino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
-    "venue": "ALFREDO ESPINIELLA, PABELLON (PISTA CENTRAL) COMUNIDAD DE LA RIOJA, 4, Rozas de Madrid, Las",
-    "venue_slug": "alfredo-espiniella-pabellon-pista-central-comunidad-de-la-rioja-4-rozas-de-madrid-las",
-    "venue_title": "ALFREDO ESPINIELLA",
-    "venue_address": "PABELLON (PISTA CENTRAL) COMUNIDAD DE LA RIOJA, 4, Rozas de Madrid, Las",
+    "away_score": 13,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "POLIDEPORTIVO LAS MATAS PISTA 1 CAMINO GARZO, 79, Matas, Las",
+    "venue_slug": "polideportivo-las-matas-pista-1-camino-garzo-79-matas-las",
+    "venue_title": "POLIDEPORTIVO LAS MATAS PISTA 1 CAMINO GARZO",
+    "venue_address": "79, Matas, Las",
     "category": "Alevín",
     "gender": "femenino",
     "league_title": "Alv Fem 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13",
     "mvp": "-",
-    "weight": 62020261024000089
+    "weight": 62020261024093089
   },
   {
     "id": "game-2026-10-24-c-d-i-rozasbasket-colegio-zola-las-rozas-colmenar-viejo-alevin-femenino",
     "slug": "game-2026-10-24-c-d-i-rozasbasket-colegio-zola-las-rozas-colmenar-viejo-alevin-femenino",
     "date": "2026-10-24",
-    "time": "",
-    "status": "Próximo",
+    "time": "10:00",
+    "status": "Finalizado",
     "home": "C.D.I. ROZASBASKET COLEGIO ZOLA LAS ROZAS",
     "home_slug": "c-d-i-rozasbasket-colegio-zola-las-rozas",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 60,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-alevin-femenino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
-    "venue": "I.E.S. FEDERICO GARCIA LORCA CALLE GIMNASIO, 1-3, Rozas de Madrid, Las",
-    "venue_slug": "i-e-s-federico-garcia-lorca-calle-gimnasio-1-3-rozas-de-madrid-las",
-    "venue_title": "I.E.S. FEDERICO GARCIA LORCA CALLE GIMNASIO",
-    "venue_address": "1-3, Rozas de Madrid, Las",
+    "away_score": 45,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "ZOLA LAS ROZAS, COLEGIO AVDA. DE ESPARTA, 6, Rozas de Madrid, Las",
+    "venue_slug": "zola-las-rozas-colegio-avda-de-esparta-6-rozas-de-madrid-las",
+    "venue_title": "ZOLA LAS ROZAS",
+    "venue_address": "COLEGIO AVDA. DE ESPARTA, 6, Rozas de Madrid, Las",
     "category": "Alevín",
     "gender": "femenino",
     "league_title": "Alv Fem 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 8",
     "mvp": "-",
-    "weight": 62020261024000006
+    "weight": 62020261024100006
+  },
+  {
+    "id": "game-2026-11-07-buen-consejo-blanco-colmenar-viejo-alevin-femenino",
+    "slug": "game-2026-11-07-buen-consejo-blanco-colmenar-viejo-alevin-femenino",
+    "date": "2026-11-07",
+    "time": "",
+    "status": "Finalizado",
+    "home": "BUEN CONSEJO BLANCO",
+    "home_slug": "buen-consejo-blanco",
+    "home_logo": "images/teams/rival.png",
+    "home_score": 72,
+    "away": "COLMENAR VIEJO",
+    "away_slug": "colmenar-viejo-alevin-femenino",
+    "away_logo": "images/teams/cbcolmenar.png",
+    "away_score": 54,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Alevín",
+    "gender": "femenino",
+    "league_title": "Alv Fem 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 8",
+    "mvp": "-",
+    "weight": 62020261107000048
   },
   {
     "id": "game-2026-11-07-colmenar-viejo-uros-de-rivas-b-alevin-femenino",
     "slug": "game-2026-11-07-colmenar-viejo-uros-de-rivas-b-alevin-femenino",
     "date": "2026-11-07",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-alevin-femenino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 23,
     "away": "UROS DE RIVAS `B´",
     "away_slug": "uros-de-rivas-b",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 57,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -9141,17 +10630,30 @@
     "id": "game-2026-11-07-buen-consejo-blanco-colmenar-viejo-alevin-femenino",
     "slug": "game-2026-11-07-buen-consejo-blanco-colmenar-viejo-alevin-femenino",
     "date": "2026-11-07",
-    "time": "",
-    "status": "Próximo",
+    "time": "11:15",
+    "status": "Finalizado",
     "home": "BUEN CONSEJO BLANCO",
     "home_slug": "buen-consejo-blanco",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 72,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-alevin-femenino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 54,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "BUEN CONSEJO, PABELLON COLEGIO BEATRIZ DE BOBADILLA, S/N, Madrid",
     "venue_slug": "buen-consejo-pabellon-colegio-beatriz-de-bobadilla-s-n-madrid",
     "venue_title": "BUEN CONSEJO",
@@ -9160,23 +10662,74 @@
     "gender": "femenino",
     "league_title": "Alv Fem 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 8",
     "mvp": "-",
-    "weight": 62020261107000048
+    "weight": 62020261107111548
+  },
+  {
+    "id": "game-2026-11-07-colmenar-viejo-uros-de-rivas-b-alevin-femenino",
+    "slug": "game-2026-11-07-colmenar-viejo-uros-de-rivas-b-alevin-femenino",
+    "date": "2026-11-07",
+    "time": "11:30",
+    "status": "Finalizado",
+    "home": "COLMENAR VIEJO",
+    "home_slug": "colmenar-viejo-alevin-femenino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": 23,
+    "away": "UROS DE RIVAS `B´",
+    "away_slug": "uros-de-rivas-b",
+    "away_logo": "images/teams/rival.png",
+    "away_score": 57,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Alevín",
+    "gender": "femenino",
+    "league_title": "Alv Fem 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13",
+    "mvp": "-",
+    "weight": 62020261107113015
   },
   {
     "id": "game-2026-11-08-lions-basket-arroyomolinos-a-colmenar-viejo-alevin-femenino",
     "slug": "game-2026-11-08-lions-basket-arroyomolinos-a-colmenar-viejo-alevin-femenino",
     "date": "2026-11-08",
-    "time": "13:00",
-    "status": "Próximo",
+    "time": "11:15",
+    "status": "Finalizado",
     "home": "LIONS BASKET ARROYOMOLINOS \"A\"",
     "home_slug": "lions-basket-arroyomolinos-a",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 77,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-alevin-femenino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 41,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "AVERROES, PABELLON CEIP AVENIDA DE FRANCIA, 163 (entrada por C/ Suiza), Arroyomolinos",
     "venue_slug": "averroes-pabellon-ceip-avenida-de-francia-163-entrada-por-c-suiza-arroyomolinos",
     "venue_title": "AVERROES",
@@ -9185,38 +10738,13 @@
     "gender": "femenino",
     "league_title": "Alv Fem 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13",
     "mvp": "-",
-    "weight": 62020261108130049
-  },
-  {
-    "id": "game-2026-11-14-parla-basquet-2015-colmenar-viejo-alevin-femenino",
-    "slug": "game-2026-11-14-parla-basquet-2015-colmenar-viejo-alevin-femenino",
-    "date": "2026-11-14",
-    "time": "",
-    "status": "Próximo",
-    "home": "PARLA BASQUET 2015",
-    "home_slug": "parla-basquet-2015",
-    "home_logo": "images/teams/rival.png",
-    "home_score": null,
-    "away": "COLMENAR VIEJO",
-    "away_slug": "colmenar-viejo-alevin-femenino",
-    "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
-    "venue": "LA CANTUEÑA, PABELLON CALLE PROLONGACION CUENCA, 6A, Parla",
-    "venue_slug": "la-cantuena-pabellon-calle-prolongacion-cuenca-6a-parla",
-    "venue_title": "LA CANTUEÑA",
-    "venue_address": "PABELLON CALLE PROLONGACION CUENCA, 6A, Parla",
-    "category": "Alevín",
-    "gender": "femenino",
-    "league_title": "Alv Fem 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13",
-    "mvp": "-",
-    "weight": 62020261114000070
+    "weight": 62020261108111549
   },
   {
     "id": "game-2026-11-14-colmenar-viejo-el-valle-c-d-b-alevin-femenino",
     "slug": "game-2026-11-14-colmenar-viejo-el-valle-c-d-b-alevin-femenino",
     "date": "2026-11-14",
-    "time": "",
+    "time": "11:30",
     "status": "Próximo",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-alevin-femenino",
@@ -9235,7 +10763,32 @@
     "gender": "femenino",
     "league_title": "Alv Fem 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 8",
     "mvp": "-",
-    "weight": 62020261114000042
+    "weight": 62020261114113042
+  },
+  {
+    "id": "game-2026-11-14-parla-basquet-2015-colmenar-viejo-alevin-femenino",
+    "slug": "game-2026-11-14-parla-basquet-2015-colmenar-viejo-alevin-femenino",
+    "date": "2026-11-14",
+    "time": "14:00",
+    "status": "Próximo",
+    "home": "PARLA BASQUET 2015",
+    "home_slug": "parla-basquet-2015",
+    "home_logo": "images/teams/rival.png",
+    "home_score": null,
+    "away": "COLMENAR VIEJO",
+    "away_slug": "colmenar-viejo-alevin-femenino",
+    "away_logo": "images/teams/cbcolmenar.png",
+    "away_score": null,
+    "quarters": null,
+    "venue": "LA CANTUEÑA, PABELLON CALLE PROLONGACION CUENCA, 6A, Parla",
+    "venue_slug": "la-cantuena-pabellon-calle-prolongacion-cuenca-6a-parla",
+    "venue_title": "LA CANTUEÑA",
+    "venue_address": "PABELLON CALLE PROLONGACION CUENCA, 6A, Parla",
+    "category": "Alevín",
+    "gender": "femenino",
+    "league_title": "Alv Fem 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13",
+    "mvp": "-",
+    "weight": 62020261114140070
   },
   {
     "id": "game-2026-11-15-colmenar-viejo-isaac-newton-a-alevin-femenino",
@@ -9517,16 +11070,29 @@
     "slug": "game-2026-10-10-colmenar-viejo-villanueva-de-la-canada-benjamin-masculino",
     "date": "2026-10-10",
     "time": "10:45",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-benjamin-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 38,
     "away": "VILLANUEVA DE LA CAÑADA",
     "away_slug": "villanueva-de-la-canada",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 18,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -9542,16 +11108,29 @@
     "slug": "game-2026-10-10-colegio-el-prado-colmenar-viejo-benjamin-masculino",
     "date": "2026-10-10",
     "time": "11:15",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLEGIO EL PRADO",
     "home_slug": "colegio-el-prado",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 30,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-benjamin-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 6,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "EL PRADO, COLEGIO (PISTA EXTERIOR) COSTA BRAVA, 4, Madrid",
     "venue_slug": "el-prado-colegio-pista-exterior-costa-brava-4-madrid",
     "venue_title": "EL PRADO",
@@ -9567,16 +11146,29 @@
     "slug": "game-2026-10-17-buen-consejo-colmenar-viejo-benjamin-masculino",
     "date": "2026-10-17",
     "time": "09:15",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "BUEN CONSEJO",
     "home_slug": "buen-consejo",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 38,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-benjamin-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 28,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "BUEN CONSEJO, PABELLON COLEGIO BEATRIZ DE BOBADILLA, S/N, Madrid",
     "venue_slug": "buen-consejo-pabellon-colegio-beatriz-de-bobadilla-s-n-madrid",
     "venue_title": "BUEN CONSEJO",
@@ -9592,16 +11184,29 @@
     "slug": "game-2026-10-17-colmenar-viejo-tres-cantos-a-benjamin-masculino",
     "date": "2026-10-17",
     "time": "09:45",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-benjamin-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 2,
     "away": "TRES CANTOS A",
     "away_slug": "tres-cantos-a",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 53,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -9616,17 +11221,30 @@
     "id": "game-2026-10-24-mirasur-school-colmenar-viejo-benjamin-masculino",
     "slug": "game-2026-10-24-mirasur-school-colmenar-viejo-benjamin-masculino",
     "date": "2026-10-24",
-    "time": "",
-    "status": "Próximo",
+    "time": "10:00",
+    "status": "Finalizado",
     "home": "MIRASUR SCHOOL",
     "home_slug": "mirasur-school",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 36,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-benjamin-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 26,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "MIRASUR, PABELLON COLEGIO PABLO GARGALLO, 1, Pinto",
     "venue_slug": "mirasur-pabellon-colegio-pablo-gargallo-1-pinto",
     "venue_title": "MIRASUR",
@@ -9635,48 +11253,74 @@
     "gender": "masculino",
     "league_title": "Benj Mas 2ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 11",
     "mvp": "-",
-    "weight": 71020261024000091
+    "weight": 71020261024100091
   },
   {
     "id": "game-2026-10-24-tres-cantos-b-colmenar-viejo-benjamin-masculino",
     "slug": "game-2026-10-24-tres-cantos-b-colmenar-viejo-benjamin-masculino",
     "date": "2026-10-24",
-    "time": "",
-    "status": "Próximo",
+    "time": "12:30",
+    "status": "Finalizado",
     "home": "TRES CANTOS B",
     "home_slug": "tres-cantos-b",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 23,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-benjamin-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
-    "venue": "LA LUZ, PABELLON PISTA 3 AVENIDA DE LA LUZ, 6, Tres Cantos",
-    "venue_slug": "la-luz-pabellon-pista-3-avenida-de-la-luz-6-tres-cantos",
+    "away_score": 11,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "LA LUZ, PABELLON PISTA 1 AVENIDA DE LA LUZ, 6, Tres Cantos",
+    "venue_slug": "la-luz-pabellon-pista-1-avenida-de-la-luz-6-tres-cantos",
     "venue_title": "LA LUZ",
-    "venue_address": "PABELLON PISTA 3 AVENIDA DE LA LUZ, 6, Tres Cantos",
+    "venue_address": "PABELLON PISTA 1 AVENIDA DE LA LUZ, 6, Tres Cantos",
     "category": "Benjamín",
     "gender": "masculino",
     "league_title": "Benj Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 4",
     "mvp": "-",
-    "weight": 71020261024000013
+    "weight": 71020261024123013
   },
   {
     "id": "game-2026-11-07-colmenar-viejo-adc-boadilla-benjamin-masculino",
     "slug": "game-2026-11-07-colmenar-viejo-adc-boadilla-benjamin-masculino",
     "date": "2026-11-07",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-benjamin-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 40,
     "away": "ADC BOADILLA",
     "away_slug": "adc-boadilla",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 23,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -9692,16 +11336,67 @@
     "slug": "game-2026-11-07-virgen-de-mirasierra-colmenar-viejo-benjamin-masculino",
     "date": "2026-11-07",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "VIRGEN DE MIRASIERRA",
     "home_slug": "virgen-de-mirasierra",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 50,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-benjamin-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 0,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Benjamín",
+    "gender": "masculino",
+    "league_title": "Benj Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 4",
+    "mvp": "-",
+    "weight": 71020261107000057
+  },
+  {
+    "id": "game-2026-11-07-virgen-de-mirasierra-colmenar-viejo-benjamin-masculino",
+    "slug": "game-2026-11-07-virgen-de-mirasierra-colmenar-viejo-benjamin-masculino",
+    "date": "2026-11-07",
+    "time": "10:45",
+    "status": "Finalizado",
+    "home": "VIRGEN DE MIRASIERRA",
+    "home_slug": "virgen-de-mirasierra",
+    "home_logo": "images/teams/rival.png",
+    "home_score": 50,
+    "away": "COLMENAR VIEJO",
+    "away_slug": "colmenar-viejo-benjamin-masculino",
+    "away_logo": "images/teams/cbcolmenar.png",
+    "away_score": 0,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "VIRGEN DE MIRASIERRA, COLEGIO CALLE PEÑA DORADA, 2, Madrid",
     "venue_slug": "virgen-de-mirasierra-colegio-calle-pena-dorada-2-madrid",
     "venue_title": "VIRGEN DE MIRASIERRA",
@@ -9710,38 +11405,51 @@
     "gender": "masculino",
     "league_title": "Benj Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 4",
     "mvp": "-",
-    "weight": 71020261107000057
+    "weight": 71020261107104557
   },
   {
-    "id": "game-2026-11-14-madrid-fsm-c-d-b-colmenar-viejo-benjamin-masculino",
-    "slug": "game-2026-11-14-madrid-fsm-c-d-b-colmenar-viejo-benjamin-masculino",
-    "date": "2026-11-14",
-    "time": "",
-    "status": "Próximo",
-    "home": "MADRID FSM C.D.B.",
-    "home_slug": "madrid-fsm-c-d-b",
-    "home_logo": "images/teams/rival.png",
-    "home_score": null,
-    "away": "COLMENAR VIEJO",
-    "away_slug": "colmenar-viejo-benjamin-masculino",
-    "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
-    "venue": "COLEGIO MADRID FUNDACION SANTA MARIA AVDA. DE LOS MADROÑOS esquina C/ JOSELITO, Madrid",
-    "venue_slug": "colegio-madrid-fundacion-santa-maria-avda-de-los-madronos-esquina-c-joselito-madrid",
-    "venue_title": "COLEGIO MADRID FUNDACION SANTA MARIA AVDA. DE LOS MADROÑOS esquina C/ JOSELITO",
-    "venue_address": "Madrid",
+    "id": "game-2026-11-07-colmenar-viejo-adc-boadilla-benjamin-masculino",
+    "slug": "game-2026-11-07-colmenar-viejo-adc-boadilla-benjamin-masculino",
+    "date": "2026-11-07",
+    "time": "12:00",
+    "status": "Finalizado",
+    "home": "COLMENAR VIEJO",
+    "home_slug": "colmenar-viejo-benjamin-masculino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": 40,
+    "away": "ADC BOADILLA",
+    "away_slug": "adc-boadilla",
+    "away_logo": "images/teams/rival.png",
+    "away_score": 23,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "category": "Benjamín",
     "gender": "masculino",
     "league_title": "Benj Mas 2ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 11",
     "mvp": "-",
-    "weight": 71020261114000013
+    "weight": 71020261107120081
   },
   {
     "id": "game-2026-11-14-colmenar-viejo-piratas-soto-basket-benjamin-masculino",
     "slug": "game-2026-11-14-colmenar-viejo-piratas-soto-basket-benjamin-masculino",
     "date": "2026-11-14",
-    "time": "",
+    "time": "09:45",
     "status": "Próximo",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-benjamin-masculino",
@@ -9760,7 +11468,32 @@
     "gender": "masculino",
     "league_title": "Benj Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 4",
     "mvp": "-",
-    "weight": 71020261114000010
+    "weight": 71020261114094510
+  },
+  {
+    "id": "game-2026-11-14-madrid-fsm-c-d-b-colmenar-viejo-benjamin-masculino",
+    "slug": "game-2026-11-14-madrid-fsm-c-d-b-colmenar-viejo-benjamin-masculino",
+    "date": "2026-11-14",
+    "time": "10:00",
+    "status": "Próximo",
+    "home": "MADRID FSM C.D.B.",
+    "home_slug": "madrid-fsm-c-d-b",
+    "home_logo": "images/teams/rival.png",
+    "home_score": null,
+    "away": "COLMENAR VIEJO",
+    "away_slug": "colmenar-viejo-benjamin-masculino",
+    "away_logo": "images/teams/cbcolmenar.png",
+    "away_score": null,
+    "quarters": null,
+    "venue": "COLEGIO MADRID FUNDACION SANTA MARIA AVDA. DE LOS MADROÑOS esquina C/ JOSELITO, Madrid",
+    "venue_slug": "colegio-madrid-fundacion-santa-maria-avda-de-los-madronos-esquina-c-joselito-madrid",
+    "venue_title": "COLEGIO MADRID FUNDACION SANTA MARIA AVDA. DE LOS MADROÑOS esquina C/ JOSELITO",
+    "venue_address": "Madrid",
+    "category": "Benjamín",
+    "gender": "masculino",
+    "league_title": "Benj Mas 2ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 11",
+    "mvp": "-",
+    "weight": 71020261114100013
   },
   {
     "id": "game-2026-11-21-villanueva-de-la-canada-colmenar-viejo-benjamin-masculino",
@@ -10017,16 +11750,29 @@
     "slug": "game-2026-10-10-cabrini-a-p-a-colmenar-viejo-benjamin-femenino",
     "date": "2026-10-10",
     "time": "09:30",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "CABRINI A.P.A.",
     "home_slug": "cabrini-a-p-a",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 51,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-benjamin-femenino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 1,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "CABRINI, COLEGIO (Descubierto) STA. FRANCISCA JAVIER CABRINI esquina C/ Sicélidas, Madrid",
     "venue_slug": "cabrini-colegio-descubierto-sta-francisca-javier-cabrini-esquina-c-sicelidas-madrid",
     "venue_title": "CABRINI",
@@ -10038,8 +11784,8 @@
     "weight": 72020261010093096
   },
   {
-    "id": "game-2026-10-17-colmenar-viejo-movistar-estudiantes-soler-benjamin-femenino",
-    "slug": "game-2026-10-17-colmenar-viejo-movistar-estudiantes-soler-benjamin-femenino",
+    "id": "game-2026-10-17-colmenar-viejo-descansa-benjamin-femenino",
+    "slug": "game-2026-10-17-colmenar-viejo-descansa-benjamin-femenino",
     "date": "2026-10-17",
     "time": "13:15",
     "status": "Próximo",
@@ -10047,8 +11793,8 @@
     "home_slug": "colmenar-viejo-benjamin-femenino",
     "home_logo": "images/teams/cbcolmenar.png",
     "home_score": null,
-    "away": "MOVISTAR ESTUDIANTES SOLER",
-    "away_slug": "movistar-estudiantes-soler",
+    "away": "DESCANSA",
+    "away_slug": "descansa",
     "away_logo": "images/teams/rival.png",
     "away_score": null,
     "quarters": null,
@@ -10060,23 +11806,36 @@
     "gender": "femenino",
     "league_title": "Benj F.2ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6",
     "mvp": "-",
-    "weight": 72020261017131505
+    "weight": 72020261017131542
   },
   {
     "id": "game-2026-10-24-veritas-pozuelo-colmenar-viejo-benjamin-femenino",
     "slug": "game-2026-10-24-veritas-pozuelo-colmenar-viejo-benjamin-femenino",
     "date": "2026-10-24",
-    "time": "",
-    "status": "Próximo",
+    "time": "13:00",
+    "status": "Finalizado",
     "home": "VERITAS POZUELO",
     "home_slug": "veritas-pozuelo",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 66,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-benjamin-femenino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 16,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "VERITAS, PABELLON INSTITUTO (PISTA CENTRAL) AVDA. RADIO TELEVISION, 2, Pozuelo de Alarcón",
     "venue_slug": "veritas-pabellon-instituto-pista-central-avda-radio-television-2-pozuelo-de-alarcon",
     "venue_title": "VERITAS",
@@ -10085,23 +11844,36 @@
     "gender": "femenino",
     "league_title": "Benj F.2ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6",
     "mvp": "-",
-    "weight": 72020261024000010
+    "weight": 72020261024130010
   },
   {
     "id": "game-2026-11-07-colmenar-viejo-innova-tsn-leganes-benjamin-femenino",
     "slug": "game-2026-11-07-colmenar-viejo-innova-tsn-leganes-benjamin-femenino",
     "date": "2026-11-07",
     "time": "",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-benjamin-femenino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 2,
     "away": "INNOVA-TSN LEGANÉS",
     "away_slug": "innova-tsn-leganes",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 52,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -10113,10 +11885,48 @@
     "weight": 72020261107000095
   },
   {
+    "id": "game-2026-11-07-colmenar-viejo-innova-tsn-leganes-benjamin-femenino",
+    "slug": "game-2026-11-07-colmenar-viejo-innova-tsn-leganes-benjamin-femenino",
+    "date": "2026-11-07",
+    "time": "13:15",
+    "status": "Finalizado",
+    "home": "COLMENAR VIEJO",
+    "home_slug": "colmenar-viejo-benjamin-femenino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": 2,
+    "away": "INNOVA-TSN LEGANÉS",
+    "away_slug": "innova-tsn-leganes",
+    "away_logo": "images/teams/rival.png",
+    "away_score": 52,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Benjamín",
+    "gender": "femenino",
+    "league_title": "Benj F.2ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6",
+    "mvp": "-",
+    "weight": 72020261107131595
+  },
+  {
     "id": "game-2026-11-14-liceo-frances-nico-colmenar-viejo-benjamin-femenino",
     "slug": "game-2026-11-14-liceo-frances-nico-colmenar-viejo-benjamin-femenino",
     "date": "2026-11-14",
-    "time": "",
+    "time": "11:15",
     "status": "Próximo",
     "home": "LICEO FRANCES NICO",
     "home_slug": "liceo-frances-nico",
@@ -10135,7 +11945,7 @@
     "gender": "femenino",
     "league_title": "Benj F.2ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6",
     "mvp": "-",
-    "weight": 72020261114000080
+    "weight": 72020261114111580
   },
   {
     "id": "game-2026-11-21-colmenar-viejo-cabrini-a-p-a-benjamin-femenino",
@@ -10163,13 +11973,13 @@
     "weight": 72020261121000089
   },
   {
-    "id": "game-2026-11-28-movistar-estudiantes-soler-colmenar-viejo-benjamin-femenino",
-    "slug": "game-2026-11-28-movistar-estudiantes-soler-colmenar-viejo-benjamin-femenino",
-    "date": "2026-11-28",
+    "id": "game-2026-11-29-descansa-colmenar-viejo-benjamin-femenino",
+    "slug": "game-2026-11-29-descansa-colmenar-viejo-benjamin-femenino",
+    "date": "2026-11-29",
     "time": "",
     "status": "Próximo",
-    "home": "MOVISTAR ESTUDIANTES SOLER",
-    "home_slug": "movistar-estudiantes-soler",
+    "home": "DESCANSA",
+    "home_slug": "descansa",
     "home_logo": "images/teams/rival.png",
     "home_score": null,
     "away": "COLMENAR VIEJO",
@@ -10177,15 +11987,15 @@
     "away_logo": "images/teams/cbcolmenar.png",
     "away_score": null,
     "quarters": null,
-    "venue": "LA NEVERA, PABELLON (PISTA CENTRAL) SERRANO, 129, Madrid",
-    "venue_slug": "la-nevera-pabellon-pista-central-serrano-129-madrid",
-    "venue_title": "LA NEVERA",
-    "venue_address": "PABELLON (PISTA CENTRAL) SERRANO, 129, Madrid",
+    "venue": ". RONDA DEL SUR, 46, Arganda del Rey",
+    "venue_slug": "ronda-del-sur-46-arganda-del-rey",
+    "venue_title": ". RONDA DEL SUR",
+    "venue_address": "46, Arganda del Rey",
     "category": "Benjamín",
     "gender": "femenino",
     "league_title": "Benj F.2ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6",
     "mvp": "-",
-    "weight": 72020261128000098
+    "weight": 72020261129000028
   },
   {
     "id": "game-2026-12-12-colmenar-viejo-veritas-pozuelo-benjamin-femenino",
