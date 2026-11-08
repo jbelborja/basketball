@@ -340,7 +340,7 @@ def parse_fbm_data(html):
                             pp = int(cell_texts[4])
                             pf = int(cell_texts[5])
                             pc = int(cell_texts[6])
-                            pts = int(cell_texts[7]) if len(cell_texts) > 7 else (pg * 2 + pp)
+                            pts = int(cell_texts[7]) if len(cell_texts) > 7 else (pg * 2)
                             dif_val = pf - pc
                             dif_str = f"+{dif_val}" if dif_val > 0 else str(dif_val)
 
