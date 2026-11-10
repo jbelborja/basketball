@@ -1,7 +1,7 @@
 ---
 title: "ABACO VS COLMENAR VIEJO"
-date: 2026-11-22T00:00:00
-time: ""
+date: 2026-11-22T19:15:00
+time: "19:15"
 team1: "ABACO"
 team1_slug: "abaco"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Sub 22 Masc. BRONCE - PRIMERA 1\u00aa DIVISION - GRUPO 1"
 uid: "game-2026-11-22-abaco-colmenar-viejo-sub-22-masculino"
 slug: "game-2026-11-22-abaco-colmenar-viejo-sub-22-masculino"
-weight: 21020261122000017
+weight: 21020261122191517
 ---
 
 Encuentro correspondiente a la categoría Sub 22 (masculino) entre **ABACO** y **COLMENAR VIEJO**.

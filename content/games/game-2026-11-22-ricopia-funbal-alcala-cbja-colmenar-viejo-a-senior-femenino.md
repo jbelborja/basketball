@@ -1,7 +1,7 @@
 ---
 title: "RICOPIA FUNBAL ALCALA CBJA VS COLMENAR VIEJO A"
-date: 2026-11-22T00:00:00
-time: ""
+date: 2026-11-22T20:30:00
+time: "20:30"
 team1: "RICOPIA FUNBAL ALCALA CBJA"
 team1_slug: "ricopia-funbal-alcala-cbja"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
 uid: "game-2026-11-22-ricopia-funbal-alcala-cbja-colmenar-viejo-a-senior-femenino"
 slug: "game-2026-11-22-ricopia-funbal-alcala-cbja-colmenar-viejo-a-senior-femenino"
-weight: 12120261122000065
+weight: 12120261122203065
 ---
 
 Encuentro correspondiente a la categoría Senior (femenino) entre **RICOPIA FUNBAL ALCALA CBJA** y **COLMENAR VIEJO A**.

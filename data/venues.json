@@ -72,15 +72,6 @@
     "matches_count": 4
   },
   {
-    "slug": "arganzuela-centro-integrado-c-palos-de-la-frontera-40-madrid",
-    "title": "ARGANZUELA",
-    "address": "CENTRO INTEGRADO C/ PALOS DE LA FRONTERA, 40, Madrid",
-    "raw_venue": "ARGANZUELA, CENTRO INTEGRADO C/ PALOS DE LA FRONTERA, 40, Madrid",
-    "maps_embed": "https://maps.google.com/maps?q=ARGANZUELA%2C%20CENTRO%20INTEGRADO%20C/%20PALOS%20DE%20LA%20FRONTERA%2C%2040%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=ARGANZUELA%2C%20CENTRO%20INTEGRADO%20C/%20PALOS%20DE%20LA%20FRONTERA%2C%2040%2C%20Madrid",
-    "matches_count": 3
-  },
-  {
     "slug": "cabrini-colegio-semicubierto-sta-francisca-javier-cabrini-esquina-c-sicelidas-madrid",
     "title": "CABRINI",
     "address": "COLEGIO (Semicubierto) STA. FRANCISCA JAVIER CABRINI esquina C/ Sicélidas, Madrid",
@@ -153,6 +144,15 @@
     "matches_count": 3
   },
   {
+    "slug": "salesianos-carabanchel-pabellon-colegio-ronda-don-bosco-3-madrid",
+    "title": "SALESIANOS CARABANCHEL",
+    "address": "PABELLON COLEGIO RONDA DON BOSCO, 3, Madrid",
+    "raw_venue": "SALESIANOS CARABANCHEL, PABELLON COLEGIO RONDA DON BOSCO, 3, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=SALESIANOS%20CARABANCHEL%2C%20PABELLON%20COLEGIO%20RONDA%20DON%20BOSCO%2C%203%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=SALESIANOS%20CARABANCHEL%2C%20PABELLON%20COLEGIO%20RONDA%20DON%20BOSCO%2C%203%2C%20Madrid",
+    "matches_count": 3
+  },
+  {
     "slug": "ronda-del-sur-46-arganda-del-rey",
     "title": ". RONDA DEL SUR",
     "address": "46, Arganda del Rey",
@@ -195,6 +195,15 @@
     "raw_venue": "ANTONIO DIAZ MIGUEL, PDVO. MPAL. JOAQUIN DICENTA, 1, Madrid",
     "maps_embed": "https://maps.google.com/maps?q=ANTONIO%20DIAZ%20MIGUEL%2C%20PDVO.%20MPAL.%20JOAQUIN%20DICENTA%2C%201%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=ANTONIO%20DIAZ%20MIGUEL%2C%20PDVO.%20MPAL.%20JOAQUIN%20DICENTA%2C%201%2C%20Madrid",
+    "matches_count": 2
+  },
+  {
+    "slug": "arganzuela-centro-integrado-c-palos-de-la-frontera-40-madrid",
+    "title": "ARGANZUELA",
+    "address": "CENTRO INTEGRADO C/ PALOS DE LA FRONTERA, 40, Madrid",
+    "raw_venue": "ARGANZUELA, CENTRO INTEGRADO C/ PALOS DE LA FRONTERA, 40, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=ARGANZUELA%2C%20CENTRO%20INTEGRADO%20C/%20PALOS%20DE%20LA%20FRONTERA%2C%2040%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=ARGANZUELA%2C%20CENTRO%20INTEGRADO%20C/%20PALOS%20DE%20LA%20FRONTERA%2C%2040%2C%20Madrid",
     "matches_count": 2
   },
   {
@@ -348,15 +357,6 @@
     "raw_venue": "PILARISTAS, PABELLON COLEGIO AYALA, 47, Madrid",
     "maps_embed": "https://maps.google.com/maps?q=PILARISTAS%2C%20PABELLON%20COLEGIO%20AYALA%2C%2047%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=PILARISTAS%2C%20PABELLON%20COLEGIO%20AYALA%2C%2047%2C%20Madrid",
-    "matches_count": 2
-  },
-  {
-    "slug": "salesianos-carabanchel-pabellon-colegio-ronda-don-bosco-3-madrid",
-    "title": "SALESIANOS CARABANCHEL",
-    "address": "PABELLON COLEGIO RONDA DON BOSCO, 3, Madrid",
-    "raw_venue": "SALESIANOS CARABANCHEL, PABELLON COLEGIO RONDA DON BOSCO, 3, Madrid",
-    "maps_embed": "https://maps.google.com/maps?q=SALESIANOS%20CARABANCHEL%2C%20PABELLON%20COLEGIO%20RONDA%20DON%20BOSCO%2C%203%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=SALESIANOS%20CARABANCHEL%2C%20PABELLON%20COLEGIO%20RONDA%20DON%20BOSCO%2C%203%2C%20Madrid",
     "matches_count": 2
   },
   {

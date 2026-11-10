@@ -1600,7 +1600,7 @@
     "id": "game-2026-11-22-ricopia-funbal-alcala-cbja-colmenar-viejo-a-senior-femenino",
     "slug": "game-2026-11-22-ricopia-funbal-alcala-cbja-colmenar-viejo-a-senior-femenino",
     "date": "2026-11-22",
-    "time": "",
+    "time": "20:30",
     "status": "Próximo",
     "home": "RICOPIA FUNBAL ALCALA CBJA",
     "home_slug": "ricopia-funbal-alcala-cbja",
@@ -1619,7 +1619,7 @@
     "gender": "femenino",
     "league_title": "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR",
     "mvp": "-",
-    "weight": 12120261122000065
+    "weight": 12120261122203065
   },
   {
     "id": "game-2026-11-28-colmenar-viejo-a-isaac-newton-senior-femenino",
@@ -2705,7 +2705,7 @@
     "id": "game-2026-11-22-abaco-colmenar-viejo-sub-22-masculino",
     "slug": "game-2026-11-22-abaco-colmenar-viejo-sub-22-masculino",
     "date": "2026-11-22",
-    "time": "",
+    "time": "19:15",
     "status": "Próximo",
     "home": "ABACO",
     "home_slug": "abaco",
@@ -2724,7 +2724,7 @@
     "gender": "masculino",
     "league_title": "Sub 22 Masc. BRONCE - PRIMERA 1ª DIVISION - GRUPO 1",
     "mvp": "-",
-    "weight": 21020261122000017
+    "weight": 21020261122191517
   },
   {
     "id": "game-2026-11-29-colmenar-viejo-cabrini-a-p-a-sub-22-masculino",
@@ -7050,7 +7050,7 @@
     "id": "game-2026-11-21-arganzuela-centro-blanco-colmenar-viejo-c-cadete-masculino",
     "slug": "game-2026-11-21-arganzuela-centro-blanco-colmenar-viejo-c-cadete-masculino",
     "date": "2026-11-21",
-    "time": "19:00",
+    "time": "13:15",
     "status": "Próximo",
     "home": "ARGANZUELA CENTRO BLANCO",
     "home_slug": "arganzuela-centro-blanco",
@@ -7061,15 +7061,15 @@
     "away_logo": "images/teams/cbcolmenar.png",
     "away_score": null,
     "quarters": null,
-    "venue": "ARGANZUELA, CENTRO INTEGRADO C/ PALOS DE LA FRONTERA, 40, Madrid",
-    "venue_slug": "arganzuela-centro-integrado-c-palos-de-la-frontera-40-madrid",
-    "venue_title": "ARGANZUELA",
-    "venue_address": "CENTRO INTEGRADO C/ PALOS DE LA FRONTERA, 40, Madrid",
+    "venue": "SALESIANOS CARABANCHEL, PABELLON COLEGIO RONDA DON BOSCO, 3, Madrid",
+    "venue_slug": "salesianos-carabanchel-pabellon-colegio-ronda-don-bosco-3-madrid",
+    "venue_title": "SALESIANOS CARABANCHEL",
+    "venue_address": "PABELLON COLEGIO RONDA DON BOSCO, 3, Madrid",
     "category": "Cadete",
     "gender": "masculino",
     "league_title": "Cadete Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 3",
     "mvp": "-",
-    "weight": 41320261121190017
+    "weight": 41320261121131517
   },
   {
     "id": "game-2026-11-28-colmenar-viejo-c-triple-chamberi-cadete-masculino",
