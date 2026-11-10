@@ -198,15 +198,6 @@
     "matches_count": 2
   },
   {
-    "slug": "arganzuela-centro-integrado-c-palos-de-la-frontera-40-madrid",
-    "title": "ARGANZUELA",
-    "address": "CENTRO INTEGRADO C/ PALOS DE LA FRONTERA, 40, Madrid",
-    "raw_venue": "ARGANZUELA, CENTRO INTEGRADO C/ PALOS DE LA FRONTERA, 40, Madrid",
-    "maps_embed": "https://maps.google.com/maps?q=ARGANZUELA%2C%20CENTRO%20INTEGRADO%20C/%20PALOS%20DE%20LA%20FRONTERA%2C%2040%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=ARGANZUELA%2C%20CENTRO%20INTEGRADO%20C/%20PALOS%20DE%20LA%20FRONTERA%2C%2040%2C%20Madrid",
-    "matches_count": 2
-  },
-  {
     "slug": "c-e-i-p-serracines-pabellon-romeral-15-serracines",
     "title": "C.E.I.P. SERRACINES",
     "address": "PABELLON ROMERAL, 15, Serracines",
@@ -486,6 +477,15 @@
     "matches_count": 1
   },
   {
+    "slug": "arganzuela-centro-integrado-c-palos-de-la-frontera-40-madrid",
+    "title": "ARGANZUELA",
+    "address": "CENTRO INTEGRADO C/ PALOS DE LA FRONTERA, 40, Madrid",
+    "raw_venue": "ARGANZUELA, CENTRO INTEGRADO C/ PALOS DE LA FRONTERA, 40, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=ARGANZUELA%2C%20CENTRO%20INTEGRADO%20C/%20PALOS%20DE%20LA%20FRONTERA%2C%2040%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=ARGANZUELA%2C%20CENTRO%20INTEGRADO%20C/%20PALOS%20DE%20LA%20FRONTERA%2C%2040%2C%20Madrid",
+    "matches_count": 1
+  },
+  {
     "slug": "arturo-ruiz-i-d-m-b-santiago-de-compostela-104-madrid",
     "title": "ARTURO RUIZ",
     "address": "I.D.M.B. SANTIAGO DE COMPOSTELA, 104, Madrid",
@@ -699,6 +699,15 @@
     "raw_venue": "FUENTE DEL PALOMAR, CEIP CAMILO JOSE CELA, 2, Alcorcón",
     "maps_embed": "https://maps.google.com/maps?q=FUENTE%20DEL%20PALOMAR%2C%20CEIP%20CAMILO%20JOSE%20CELA%2C%202%2C%20Alcorc%C3%B3n&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=FUENTE%20DEL%20PALOMAR%2C%20CEIP%20CAMILO%20JOSE%20CELA%2C%202%2C%20Alcorc%C3%B3n",
+    "matches_count": 1
+  },
+  {
+    "slug": "gallur-pdvo-mpal-gallur-2-madrid",
+    "title": "GALLUR",
+    "address": "PDVO. MPAL. GALLUR, 2, Madrid",
+    "raw_venue": "GALLUR, PDVO. MPAL. GALLUR, 2, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=GALLUR%2C%20PDVO.%20MPAL.%20GALLUR%2C%202%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=GALLUR%2C%20PDVO.%20MPAL.%20GALLUR%2C%202%2C%20Madrid",
     "matches_count": 1
   },
   {

@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS LA PAZ C.D."
-date: 2026-11-21T00:00:00
-time: ""
+date: 2026-11-21T16:30:00
+time: "16:30"
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-alevin-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Alv Mas 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 7"
 uid: "game-2026-11-21-colmenar-viejo-la-paz-c-d-alevin-masculino"
 slug: "game-2026-11-21-colmenar-viejo-la-paz-c-d-alevin-masculino"
-weight: 61020261121000027
+weight: 61020261121163027
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **COLMENAR VIEJO** y **LA PAZ C.D.**.

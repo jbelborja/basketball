@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO A VS SAN VIATOR \"C\""
-date: 2026-11-22T00:00:00
-time: ""
+date: 2026-11-22T13:15:00
+time: "13:15"
 team1: "COLMENAR VIEJO A"
 team1_slug: "colmenar-viejo-a-cadete-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Cadete Masc. Pref. - PRIMERA 1\u00aa DIVISION - GRUPO 4"
 uid: "game-2026-11-22-colmenar-viejo-a-san-viator-c-cadete-masculino"
 slug: "game-2026-11-22-colmenar-viejo-a-san-viator-c-cadete-masculino"
-weight: 41120261122000056
+weight: 41120261122131556
 ---
 
 Encuentro correspondiente a la categoría Cadete (masculino) entre **COLMENAR VIEJO A** y **SAN VIATOR "C"**.

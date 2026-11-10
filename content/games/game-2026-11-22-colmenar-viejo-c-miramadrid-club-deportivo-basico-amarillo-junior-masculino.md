@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO C VS MIRAMADRID CLUB DEPORTIVO BASICO Amarillo"
-date: 2026-11-22T00:00:00
-time: ""
+date: 2026-11-22T16:00:00
+time: "16:00"
 team1: "COLMENAR VIEJO C"
 team1_slug: "colmenar-viejo-c-junior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Junior Masc. Pref. - PRIMERA 5\u00aa DIVISION - GRUPO PAR"
 uid: "game-2026-11-22-colmenar-viejo-c-miramadrid-club-deportivo-basico-amarillo-junior-masculino"
 slug: "game-2026-11-22-colmenar-viejo-c-miramadrid-club-deportivo-basico-amarillo-junior-masculino"
-weight: 31320261122000003
+weight: 31320261122160003
 ---
 
 Encuentro correspondiente a la categoría Junior (masculino) entre **COLMENAR VIEJO C** y **MIRAMADRID CLUB DEPORTIVO BASICO Amarillo**.

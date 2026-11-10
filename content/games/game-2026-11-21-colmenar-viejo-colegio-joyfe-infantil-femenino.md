@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS COLEGIO JOYFE"
-date: 2026-11-21T00:00:00
-time: ""
+date: 2026-11-21T09:45:00
+time: "09:45"
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-infantil-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Infantil Fem. 1\u00baa\u00f1o - PRIMERA FASE - GRUPO 14"
 uid: "game-2026-11-21-colmenar-viejo-colegio-joyfe-infantil-femenino"
 slug: "game-2026-11-21-colmenar-viejo-colegio-joyfe-infantil-femenino"
-weight: 52020261121000083
+weight: 52020261121094583
 ---
 
 Encuentro correspondiente a la categoría Infantil (femenino) entre **COLMENAR VIEJO** y **COLEGIO JOYFE**.

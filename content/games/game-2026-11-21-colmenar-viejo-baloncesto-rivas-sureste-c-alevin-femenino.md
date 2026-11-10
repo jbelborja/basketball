@@ -1,7 +1,7 @@
 ---
 title: "COLMENAR VIEJO VS BALONCESTO RIVAS SURESTE C"
-date: 2026-11-21T00:00:00
-time: ""
+date: 2026-11-21T11:30:00
+time: "11:30"
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-alevin-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Alv Fem 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 8"
 uid: "game-2026-11-21-colmenar-viejo-baloncesto-rivas-sureste-c-alevin-femenino"
 slug: "game-2026-11-21-colmenar-viejo-baloncesto-rivas-sureste-c-alevin-femenino"
-weight: 62020261121000033
+weight: 62020261121113033
 ---
 
 Encuentro correspondiente a la categoría Alevín (femenino) entre **COLMENAR VIEJO** y **BALONCESTO RIVAS SURESTE C**.

@@ -256,7 +256,7 @@
     "id": "game-2026-11-22-colmenar-viejo-ricopia-funbal-alcala-cbja-senior-masculino",
     "slug": "game-2026-11-22-colmenar-viejo-ricopia-funbal-alcala-cbja-senior-masculino",
     "date": "2026-11-22",
-    "time": "",
+    "time": "17:45",
     "status": "Próximo",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-senior-masculino",
@@ -275,7 +275,7 @@
     "gender": "masculino",
     "league_title": "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR",
     "mvp": "-",
-    "weight": 11020261122000064
+    "weight": 11020261122174564
   },
   {
     "id": "game-2026-11-29-san-ignacio-torrelodones-colmenar-viejo-senior-masculino",
@@ -2128,7 +2128,7 @@
     "id": "game-2026-11-22-colmenar-viejo-b-c-b-getafe-senior-femenino",
     "slug": "game-2026-11-22-colmenar-viejo-b-c-b-getafe-senior-femenino",
     "date": "2026-11-22",
-    "time": "",
+    "time": "13:00",
     "status": "Próximo",
     "home": "COLMENAR VIEJO B",
     "home_slug": "colmenar-viejo-b-senior-femenino",
@@ -2147,7 +2147,7 @@
     "gender": "femenino",
     "league_title": "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR",
     "mvp": "-",
-    "weight": 12220261122000006
+    "weight": 12220261122130006
   },
   {
     "id": "game-2026-11-29-saltium-alcorcon-basket-colmenar-viejo-b-senior-femenino",
@@ -3346,7 +3346,7 @@
     "id": "game-2026-11-22-colmenar-viejo-a-movistar-estudiantes-diaz-miguel-junior-masculino",
     "slug": "game-2026-11-22-colmenar-viejo-a-movistar-estudiantes-diaz-miguel-junior-masculino",
     "date": "2026-11-22",
-    "time": "",
+    "time": "16:00",
     "status": "Próximo",
     "home": "COLMENAR VIEJO A",
     "home_slug": "colmenar-viejo-a-junior-masculino",
@@ -3365,7 +3365,7 @@
     "gender": "masculino",
     "league_title": "Junior Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
     "mvp": "-",
-    "weight": 31120261122000058
+    "weight": 31120261122160058
   },
   {
     "id": "game-2026-11-29-colmenar-viejo-a-baloncesto-san-fernando-09-junior-masculino",
@@ -4678,7 +4678,7 @@
     "id": "game-2026-11-22-colmenar-viejo-c-miramadrid-club-deportivo-basico-amarillo-junior-masculino",
     "slug": "game-2026-11-22-colmenar-viejo-c-miramadrid-club-deportivo-basico-amarillo-junior-masculino",
     "date": "2026-11-22",
-    "time": "",
+    "time": "16:00",
     "status": "Próximo",
     "home": "COLMENAR VIEJO C",
     "home_slug": "colmenar-viejo-c-junior-masculino",
@@ -4697,7 +4697,7 @@
     "gender": "masculino",
     "league_title": "Junior Masc. Pref. - PRIMERA 5ª DIVISION - GRUPO PAR",
     "mvp": "-",
-    "weight": 31320261122000003
+    "weight": 31320261122160003
   },
   {
     "id": "game-2026-11-28-adc-san-fermin-colmenar-viejo-c-junior-masculino",
@@ -5268,7 +5268,7 @@
     "id": "game-2026-11-21-cabrini-a-p-a-verde-colmenar-viejo-junior-femenino",
     "slug": "game-2026-11-21-cabrini-a-p-a-verde-colmenar-viejo-junior-femenino",
     "date": "2026-11-21",
-    "time": "",
+    "time": "11:15",
     "status": "Próximo",
     "home": "CABRINI A.P.A. VERDE",
     "home_slug": "cabrini-a-p-a-verde",
@@ -5287,7 +5287,7 @@
     "gender": "femenino",
     "league_title": "Junior Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 5",
     "mvp": "-",
-    "weight": 32020261121000019
+    "weight": 32020261121111519
   },
   {
     "id": "game-2026-11-29-colmenar-viejo-fm-gestiona-c-b-villa-de-valdemoro-b-junior-femenino",
@@ -5808,7 +5808,7 @@
     "id": "game-2026-11-22-colmenar-viejo-a-san-viator-c-cadete-masculino",
     "slug": "game-2026-11-22-colmenar-viejo-a-san-viator-c-cadete-masculino",
     "date": "2026-11-22",
-    "time": "",
+    "time": "13:15",
     "status": "Próximo",
     "home": "COLMENAR VIEJO A",
     "home_slug": "colmenar-viejo-a-cadete-masculino",
@@ -5827,7 +5827,7 @@
     "gender": "masculino",
     "league_title": "Cadete Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
     "mvp": "-",
-    "weight": 41120261122000056
+    "weight": 41120261122131556
   },
   {
     "id": "game-2026-11-28-arganzuela-centro-b-colmenar-viejo-a-cadete-masculino",
@@ -6410,7 +6410,7 @@
     "id": "game-2026-11-21-ha-basket-a-colmenar-viejo-b-cadete-masculino",
     "slug": "game-2026-11-21-ha-basket-a-colmenar-viejo-b-cadete-masculino",
     "date": "2026-11-21",
-    "time": "",
+    "time": "19:45",
     "status": "Próximo",
     "home": "HA BASKET \"A\"",
     "home_slug": "ha-basket-a",
@@ -6421,15 +6421,15 @@
     "away_logo": "images/teams/cbcolmenar.png",
     "away_score": null,
     "quarters": null,
-    "venue": "ARGANZUELA, CENTRO INTEGRADO C/ PALOS DE LA FRONTERA, 40, Madrid",
-    "venue_slug": "arganzuela-centro-integrado-c-palos-de-la-frontera-40-madrid",
-    "venue_title": "ARGANZUELA",
-    "venue_address": "CENTRO INTEGRADO C/ PALOS DE LA FRONTERA, 40, Madrid",
+    "venue": "GALLUR, PDVO. MPAL. GALLUR, 2, Madrid",
+    "venue_slug": "gallur-pdvo-mpal-gallur-2-madrid",
+    "venue_title": "GALLUR",
+    "venue_address": "PDVO. MPAL. GALLUR, 2, Madrid",
     "category": "Cadete",
     "gender": "masculino",
     "league_title": "Cadete Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 3",
     "mvp": "-",
-    "weight": 41220261121000060
+    "weight": 41220261121194560
   },
   {
     "id": "game-2026-11-28-colmenar-viejo-b-oroquieta-espinillo-c-d-e-cadete-masculino",
@@ -8794,7 +8794,7 @@
     "id": "game-2026-11-21-colmenar-viejo-b-singer-basket-tucutucu-pf-infantil-masculino",
     "slug": "game-2026-11-21-colmenar-viejo-b-singer-basket-tucutucu-pf-infantil-masculino",
     "date": "2026-11-21",
-    "time": "",
+    "time": "18:15",
     "status": "Próximo",
     "home": "COLMENAR VIEJO B",
     "home_slug": "colmenar-viejo-b-infantil-masculino",
@@ -8813,7 +8813,7 @@
     "gender": "masculino",
     "league_title": "Infantil Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 4",
     "mvp": "-",
-    "weight": 51220261121000033
+    "weight": 51220261121181533
   },
   {
     "id": "game-2026-11-28-aravaca-basket-amarillo-colmenar-viejo-b-infantil-masculino",
@@ -9321,7 +9321,7 @@
     "id": "game-2026-11-21-colmenar-viejo-colegio-joyfe-infantil-femenino",
     "slug": "game-2026-11-21-colmenar-viejo-colegio-joyfe-infantil-femenino",
     "date": "2026-11-21",
-    "time": "",
+    "time": "09:45",
     "status": "Próximo",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-infantil-femenino",
@@ -9340,7 +9340,7 @@
     "gender": "femenino",
     "league_title": "Infantil Fem. 1ºaño - PRIMERA FASE - GRUPO 14",
     "mvp": "-",
-    "weight": 52020261121000083
+    "weight": 52020261121094583
   },
   {
     "id": "game-2026-11-28-colmenar-viejo-halcones-arroyofresno-infantil-femenino",
@@ -10049,35 +10049,10 @@
     "weight": 61020261114131534
   },
   {
-    "id": "game-2026-11-21-colmenar-viejo-la-paz-c-d-alevin-masculino",
-    "slug": "game-2026-11-21-colmenar-viejo-la-paz-c-d-alevin-masculino",
-    "date": "2026-11-21",
-    "time": "",
-    "status": "Próximo",
-    "home": "COLMENAR VIEJO",
-    "home_slug": "colmenar-viejo-alevin-masculino",
-    "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
-    "away": "LA PAZ C.D.",
-    "away_slug": "la-paz-c-d",
-    "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
-    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
-    "venue_title": "JUAN ANTONIO SAMARANCH",
-    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "category": "Alevín",
-    "gender": "masculino",
-    "league_title": "Alv Mas 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 7",
-    "mvp": "-",
-    "weight": 61020261121000027
-  },
-  {
     "id": "game-2026-11-21-colmenar-viejo-blanco-colmenar-viejo-negro-alevin-masculino",
     "slug": "game-2026-11-21-colmenar-viejo-blanco-colmenar-viejo-negro-alevin-masculino",
     "date": "2026-11-21",
-    "time": "",
+    "time": "09:45",
     "status": "Próximo",
     "home": "COLMENAR VIEJO BLANCO",
     "home_slug": "colmenar-viejo-blanco-alevin-masculino",
@@ -10096,7 +10071,32 @@
     "gender": "masculino",
     "league_title": "Alv Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9",
     "mvp": "-",
-    "weight": 61020261121000021
+    "weight": 61020261121094521
+  },
+  {
+    "id": "game-2026-11-21-colmenar-viejo-la-paz-c-d-alevin-masculino",
+    "slug": "game-2026-11-21-colmenar-viejo-la-paz-c-d-alevin-masculino",
+    "date": "2026-11-21",
+    "time": "16:30",
+    "status": "Próximo",
+    "home": "COLMENAR VIEJO",
+    "home_slug": "colmenar-viejo-alevin-masculino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": null,
+    "away": "LA PAZ C.D.",
+    "away_slug": "la-paz-c-d",
+    "away_logo": "images/teams/rival.png",
+    "away_score": null,
+    "quarters": null,
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Alevín",
+    "gender": "masculino",
+    "league_title": "Alv Mas 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 7",
+    "mvp": "-",
+    "weight": 61020261121163027
   },
   {
     "id": "game-2026-11-28-cd-caldeiro-colmenar-viejo-alevin-masculino",
@@ -10816,35 +10816,10 @@
     "weight": 62020261115094575
   },
   {
-    "id": "game-2026-11-21-colmenar-viejo-lions-basket-arroyomolinos-a-alevin-femenino",
-    "slug": "game-2026-11-21-colmenar-viejo-lions-basket-arroyomolinos-a-alevin-femenino",
-    "date": "2026-11-21",
-    "time": "",
-    "status": "Próximo",
-    "home": "COLMENAR VIEJO",
-    "home_slug": "colmenar-viejo-alevin-femenino",
-    "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
-    "away": "LIONS BASKET ARROYOMOLINOS \"A\"",
-    "away_slug": "lions-basket-arroyomolinos-a",
-    "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
-    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
-    "venue_title": "JUAN ANTONIO SAMARANCH",
-    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
-    "category": "Alevín",
-    "gender": "femenino",
-    "league_title": "Alv Fem 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13",
-    "mvp": "-",
-    "weight": 62020261121000055
-  },
-  {
     "id": "game-2026-11-21-colmenar-viejo-baloncesto-rivas-sureste-c-alevin-femenino",
     "slug": "game-2026-11-21-colmenar-viejo-baloncesto-rivas-sureste-c-alevin-femenino",
     "date": "2026-11-21",
-    "time": "",
+    "time": "11:30",
     "status": "Próximo",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-alevin-femenino",
@@ -10863,7 +10838,32 @@
     "gender": "femenino",
     "league_title": "Alv Fem 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 8",
     "mvp": "-",
-    "weight": 62020261121000033
+    "weight": 62020261121113033
+  },
+  {
+    "id": "game-2026-11-21-colmenar-viejo-lions-basket-arroyomolinos-a-alevin-femenino",
+    "slug": "game-2026-11-21-colmenar-viejo-lions-basket-arroyomolinos-a-alevin-femenino",
+    "date": "2026-11-21",
+    "time": "16:30",
+    "status": "Próximo",
+    "home": "COLMENAR VIEJO",
+    "home_slug": "colmenar-viejo-alevin-femenino",
+    "home_logo": "images/teams/cbcolmenar.png",
+    "home_score": null,
+    "away": "LIONS BASKET ARROYOMOLINOS \"A\"",
+    "away_slug": "lions-basket-arroyomolinos-a",
+    "away_logo": "images/teams/rival.png",
+    "away_score": null,
+    "quarters": null,
+    "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
+    "venue_title": "JUAN ANTONIO SAMARANCH",
+    "venue_address": "CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
+    "category": "Alevín",
+    "gender": "femenino",
+    "league_title": "Alv Fem 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13",
+    "mvp": "-",
+    "weight": 62020261121163055
   },
   {
     "id": "game-2026-11-28-isaac-newton-a-colmenar-viejo-alevin-femenino",
@@ -11499,7 +11499,7 @@
     "id": "game-2026-11-21-villanueva-de-la-canada-colmenar-viejo-benjamin-masculino",
     "slug": "game-2026-11-21-villanueva-de-la-canada-colmenar-viejo-benjamin-masculino",
     "date": "2026-11-21",
-    "time": "",
+    "time": "11:15",
     "status": "Próximo",
     "home": "VILLANUEVA DE LA CAÑADA",
     "home_slug": "villanueva-de-la-canada",
@@ -11518,13 +11518,13 @@
     "gender": "masculino",
     "league_title": "Benj Mas 2ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 11",
     "mvp": "-",
-    "weight": 71020261121000024
+    "weight": 71020261121111524
   },
   {
     "id": "game-2026-11-21-colmenar-viejo-colegio-el-prado-benjamin-masculino",
     "slug": "game-2026-11-21-colmenar-viejo-colegio-el-prado-benjamin-masculino",
     "date": "2026-11-21",
-    "time": "",
+    "time": "11:30",
     "status": "Próximo",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-benjamin-masculino",
@@ -11543,7 +11543,7 @@
     "gender": "masculino",
     "league_title": "Benj Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 4",
     "mvp": "-",
-    "weight": 71020261121000040
+    "weight": 71020261121113040
   },
   {
     "id": "game-2026-11-28-colmenar-viejo-buen-consejo-benjamin-masculino",
@@ -11951,7 +11951,7 @@
     "id": "game-2026-11-21-colmenar-viejo-cabrini-a-p-a-benjamin-femenino",
     "slug": "game-2026-11-21-colmenar-viejo-cabrini-a-p-a-benjamin-femenino",
     "date": "2026-11-21",
-    "time": "",
+    "time": "13:15",
     "status": "Próximo",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-benjamin-femenino",
@@ -11970,7 +11970,7 @@
     "gender": "femenino",
     "league_title": "Benj F.2ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6",
     "mvp": "-",
-    "weight": 72020261121000089
+    "weight": 72020261121131589
   },
   {
     "id": "game-2026-11-29-descansa-colmenar-viejo-benjamin-femenino",
