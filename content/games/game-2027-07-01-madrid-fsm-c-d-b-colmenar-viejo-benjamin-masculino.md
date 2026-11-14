@@ -1,6 +1,6 @@
 ---
 title: "MADRID FSM C.D.B. VS COLMENAR VIEJO"
-date: 2026-11-14T10:00:00
+date: 2027-07-01T10:00:00
 time: "10:00"
 team1: "MADRID FSM C.D.B."
 team1_slug: "madrid-fsm-c-d-b"
@@ -18,9 +18,9 @@ venue_address: "Madrid"
 category: "Benjam\u00edn"
 gender: "masculino"
 league_title: "Benj Mas 2\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 11"
-uid: "game-2026-11-14-madrid-fsm-c-d-b-colmenar-viejo-benjamin-masculino"
-slug: "game-2026-11-14-madrid-fsm-c-d-b-colmenar-viejo-benjamin-masculino"
-weight: 71020261114100013
+uid: "game-2027-07-01-madrid-fsm-c-d-b-colmenar-viejo-benjamin-masculino"
+slug: "game-2027-07-01-madrid-fsm-c-d-b-colmenar-viejo-benjamin-masculino"
+weight: 71020270701100009
 ---
 
 Encuentro correspondiente a la categoría Benjamín (masculino) entre **MADRID FSM C.D.B.** y **COLMENAR VIEJO**.

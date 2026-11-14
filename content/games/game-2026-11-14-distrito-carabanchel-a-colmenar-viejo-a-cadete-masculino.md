@@ -1,16 +1,16 @@
 ---
-title: "DISTRITO CARABANCHEL A VS COLMENAR VIEJO A"
+title: "DISTRITO CARABANCHEL A 30 - 46 COLMENAR VIEJO A"
 date: 2026-11-14T09:45:00
 time: "09:45"
 team1: "DISTRITO CARABANCHEL A"
 team1_slug: "distrito-carabanchel-a"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 30
 team2: "COLMENAR VIEJO A"
 team2_slug: "colmenar-viejo-a-cadete-masculino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 46
+status: "Finalizado"
 venue: "MAESTRO PADILLA, CEIP AVENIDA DE LA PESETA, 112, Madrid"
 venue_slug: "maestro-padilla-ceip-avenida-de-la-peseta-112-madrid"
 venue_title: "MAESTRO PADILLA"

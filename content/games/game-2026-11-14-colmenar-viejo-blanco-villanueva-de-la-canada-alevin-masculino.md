@@ -1,16 +1,16 @@
 ---
-title: "COLMENAR VIEJO BLANCO VS VILLANUEVA DE LA CA\u00d1ADA"
+title: "COLMENAR VIEJO BLANCO 64 - 16 VILLANUEVA DE LA CA\u00d1ADA"
 date: 2026-11-14T13:15:00
 time: "13:15"
 team1: "COLMENAR VIEJO BLANCO"
 team1_slug: "colmenar-viejo-blanco-alevin-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
-team1_score: null
+team1_score: 64
 team2: "VILLANUEVA DE LA CA\u00d1ADA"
 team2_slug: "villanueva-de-la-canada"
 team2_logo: "images/teams/rival.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 16
+status: "Finalizado"
 venue: "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 venue_slug: "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo"
 venue_title: "JUAN ANTONIO SAMARANCH"

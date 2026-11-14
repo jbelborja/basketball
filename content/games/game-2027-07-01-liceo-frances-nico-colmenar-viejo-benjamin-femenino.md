@@ -1,6 +1,6 @@
 ---
 title: "LICEO FRANCES NICO VS COLMENAR VIEJO"
-date: 2026-11-14T11:15:00
+date: 2027-07-01T11:15:00
 time: "11:15"
 team1: "LICEO FRANCES NICO"
 team1_slug: "liceo-frances-nico"
@@ -18,9 +18,9 @@ venue_address: "COLEGIO (Descubierto) AVDA. DE LOS MADRO\u00d1OS frente n\u00ba 
 category: "Benjam\u00edn"
 gender: "femenino"
 league_title: "Benj F.2\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6"
-uid: "game-2026-11-14-liceo-frances-nico-colmenar-viejo-benjamin-femenino"
-slug: "game-2026-11-14-liceo-frances-nico-colmenar-viejo-benjamin-femenino"
-weight: 72020261114111580
+uid: "game-2027-07-01-liceo-frances-nico-colmenar-viejo-benjamin-femenino"
+slug: "game-2027-07-01-liceo-frances-nico-colmenar-viejo-benjamin-femenino"
+weight: 72020270701111569
 ---
 
 Encuentro correspondiente a la categoría Benjamín (femenino) entre **LICEO FRANCES NICO** y **COLMENAR VIEJO**.

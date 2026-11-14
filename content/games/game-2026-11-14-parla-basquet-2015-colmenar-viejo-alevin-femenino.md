@@ -1,16 +1,16 @@
 ---
-title: "PARLA BASQUET 2015 VS COLMENAR VIEJO"
+title: "PARLA BASQUET 2015 58 - 38 COLMENAR VIEJO"
 date: 2026-11-14T14:00:00
 time: "14:00"
 team1: "PARLA BASQUET 2015"
 team1_slug: "parla-basquet-2015"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 58
 team2: "COLMENAR VIEJO"
 team2_slug: "colmenar-viejo-alevin-femenino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 38
+status: "Finalizado"
 venue: "LA CANTUE\u00d1A, PABELLON CALLE PROLONGACION CUENCA, 6A, Parla"
 venue_slug: "la-cantuena-pabellon-calle-prolongacion-cuenca-6a-parla"
 venue_title: "LA CANTUE\u00d1A"

@@ -1,16 +1,16 @@
 ---
-title: "COLEGIO EL PRADO VS COLMENAR VIEJO NEGRO"
+title: "COLEGIO EL PRADO 20 - 71 COLMENAR VIEJO NEGRO"
 date: 2026-11-14T10:45:00
 time: "10:45"
 team1: "COLEGIO EL PRADO"
 team1_slug: "colegio-el-prado"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 20
 team2: "COLMENAR VIEJO NEGRO"
 team2_slug: "colmenar-viejo-negro-alevin-masculino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 71
+status: "Finalizado"
 venue: "EL PRADO, PABELLON COLEGIO COSTA BRAVA, 4, Madrid"
 venue_slug: "el-prado-pabellon-colegio-costa-brava-4-madrid"
 venue_title: "EL PRADO"
