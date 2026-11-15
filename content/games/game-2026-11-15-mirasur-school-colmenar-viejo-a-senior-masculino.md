@@ -1,16 +1,16 @@
 ---
-title: "MIRASUR SCHOOL VS COLMENAR VIEJO A"
+title: "MIRASUR SCHOOL 67 - 90 COLMENAR VIEJO A"
 date: 2026-11-15T19:00:00
 time: "19:00"
 team1: "MIRASUR SCHOOL"
 team1_slug: "mirasur-school"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 67
 team2: "COLMENAR VIEJO A"
 team2_slug: "colmenar-viejo-a-senior-masculino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 90
+status: "Finalizado"
 venue: "MIRASUR, PABELLON COLEGIO PABLO GARGALLO, 1, Pinto"
 venue_slug: "mirasur-pabellon-colegio-pablo-gargallo-1-pinto"
 venue_title: "MIRASUR"

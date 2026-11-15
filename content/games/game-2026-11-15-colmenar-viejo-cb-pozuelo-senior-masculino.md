@@ -1,16 +1,16 @@
 ---
-title: "COLMENAR VIEJO VS CB POZUELO"
+title: "COLMENAR VIEJO 75 - 88 CB POZUELO"
 date: 2026-11-15T12:00:00
 time: "12:00"
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-senior-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
-team1_score: null
+team1_score: 75
 team2: "CB POZUELO"
 team2_slug: "cb-pozuelo"
 team2_logo: "images/teams/rival.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 88
+status: "Finalizado"
 venue: "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 venue_slug: "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo"
 venue_title: "JUAN ANTONIO SAMARANCH"
