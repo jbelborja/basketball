@@ -7,7 +7,7 @@ team1_slug: "buen-consejo"
 team1_logo: "images/teams/rival.png"
 team1_score: 38
 team2: "COLMENAR VIEJO"
-team2_slug: "colmenar-viejo-benjamin-masculino"
+team2_slug: "colmenar-viejo-benjamin-masculino-benj-mas-2-ano-liga-marco-aldany-primera-fase-grupo-11"
 team2_logo: "images/teams/cbcolmenar.png"
 team2_score: 28
 status: "Finalizado"

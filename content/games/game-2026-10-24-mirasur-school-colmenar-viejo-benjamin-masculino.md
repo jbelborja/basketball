@@ -7,7 +7,7 @@ team1_slug: "mirasur-school"
 team1_logo: "images/teams/rival.png"
 team1_score: 36
 team2: "COLMENAR VIEJO"
-team2_slug: "colmenar-viejo-benjamin-masculino"
+team2_slug: "colmenar-viejo-benjamin-masculino-benj-mas-2-ano-liga-marco-aldany-primera-fase-grupo-11"
 team2_logo: "images/teams/cbcolmenar.png"
 team2_score: 26
 status: "Finalizado"

@@ -3,7 +3,7 @@ title: "COLMENAR VIEJO VS BUEN CONSEJO"
 date: 2026-11-28T11:15:00
 time: "11:15"
 team1: "COLMENAR VIEJO"
-team1_slug: "colmenar-viejo-benjamin-masculino"
+team1_slug: "colmenar-viejo-benjamin-masculino-benj-mas-2-ano-liga-marco-aldany-primera-fase-grupo-11"
 team1_logo: "images/teams/cbcolmenar.png"
 team1_score: null
 team2: "BUEN CONSEJO"

@@ -1,0 +1,17 @@
+{{- $slug := .slug -}}
+{{- $wins := 0 -}}
+{{- $losses := 0 -}}
+{{- range .games -}}
+  {{- if eq (lower .status) "finalizado" -}}
+    {{- if and (eq .home_slug $slug) (gt .home_score .away_score) -}}
+      {{- $wins = add $wins 1 -}}
+    {{- else if and (eq .away_slug $slug) (gt .away_score .home_score) -}}
+      {{- $wins = add $wins 1 -}}
+    {{- else if and (eq .home_slug $slug) (lt .home_score .away_score) -}}
+      {{- $losses = add $losses 1 -}}
+    {{- else if and (eq .away_slug $slug) (lt .away_score .home_score) -}}
+      {{- $losses = add $losses 1 -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return (dict "wins" $wins "losses" $losses) -}}

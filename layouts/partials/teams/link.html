@@ -1,0 +1,9 @@
+{{- $teamPage := false -}}
+{{- if .slug -}}
+  {{- $teamPage = .page.Site.GetPage (printf "teams/%s" .slug) -}}
+{{- end -}}
+{{- if $teamPage -}}
+<a href="{{ $teamPage.RelPermalink }}" class="{{ .class }} hover:underline decoration-orange-400" title="Ver ficha de {{ .name }}">{{ .name }}</a>
+{{- else -}}
+<span class="{{ .class }}">{{ .name }}</span>
+{{- end -}}

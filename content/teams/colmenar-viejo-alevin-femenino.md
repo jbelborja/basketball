@@ -11,7 +11,8 @@ established: 1985
 record: "0V - 1D"
 league_position: 1
 weight: 620117
+league_title: "Alv Fem 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 8"
 ---
 
-El **COLMENAR VIEJO** representa al CB Colmenar Viejo en la categoría Alevín (femenino).
+El **COLMENAR VIEJO** representa al CB Colmenar Viejo en la categoría Alevín (femenino), compitiendo en Alv Fem 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 8.
 Entrenado por Entrenador CB Colmenar, disputa sus encuentros como local en Pabellón Juan Antonio Samaranch.

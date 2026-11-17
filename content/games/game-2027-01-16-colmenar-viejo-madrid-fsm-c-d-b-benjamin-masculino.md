@@ -3,7 +3,7 @@ title: "COLMENAR VIEJO VS MADRID FSM C.D.B."
 date: 2027-01-16T00:00:00
 time: ""
 team1: "COLMENAR VIEJO"
-team1_slug: "colmenar-viejo-benjamin-masculino"
+team1_slug: "colmenar-viejo-benjamin-masculino-benj-mas-2-ano-liga-marco-aldany-primera-fase-grupo-11"
 team1_logo: "images/teams/cbcolmenar.png"
 team1_score: null
 team2: "MADRID FSM C.D.B."

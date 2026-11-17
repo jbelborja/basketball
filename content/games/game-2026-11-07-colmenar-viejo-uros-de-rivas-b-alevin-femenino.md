@@ -3,7 +3,7 @@ title: "COLMENAR VIEJO 23 - 57 UROS DE RIVAS `B\u00b4"
 date: 2026-11-07T11:30:00
 time: "11:30"
 team1: "COLMENAR VIEJO"
-team1_slug: "colmenar-viejo-alevin-femenino"
+team1_slug: "colmenar-viejo-alevin-femenino-alv-fem-2-ano-liga-marco-aldany-plata-primera-fase-grupo-13"
 team1_logo: "images/teams/cbcolmenar.png"
 team1_score: 23
 team2: "UROS DE RIVAS `B\u00b4"

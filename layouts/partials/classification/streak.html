@@ -1,0 +1,17 @@
+{{- $teamSlug := .teamSlug -}}
+{{- $leagueTitle := .leagueTitle -}}
+{{- $results := slice -}}
+{{- range sort .games "weight" "desc" -}}
+  {{- if and (eq (lower .status) "finalizado") (eq .league_title $leagueTitle) -}}
+    {{- if and (eq .home_slug $teamSlug) (gt .home_score .away_score) -}}
+      {{- $results = $results | append "V" -}}
+    {{- else if and (eq .home_slug $teamSlug) (lt .home_score .away_score) -}}
+      {{- $results = $results | append "D" -}}
+    {{- else if and (eq .away_slug $teamSlug) (gt .away_score .home_score) -}}
+      {{- $results = $results | append "V" -}}
+    {{- else if and (eq .away_slug $teamSlug) (lt .away_score .home_score) -}}
+      {{- $results = $results | append "D" -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return (first 5 $results) -}}

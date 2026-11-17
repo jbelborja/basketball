@@ -11,7 +11,8 @@ established: 1985
 record: "0V - 0D"
 league_position: 1
 weight: 710312
+league_title: "Benj Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 4"
 ---
 
-El **COLMENAR VIEJO** representa al CB Colmenar Viejo en la categoría Benjamín (masculino).
+El **COLMENAR VIEJO** representa al CB Colmenar Viejo en la categoría Benjamín (masculino), compitiendo en Benj Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 4.
 Entrenado por Entrenador CB Colmenar, disputa sus encuentros como local en Pabellón Juan Antonio Samaranch.

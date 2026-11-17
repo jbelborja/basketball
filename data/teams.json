@@ -12,7 +12,8 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Senior masculino.",
-    "weight": 110844
+    "weight": 110844,
+    "league_title": "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
   },
   {
     "name": "COLMENAR VIEJO A",
@@ -27,7 +28,8 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO A del CB Colmenar Viejo en la categoría Senior masculino.",
-    "weight": 111056
+    "weight": 111056,
+    "league_title": "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
   },
   {
     "name": "COLMENAR VIEJO A",
@@ -42,7 +44,8 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO A del CB Colmenar Viejo en la categoría Senior femenino.",
-    "weight": 121384
+    "weight": 121384,
+    "league_title": "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
   },
   {
     "name": "COLMENAR VIEJO B",
@@ -57,7 +60,8 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO B del CB Colmenar Viejo en la categoría Senior femenino.",
-    "weight": 122519
+    "weight": 122519,
+    "league_title": "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
   },
   {
     "name": "COLMENAR VIEJO",
@@ -72,7 +76,8 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Sub 22 masculino.",
-    "weight": 210192
+    "weight": 210192,
+    "league_title": "Sub 22 Masc. BRONCE - PRIMERA 1ª DIVISION - GRUPO 1"
   },
   {
     "name": "COLMENAR VIEJO A",
@@ -87,7 +92,8 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO A del CB Colmenar Viejo en la categoría Junior masculino.",
-    "weight": 311451
+    "weight": 311451,
+    "league_title": "Junior Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4"
   },
   {
     "name": "COLMENAR VIEJO B",
@@ -102,7 +108,8 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO B del CB Colmenar Viejo en la categoría Junior masculino.",
-    "weight": 312502
+    "weight": 312502,
+    "league_title": "Junior Masc. Pref. - PRIMERA 4ª DIVISION - GRUPO 2"
   },
   {
     "name": "COLMENAR VIEJO C",
@@ -117,7 +124,8 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO C del CB Colmenar Viejo en la categoría Junior masculino.",
-    "weight": 313338
+    "weight": 313338,
+    "league_title": "Junior Masc. Pref. - PRIMERA 5ª DIVISION - GRUPO PAR"
   },
   {
     "name": "COLMENAR VIEJO",
@@ -132,7 +140,8 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Junior femenino.",
-    "weight": 320695
+    "weight": 320695,
+    "league_title": "Junior Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 5"
   },
   {
     "name": "COLMENAR VIEJO A",
@@ -147,7 +156,8 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO A del CB Colmenar Viejo en la categoría Cadete masculino.",
-    "weight": 411379
+    "weight": 411379,
+    "league_title": "Cadete Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4"
   },
   {
     "name": "COLMENAR VIEJO B",
@@ -162,7 +172,8 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO B del CB Colmenar Viejo en la categoría Cadete masculino.",
-    "weight": 412705
+    "weight": 412705,
+    "league_title": "Cadete Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 3"
   },
   {
     "name": "COLMENAR VIEJO C",
@@ -177,7 +188,8 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO C del CB Colmenar Viejo en la categoría Cadete masculino.",
-    "weight": 413885
+    "weight": 413885,
+    "league_title": "Cadete Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 3"
   },
   {
     "name": "COLMENAR VIEJO",
@@ -192,7 +204,8 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Cadete femenino.",
-    "weight": 420808
+    "weight": 420808,
+    "league_title": "Cadete Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 2"
   },
   {
     "name": "COLMENAR VIEJO A",
@@ -207,7 +220,8 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO A del CB Colmenar Viejo en la categoría Infantil masculino.",
-    "weight": 511763
+    "weight": 511763,
+    "league_title": "Infantil Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4"
   },
   {
     "name": "COLMENAR VIEJO B",
@@ -222,7 +236,8 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO B del CB Colmenar Viejo en la categoría Infantil masculino.",
-    "weight": 512808
+    "weight": 512808,
+    "league_title": "Infantil Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 4"
   },
   {
     "name": "COLMENAR VIEJO",
@@ -237,7 +252,8 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Infantil femenino.",
-    "weight": 520720
+    "weight": 520720,
+    "league_title": "Infantil Fem. 1ºaño - PRIMERA FASE - GRUPO 14"
   },
   {
     "name": "COLMENAR VIEJO",
@@ -252,7 +268,8 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Alevín masculino.",
-    "weight": 610770
+    "weight": 610770,
+    "league_title": "Alv Mas 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 7"
   },
   {
     "name": "COLMENAR VIEJO BLANCO",
@@ -267,7 +284,8 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO BLANCO del CB Colmenar Viejo en la categoría Alevín masculino.",
-    "weight": 610860
+    "weight": 610860,
+    "league_title": "Alv Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9"
   },
   {
     "name": "COLMENAR VIEJO NEGRO",
@@ -282,7 +300,8 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO NEGRO del CB Colmenar Viejo en la categoría Alevín masculino.",
-    "weight": 610232
+    "weight": 610232,
+    "league_title": "Alv Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9"
   },
   {
     "name": "COLMENAR VIEJO",
@@ -297,7 +316,24 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Alevín femenino.",
-    "weight": 620117
+    "weight": 620117,
+    "league_title": "Alv Fem 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 8"
+  },
+  {
+    "name": "COLMENAR VIEJO",
+    "slug": "colmenar-viejo-alevin-femenino-alv-fem-2-ano-liga-marco-aldany-plata-primera-fase-grupo-13",
+    "category": "Alevín",
+    "gender": "femenino",
+    "logo": "images/teams/cbcolmenar.png",
+    "coach": "Entrenador CB Colmenar",
+    "venue": "Pabellón Juan Antonio Samaranch",
+    "established": 1985,
+    "wins": 0,
+    "losses": 1,
+    "league_position": 1,
+    "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Alevín femenino.",
+    "weight": 620117.1,
+    "league_title": "Alv Fem 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13"
   },
   {
     "name": "COLMENAR VIEJO",
@@ -312,7 +348,24 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Benjamín masculino.",
-    "weight": 710312
+    "weight": 710312,
+    "league_title": "Benj Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 4"
+  },
+  {
+    "name": "COLMENAR VIEJO",
+    "slug": "colmenar-viejo-benjamin-masculino-benj-mas-2-ano-liga-marco-aldany-primera-fase-grupo-11",
+    "category": "Benjamín",
+    "gender": "masculino",
+    "logo": "images/teams/cbcolmenar.png",
+    "coach": "Entrenador CB Colmenar",
+    "venue": "Pabellón Juan Antonio Samaranch",
+    "established": 1985,
+    "wins": 0,
+    "losses": 0,
+    "league_position": 1,
+    "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Benjamín masculino.",
+    "weight": 710312.1,
+    "league_title": "Benj Mas 2ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 11"
   },
   {
     "name": "COLMENAR VIEJO",
@@ -327,6 +380,7 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Benjamín femenino.",
-    "weight": 720244
+    "weight": 720244,
+    "league_title": "Benj F.2ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6"
   }
 ]

@@ -1,0 +1,46 @@
+{{- $classification := .classification -}}
+{{- $teamSlug := .teamSlug -}}
+<div class="p-6 sm:p-8 border-b border-slate-800 bg-slate-950/60">
+  <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Clasificación · {{ $classification.category }} {{ $classification.gender }}</span>
+  <h3 class="font-sports text-2xl text-white font-bold uppercase tracking-wider mt-1">{{ $classification.league_title }}</h3>
+  <p class="text-xs text-slate-400 mt-2">
+    {{ if gt $classification.max_pj 0 }}
+      Actualizado hasta la Jornada {{ $classification.max_pj }}
+    {{ else }}
+      Jornada pendiente de inicio
+    {{ end }}
+  </p>
+</div>
+<div class="overflow-x-auto">
+  <table class="w-full text-left text-sm">
+    <thead class="bg-slate-950 text-slate-400 uppercase text-xs font-semibold tracking-wider border-b border-slate-800">
+      <tr>
+        <th class="py-3 px-4 text-center">Pos</th>
+        <th class="py-3 px-4">Equipo</th>
+        <th class="py-3 px-3 text-center">PJ</th>
+        <th class="py-3 px-3 text-center text-emerald-400">V</th>
+        <th class="py-3 px-3 text-center text-red-400">D</th>
+        <th class="py-3 px-3 text-center hidden sm:table-cell">DIF</th>
+        <th class="py-3 px-4 text-center text-white">PTS</th>
+      </tr>
+    </thead>
+    <tbody class="divide-y divide-slate-800/60 font-medium">
+      {{ range sort $classification.teams "position" }}
+        <tr class="transition {{ if eq .slug $teamSlug }}bg-orange-500/10 border-l-4 border-l-orange-500{{ else }}hover:bg-slate-800/40{{ end }}">
+          <td class="py-3 px-4 text-center text-slate-300">{{ .position }}</td>
+          <td class="py-3 px-4">
+            <div class="flex items-center gap-3">
+              <img src="{{ (.logo | default "images/teams/team1.jpg") | relURL }}" alt="" class="w-8 h-8 rounded-full object-cover ring-2 ring-slate-800"/>
+              {{ partial "teams/link.html" (dict "page" $.page "slug" .slug "name" .team "class" (printf "font-bold %s" (cond (eq .slug $teamSlug) "text-orange-300" "text-white"))) }}
+            </div>
+          </td>
+          <td class="py-3 px-3 text-center text-slate-300">{{ .pj }}</td>
+          <td class="py-3 px-3 text-center text-emerald-400">{{ .v }}</td>
+          <td class="py-3 px-3 text-center text-red-400">{{ .d }}</td>
+          <td class="py-3 px-3 text-center hidden sm:table-cell {{ if in .dif "+" }}text-emerald-400{{ else }}text-red-400{{ end }}">{{ .dif }}</td>
+          <td class="py-3 px-4 text-center font-sports text-lg font-bold text-white">{{ .points }}</td>
+        </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>

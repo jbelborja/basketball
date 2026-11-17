@@ -223,7 +223,7 @@ def parse_category_gender(title):
 
 
 def fetch_html():
-    print(f"URL {CFG["url"]}")
+    print(f"URL {CFG['url']}")
     req = urllib.request.Request(
         CFG["url"],
         headers={
@@ -357,6 +357,7 @@ def parse_fbm_data(html):
                                 "position": pos,
                                 "team": team_name,
                                 "slug": t_slug,
+                                "league_title": comp_title,
                                 "logo": CFG["logo"] if is_own else CFG["rival_logo"],
                                 "pj": pj,
                                 "v": pg,
@@ -372,12 +373,14 @@ def parse_fbm_data(html):
                             table_teams.append(standing_entry)
 
                             if is_own:
-                                if t_slug not in all_teams:
-                                    all_teams[t_slug] = {
+                                team_key = (t_slug, comp_title)
+                                if team_key not in all_teams:
+                                    all_teams[team_key] = {
                                         "name": team_name,
                                         "slug": t_slug,
                                         "category": category,
                                         "gender": gender,
+                                        "league_title": comp_title,
                                         "logo": CFG["logo"],
                                         "coach": CFG["coach"],
                                         "venue": CFG["venue"],
@@ -568,12 +571,14 @@ def parse_fbm_data(html):
                         for colm_team in [home, away]:
                             if CFG["keyword"] in colm_team.lower():
                                 c_slug = slugify(f"{colm_team}-{category}-{gender}")
-                                if c_slug not in all_teams:
-                                    all_teams[c_slug] = {
+                                team_key = (c_slug, comp_title)
+                                if team_key not in all_teams:
+                                    all_teams[team_key] = {
                                         "name": colm_team,
                                         "slug": c_slug,
                                         "category": category,
                                         "gender": gender,
+                                        "league_title": comp_title,
                                         "logo": CFG["logo"],
                                         "coach": CFG["coach"],
                                         "venue": CFG["venue"],
@@ -583,6 +588,69 @@ def parse_fbm_data(html):
                                         "league_position": 1,
                                         "description": f"Equipo {colm_team} del {CFG['name']} en la categoría {category} {gender}.",
                                     }
+
+    leagues_by_team = {}
+    for team in all_teams.values():
+        identity = (team["name"], team["category"], team["gender"])
+        leagues_by_team.setdefault(identity, set()).add(team["league_title"])
+
+    team_slugs = {}
+    for team in all_teams.values():
+        identity = (team["name"], team["category"], team["gender"])
+        if len(leagues_by_team[identity]) > 1:
+            first_league = min(leagues_by_team[identity])
+            if team["league_title"] != first_league:
+                team["slug"] = slugify(
+                    f"{team['name']}-{team['category']}-{team['gender']}-{team['league_title']}"
+                )
+        team_slugs[(*identity, team["league_title"])] = team["slug"]
+
+    for classification in all_classifications:
+        for classified_team in classification["teams"]:
+            if CFG["keyword"] in classified_team["team"].lower():
+                identity = (
+                    classified_team["team"],
+                    classification["category"],
+                    classification["gender"],
+                    classification["league_title"],
+                )
+                classified_team["slug"] = team_slugs[identity]
+
+    for game in all_games:
+        for side in ("home", "away"):
+            if CFG["keyword"] in game[side].lower():
+                identity = (
+                    game[side],
+                    game["category"],
+                    game["gender"],
+                    game["league_title"],
+                )
+                game[f"{side}_slug"] = team_slugs[identity]
+
+    unique_games = {}
+    for game in all_games:
+        natural_key = _game_natural_key(
+            game["date"], game["home"], game["away"], game["category"], game["gender"]
+        )
+        key = (*natural_key, game.get("league_title", "").strip().lower())
+        existing = unique_games.get(key)
+        if existing is None:
+            unique_games[key] = game
+            continue
+
+        if not existing.get("time") and game.get("time"):
+            existing["time"] = game["time"]
+        if (
+            existing.get("venue") == CFG["venue_address"]
+            and game.get("venue")
+            and game["venue"] != CFG["venue_address"]
+        ):
+            for field in ("venue", "venue_slug", "venue_title", "venue_address"):
+                existing[field] = game.get(field, existing.get(field))
+        for field in ("home_score", "away_score", "status", "quarters"):
+            if existing.get(field) is None and game.get(field) is not None:
+                existing[field] = game[field]
+    all_games = list(unique_games.values())
 
     # Sort Teams
     def team_stable_weight(t):
@@ -668,6 +736,30 @@ def parse_fbm_data(html):
     for g in all_games:
         g["weight"] = game_stable_weight(g)
 
+    games_recent_first = sorted(all_games, key=lambda item: item["weight"], reverse=True)
+    for classification in all_classifications:
+        for team in classification["teams"]:
+            results = []
+            for game in games_recent_first:
+                if (
+                    game["league_title"] != classification["league_title"]
+                    or game["status"].lower() != "finalizado"
+                ):
+                    continue
+                if game["home_slug"] == team["slug"]:
+                    own_score, opponent_score = game["home_score"], game["away_score"]
+                elif game["away_slug"] == team["slug"]:
+                    own_score, opponent_score = game["away_score"], game["home_score"]
+                else:
+                    continue
+                if own_score > opponent_score:
+                    results.append("V")
+                elif own_score < opponent_score:
+                    results.append("D")
+                if len(results) == 5:
+                    break
+            team["streak"] = results
+
     venues_list = list(venues_dict.values())
     venues_list.sort(key=lambda v: (-v["matches_count"], v["title"]))
 
@@ -739,10 +831,11 @@ venue: {json.dumps(team.get('venue', CFG['venue']))}
 established: {team.get('established', CFG['founded'])}
 record: {json.dumps(f"{team.get('wins', 0)}V - {team.get('losses', 0)}D")}
 league_position: {team.get('league_position', 1)}
+league_title: {json.dumps(team.get('league_title', ''))}
 weight: {team.get('weight', 999)}
 ---
 
-El **{team['name']}** representa al {CFG['name']} en la categoría {team['category']} ({team['gender']}).
+El **{team['name']}** representa al {CFG['name']} en la categoría {team['category']} ({team['gender']}) y compite en {team.get('league_title', 'su competición')}.
 Entrenado por {team.get('coach', 'el cuerpo técnico del club')}, disputa sus encuentros como local en {team.get('venue', CFG['venue'])}.
 """
         with open(t_path, "w", encoding="utf-8") as f:

@@ -11,7 +11,8 @@ established: 1985
 record: "0V - 0D"
 league_position: 1
 weight: 311451
+league_title: "Junior Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4"
 ---
 
-El **COLMENAR VIEJO A** representa al CB Colmenar Viejo en la categoría Junior (masculino).
+El **COLMENAR VIEJO A** representa al CB Colmenar Viejo en la categoría Junior (masculino), compitiendo en Junior Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4.
 Entrenado por Entrenador CB Colmenar, disputa sus encuentros como local en Pabellón Juan Antonio Samaranch.

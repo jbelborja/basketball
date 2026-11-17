@@ -7,7 +7,7 @@ team1_slug: "c-b-las-rozas-a"
 team1_logo: "images/teams/rival.png"
 team1_score: 64
 team2: "COLMENAR VIEJO"
-team2_slug: "colmenar-viejo-alevin-femenino"
+team2_slug: "colmenar-viejo-alevin-femenino-alv-fem-2-ano-liga-marco-aldany-plata-primera-fase-grupo-13"
 team2_logo: "images/teams/cbcolmenar.png"
 team2_score: 13
 status: "Finalizado"

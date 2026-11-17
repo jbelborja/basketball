@@ -7,7 +7,7 @@
 <table>
   <tr><th>Pos</th><th>Team</th><th>Pts</th></tr>
   {{ range sort $league.teams "position" }}
-    <tr><td>{{ .position }}</td><td>{{ .team }}</td><td>{{ .points }}</td></tr>
+    <tr><td>{{ .position }}</td><td>{{ partial "teams/link.html" (dict "page" $ "slug" .slug "name" .team "class" "") }}</td><td>{{ .points }}</td></tr>
   {{ end }}
 </table>
 {{ end }}

@@ -133,7 +133,13 @@
             {{ range $recentMatches }}
             <tr class="hover:bg-slate-800/40">
               <td class="py-3 px-4 text-slate-300">{{ .date }}</td>
-              <td class="py-3 px-4 font-bold text-white">{{ if eq .home $playerTeam }}vs {{ .away }}{{ else }}@ {{ .home }}{{ end }}</td>
+              <td class="py-3 px-4 font-bold text-white">
+                {{ if eq .home $playerTeam }}
+                  vs {{ partial "teams/link.html" (dict "page" $ "slug" .away_slug "name" .away "class" "") }}
+                {{ else }}
+                  @ {{ partial "teams/link.html" (dict "page" $ "slug" .home_slug "name" .home "class" "") }}
+                {{ end }}
+              </td>
               <td class="py-3 px-3 text-center text-slate-400">-</td>
               <td class="py-3 px-3 text-center font-sports text-sm font-bold text-orange-400">{{ if .home_score }}{{ .home_score }} - {{ .away_score }}{{ else }}VS{{ end }}</td>
               <td class="py-3 px-3 text-center text-slate-300">-</td>

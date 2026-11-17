@@ -12,8 +12,8 @@
       {{ if and (eq $p.category $cat) (eq $p.gender $gen) }}
         <tr>
           <td>{{ $p.date }} {{ $p.time | default "00:00" }}</td>
-          <td><a href="{{ (printf "teams/%s" ($p.home | urlize)) | relURL }}">{{ $p.home }}</a></td>
-          <td><a href="{{ (printf "teams/%s" ($p.away | urlize)) | relURL }}">{{ $p.away }}</a></td>
+          <td>{{ partial "teams/link.html" (dict "page" $ "slug" $p.home_slug "name" $p.home "class" "") }}</td>
+          <td>{{ partial "teams/link.html" (dict "page" $ "slug" $p.away_slug "name" $p.away "class" "") }}</td>
           <td>{{ $p.location }}</td>
           <td>{{ with $p.result }}{{ . }}{{ else }}-{{ end }}</td>
         </tr>

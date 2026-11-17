@@ -11,7 +11,8 @@ established: 1985
 record: "0V - 1D"
 league_position: 1
 weight: 610770
+league_title: "Alv Mas 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 7"
 ---
 
-El **COLMENAR VIEJO** representa al CB Colmenar Viejo en la categoría Alevín (masculino).
+El **COLMENAR VIEJO** representa al CB Colmenar Viejo en la categoría Alevín (masculino), compitiendo en Alv Mas 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 7.
 Entrenado por Entrenador CB Colmenar, disputa sus encuentros como local en Pabellón Juan Antonio Samaranch.

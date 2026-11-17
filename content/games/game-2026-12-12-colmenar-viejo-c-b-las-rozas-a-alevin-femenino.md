@@ -3,7 +3,7 @@ title: "COLMENAR VIEJO VS C.B. LAS ROZAS \"A\""
 date: 2026-12-12T00:00:00
 time: ""
 team1: "COLMENAR VIEJO"
-team1_slug: "colmenar-viejo-alevin-femenino"
+team1_slug: "colmenar-viejo-alevin-femenino-alv-fem-2-ano-liga-marco-aldany-plata-primera-fase-grupo-13"
 team1_logo: "images/teams/cbcolmenar.png"
 team1_score: null
 team2: "C.B. LAS ROZAS \"A\""

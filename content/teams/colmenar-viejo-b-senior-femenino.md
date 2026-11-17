@@ -11,7 +11,8 @@ established: 1985
 record: "0V - 1D"
 league_position: 1
 weight: 122519
+league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 ---
 
-El **COLMENAR VIEJO B** representa al CB Colmenar Viejo en la categoría Senior (femenino).
+El **COLMENAR VIEJO B** representa al CB Colmenar Viejo en la categoría Senior (femenino), compitiendo en Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR.
 Entrenado por Entrenador CB Colmenar, disputa sus encuentros como local en Pabellón Juan Antonio Samaranch.
