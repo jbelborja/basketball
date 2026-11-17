@@ -6,7 +6,16 @@
     "raw_venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "maps_embed": "https://maps.google.com/maps?q=JUAN%20ANTONIO%20SAMARANCH%2C%20CDAD.%20DPTVA.%20%28PISTA%20CENTRAL%29%20AVDA.%20JUAN%20PABLO%20II%2C%2013%2C%20Colmenar%20Viejo&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=JUAN%20ANTONIO%20SAMARANCH%2C%20CDAD.%20DPTVA.%20%28PISTA%20CENTRAL%29%20AVDA.%20JUAN%20PABLO%20II%2C%2013%2C%20Colmenar%20Viejo",
-    "matches_count": 224
+    "matches_count": 215
+  },
+  {
+    "slug": "lorenzo-rico-pabellon-huertas-55-colmenar-viejo",
+    "title": "LORENZO RICO",
+    "address": "PABELLON HUERTAS, 55, Colmenar Viejo",
+    "raw_venue": "LORENZO RICO, PABELLON HUERTAS, 55, Colmenar Viejo",
+    "maps_embed": "https://maps.google.com/maps?q=LORENZO%20RICO%2C%20PABELLON%20HUERTAS%2C%2055%2C%20Colmenar%20Viejo&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=LORENZO%20RICO%2C%20PABELLON%20HUERTAS%2C%2055%2C%20Colmenar%20Viejo",
+    "matches_count": 9
   },
   {
     "slug": "liceo-frances-pabellon-colegio-avda-de-los-madronos-frente-n-42-madrid",
@@ -42,15 +51,6 @@
     "raw_venue": "MEJORADA, PABELLON MPAL. JOAN MIRO, S/N, Mejorada del Campo",
     "maps_embed": "https://maps.google.com/maps?q=MEJORADA%2C%20PABELLON%20MPAL.%20JOAN%20MIRO%2C%20S/N%2C%20Mejorada%20del%20Campo&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=MEJORADA%2C%20PABELLON%20MPAL.%20JOAN%20MIRO%2C%20S/N%2C%20Mejorada%20del%20Campo",
-    "matches_count": 4
-  },
-  {
-    "slug": "movistar-academy-magarinos-pabellon-serrano-129-madrid",
-    "title": "MOVISTAR ACADEMY MAGARIÑOS",
-    "address": "PABELLON SERRANO, 129, Madrid",
-    "raw_venue": "MOVISTAR ACADEMY MAGARIÑOS, PABELLON SERRANO, 129, Madrid",
-    "maps_embed": "https://maps.google.com/maps?q=MOVISTAR%20ACADEMY%20MAGARI%C3%91OS%2C%20PABELLON%20SERRANO%2C%20129%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=MOVISTAR%20ACADEMY%20MAGARI%C3%91OS%2C%20PABELLON%20SERRANO%2C%20129%2C%20Madrid",
     "matches_count": 4
   },
   {
@@ -132,6 +132,15 @@
     "raw_venue": "MIRASUR, PABELLON COLEGIO PABLO GARGALLO, 1, Pinto",
     "maps_embed": "https://maps.google.com/maps?q=MIRASUR%2C%20PABELLON%20COLEGIO%20PABLO%20GARGALLO%2C%201%2C%20Pinto&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=MIRASUR%2C%20PABELLON%20COLEGIO%20PABLO%20GARGALLO%2C%201%2C%20Pinto",
+    "matches_count": 3
+  },
+  {
+    "slug": "movistar-academy-magarinos-pabellon-serrano-129-madrid",
+    "title": "MOVISTAR ACADEMY MAGARIÑOS",
+    "address": "PABELLON SERRANO, 129, Madrid",
+    "raw_venue": "MOVISTAR ACADEMY MAGARIÑOS, PABELLON SERRANO, 129, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=MOVISTAR%20ACADEMY%20MAGARI%C3%91OS%2C%20PABELLON%20SERRANO%2C%20129%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=MOVISTAR%20ACADEMY%20MAGARI%C3%91OS%2C%20PABELLON%20SERRANO%2C%20129%2C%20Madrid",
     "matches_count": 3
   },
   {
@@ -819,12 +828,12 @@
     "matches_count": 1
   },
   {
-    "slug": "la-canaleja-pabellon-pista-3-avenida-circunvalacion-norte-1-alcorcon",
+    "slug": "la-canaleja-pabellon-pista-1-avenida-circunvalacion-norte-1-alcorcon",
     "title": "LA CANALEJA",
-    "address": "PABELLON PISTA 3 AVENIDA CIRCUNVALACION NORTE, 1, Alcorcón",
-    "raw_venue": "LA CANALEJA, PABELLON PISTA 3 AVENIDA CIRCUNVALACION NORTE, 1, Alcorcón",
-    "maps_embed": "https://maps.google.com/maps?q=LA%20CANALEJA%2C%20PABELLON%20PISTA%203%20AVENIDA%20CIRCUNVALACION%20NORTE%2C%201%2C%20Alcorc%C3%B3n&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=LA%20CANALEJA%2C%20PABELLON%20PISTA%203%20AVENIDA%20CIRCUNVALACION%20NORTE%2C%201%2C%20Alcorc%C3%B3n",
+    "address": "PABELLON PISTA 1 AVENIDA CIRCUNVALACION NORTE, 1, Alcorcón",
+    "raw_venue": "LA CANALEJA, PABELLON PISTA 1 AVENIDA CIRCUNVALACION NORTE, 1, Alcorcón",
+    "maps_embed": "https://maps.google.com/maps?q=LA%20CANALEJA%2C%20PABELLON%20PISTA%201%20AVENIDA%20CIRCUNVALACION%20NORTE%2C%201%2C%20Alcorc%C3%B3n&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=LA%20CANALEJA%2C%20PABELLON%20PISTA%201%20AVENIDA%20CIRCUNVALACION%20NORTE%2C%201%2C%20Alcorc%C3%B3n",
     "matches_count": 1
   },
   {
@@ -1041,6 +1050,15 @@
     "raw_venue": "PRINCIPE FELIPE, I.E.S. FINISTERRE, 60, Madrid",
     "maps_embed": "https://maps.google.com/maps?q=PRINCIPE%20FELIPE%2C%20I.E.S.%20FINISTERRE%2C%2060%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=PRINCIPE%20FELIPE%2C%20I.E.S.%20FINISTERRE%2C%2060%2C%20Madrid",
+    "matches_count": 1
+  },
+  {
+    "slug": "ramiro-de-maeztu-2-instituto-pista-mini-serrano-129-madrid",
+    "title": "RAMIRO DE MAEZTU 2",
+    "address": "INSTITUTO (Pista mini) SERRANO, 129, Madrid",
+    "raw_venue": "RAMIRO DE MAEZTU 2, INSTITUTO (Pista mini) SERRANO, 129, Madrid",
+    "maps_embed": "https://maps.google.com/maps?q=RAMIRO%20DE%20MAEZTU%202%2C%20INSTITUTO%20%28Pista%20mini%29%20SERRANO%2C%20129%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=RAMIRO%20DE%20MAEZTU%202%2C%20INSTITUTO%20%28Pista%20mini%29%20SERRANO%2C%20129%2C%20Madrid",
     "matches_count": 1
   },
   {

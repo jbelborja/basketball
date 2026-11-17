@@ -1,7 +1,7 @@
 ---
 title: "CD CALDEIRO VS COLMENAR VIEJO"
-date: 2026-11-28T00:00:00
-time: ""
+date: 2026-11-28T11:15:00
+time: "11:15"
 team1: "CD CALDEIRO"
 team1_slug: "cd-caldeiro"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Alv Mas 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 7"
 uid: "game-2026-11-28-cd-caldeiro-colmenar-viejo-alevin-masculino"
 slug: "game-2026-11-28-cd-caldeiro-colmenar-viejo-alevin-masculino"
-weight: 61020261128000088
+weight: 61020261128111588
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **CD CALDEIRO** y **COLMENAR VIEJO**.
