@@ -10,9 +10,9 @@ venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1985
 record: "0V - 1D"
 league_position: 1
+league_title: "Junior Masc. Pref. - PRIMERA 5\u00aa DIVISION - GRUPO PAR"
 weight: 313338
-league_title: "Junior Masc. Pref. - PRIMERA 5ª DIVISION - GRUPO PAR"
 ---
 
-El **COLMENAR VIEJO C** representa al CB Colmenar Viejo en la categoría Junior (masculino), compitiendo en Junior Masc. Pref. - PRIMERA 5ª DIVISION - GRUPO PAR.
+El **COLMENAR VIEJO C** representa al CB Colmenar Viejo en la categoría Junior (masculino) y compite en Junior Masc. Pref. - PRIMERA 5ª DIVISION - GRUPO PAR.
 Entrenado por Entrenador CB Colmenar, disputa sus encuentros como local en Pabellón Juan Antonio Samaranch.

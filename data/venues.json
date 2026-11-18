@@ -432,6 +432,15 @@
     "matches_count": 1
   },
   {
+    "slug": "amaya-valdemoro-pabellon-pista-1-crta-alcobendas-barajas-km-1-200-alcobendas",
+    "title": "AMAYA VALDEMORO",
+    "address": "PABELLON Pista 1 CRTA. ALCOBENDAS-BARAJAS, Km. 1, 200, Alcobendas",
+    "raw_venue": "AMAYA VALDEMORO, PABELLON Pista 1 CRTA. ALCOBENDAS-BARAJAS, Km. 1,200, Alcobendas",
+    "maps_embed": "https://maps.google.com/maps?q=AMAYA%20VALDEMORO%2C%20PABELLON%20Pista%201%20CRTA.%20ALCOBENDAS-BARAJAS%2C%20Km.%201%2C200%2C%20Alcobendas&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "maps_direct": "https://www.google.com/maps/search/?api=1&query=AMAYA%20VALDEMORO%2C%20PABELLON%20Pista%201%20CRTA.%20ALCOBENDAS-BARAJAS%2C%20Km.%201%2C200%2C%20Alcobendas",
+    "matches_count": 1
+  },
+  {
     "slug": "andres-casado-pabellon-avda-juan-carlos-i-12-getafe",
     "title": "ANDRES CASADO",
     "address": "PABELLON AVDA. JUAN CARLOS I, 12, Getafe",
@@ -600,15 +609,6 @@
     "raw_venue": "CORAZONISTAS, PABELLON COLEGIO calle GUATEMALA, 11, Madrid",
     "maps_embed": "https://maps.google.com/maps?q=CORAZONISTAS%2C%20PABELLON%20COLEGIO%20calle%20GUATEMALA%2C%2011%2C%20Madrid&t=&z=15&ie=UTF8&iwloc=&output=embed",
     "maps_direct": "https://www.google.com/maps/search/?api=1&query=CORAZONISTAS%2C%20PABELLON%20COLEGIO%20calle%20GUATEMALA%2C%2011%2C%20Madrid",
-    "matches_count": 1
-  },
-  {
-    "slug": "distrito-centro-pabellon-avda-olimpica-22-pasaje-alcobendas",
-    "title": "DISTRITO CENTRO",
-    "address": "PABELLON AVDA. OLIMPICA, 22 (pasaje), Alcobendas",
-    "raw_venue": "DISTRITO CENTRO, PABELLON AVDA. OLIMPICA, 22 (pasaje), Alcobendas",
-    "maps_embed": "https://maps.google.com/maps?q=DISTRITO%20CENTRO%2C%20PABELLON%20AVDA.%20OLIMPICA%2C%2022%20%28pasaje%29%2C%20Alcobendas&t=&z=15&ie=UTF8&iwloc=&output=embed",
-    "maps_direct": "https://www.google.com/maps/search/?api=1&query=DISTRITO%20CENTRO%2C%20PABELLON%20AVDA.%20OLIMPICA%2C%2022%20%28pasaje%29%2C%20Alcobendas",
     "matches_count": 1
   },
   {

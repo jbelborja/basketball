@@ -1,7 +1,7 @@
 ---
 title: "ISAAC NEWTON \"A\" VS COLMENAR VIEJO"
-date: 2026-11-28T00:00:00
-time: ""
+date: 2026-11-28T11:15:00
+time: "11:15"
 team1: "ISAAC NEWTON \"A\""
 team1_slug: "isaac-newton-a"
 team1_logo: "images/teams/rival.png"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Alv Fem 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13"
 uid: "game-2026-11-28-isaac-newton-a-colmenar-viejo-alevin-femenino"
 slug: "game-2026-11-28-isaac-newton-a-colmenar-viejo-alevin-femenino"
-weight: 62020261128000021
+weight: 62020261128111521
 ---
 
 Encuentro correspondiente a la categoría Alevín (femenino) entre **ISAAC NEWTON "A"** y **COLMENAR VIEJO**.

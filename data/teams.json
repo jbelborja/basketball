@@ -4,6 +4,7 @@
     "slug": "colmenar-viejo-senior-masculino",
     "category": "Senior",
     "gender": "masculino",
+    "league_title": "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -12,14 +13,14 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Senior masculino.",
-    "weight": 110844,
-    "league_title": "Liga Ginos Masculina PLATA - PRIMERA FASE - GRUPO PAR"
+    "weight": 110844
   },
   {
     "name": "COLMENAR VIEJO A",
     "slug": "colmenar-viejo-a-senior-masculino",
     "category": "Senior",
     "gender": "masculino",
+    "league_title": "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -28,14 +29,14 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO A del CB Colmenar Viejo en la categoría Senior masculino.",
-    "weight": 111056,
-    "league_title": "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
+    "weight": 111056
   },
   {
     "name": "COLMENAR VIEJO A",
     "slug": "colmenar-viejo-a-senior-femenino",
     "category": "Senior",
     "gender": "femenino",
+    "league_title": "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -44,14 +45,14 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO A del CB Colmenar Viejo en la categoría Senior femenino.",
-    "weight": 121384,
-    "league_title": "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
+    "weight": 121384
   },
   {
     "name": "COLMENAR VIEJO B",
     "slug": "colmenar-viejo-b-senior-femenino",
     "category": "Senior",
     "gender": "femenino",
+    "league_title": "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -60,14 +61,14 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO B del CB Colmenar Viejo en la categoría Senior femenino.",
-    "weight": 122519,
-    "league_title": "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
+    "weight": 122519
   },
   {
     "name": "COLMENAR VIEJO",
     "slug": "colmenar-viejo-sub-22-masculino",
     "category": "Sub 22",
     "gender": "masculino",
+    "league_title": "Sub 22 Masc. BRONCE - PRIMERA 1ª DIVISION - GRUPO 1",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -76,14 +77,14 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Sub 22 masculino.",
-    "weight": 210192,
-    "league_title": "Sub 22 Masc. BRONCE - PRIMERA 1ª DIVISION - GRUPO 1"
+    "weight": 210192
   },
   {
     "name": "COLMENAR VIEJO A",
     "slug": "colmenar-viejo-a-junior-masculino",
     "category": "Junior",
     "gender": "masculino",
+    "league_title": "Junior Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -92,14 +93,14 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO A del CB Colmenar Viejo en la categoría Junior masculino.",
-    "weight": 311451,
-    "league_title": "Junior Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4"
+    "weight": 311451
   },
   {
     "name": "COLMENAR VIEJO B",
     "slug": "colmenar-viejo-b-junior-masculino",
     "category": "Junior",
     "gender": "masculino",
+    "league_title": "Junior Masc. Pref. - PRIMERA 4ª DIVISION - GRUPO 2",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -108,14 +109,14 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO B del CB Colmenar Viejo en la categoría Junior masculino.",
-    "weight": 312502,
-    "league_title": "Junior Masc. Pref. - PRIMERA 4ª DIVISION - GRUPO 2"
+    "weight": 312502
   },
   {
     "name": "COLMENAR VIEJO C",
     "slug": "colmenar-viejo-c-junior-masculino",
     "category": "Junior",
     "gender": "masculino",
+    "league_title": "Junior Masc. Pref. - PRIMERA 5ª DIVISION - GRUPO PAR",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -124,14 +125,14 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO C del CB Colmenar Viejo en la categoría Junior masculino.",
-    "weight": 313338,
-    "league_title": "Junior Masc. Pref. - PRIMERA 5ª DIVISION - GRUPO PAR"
+    "weight": 313338
   },
   {
     "name": "COLMENAR VIEJO",
     "slug": "colmenar-viejo-junior-femenino",
     "category": "Junior",
     "gender": "femenino",
+    "league_title": "Junior Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 5",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -140,14 +141,14 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Junior femenino.",
-    "weight": 320695,
-    "league_title": "Junior Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 5"
+    "weight": 320695
   },
   {
     "name": "COLMENAR VIEJO A",
     "slug": "colmenar-viejo-a-cadete-masculino",
     "category": "Cadete",
     "gender": "masculino",
+    "league_title": "Cadete Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -156,14 +157,14 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO A del CB Colmenar Viejo en la categoría Cadete masculino.",
-    "weight": 411379,
-    "league_title": "Cadete Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4"
+    "weight": 411379
   },
   {
     "name": "COLMENAR VIEJO B",
     "slug": "colmenar-viejo-b-cadete-masculino",
     "category": "Cadete",
     "gender": "masculino",
+    "league_title": "Cadete Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 3",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -172,14 +173,14 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO B del CB Colmenar Viejo en la categoría Cadete masculino.",
-    "weight": 412705,
-    "league_title": "Cadete Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 3"
+    "weight": 412705
   },
   {
     "name": "COLMENAR VIEJO C",
     "slug": "colmenar-viejo-c-cadete-masculino",
     "category": "Cadete",
     "gender": "masculino",
+    "league_title": "Cadete Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 3",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -188,14 +189,14 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO C del CB Colmenar Viejo en la categoría Cadete masculino.",
-    "weight": 413885,
-    "league_title": "Cadete Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 3"
+    "weight": 413885
   },
   {
     "name": "COLMENAR VIEJO",
     "slug": "colmenar-viejo-cadete-femenino",
     "category": "Cadete",
     "gender": "femenino",
+    "league_title": "Cadete Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 2",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -204,14 +205,14 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Cadete femenino.",
-    "weight": 420808,
-    "league_title": "Cadete Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 2"
+    "weight": 420808
   },
   {
     "name": "COLMENAR VIEJO A",
     "slug": "colmenar-viejo-a-infantil-masculino",
     "category": "Infantil",
     "gender": "masculino",
+    "league_title": "Infantil Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -220,14 +221,14 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO A del CB Colmenar Viejo en la categoría Infantil masculino.",
-    "weight": 511763,
-    "league_title": "Infantil Masc. Pref. - PRIMERA 1ª DIVISION - GRUPO 4"
+    "weight": 511763
   },
   {
     "name": "COLMENAR VIEJO B",
     "slug": "colmenar-viejo-b-infantil-masculino",
     "category": "Infantil",
     "gender": "masculino",
+    "league_title": "Infantil Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 4",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -236,14 +237,14 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO B del CB Colmenar Viejo en la categoría Infantil masculino.",
-    "weight": 512808,
-    "league_title": "Infantil Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 4"
+    "weight": 512808
   },
   {
     "name": "COLMENAR VIEJO",
     "slug": "colmenar-viejo-infantil-femenino",
     "category": "Infantil",
     "gender": "femenino",
+    "league_title": "Infantil Fem. 1ºaño - PRIMERA FASE - GRUPO 14",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -252,14 +253,14 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Infantil femenino.",
-    "weight": 520720,
-    "league_title": "Infantil Fem. 1ºaño - PRIMERA FASE - GRUPO 14"
+    "weight": 520720
   },
   {
     "name": "COLMENAR VIEJO",
     "slug": "colmenar-viejo-alevin-masculino",
     "category": "Alevín",
     "gender": "masculino",
+    "league_title": "Alv Mas 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 7",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -268,14 +269,14 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Alevín masculino.",
-    "weight": 610770,
-    "league_title": "Alv Mas 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 7"
+    "weight": 610770
   },
   {
     "name": "COLMENAR VIEJO BLANCO",
     "slug": "colmenar-viejo-blanco-alevin-masculino",
     "category": "Alevín",
     "gender": "masculino",
+    "league_title": "Alv Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -284,14 +285,14 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO BLANCO del CB Colmenar Viejo en la categoría Alevín masculino.",
-    "weight": 610860,
-    "league_title": "Alv Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9"
+    "weight": 610860
   },
   {
     "name": "COLMENAR VIEJO NEGRO",
     "slug": "colmenar-viejo-negro-alevin-masculino",
     "category": "Alevín",
     "gender": "masculino",
+    "league_title": "Alv Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -300,14 +301,14 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO NEGRO del CB Colmenar Viejo en la categoría Alevín masculino.",
-    "weight": 610232,
-    "league_title": "Alv Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9"
+    "weight": 610232
   },
   {
     "name": "COLMENAR VIEJO",
     "slug": "colmenar-viejo-alevin-femenino",
     "category": "Alevín",
     "gender": "femenino",
+    "league_title": "Alv Fem 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 8",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -316,14 +317,14 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Alevín femenino.",
-    "weight": 620117,
-    "league_title": "Alv Fem 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 8"
+    "weight": 620117
   },
   {
     "name": "COLMENAR VIEJO",
     "slug": "colmenar-viejo-alevin-femenino-alv-fem-2-ano-liga-marco-aldany-plata-primera-fase-grupo-13",
     "category": "Alevín",
     "gender": "femenino",
+    "league_title": "Alv Fem 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -332,30 +333,14 @@
     "losses": 1,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Alevín femenino.",
-    "weight": 620117.1,
-    "league_title": "Alv Fem 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13"
-  },
-  {
-    "name": "COLMENAR VIEJO",
-    "slug": "colmenar-viejo-benjamin-masculino",
-    "category": "Benjamín",
-    "gender": "masculino",
-    "logo": "images/teams/cbcolmenar.png",
-    "coach": "Entrenador CB Colmenar",
-    "venue": "Pabellón Juan Antonio Samaranch",
-    "established": 1985,
-    "wins": 0,
-    "losses": 0,
-    "league_position": 1,
-    "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Benjamín masculino.",
-    "weight": 710312,
-    "league_title": "Benj Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 4"
+    "weight": 620432
   },
   {
     "name": "COLMENAR VIEJO",
     "slug": "colmenar-viejo-benjamin-masculino-benj-mas-2-ano-liga-marco-aldany-primera-fase-grupo-11",
     "category": "Benjamín",
     "gender": "masculino",
+    "league_title": "Benj Mas 2ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 11",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -364,14 +349,30 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Benjamín masculino.",
-    "weight": 710312.1,
-    "league_title": "Benj Mas 2ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 11"
+    "weight": 710627
+  },
+  {
+    "name": "COLMENAR VIEJO",
+    "slug": "colmenar-viejo-benjamin-masculino",
+    "category": "Benjamín",
+    "gender": "masculino",
+    "league_title": "Benj Mas 1ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 4",
+    "logo": "images/teams/cbcolmenar.png",
+    "coach": "Entrenador CB Colmenar",
+    "venue": "Pabellón Juan Antonio Samaranch",
+    "established": 1985,
+    "wins": 0,
+    "losses": 1,
+    "league_position": 1,
+    "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Benjamín masculino.",
+    "weight": 710312
   },
   {
     "name": "COLMENAR VIEJO",
     "slug": "colmenar-viejo-benjamin-femenino",
     "category": "Benjamín",
     "gender": "femenino",
+    "league_title": "Benj F.2ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6",
     "logo": "images/teams/cbcolmenar.png",
     "coach": "Entrenador CB Colmenar",
     "venue": "Pabellón Juan Antonio Samaranch",
@@ -380,7 +381,6 @@
     "losses": 0,
     "league_position": 1,
     "description": "Equipo COLMENAR VIEJO del CB Colmenar Viejo en la categoría Benjamín femenino.",
-    "weight": 720244,
-    "league_title": "Benj F.2ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6"
+    "weight": 720244
   }
 ]

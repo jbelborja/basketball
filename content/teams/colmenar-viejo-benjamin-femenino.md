@@ -10,9 +10,9 @@ venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1985
 record: "0V - 0D"
 league_position: 1
+league_title: "Benj F.2\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6"
 weight: 720244
-league_title: "Benj F.2ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6"
 ---
 
-El **COLMENAR VIEJO** representa al CB Colmenar Viejo en la categoría Benjamín (femenino), compitiendo en Benj F.2ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6.
+El **COLMENAR VIEJO** representa al CB Colmenar Viejo en la categoría Benjamín (femenino) y compite en Benj F.2ºaño LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6.
 Entrenado por Entrenador CB Colmenar, disputa sus encuentros como local en Pabellón Juan Antonio Samaranch.

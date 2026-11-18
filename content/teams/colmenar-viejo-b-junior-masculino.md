@@ -10,9 +10,9 @@ venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1985
 record: "1V - 0D"
 league_position: 1
+league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
 weight: 312502
-league_title: "Junior Masc. Pref. - PRIMERA 4ª DIVISION - GRUPO 2"
 ---
 
-El **COLMENAR VIEJO B** representa al CB Colmenar Viejo en la categoría Junior (masculino), compitiendo en Junior Masc. Pref. - PRIMERA 4ª DIVISION - GRUPO 2.
+El **COLMENAR VIEJO B** representa al CB Colmenar Viejo en la categoría Junior (masculino) y compite en Junior Masc. Pref. - PRIMERA 4ª DIVISION - GRUPO 2.
 Entrenado por Entrenador CB Colmenar, disputa sus encuentros como local en Pabellón Juan Antonio Samaranch.
