@@ -1,16 +1,16 @@
 ---
-title: "PRODET POZUELO C.D.E. VS COLMENAR VIEJO A"
+title: "PRODET POZUELO C.D.E. 74 - 60 COLMENAR VIEJO A"
 date: 2026-11-21T16:30:00
 time: "16:30"
 team1: "PRODET POZUELO C.D.E."
 team1_slug: "prodet-pozuelo-c-d-e"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 74
 team2: "COLMENAR VIEJO A"
 team2_slug: "colmenar-viejo-a-infantil-masculino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 60
+status: "Finalizado"
 venue: "ANGEL LLORENTE, PABELLON AVDA. DE BULARAS, 4, Pozuelo de Alarc\u00f3n"
 venue_slug: "angel-llorente-pabellon-avda-de-bularas-4-pozuelo-de-alarcon"
 venue_title: "ANGEL LLORENTE"

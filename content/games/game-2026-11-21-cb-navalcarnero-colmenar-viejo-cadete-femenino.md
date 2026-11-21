@@ -1,16 +1,16 @@
 ---
-title: "CB NAVALCARNERO VS COLMENAR VIEJO"
+title: "CB NAVALCARNERO 59 - 55 COLMENAR VIEJO"
 date: 2026-11-21T11:00:00
 time: "11:00"
 team1: "CB NAVALCARNERO"
 team1_slug: "cb-navalcarnero"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 59
 team2: "COLMENAR VIEJO"
 team2_slug: "colmenar-viejo-cadete-femenino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 55
+status: "Finalizado"
 venue: "LA ESTACION, PABELLON MUNICIPAL RIO EBRO, S/N, Navalcarnero"
 venue_slug: "la-estacion-pabellon-municipal-rio-ebro-s-n-navalcarnero"
 venue_title: "LA ESTACION"

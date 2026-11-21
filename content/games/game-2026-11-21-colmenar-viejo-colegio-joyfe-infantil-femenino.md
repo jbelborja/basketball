@@ -1,16 +1,16 @@
 ---
-title: "COLMENAR VIEJO VS COLEGIO JOYFE"
+title: "COLMENAR VIEJO 37 - 45 COLEGIO JOYFE"
 date: 2026-11-21T09:45:00
 time: "09:45"
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-infantil-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
-team1_score: null
+team1_score: 37
 team2: "COLEGIO JOYFE"
 team2_slug: "colegio-joyfe"
 team2_logo: "images/teams/rival.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 45
+status: "Finalizado"
 venue: "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 venue_slug: "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo"
 venue_title: "JUAN ANTONIO SAMARANCH"

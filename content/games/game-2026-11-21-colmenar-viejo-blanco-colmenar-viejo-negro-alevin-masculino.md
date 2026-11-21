@@ -1,16 +1,16 @@
 ---
-title: "COLMENAR VIEJO BLANCO VS COLMENAR VIEJO NEGRO"
+title: "COLMENAR VIEJO BLANCO 28 - 78 COLMENAR VIEJO NEGRO"
 date: 2026-11-21T09:45:00
 time: "09:45"
 team1: "COLMENAR VIEJO BLANCO"
 team1_slug: "colmenar-viejo-blanco-alevin-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
-team1_score: null
+team1_score: 28
 team2: "COLMENAR VIEJO NEGRO"
 team2_slug: "colmenar-viejo-negro-alevin-masculino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 78
+status: "Finalizado"
 venue: "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 venue_slug: "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo"
 venue_title: "JUAN ANTONIO SAMARANCH"

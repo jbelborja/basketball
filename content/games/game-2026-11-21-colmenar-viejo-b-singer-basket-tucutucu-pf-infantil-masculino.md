@@ -1,16 +1,16 @@
 ---
-title: "COLMENAR VIEJO B VS SINGER BASKET TUCUTUCU PF"
+title: "COLMENAR VIEJO B 3 - 54 SINGER BASKET TUCUTUCU PF"
 date: 2026-11-21T18:15:00
 time: "18:15"
 team1: "COLMENAR VIEJO B"
 team1_slug: "colmenar-viejo-b-infantil-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
-team1_score: null
+team1_score: 3
 team2: "SINGER BASKET TUCUTUCU PF"
 team2_slug: "singer-basket-tucutucu-pf"
 team2_logo: "images/teams/rival.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 54
+status: "Finalizado"
 venue: "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 venue_slug: "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo"
 venue_title: "JUAN ANTONIO SAMARANCH"

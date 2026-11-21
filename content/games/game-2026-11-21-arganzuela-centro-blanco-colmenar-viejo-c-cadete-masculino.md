@@ -1,16 +1,16 @@
 ---
-title: "ARGANZUELA CENTRO BLANCO VS COLMENAR VIEJO C"
+title: "ARGANZUELA CENTRO BLANCO 45 - 22 COLMENAR VIEJO C"
 date: 2026-11-21T13:15:00
 time: "13:15"
 team1: "ARGANZUELA CENTRO BLANCO"
 team1_slug: "arganzuela-centro-blanco"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 45
 team2: "COLMENAR VIEJO C"
 team2_slug: "colmenar-viejo-c-cadete-masculino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 22
+status: "Finalizado"
 venue: "SALESIANOS CARABANCHEL, PABELLON COLEGIO RONDA DON BOSCO, 3, Madrid"
 venue_slug: "salesianos-carabanchel-pabellon-colegio-ronda-don-bosco-3-madrid"
 venue_title: "SALESIANOS CARABANCHEL"

@@ -8,7 +8,7 @@ logo: "images/teams/cbcolmenar.png"
 coach: "Entrenador CB Colmenar"
 venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1985
-record: "0V - 1D"
+record: "0V - 0D"
 league_position: 1
 league_title: "Liga Ginos Femenina - PRIMERA FASE - GRUPO IMPAR"
 weight: 122519

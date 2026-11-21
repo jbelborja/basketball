@@ -8,7 +8,7 @@ logo: "images/teams/cbcolmenar.png"
 coach: "Entrenador CB Colmenar"
 venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1985
-record: "0V - 1D"
+record: "0V - 0D"
 league_position: 1
 league_title: "Benj Mas 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 4"
 weight: 710312

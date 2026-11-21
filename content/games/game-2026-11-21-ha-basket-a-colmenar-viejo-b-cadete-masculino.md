@@ -1,16 +1,16 @@
 ---
-title: "HA BASKET \"A\" VS COLMENAR VIEJO B"
+title: "HA BASKET \"A\" 25 - 54 COLMENAR VIEJO B"
 date: 2026-11-21T19:45:00
 time: "19:45"
 team1: "HA BASKET \"A\""
 team1_slug: "ha-basket-a"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 25
 team2: "COLMENAR VIEJO B"
 team2_slug: "colmenar-viejo-b-cadete-masculino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 54
+status: "Finalizado"
 venue: "GALLUR, PDVO. MPAL. GALLUR, 2, Madrid"
 venue_slug: "gallur-pdvo-mpal-gallur-2-madrid"
 venue_title: "GALLUR"
