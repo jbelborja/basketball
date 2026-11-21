@@ -11,10 +11,10 @@ team2_slug: "colmenar-viejo-alevin-femenino-alv-fem-2-ano-liga-marco-aldany-plat
 team2_logo: "images/teams/cbcolmenar.png"
 team2_score: null
 status: "Pr\u00f3ximo"
-venue: "LA MASO, PABELLON Calle de La Mas\u00f3, 80, Madrid"
-venue_slug: "la-maso-pabellon-calle-de-la-maso-80-madrid"
+venue: "LA MASO, PISTA EXTERIOR Calle de La Mas\u00f3, 80, Madrid"
+venue_slug: "la-maso-pista-exterior-calle-de-la-maso-80-madrid"
 venue_title: "LA MASO"
-venue_address: "PABELLON Calle de La Mas\u00f3, 80, Madrid"
+venue_address: "PISTA EXTERIOR Calle de La Mas\u00f3, 80, Madrid"
 category: "Alev\u00edn"
 gender: "femenino"
 league_title: "Alv Fem 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 13"
