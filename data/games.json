@@ -232,16 +232,29 @@
     "slug": "game-2026-11-22-colmenar-viejo-ricopia-funbal-alcala-cbja-senior-masculino",
     "date": "2026-11-22",
     "time": "17:45",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO",
     "home_slug": "colmenar-viejo-senior-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 73,
     "away": "RICOPIA FUNBAL ALCALA CBJA",
     "away_slug": "ricopia-funbal-alcala-cbja",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 87,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -860,16 +873,29 @@
     "slug": "game-2026-11-22-colmenar-viejo-a-liceo-frances-senior-masculino",
     "date": "2026-11-22",
     "time": "19:30",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO A",
     "home_slug": "colmenar-viejo-a-senior-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 68,
     "away": "LICEO FRANCES",
     "away_slug": "liceo-frances",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 73,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -1526,16 +1552,29 @@
     "slug": "game-2026-11-22-ricopia-funbal-alcala-cbja-colmenar-viejo-a-senior-femenino",
     "date": "2026-11-22",
     "time": "20:30",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "RICOPIA FUNBAL ALCALA CBJA",
     "home_slug": "ricopia-funbal-alcala-cbja",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 45,
     "away": "COLMENAR VIEJO A",
     "away_slug": "colmenar-viejo-a-senior-femenino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 76,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN DE AUSTRIA, PABELLON (PISTA CENTRAL) JOSE CABALLERO, S/N, Alcalá de Henares",
     "venue_slug": "juan-de-austria-pabellon-pista-central-jose-caballero-s-n-alcala-de-henares",
     "venue_title": "JUAN DE AUSTRIA",
@@ -2029,16 +2068,29 @@
     "slug": "game-2026-11-22-colmenar-viejo-b-c-b-getafe-senior-femenino",
     "date": "2026-11-22",
     "time": "13:00",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO B",
     "home_slug": "colmenar-viejo-b-senior-femenino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 78,
     "away": "C.B. GETAFE",
     "away_slug": "c-b-getafe",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 38,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -2581,16 +2633,29 @@
     "slug": "game-2026-11-22-abaco-colmenar-viejo-sub-22-masculino",
     "date": "2026-11-22",
     "time": "19:15",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "ABACO",
     "home_slug": "abaco",
     "home_logo": "images/teams/rival.png",
-    "home_score": null,
+    "home_score": 95,
     "away": "COLMENAR VIEJO",
     "away_slug": "colmenar-viejo-sub-22-masculino",
     "away_logo": "images/teams/cbcolmenar.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 70,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "ABACO, PABELLON COLEGIO AVDA. DE LA PESETA, 8, Madrid",
     "venue_slug": "abaco-pabellon-colegio-avda-de-la-peseta-8-madrid",
     "venue_title": "ABACO",
@@ -3184,16 +3249,29 @@
     "slug": "game-2026-11-22-colmenar-viejo-a-movistar-estudiantes-diaz-miguel-junior-masculino",
     "date": "2026-11-22",
     "time": "16:00",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO A",
     "home_slug": "colmenar-viejo-a-junior-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 74,
     "away": "MOVISTAR ESTUDIANTES DIAZ MIGUEL",
     "away_slug": "movistar-estudiantes-diaz-miguel",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 31,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -4479,16 +4557,29 @@
     "slug": "game-2026-11-22-colmenar-viejo-c-miramadrid-club-deportivo-basico-amarillo-junior-masculino",
     "date": "2026-11-22",
     "time": "16:00",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO C",
     "home_slug": "colmenar-viejo-c-junior-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 74,
     "away": "MIRAMADRID CLUB DEPORTIVO BASICO Amarillo",
     "away_slug": "miramadrid-club-deportivo-basico-amarillo",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 30,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
@@ -5572,16 +5663,29 @@
     "slug": "game-2026-11-22-colmenar-viejo-a-san-viator-c-cadete-masculino",
     "date": "2026-11-22",
     "time": "13:15",
-    "status": "Próximo",
+    "status": "Finalizado",
     "home": "COLMENAR VIEJO A",
     "home_slug": "colmenar-viejo-a-cadete-masculino",
     "home_logo": "images/teams/cbcolmenar.png",
-    "home_score": null,
+    "home_score": 62,
     "away": "SAN VIATOR \"C\"",
     "away_slug": "san-viator-c",
     "away_logo": "images/teams/rival.png",
-    "away_score": null,
-    "quarters": null,
+    "away_score": 38,
+    "quarters": {
+      "home": [
+        18,
+        20,
+        19,
+        21
+      ],
+      "away": [
+        15,
+        18,
+        22,
+        19
+      ]
+    },
     "venue": "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo",
     "venue_slug": "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo",
     "venue_title": "JUAN ANTONIO SAMARANCH",
