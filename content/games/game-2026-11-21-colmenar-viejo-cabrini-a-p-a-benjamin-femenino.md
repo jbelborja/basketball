@@ -1,16 +1,16 @@
 ---
-title: "COLMENAR VIEJO VS CABRINI A.P.A."
-date: 2026-11-21T00:00:00
-time: ""
+title: "COLMENAR VIEJO 2 - 52 CABRINI A.P.A."
+date: 2026-11-21T13:15:00
+time: "13:15"
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-benjamin-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
-team1_score: null
+team1_score: 2
 team2: "CABRINI A.P.A."
 team2_slug: "cabrini-a-p-a"
 team2_logo: "images/teams/rival.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 52
+status: "Finalizado"
 venue: "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 venue_slug: "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo"
 venue_title: "JUAN ANTONIO SAMARANCH"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Benj F.2\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6"
 uid: "game-2026-11-21-colmenar-viejo-cabrini-a-p-a-benjamin-femenino"
 slug: "game-2026-11-21-colmenar-viejo-cabrini-a-p-a-benjamin-femenino"
-weight: 72020261121000089
+weight: 72020261121131589
 ---
 
 Encuentro correspondiente a la categoría Benjamín (femenino) entre **COLMENAR VIEJO** y **CABRINI A.P.A.**.

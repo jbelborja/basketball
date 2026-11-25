@@ -1,16 +1,16 @@
 ---
-title: "COLMENAR VIEJO VS INNOVA-TSN LEGAN\u00c9S"
-date: 2026-11-07T00:00:00
-time: ""
+title: "COLMENAR VIEJO 2 - 52 INNOVA-TSN LEGAN\u00c9S"
+date: 2026-11-07T13:15:00
+time: "13:15"
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-benjamin-femenino"
 team1_logo: "images/teams/cbcolmenar.png"
-team1_score: null
+team1_score: 2
 team2: "INNOVA-TSN LEGAN\u00c9S"
 team2_slug: "innova-tsn-leganes"
 team2_logo: "images/teams/rival.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 52
+status: "Finalizado"
 venue: "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 venue_slug: "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo"
 venue_title: "JUAN ANTONIO SAMARANCH"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Benj F.2\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 6"
 uid: "game-2026-11-07-colmenar-viejo-innova-tsn-leganes-benjamin-femenino"
 slug: "game-2026-11-07-colmenar-viejo-innova-tsn-leganes-benjamin-femenino"
-weight: 72020261107000095
+weight: 72020261107131595
 ---
 
 Encuentro correspondiente a la categoría Benjamín (femenino) entre **COLMENAR VIEJO** y **INNOVA-TSN LEGANÉS**.

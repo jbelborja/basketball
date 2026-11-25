@@ -10,8 +10,9 @@ venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1994
 record: "0V - 1D"
 league_position: 1
+league_title: "Cadete Masc. Pref. - PRIMERA 3\u00aa DIVISION - GRUPO 3"
 weight: 413885
 ---
 
-El **COLMENAR VIEJO C** representa al CB Colmenar Viejo en la categoría Cadete (masculino).
+El **COLMENAR VIEJO C** representa al CB Colmenar Viejo en la categoría Cadete (masculino) y compite en Cadete Masc. Pref. - PRIMERA 3ª DIVISION - GRUPO 3.
 Entrenado por Entrenador CB Colmenar, disputa sus encuentros como local en Pabellón Juan Antonio Samaranch.

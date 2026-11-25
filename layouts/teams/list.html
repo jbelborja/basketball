@@ -13,6 +13,7 @@
   <!-- TEAMS GRID -->
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
     {{ range sort .Site.Data.teams "weight" }}
+    {{ $record := partial "teams/record.html" (dict "slug" .slug "games" $.Site.Data.games) }}
     <div class="group bg-slate-900 border border-slate-800 rounded-3xl overflow-hidden hover:border-slate-700 transition-all duration-300 shadow-xl flex flex-col justify-between hover:-translate-y-1">
       
       <div>
@@ -31,6 +32,7 @@
           <div>
             <h2 class="font-sports text-3xl text-white font-bold group-hover:text-orange-400 transition">{{ .name }}</h2>
             <p class="text-xs text-slate-400 font-semibold uppercase tracking-wider mt-1">{{ .category }} · {{ .gender }}</p>
+            {{ with .league_title }}<p class="text-xs text-slate-500 mt-1">{{ . }}</p>{{ end }}
           </div>
 
           <p class="text-sm text-slate-400 leading-relaxed">
@@ -49,7 +51,7 @@
             </div>
             <div class="flex items-center justify-between text-xs">
               <span class="text-slate-400">Balance:</span>
-              <span class="font-sports text-base font-bold text-emerald-400">{{ .wins }} Victorias - {{ .losses }} Derrotas</span>
+              <span class="font-sports text-base font-bold text-emerald-400">{{ $record.wins }} Victorias - {{ $record.losses }} Derrotas</span>
             </div>
           </div>
         </div>

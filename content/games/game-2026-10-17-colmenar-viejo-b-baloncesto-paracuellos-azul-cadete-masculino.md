@@ -1,16 +1,16 @@
 ---
-title: "COLMENAR VIEJO B VS BALONCESTO PARACUELLOS AZUL"
+title: "COLMENAR VIEJO B 42 - 52 BALONCESTO PARACUELLOS AZUL"
 date: 2026-10-17T11:30:00
 time: "11:30"
 team1: "COLMENAR VIEJO B"
 team1_slug: "colmenar-viejo-b-cadete-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
-team1_score: null
+team1_score: 42
 team2: "BALONCESTO PARACUELLOS AZUL"
 team2_slug: "baloncesto-paracuellos-azul"
 team2_logo: "images/teams/rival.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 52
+status: "Finalizado"
 venue: "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 venue_slug: "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo"
 venue_title: "JUAN ANTONIO SAMARANCH"

@@ -1,0 +1,26 @@
+---
+title: "MADRID FSM C.D.B. VS COLMENAR VIEJO"
+date: 2027-07-01T10:00:00
+time: "10:00"
+team1: "MADRID FSM C.D.B."
+team1_slug: "madrid-fsm-c-d-b"
+team1_logo: "images/teams/rival.png"
+team1_score: null
+team2: "COLMENAR VIEJO"
+team2_slug: "colmenar-viejo-benjamin-masculino-benj-mas-2-ano-liga-marco-aldany-primera-fase-grupo-11"
+team2_logo: "images/teams/cbcolmenar.png"
+team2_score: null
+status: "Pr\u00f3ximo"
+venue: "COLEGIO MADRID FUNDACION SANTA MARIA AVDA. DE LOS MADRO\u00d1OS esquina C/ JOSELITO, Madrid"
+venue_slug: "colegio-madrid-fundacion-santa-maria-avda-de-los-madronos-esquina-c-joselito-madrid"
+venue_title: "COLEGIO MADRID FUNDACION SANTA MARIA AVDA. DE LOS MADRO\u00d1OS esquina C/ JOSELITO"
+venue_address: "Madrid"
+category: "Benjam\u00edn"
+gender: "masculino"
+league_title: "Benj Mas 2\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 11"
+uid: "game-2027-07-01-madrid-fsm-c-d-b-colmenar-viejo-benjamin-masculino"
+slug: "game-2027-07-01-madrid-fsm-c-d-b-colmenar-viejo-benjamin-masculino"
+weight: 71020270701100009
+---
+
+Encuentro correspondiente a la categoría Benjamín (masculino) entre **MADRID FSM C.D.B.** y **COLMENAR VIEJO**.

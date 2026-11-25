@@ -8,10 +8,11 @@ logo: "images/teams/cbcolmenar.png"
 coach: "Entrenador CB Colmenar"
 venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1994
-record: "0V - 0D"
+record: "0V - 1D"
 league_position: 1
+league_title: "Cadete Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 2"
 weight: 420808
 ---
 
-El **COLMENAR VIEJO** representa al CB Colmenar Viejo en la categoría Cadete (femenino).
+El **COLMENAR VIEJO** representa al CB Colmenar Viejo en la categoría Cadete (femenino) y compite en Cadete Fem. Pref. - PRIMERA 2ª DIVISION - GRUPO 2.
 Entrenado por Entrenador CB Colmenar, disputa sus encuentros como local en Pabellón Juan Antonio Samaranch.

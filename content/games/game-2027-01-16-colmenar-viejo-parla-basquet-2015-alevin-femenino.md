@@ -3,7 +3,7 @@ title: "COLMENAR VIEJO VS PARLA BASQUET 2015"
 date: 2027-01-16T00:00:00
 time: ""
 team1: "COLMENAR VIEJO"
-team1_slug: "colmenar-viejo-alevin-femenino"
+team1_slug: "colmenar-viejo-alevin-femenino-alv-fem-2-ano-liga-marco-aldany-plata-primera-fase-grupo-13"
 team1_logo: "images/teams/cbcolmenar.png"
 team1_score: null
 team2: "PARLA BASQUET 2015"

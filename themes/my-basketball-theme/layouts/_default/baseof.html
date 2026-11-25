@@ -24,7 +24,7 @@
         </span>
         {{ $lastFinished := index (where .Site.Data.games "status" "Finalizado") 0 }}
         {{ if $lastFinished }}
-        <span class="text-slate-300 font-medium">{{ $lastFinished.home }} {{ $lastFinished.home_score }} - {{ $lastFinished.away_score }} {{ $lastFinished.away }}</span>
+        <span class="text-slate-300 font-medium">{{ partial "teams/link.html" (dict "page" $ "slug" $lastFinished.home_slug "name" $lastFinished.home "class" "") }} {{ $lastFinished.home_score }} - {{ $lastFinished.away_score }} {{ partial "teams/link.html" (dict "page" $ "slug" $lastFinished.away_slug "name" $lastFinished.away "class" "") }}</span>
         <span class="text-slate-500 hidden sm:inline">| {{ $lastFinished.category }} {{ $lastFinished.gender }}</span>
         {{ else }}
         <span class="text-slate-300 font-medium">Federación de Baloncesto de Madrid</span>
@@ -33,9 +33,9 @@
       <div class="flex items-center gap-4 text-slate-400">
         {{ $nextUp := index (where .Site.Data.games "status" "Próximo") 0 }}
         {{ if $nextUp }}
-        <a href="{{ (printf "games/%s/" $nextUp.slug) | relURL }}" class="hover:text-orange-400 transition flex items-center gap-1 font-semibold">
-          Próximo partido: {{ $nextUp.date }} ({{ $nextUp.home }} vs {{ $nextUp.away }}) <span class="text-orange-400">→</span>
-        </a>
+        <span class="hover:text-orange-400 transition flex items-center gap-1 font-semibold">
+          Próximo partido: {{ $nextUp.date }} ({{ partial "teams/link.html" (dict "page" $ "slug" $nextUp.home_slug "name" $nextUp.home "class" "") }} vs {{ partial "teams/link.html" (dict "page" $ "slug" $nextUp.away_slug "name" $nextUp.away "class" "") }}). <a href="{{ (printf "games/%s/" $nextUp.slug) | relURL }}" class="text-orange-400">Ficha →</a>
+        </span>
         {{ else }}
         <a href="{{ "games/" | relURL }}" class="hover:text-orange-400 transition flex items-center gap-1 font-semibold">
           Ver Calendario Completo <span class="text-orange-400">→</span>
@@ -266,6 +266,8 @@
 
       /* ── Restore persisted values (localStorage wins over URL params) ── */
       const urlParams = new URLSearchParams(window.location.search);
+      let selectedTeamSlug = urlParams.get('teamSlug') || '';
+      let selectedTeamName = urlParams.get('teamName') || '';
 
       const urlCat = urlParams.get('category');
       const urlGen = urlParams.get('gender');
@@ -345,7 +347,9 @@
         /* 1. Update the display title if it exists */
         const displayTeamEl = document.getElementById('display-selected-team');
         if (displayTeamEl) {
-          if (teamVal !== 'all') {
+          if (selectedTeamSlug && selectedTeamName) {
+            displayTeamEl.textContent = '- ' + selectedTeamName;
+          } else if (teamVal !== 'all') {
             const [cat, gen] = teamVal.split('|');
             // capitalize first letter of each word
             const title = (cat + ' ' + gen).split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
@@ -397,6 +401,13 @@
             currentUrl.searchParams.delete('gender');
             currentUrl.searchParams.delete('team');
         }
+        if (selectedTeamSlug) {
+            currentUrl.searchParams.set('teamSlug', selectedTeamSlug);
+            currentUrl.searchParams.set('teamName', selectedTeamName);
+        } else {
+            currentUrl.searchParams.delete('teamSlug');
+            currentUrl.searchParams.delete('teamName');
+        }
 
         stat !== 'all' ? currentUrl.searchParams.set('status', stat) : currentUrl.searchParams.delete('status');
         leagueVal !== 'all' ? currentUrl.searchParams.set('league', leagueVal) : currentUrl.searchParams.delete('league');
@@ -414,13 +425,16 @@
           const elGen  = (el.getAttribute('data-gender')   || '').toLowerCase().trim();
           const elStat = (el.getAttribute('data-status')   || '').toLowerCase().trim();
           const elLeague = (el.getAttribute('data-league') || '').trim();
+          const elTeam1 = (el.getAttribute('data-team1-slug') || '').trim();
+          const elTeam2 = (el.getAttribute('data-team2-slug') || '').trim();
 
           const okCat  = cat  === 'all' || cat  === '' || elCat  === cat;
           const okGen  = gen  === 'all' || gen  === '' || elGen  === gen;
           const okStat = !el.hasAttribute('data-status') || stat === 'all' || stat === '' || elStat === stat;
           const okLeague = !el.hasAttribute('data-league') || leagueVal === 'all' || leagueVal === '' || elLeague === leagueVal;
+          const okTeam = !selectedTeamSlug || !el.hasAttribute('data-team1-slug') || elTeam1 === selectedTeamSlug || elTeam2 === selectedTeamSlug;
 
-          if (okCat && okGen && okStat && okLeague) { el.style.display = ''; visible++; }
+          if (okCat && okGen && okStat && okLeague && okTeam) { el.style.display = ''; visible++; }
           else                          { el.style.display = 'none'; }
         });
 
@@ -445,6 +459,8 @@
       let _lastTeam = teamSelect ? teamSelect.value : 'all';
       if (teamSelect) teamSelect.addEventListener('change', () => {
         if (teamSelect.value === _lastTeam) return;
+        selectedTeamSlug = '';
+        selectedTeamName = '';
         _lastTeam = teamSelect.value;
         syncPair(teamSelect, teamSelectMobile);
         applyFilters();
@@ -454,13 +470,19 @@
       let _lastTeamMobile = teamSelectMobile ? teamSelectMobile.value : 'all';
       if (teamSelectMobile) teamSelectMobile.addEventListener('change', () => {
         if (teamSelectMobile.value === _lastTeamMobile) return;
+        selectedTeamSlug = '';
+        selectedTeamName = '';
         _lastTeamMobile = teamSelectMobile.value;
         syncPair(teamSelectMobile, teamSelect);
         applyFilters();
       });
 
       if (statSelect) statSelect.addEventListener('change', applyFilters);
-      if (leagueSelect) leagueSelect.addEventListener('change', applyFilters);
+      if (leagueSelect) leagueSelect.addEventListener('change', () => {
+        selectedTeamSlug = '';
+        selectedTeamName = '';
+        applyFilters();
+      });
 
       /* ── Run on load ── */
       updateNavLinks();

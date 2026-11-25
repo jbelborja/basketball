@@ -1,16 +1,16 @@
 ---
-title: "C.B. LAS ROZAS VS COLMENAR VIEJO A"
+title: "C.B. LAS ROZAS 49 - 41 COLMENAR VIEJO A"
 date: 2026-10-10T16:30:00
 time: "16:30"
 team1: "C.B. LAS ROZAS"
 team1_slug: "c-b-las-rozas"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 49
 team2: "COLMENAR VIEJO A"
 team2_slug: "colmenar-viejo-a-senior-femenino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 41
+status: "Finalizado"
 venue: "ALFREDO ESPINIELLA, PABELLON (PISTA CENTRAL) COMUNIDAD DE LA RIOJA, 4, Rozas de Madrid, Las"
 venue_slug: "alfredo-espiniella-pabellon-pista-central-comunidad-de-la-rioja-4-rozas-de-madrid-las"
 venue_title: "ALFREDO ESPINIELLA"

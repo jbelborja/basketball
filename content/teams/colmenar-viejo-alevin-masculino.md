@@ -8,10 +8,11 @@ logo: "images/teams/cbcolmenar.png"
 coach: "Entrenador CB Colmenar"
 venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1994
-record: "0V - 0D"
+record: "1V - 0D"
 league_position: 1
+league_title: "Alv Mas 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 7"
 weight: 610770
 ---
 
-El **COLMENAR VIEJO** representa al CB Colmenar Viejo en la categoría Alevín (masculino).
+El **COLMENAR VIEJO** representa al CB Colmenar Viejo en la categoría Alevín (masculino) y compite en Alv Mas 2ºaño LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 7.
 Entrenado por Entrenador CB Colmenar, disputa sus encuentros como local en Pabellón Juan Antonio Samaranch.

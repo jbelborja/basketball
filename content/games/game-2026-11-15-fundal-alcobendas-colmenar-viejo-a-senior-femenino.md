@@ -1,16 +1,16 @@
 ---
-title: "FUNDAL ALCOBENDAS VS COLMENAR VIEJO A"
+title: "FUNDAL ALCOBENDAS 73 - 63 COLMENAR VIEJO A"
 date: 2026-11-15T18:00:00
 time: "18:00"
 team1: "FUNDAL ALCOBENDAS"
 team1_slug: "fundal-alcobendas"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 73
 team2: "COLMENAR VIEJO A"
 team2_slug: "colmenar-viejo-a-senior-femenino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 63
+status: "Finalizado"
 venue: "ANTELA PARADA, PABELLON (PISTA CENTRAL) FRANCISCO CHICO MENDES, 8, Alcobendas"
 venue_slug: "antela-parada-pabellon-pista-central-francisco-chico-mendes-8-alcobendas"
 venue_title: "ANTELA PARADA"

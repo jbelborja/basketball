@@ -1,16 +1,16 @@
 ---
-title: "VILLANUEVA DE LA CA\u00d1ADA VS COLMENAR VIEJO"
-date: 2026-11-21T00:00:00
-time: ""
+title: "VILLANUEVA DE LA CA\u00d1ADA 21 - 69 COLMENAR VIEJO"
+date: 2026-11-21T11:15:00
+time: "11:15"
 team1: "VILLANUEVA DE LA CA\u00d1ADA"
 team1_slug: "villanueva-de-la-canada"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 21
 team2: "COLMENAR VIEJO"
-team2_slug: "colmenar-viejo-benjamin-masculino"
+team2_slug: "colmenar-viejo-benjamin-masculino-benj-mas-2-ano-liga-marco-aldany-primera-fase-grupo-11"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 69
+status: "Finalizado"
 venue: "SANTIAGO APOSTOL, PDVO. MPAL. CALLE DEL POLIDEPORTIVO, S/N, Villanueva de la Ca\u00f1ada"
 venue_slug: "santiago-apostol-pdvo-mpal-calle-del-polideportivo-s-n-villanueva-de-la-canada"
 venue_title: "SANTIAGO APOSTOL"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Benj Mas 2\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 11"
 uid: "game-2026-11-21-villanueva-de-la-canada-colmenar-viejo-benjamin-masculino"
 slug: "game-2026-11-21-villanueva-de-la-canada-colmenar-viejo-benjamin-masculino"
-weight: 71020261121000024
+weight: 71020261121111524
 ---
 
 Encuentro correspondiente a la categoría Benjamín (masculino) entre **VILLANUEVA DE LA CAÑADA** y **COLMENAR VIEJO**.

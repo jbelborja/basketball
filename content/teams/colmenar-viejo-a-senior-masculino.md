@@ -8,10 +8,11 @@ logo: "images/teams/cbcolmenar.png"
 coach: "Entrenador CB Colmenar"
 venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1994
-record: "1V - 0D"
+record: "0V - 0D"
 league_position: 1
+league_title: "Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR"
 weight: 111056
 ---
 
-El **COLMENAR VIEJO A** representa al CB Colmenar Viejo en la categoría Senior (masculino).
+El **COLMENAR VIEJO A** representa al CB Colmenar Viejo en la categoría Senior (masculino) y compite en Liga Ginos Masculina ORO - PRIMERA FASE - GRUPO PAR.
 Entrenado por Entrenador CB Colmenar, disputa sus encuentros como local en Pabellón Juan Antonio Samaranch.

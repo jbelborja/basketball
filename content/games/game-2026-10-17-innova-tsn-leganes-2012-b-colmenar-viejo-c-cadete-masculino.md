@@ -1,16 +1,16 @@
 ---
-title: "INNOVA-TSN LEGAN\u00c9S 2012 \"B\" VS COLMENAR VIEJO C"
+title: "INNOVA-TSN LEGAN\u00c9S 2012 \"B\" 63 - 58 COLMENAR VIEJO C"
 date: 2026-10-17T12:30:00
 time: "12:30"
 team1: "INNOVA-TSN LEGAN\u00c9S 2012 \"B\""
 team1_slug: "innova-tsn-leganes-2012-b"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 63
 team2: "COLMENAR VIEJO C"
 team2_slug: "colmenar-viejo-c-cadete-masculino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 58
+status: "Finalizado"
 venue: "CARLOS SASTRE, PABELLON FRANCISCO LARGO CABALLERO, 1, Legan\u00e9s"
 venue_slug: "carlos-sastre-pabellon-francisco-largo-caballero-1-leganes"
 venue_title: "CARLOS SASTRE"

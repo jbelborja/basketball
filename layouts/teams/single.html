@@ -1,4 +1,7 @@
 {{ define "main" }}
+{{ $record := partial "teams/record.html" (dict "slug" .Params.slug "games" .Site.Data.games) }}
+{{ $streak := partial "classification/streak.html" (dict "teamSlug" .Params.slug "leagueTitle" .Params.league_title "games" .Site.Data.games) }}
+{{ $teamClassification := index (where .Site.Data.classification "league_title" .Params.league_title) 0 }}
 <div class="space-y-10 max-w-6xl mx-auto">
 
   <!-- BREADCRUMB -->
@@ -33,6 +36,11 @@
           <span class="px-3 py-1 rounded-full text-xs font-semibold bg-slate-800 text-slate-300 border border-slate-700">
             Fundado en {{ .Params.established | default 2015 }}
           </span>
+          {{ with .Params.league_title }}
+          <span class="px-3 py-1 rounded-full text-xs font-semibold bg-slate-800 text-slate-300 border border-slate-700">
+            {{ . }}
+          </span>
+          {{ end }}
         </div>
 
         <h1 class="font-sports text-4xl sm:text-6xl text-white font-bold uppercase tracking-tight">{{ .Title }}</h1>
@@ -47,8 +55,18 @@
             <span class="text-sm font-bold text-slate-200">{{ .Params.venue | default "Pabellón Juan Antonio Samaranch" }}</span>
           </div>
           <div class="bg-slate-900/80 border border-slate-800 p-3 rounded-2xl">
-            <span class="text-[10px] uppercase font-bold text-slate-500 block">Balance Oficial</span>
-            <span class="font-sports text-lg font-bold text-emerald-400">{{ .Params.record | default "0V - 0D" }}</span>
+            <span class="text-[10px] uppercase font-bold text-slate-500 block">Balance</span>
+            <span class="font-sports text-lg font-bold text-emerald-400">{{ $record.wins }}V - {{ $record.losses }}D</span>
+            <span class="text-[10px] uppercase font-bold text-slate-500 block mt-2">Últimos partidos</span>
+            <span class="flex items-center gap-1 mt-1">
+              {{ range $streak }}
+                <span class="w-5 h-5 rounded-md text-[10px] font-bold flex items-center justify-center
+                  {{ if eq . "V" }}bg-emerald-500/20 text-emerald-400 border border-emerald-500/30
+                  {{ else }}bg-red-500/20 text-red-400 border border-red-500/30{{ end }}">{{ . }}</span>
+              {{ else }}
+                <span class="text-xs text-slate-400">Sin partidos finalizados</span>
+              {{ end }}
+            </span>
           </div>
         </div>
       </div>
@@ -76,7 +94,7 @@
         {{ if $nextMatch }}
         <div class="bg-slate-950 p-4 rounded-2xl border border-slate-800">
           <p class="text-xs text-slate-400">📅 {{ $nextMatch.date }}{{ with $nextMatch.time }} · 🕒 {{ . }}{{ end }}</p>
-          <p class="font-bold text-white text-sm mt-1">{{ $nextMatch.home }} vs {{ $nextMatch.away }}</p>
+          <p class="font-bold text-white text-sm mt-1">{{ partial "teams/link.html" (dict "page" $ "slug" $nextMatch.home_slug "name" $nextMatch.home "class" "") }} vs {{ partial "teams/link.html" (dict "page" $ "slug" $nextMatch.away_slug "name" $nextMatch.away "class" "") }}</p>
           <p class="text-xs text-slate-500 mt-1">📍 {{ $nextMatch.venue }}</p>
           <a href="{{ (printf "games/%s/" $nextMatch.slug) | relURL }}" class="inline-block mt-2 text-xs font-bold text-orange-400 hover:underline">Ver detalles →</a>
         </div>
@@ -95,7 +113,6 @@
           <span class="text-xs font-bold uppercase tracking-wider text-orange-400">Temporada 2026/27</span>
           <h3 class="font-sports text-2xl text-white font-bold uppercase tracking-wider">Calendario de Partidos</h3>
         </div>
-        <a href="{{ "games/" | relURL }}" class="text-xs text-slate-400 font-bold hover:text-orange-400 transition">Ver todo →</a>
       </div>
 
       <!-- Games List -->
@@ -126,7 +143,7 @@
             <div class="flex items-center justify-between gap-4">
               <!-- Team 1 -->
               <div class="flex-1 text-right flex flex-col sm:flex-row items-end sm:items-center justify-end gap-2">
-                <span class="font-sports text-sm sm:text-lg font-bold text-white leading-tight {{ if eq .Params.team1 $teamName }}text-orange-400{{ end }}">{{ .Params.team1 }}</span>
+                {{ partial "teams/link.html" (dict "page" $ "slug" .Params.team1_slug "name" .Params.team1 "class" (printf "font-sports text-sm sm:text-lg font-bold leading-tight %s" (cond (eq .Params.team1 $teamName) "text-orange-400" "text-white"))) }}
               </div>
 
               <!-- Score / VS -->
@@ -144,7 +161,7 @@
 
               <!-- Team 2 -->
               <div class="flex-1 text-left flex flex-col sm:flex-row items-start sm:items-center justify-start gap-2">
-                <span class="font-sports text-sm sm:text-lg font-bold text-white leading-tight {{ if eq .Params.team2 $teamName }}text-orange-400{{ end }}">{{ .Params.team2 }}</span>
+                {{ partial "teams/link.html" (dict "page" $ "slug" .Params.team2_slug "name" .Params.team2 "class" (printf "font-sports text-sm sm:text-lg font-bold leading-tight %s" (cond (eq .Params.team2 $teamName) "text-orange-400" "text-white"))) }}
               </div>
             </div>
 
@@ -163,6 +180,17 @@
     </div>
 
   </div>
+
+  <section class="bg-slate-900 border border-slate-800 rounded-3xl overflow-hidden shadow-xl">
+    {{ if $teamClassification }}
+      {{ partial "teams/classification.html" (dict "page" $ "classification" $teamClassification "teamSlug" .Params.slug) }}
+    {{ else }}
+      <div class="p-6 sm:p-8">
+        <h3 class="font-sports text-2xl text-white font-bold uppercase tracking-wider">Clasificación</h3>
+        <p class="text-sm text-slate-400 mt-2">No hay clasificación disponible para esta liga.</p>
+      </div>
+    {{ end }}
+  </section>
 
 </div>
 {{ end }}

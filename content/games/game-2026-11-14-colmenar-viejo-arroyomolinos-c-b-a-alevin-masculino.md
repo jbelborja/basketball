@@ -1,16 +1,16 @@
 ---
-title: "COLMENAR VIEJO VS ARROYOMOLINOS C.B. \"A\""
-date: 2026-11-14T00:00:00
-time: ""
+title: "COLMENAR VIEJO 24 - 74 ARROYOMOLINOS C.B. \"A\""
+date: 2026-11-14T09:45:00
+time: "09:45"
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-alevin-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
-team1_score: null
+team1_score: 24
 team2: "ARROYOMOLINOS C.B. \"A\""
 team2_slug: "arroyomolinos-c-b-a"
 team2_logo: "images/teams/rival.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 74
+status: "Finalizado"
 venue: "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 venue_slug: "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo"
 venue_title: "JUAN ANTONIO SAMARANCH"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Alv Mas 2\u00baa\u00f1o LIGA MARCO ALDANY - PLATA - PRIMERA FASE - GRUPO 7"
 uid: "game-2026-11-14-colmenar-viejo-arroyomolinos-c-b-a-alevin-masculino"
 slug: "game-2026-11-14-colmenar-viejo-arroyomolinos-c-b-a-alevin-masculino"
-weight: 61020261114000096
+weight: 61020261114094596
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **COLMENAR VIEJO** y **ARROYOMOLINOS C.B. "A"**.

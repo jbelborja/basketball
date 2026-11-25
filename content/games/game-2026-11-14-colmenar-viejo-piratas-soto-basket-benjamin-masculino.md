@@ -1,16 +1,16 @@
 ---
-title: "COLMENAR VIEJO VS PIRATAS SOTO BASKET"
-date: 2026-11-14T00:00:00
-time: ""
+title: "COLMENAR VIEJO 13 - 17 PIRATAS SOTO BASKET"
+date: 2026-11-14T09:45:00
+time: "09:45"
 team1: "COLMENAR VIEJO"
 team1_slug: "colmenar-viejo-benjamin-masculino"
 team1_logo: "images/teams/cbcolmenar.png"
-team1_score: null
+team1_score: 13
 team2: "PIRATAS SOTO BASKET"
 team2_slug: "piratas-soto-basket"
 team2_logo: "images/teams/rival.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 17
+status: "Finalizado"
 venue: "JUAN ANTONIO SAMARANCH, CDAD. DPTVA. (PISTA CENTRAL) AVDA. JUAN PABLO II, 13, Colmenar Viejo"
 venue_slug: "juan-antonio-samaranch-cdad-dptva-pista-central-avda-juan-pablo-ii-13-colmenar-viejo"
 venue_title: "JUAN ANTONIO SAMARANCH"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Benj Mas 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 4"
 uid: "game-2026-11-14-colmenar-viejo-piratas-soto-basket-benjamin-masculino"
 slug: "game-2026-11-14-colmenar-viejo-piratas-soto-basket-benjamin-masculino"
-weight: 71020261114000010
+weight: 71020261114094510
 ---
 
 Encuentro correspondiente a la categoría Benjamín (masculino) entre **COLMENAR VIEJO** y **PIRATAS SOTO BASKET**.

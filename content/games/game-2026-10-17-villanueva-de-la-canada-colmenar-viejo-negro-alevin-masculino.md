@@ -1,16 +1,16 @@
 ---
-title: "VILLANUEVA DE LA CA\u00d1ADA VS COLMENAR VIEJO NEGRO"
-date: 2026-10-17T00:00:00
-time: ""
+title: "VILLANUEVA DE LA CA\u00d1ADA 8 - 58 COLMENAR VIEJO NEGRO"
+date: 2026-10-17T09:30:00
+time: "09:30"
 team1: "VILLANUEVA DE LA CA\u00d1ADA"
 team1_slug: "villanueva-de-la-canada"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 8
 team2: "COLMENAR VIEJO NEGRO"
 team2_slug: "colmenar-viejo-negro-alevin-masculino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 58
+status: "Finalizado"
 venue: "SANTIAGO APOSTOL, PDVO. MPAL. CALLE DEL POLIDEPORTIVO, S/N, Villanueva de la Ca\u00f1ada"
 venue_slug: "santiago-apostol-pdvo-mpal-calle-del-polideportivo-s-n-villanueva-de-la-canada"
 venue_title: "SANTIAGO APOSTOL"
@@ -20,7 +20,7 @@ gender: "masculino"
 league_title: "Alv Mas 1\u00baa\u00f1o LIGA MARCO ALDANY - PRIMERA FASE - GRUPO 9"
 uid: "game-2026-10-17-villanueva-de-la-canada-colmenar-viejo-negro-alevin-masculino"
 slug: "game-2026-10-17-villanueva-de-la-canada-colmenar-viejo-negro-alevin-masculino"
-weight: 61020261017000093
+weight: 61020261017093093
 ---
 
 Encuentro correspondiente a la categoría Alevín (masculino) entre **VILLANUEVA DE LA CAÑADA** y **COLMENAR VIEJO NEGRO**.

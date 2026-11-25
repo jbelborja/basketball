@@ -1,16 +1,16 @@
 ---
-title: "MEJORADA 2012 C.B. VS COLMENAR VIEJO"
+title: "MEJORADA 2012 C.B. 48 - 95 COLMENAR VIEJO"
 date: 2026-10-18T10:00:00
 time: "10:00"
 team1: "MEJORADA 2012 C.B."
 team1_slug: "mejorada-2012-c-b"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 48
 team2: "COLMENAR VIEJO"
 team2_slug: "colmenar-viejo-sub-22-masculino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 95
+status: "Finalizado"
 venue: "MEJORADA, PABELLON MPAL. JOAN MIRO, S/N, Mejorada del Campo"
 venue_slug: "mejorada-pabellon-mpal-joan-miro-s-n-mejorada-del-campo"
 venue_title: "MEJORADA"

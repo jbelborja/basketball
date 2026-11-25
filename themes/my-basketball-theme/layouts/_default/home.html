@@ -55,7 +55,7 @@
             <!-- Home Team -->
             <div class="text-center flex-1">
               <img src="{{ ($featuredGame.home_logo | default .Site.Data.club.logo) | relURL }}" alt="{{ $featuredGame.home }}" class="w-16 h-16 rounded-full object-cover mx-auto ring-2 ring-slate-700 mb-2 shadow"/>
-              <p class="font-bold text-white text-xs line-clamp-2">{{ $featuredGame.home }}</p>
+              {{ partial "teams/link.html" (dict "page" $ "slug" $featuredGame.home_slug "name" $featuredGame.home "class" "font-bold text-white text-xs line-clamp-2") }}
               <span class="text-[10px] text-slate-400">Local</span>
             </div>
 
@@ -68,7 +68,7 @@
             <!-- Away Team -->
             <div class="text-center flex-1">
               <img src="{{ ($featuredGame.away_logo | default "images/teams/rival.png") | relURL }}" alt="{{ $featuredGame.away }}" class="w-16 h-16 rounded-full object-cover mx-auto ring-2 ring-slate-700 mb-2 shadow"/>
-              <p class="font-bold text-white text-xs line-clamp-2">{{ $featuredGame.away }}</p>
+              {{ partial "teams/link.html" (dict "page" $ "slug" $featuredGame.away_slug "name" $featuredGame.away "class" "font-bold text-white text-xs line-clamp-2") }}
               <span class="text-[10px] text-slate-400">Visitante</span>
             </div>
           </div>
@@ -121,7 +121,7 @@
           <div class="flex items-center gap-3 flex-1">
             <img src="{{ ($lastGame.home_logo | default .Site.Data.club.logo) | relURL }}" alt="{{ $lastGame.home }}" class="w-14 h-14 rounded-full object-cover ring-2 ring-orange-500 shadow"/>
             <div>
-              <p class="font-sports text-lg sm:text-xl font-bold text-white leading-tight">{{ $lastGame.home }}</p>
+              {{ partial "teams/link.html" (dict "page" $ "slug" $lastGame.home_slug "name" $lastGame.home "class" "font-sports text-lg sm:text-xl font-bold text-white leading-tight") }}
               <span class="text-xs text-slate-400">Local</span>
             </div>
           </div>
@@ -140,7 +140,7 @@
           <!-- Away -->
           <div class="flex items-center justify-end gap-3 flex-1 text-right">
             <div>
-              <p class="font-sports text-lg sm:text-xl font-bold text-white leading-tight">{{ $lastGame.away }}</p>
+              {{ partial "teams/link.html" (dict "page" $ "slug" $lastGame.away_slug "name" $lastGame.away "class" "font-sports text-lg sm:text-xl font-bold text-white leading-tight") }}
               <span class="text-xs text-slate-400">Visitante</span>
             </div>
             <img src="{{ ($lastGame.away_logo | default "images/teams/rival.png") | relURL }}" alt="{{ $lastGame.away }}" class="w-14 h-14 rounded-full object-cover ring-2 ring-slate-700 shadow"/>
@@ -186,7 +186,13 @@
             </span>
             <img src="{{ .logo | relURL }}" alt="{{ .team }}" class="w-8 h-8 rounded-full object-cover"/>
             <div>
-              <a href="{{ "classification/" | relURL }}" class="text-xs font-bold text-white hover:text-orange-400 transition block truncate max-w-[140px]">{{ .team }}</a>
+              {{ $teamPage := false }}
+              {{ if .slug }}{{ $teamPage = $.Site.GetPage (printf "teams/%s" .slug) }}{{ end }}
+              {{ if $teamPage }}
+                {{ partial "teams/link.html" (dict "page" $ "slug" .slug "name" .team "class" "text-xs font-bold text-white hover:text-orange-400 transition block truncate max-w-[140px]") }}
+              {{ else }}
+                <a href="{{ "classification/" | relURL }}" class="text-xs font-bold text-white hover:text-orange-400 transition block truncate max-w-[140px]">{{ .team }}</a>
+              {{ end }}
               <p class="text-[10px] text-slate-400">{{ .category }} · {{ .v }}V - {{ .d }}D</p>
             </div>
           </div>

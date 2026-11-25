@@ -1,16 +1,16 @@
 ---
-title: "VICALVARO BALONCESTO CDE VS COLMENAR VIEJO B"
+title: "VICALVARO BALONCESTO CDE 31 - 45 COLMENAR VIEJO B"
 date: 2026-11-21T13:30:00
 time: "13:30"
 team1: "VICALVARO BALONCESTO CDE"
 team1_slug: "vicalvaro-baloncesto-cde"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 31
 team2: "COLMENAR VIEJO B"
 team2_slug: "colmenar-viejo-b-junior-masculino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 45
+status: "Finalizado"
 venue: "FAUSTINA VALLADOLID, PABELLON LADERA DE LOS ALMENDROS, 2, Madrid"
 venue_slug: "faustina-valladolid-pabellon-ladera-de-los-almendros-2-madrid"
 venue_title: "FAUSTINA VALLADOLID"

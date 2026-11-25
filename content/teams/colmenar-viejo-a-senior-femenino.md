@@ -10,8 +10,9 @@ venue: "Pabell\u00f3n Juan Antonio Samaranch"
 established: 1994
 record: "1V - 0D"
 league_position: 1
+league_title: "Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR"
 weight: 121384
 ---
 
-El **COLMENAR VIEJO A** representa al CB Colmenar Viejo en la categoría Senior (femenino).
+El **COLMENAR VIEJO A** representa al CB Colmenar Viejo en la categoría Senior (femenino) y compite en Liga VIPS Femenina - PRIMERA FASE - GRUPO PAR.
 Entrenado por Entrenador CB Colmenar, disputa sus encuentros como local en Pabellón Juan Antonio Samaranch.

@@ -1,16 +1,16 @@
 ---
-title: "CABRINI A.P.A. VERDE VS COLMENAR VIEJO"
-date: 2026-11-21T00:00:00
-time: ""
+title: "CABRINI A.P.A. VERDE 65 - 22 COLMENAR VIEJO"
+date: 2026-11-21T11:15:00
+time: "11:15"
 team1: "CABRINI A.P.A. VERDE"
 team1_slug: "cabrini-a-p-a-verde"
 team1_logo: "images/teams/rival.png"
-team1_score: null
+team1_score: 65
 team2: "COLMENAR VIEJO"
 team2_slug: "colmenar-viejo-junior-femenino"
 team2_logo: "images/teams/cbcolmenar.png"
-team2_score: null
-status: "Pr\u00f3ximo"
+team2_score: 22
+status: "Finalizado"
 venue: "CABRINI, COLEGIO (Semicubierto) STA. FRANCISCA JAVIER CABRINI esquina C/ Sic\u00e9lidas, Madrid"
 venue_slug: "cabrini-colegio-semicubierto-sta-francisca-javier-cabrini-esquina-c-sicelidas-madrid"
 venue_title: "CABRINI"
@@ -20,7 +20,7 @@ gender: "femenino"
 league_title: "Junior Fem. Pref. - PRIMERA 2\u00aa DIVISION - GRUPO 5"
 uid: "game-2026-11-21-cabrini-a-p-a-verde-colmenar-viejo-junior-femenino"
 slug: "game-2026-11-21-cabrini-a-p-a-verde-colmenar-viejo-junior-femenino"
-weight: 32020261121000019
+weight: 32020261121111519
 ---
 
 Encuentro correspondiente a la categoría Junior (femenino) entre **CABRINI A.P.A. VERDE** y **COLMENAR VIEJO**.
