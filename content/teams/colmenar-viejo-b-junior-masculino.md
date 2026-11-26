@@ -7,7 +7,7 @@ gender: "masculino"
 logo: "images/teams/cbcolmenar.png"
 coach: "Entrenador CB Colmenar"
 venue: "Pabell\u00f3n Juan Antonio Samaranch"
-established: 1994
+established: 1985
 record: "1V - 0D"
 league_position: 1
 league_title: "Junior Masc. Pref. - PRIMERA 4\u00aa DIVISION - GRUPO 2"
